@@ -22,6 +22,7 @@ footer{padding:8px 15px;font-size:10.5px;color:#697487;background:#fff;border-to
 <body>
 <header><h1>MC3 Construction Pursuit Radar</h1><p>Active construction opportunities east of the Mississippi</p><div class="stats"><div class="stat"><b id="visibleCount">…</b><span>Visible pursuits</span></div><div class="stat"><b id="due14Count">…</b><span>Due in 14+ days</span></div><div class="stat"><b id="sdvCount">…</b><span>SDVOSB</span></div><div class="stat"><b id="tsbCount">…</b><span>Total Small Business</span></div></div></header>
 <div class="notice"><b>Priority sources:</b> SAM.gov federal opportunities plus Virginia eVA, NC eVP, Tennessee Edison and Tennessee STREAM. eVA blocks ordinary automated access to its Open Construction results, so Virginia uses indexed eVA-origin records and official issuing-agency/eVA links. Expired opportunities are removed automatically. TDOT will join the source list with its next advertised letting.</div>
+<div id="sourceHealth"></div>
 <section class="filters">
 <div class="search"><label for="q">Search</label><input id="q" placeholder="Project, solicitation, city, scope..."></div>
 <div><label for="state">State</label><select id="state"><option value="ALL">All states</option></select></div>
@@ -40,7 +41,7 @@ footer{padding:8px 15px;font-size:10.5px;color:#697487;background:#fff;border-to
 <script src="data/federal-1-20260825.js?v=2"></script>
 <script src="data/federal-2-20260825.js?v=2"></script>
 <script src="data/federal-3-20260825.js?v=2"></script>
-<script src="data/priority-direct-20260825.js?v=1"></script>
+<script src="data/priority-current.js?v=1"></script>
 <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js" onerror="window.MC3_MAP_FAIL=true"></script>
 <script>
 (function(){
@@ -90,4 +91,6 @@ function render(){now=new Date();currentRows=filtered();$('visibleCount').textCo
 [q,state,setaside,naics,source,type,status,sort].forEach(function(el){el.addEventListener(el===q?'input':'change',render)});render();
 })();
 </script>
+<script src="data/source-health.js?v=1"></script>
+<script src="source-health-ui.js?v=1"></script>
 </body></html>
