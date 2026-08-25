@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MC3 Construction Pursuit Radar</title>
+  <meta name="description" content="Interactive construction procurement opportunity map for MC3 Solutions.">
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+  <style>
+    :root{--ink:#172033;--muted:#657084;--line:#dde3eb;--panel:#fff;--bg:#f4f7fb;--nav:#10213b;--blue:#2563eb;--red:#be123c;--amber:#b45309;--green:#047857}
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--ink);background:var(--bg)}
+    button,input,select{font:inherit}.hero{background:linear-gradient(135deg,#0b1729,#16345b);color:#fff;padding:22px 24px 18px}.heroTop{display:flex;gap:18px;align-items:flex-start;justify-content:space-between;flex-wrap:wrap}.brand h1{font-size:24px;line-height:1.15;margin:0 0 5px}.brand p{margin:0;color:#c7d4e7;font-size:13px}.stamp{font-size:11px;color:#c7d4e7;text-align:right}.stats{display:grid;grid-template-columns:repeat(4,minmax(120px,1fr));gap:9px;margin-top:18px}.stat{border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.07);border-radius:12px;padding:10px 12px}.stat strong{display:block;font-size:22px;line-height:1}.stat span{display:block;font-size:11px;color:#c8d5e7;margin-top:5px}
+    .notice{padding:9px 24px;font-size:12px;color:#536075;background:#eef3f9;border-bottom:1px solid var(--line)}
+    .filters{display:grid;grid-template-columns:minmax(230px,2fr) repeat(5,minmax(140px,1fr));gap:10px;padding:14px 18px;background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:500}.field label{display:block;font-size:10px;text-transform:uppercase;letter-spacing:.07em;color:#697487;font-weight:800;margin:0 0 5px}.field input,.field select{width:100%;height:40px;border:1px solid #cfd7e2;border-radius:8px;background:#fff;padding:0 10px;color:var(--ink);outline:none}.field input:focus,.field select:focus{border-color:#7aa7f8;box-shadow:0 0 0 3px rgba(37,99,235,.12)}
+    .layout{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(360px,.65fr);min-height:700px}.mapWrap{position:relative;min-width:0;background:#dfe7f1}.map{height:760px;min-height:540px}.mapFallback{display:none;padding:36px;line-height:1.5}.legend{position:absolute;left:14px;bottom:14px;z-index:450;background:rgba(255,255,255,.95);border:1px solid var(--line);border-radius:10px;padding:8px 10px;font-size:11px;box-shadow:0 5px 20px rgba(15,23,42,.12)}.legendRow{display:flex;align-items:center;gap:6px;margin:3px 0}.dot{width:9px;height:9px;border-radius:50%}.dot.red{background:var(--red)}.dot.amber{background:var(--amber)}.dot.blue{background:var(--blue)}
+    .side{background:#fff;border-left:1px solid var(--line);min-width:0}.sideHead{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 15px;border-bottom:1px solid var(--line);position:sticky;top:69px;background:#fff;z-index:400}.sideHead strong{font-size:14px}.sideHead span{font-size:12px;color:var(--muted)}.results{max-height:707px;overflow:auto}.card{padding:14px 15px;border-bottom:1px solid #e7ebf0;cursor:pointer}.card:hover{background:#f8fbff}.card.active{background:#edf5ff;box-shadow:inset 3px 0 0 var(--blue)}.title{font-size:14px;line-height:1.35;font-weight:750;margin:0 0 7px}.chips{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px}.chip{display:inline-flex;align-items:center;min-height:22px;padding:2px 7px;border-radius:999px;font-size:10px;border:1px solid #d6dde7;background:#f8fafc;color:#526073}.chip.due{background:#fff1f2;color:#9f1239;border-color:#fecdd3}.chip.changed{background:#fff7ed;color:#9a3412;border-color:#fed7aa}.chip.new{background:#ecfdf5;color:#065f46;border-color:#a7f3d0}.meta{font-size:12px;line-height:1.5;color:#5b6679}.meta b{color:#344056}.open{display:inline-flex;align-items:center;gap:4px;margin-top:8px;font-size:12px;font-weight:750;color:#1d4ed8;text-decoration:none}.empty{padding:36px 20px;color:var(--muted);text-align:center}.footer{font-size:11px;color:#697487;padding:10px 18px;background:#fff;border-top:1px solid var(--line)}
+    .leaflet-popup-content-wrapper{border-radius:10px}.popupTitle{font-weight:800;margin-bottom:4px}.popupMeta{font-size:12px;line-height:1.45;color:#4b5563}.popupLink{display:inline-block;margin-top:6px;font-size:12px;font-weight:700;color:#1d4ed8;text-decoration:none}
+    @media(max-width:1120px){.filters{grid-template-columns:repeat(3,1fr)}.field.search{grid-column:span 3}.layout{grid-template-columns:1fr}.map{height:540px}.side{border-left:0;border-top:1px solid var(--line)}.sideHead{top:0}.results{max-height:none}.stats{grid-template-columns:repeat(2,1fr)}}
+    @media(max-width:620px){.hero{padding:18px 14px 14px}.notice{padding:9px 14px}.filters{grid-template-columns:1fr;padding:12px}.field.search{grid-column:auto}.stats{grid-template-columns:repeat(2,1fr)}.layout{min-height:0}.map{height:430px;min-height:430px}.stamp{text-align:left}.legend{left:8px;bottom:8px}}
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="heroTop">
+      <div class="brand"><h1>MC3 Construction Pursuit Radar</h1><p>Active construction opportunities east of the Mississippi</p></div>
+      <div class="stamp">Federal seed dataset<br>Updated August 25, 2026</div>
+    </div>
+    <div class="stats">
+      <div class="stat"><strong id="statVisible">0</strong><span>Visible pursuits</span></div>
+      <div class="stat"><strong id="statDue">0</strong><span>Due in 7 days</span></div>
+      <div class="stat"><strong id="statSDV">0</strong><span>SDVOSB</span></div>
+      <div class="stat"><strong id="statWater">0</strong><span>Water / sewer</span></div>
+    </div>
+  </header>
+  <div class="notice">This is the first populated GitHub build. The current records are a federal/SAM-derived seed from the August 25 pull. State/local, education and non-federal feeds will plug into the same filter model as they are added.</div>
+  <section class="filters" aria-label="Opportunity filters">
+    <div class="field search"><label for="q">Search</label><input id="q" type="search" placeholder="Project, agency, solicitation, city, scope…"></div>
+    <div class="field"><label for="state">State</label><select id="state"><option value="ALL">All states</option></select></div>
+    <div class="field"><label for="setaside">Set-Aside</label><select id="setaside"><option value="ALL">All set-asides</option></select></div>
+    <div class="field"><label for="scope">Scope / NAICS</label><select id="scope"><option value="ALL">All scopes</option></select></div>
+    <div class="field"><label for="noticeType">Notice Type</label><select id="noticeType"><option value="ALL">All notice types</option></select></div>
+    <div class="field"><label for="statusFilter">Status</label><select id="statusFilter"><option value="ALL">All statuses</option><option value="DUE">Due soon</option><option value="CHANGED">Changed</option><option value="NEW">New</option></select></div>
+  </section>
+  <main class="layout">
+    <section class="mapWrap" aria-label="Opportunity map">
+      <div id="map" class="map"></div>
+      <div id="mapFallback" class="mapFallback"><strong>Map tiles could not load.</strong><br>The pursuit list and filters still work. Refresh the page or check the network connection to restore the interactive map.</div>
+      <div class="legend"><div class="legendRow"><span class="dot red"></span>Due ≤ 7 days</div><div class="legendRow"><span class="dot amber"></span>Changed / updated</div><div class="legendRow"><span class="dot blue"></span>Active</div></div>
+    </section>
+    <aside class="side">
+      <div class="sideHead"><strong>Opportunities</strong><span id="resultCount">0 results</span></div>
+      <div id="results" class="results" aria-live="polite"></div>
+    </aside>
+  </main>
+  <footer class="footer">Map coordinates are city / installation level and may be approximate. Always verify solicitation details at the linked procurement source before pursuit decisions.</footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script>
+  const TODAY = new Date('2026-08-25T12:00:00-04:00');
+  const opportunities = [
+    {sol:'N4008526R0259',name:'LC-3504 Upgrade Emergency Generator',type:'Solicitation',status:'Active',set:'Unrestricted / No Set-Aside',due:'2026-09-02',agency:'NAVFAC',place:'Virginia Beach, VA',state:'VA',naics:'236220',scope:'Commercial / Institutional Building',lat:36.8529,lng:-75.9780,url:'https://sam.gov/opp/888f3db2a84d43eda6d262eb40573cc2/view'},
+    {sol:'36C24926R0065',name:'Video Surveillance Security - Nashville VAMC',type:'Solicitation',status:'Changed',set:'SDVOSB',due:'2026-09-02',agency:'Department of Veterans Affairs',place:'Nashville, TN',state:'TN',naics:'238210',scope:'Electrical / Low Voltage',lat:36.1627,lng:-86.7816,url:'https://sam.gov/opp/d671df4eede0475cbaaf6bc5a5c2fc3d/view'},
+    {sol:'36C24926R0064',name:'Video Surveillance Security - Murfreesboro VAMC',type:'Solicitation',status:'Changed',set:'SDVOSB',due:'2026-09-02',agency:'Department of Veterans Affairs',place:'Murfreesboro, TN',state:'TN',naics:'238210',scope:'Electrical / Low Voltage',lat:35.8456,lng:-86.3903,url:'https://sam.gov/'},
+    {sol:'36C25226B0028',name:'Donation Renovations B217 Phase 2',type:'Solicitation',status:'Changed',set:'SDVOSB',due:'2026-09-02',agency:'Department of Veterans Affairs',place:'Hines, IL',state:'IL',naics:'236220',scope:'Commercial / Institutional Building',lat:41.8609,lng:-87.8359,url:'https://sam.gov/'},
+    {sol:'W912EK26QA048',name:'Starved Rock Lock and Dam Boiler Replacement',type:'Solicitation',status:'Changed',set:'Total Small Business',due:'2026-09-02',agency:'USACE Rock Island',place:'Ottawa, IL',state:'IL',naics:'238220',scope:'HVAC / Plumbing',lat:41.3456,lng:-88.8426,url:'https://sam.gov/opp/890a7ed1916941ffad30a56df7ef01a0/view'},
+    {sol:'W9127826RA105',name:'Selma Flood Risk Management and Bank Stabilization',type:'Pre-Solicitation',status:'Active',set:'Unrestricted / No Set-Aside',due:'2026-09-02',agency:'USACE Mobile',place:'Selma, AL',state:'AL',naics:'237990',scope:'Heavy Civil / Bank Stabilization',lat:32.4074,lng:-87.0211,url:'https://sam.gov/opp/c0b79844152842d7a68e64fd18c83dda/view'},
+    {sol:'FA481926K0002',name:'Maintenance Dredging at Various Locations - Tyndall AFB',type:'Pre-Solicitation',status:'Active',set:'Unrestricted / No Set-Aside',due:'2026-09-02',agency:'US Air Force',place:'Tyndall AFB, FL',state:'FL',naics:'237990',scope:'Dredging / Heavy Civil',lat:30.0696,lng:-85.5754,url:'https://sam.gov/opp/db668708998347b4b7ebe0fafc1a5222/view'},
+    {sol:'W912WJ26QA154',name:'Epoxy Floor Coating - CRREL',type:'Solicitation',status:'Changed',set:'Total Small Business',due:'2026-09-02',agency:'USACE New England',place:'Hanover, NH',state:'NH',naics:'238330',scope:'Flooring',lat:43.7022,lng:-72.2896,url:'https://sam.gov/opp/08253c53f6ba4cf084644c9854ccca44/view'},
+    {sol:'W15QKN26QA120',name:'Perimeter Fence Clearing',type:'Solicitation',status:'Changed',set:'Total Small Business',due:'2026-09-03',agency:'US Army',place:'Galax, VA',state:'VA',naics:'238990',scope:'Site / Specialty Trade',lat:36.6612,lng:-80.9239,url:'https://sam.gov/opp/049acbd084bb43319bb333a868c2c5e3/view'},
+    {sol:'1305M326Q0455',name:'AOML HVAC and BAS Controls Upgrade',type:'Solicitation',status:'Active',set:'Total Small Business',due:'2026-09-03',agency:'NOAA',place:'Key Biscayne, FL',state:'FL',naics:'238220',scope:'HVAC / Controls',lat:25.6937,lng:-80.1628,url:'https://sam.gov/opp/bd120bb14ef24952937e7ef02ecf941b/view'},
+    {sol:'36C25226B0032_01',name:'B132 Pool and HVAC Replacement',type:'Solicitation',status:'Changed',set:'SDVOSB',due:'2026-09-03',agency:'Department of Veterans Affairs',place:'North Chicago, IL',state:'IL',naics:'236220',scope:'Commercial / Institutional Building',lat:42.3256,lng:-87.8412,url:'https://sam.gov/opp/d1a50371beac4940b7bfe2ead02c7f52/view'},
+    {sol:'N400857232046',name:'Renovate Driving Range Restroom Facility',type:'Solicitation',status:'Changed',set:'Total Small Business',due:'2026-09-03',agency:'NAVFAC',place:'MCAS Cherry Point, NC',state:'NC',naics:'236220',scope:'Commercial / Institutional Building',lat:34.9004,lng:-76.8805,url:'https://sam.gov/opp/597f266cc4464a158dd152cbe7dd5a3d/view'},
+    {sol:'W15QKN26QA182',name:'Repair Fence and Expand MEP Lot',type:'Solicitation',status:'New',set:'Total Small Business',due:'2026-09-03',agency:'US Army',place:'Parkersburg, WV',state:'WV',naics:'238990',scope:'Site / Specialty Trade',lat:39.2667,lng:-81.5615,url:'https://sam.gov/opp/8cb75a0e9f6d405ab694b1f8bb123385/view'},
+    {sol:'FA252126B0003',name:'Demolition IDIQ',type:'Solicitation',status:'Changed',set:'EDWOSB',due:'2026-09-03',agency:'US Space Force',place:'Cape Canaveral, FL',state:'FL',naics:'238910',scope:'Demolition / Site Preparation',lat:28.3922,lng:-80.6077,url:'https://sam.gov/opp/b777eea93f0d47e8874a2e5c77e845b9/view'},
+    {sol:'12445526Q0126',name:'Hapgood Pond Dam Spillway Bridge Support',type:'Solicitation',status:'Active',set:'Total Small Business',due:'2026-09-03',agency:'US Forest Service',place:'Manchester, VT',state:'VT',naics:'237310',scope:'Bridge / Civil',lat:43.1637,lng:-73.0723,url:'https://sam.gov/opp/36d73bbaff8e46bd8bd25f7ee3732de0/view'},
+    {sol:'FA465426R0008',name:'Multi-Trade Exterior Building Sustainment IDIQ',type:'Solicitation',status:'Changed',set:'Unrestricted / No Set-Aside',due:'2026-09-04',agency:'Air Force Reserve Command',place:'Grissom ARB, IN',state:'IN',naics:'238140',scope:'Multi-Trade / Exterior',lat:40.6481,lng:-86.1521,url:'https://sam.gov/opp/5309916dcce54256907bbf7382856b95/view'},
+    {sol:'70LGLY26QSSB00067',name:'DHS FLETC Glynco - ATF Complex',type:'Solicitation',status:'Changed',set:'HUBZone',due:'2026-09-04',agency:'DHS FLETC',place:'Brunswick, GA',state:'GA',naics:'236220',scope:'Commercial / Institutional Building',lat:31.1499,lng:-81.3695,url:'https://sam.gov/opp/1ac8e568028f4f278fae3258955c97ce/view'},
+    {sol:'FA252126Q0009',name:'SABER - Base Engineering Requirements',type:'Solicitation',status:'Changed',set:'8(a)',due:'2026-09-04',agency:'US Space Force',place:'Patrick SFB, FL',state:'FL',naics:'236220',scope:'IDIQ / General Construction',lat:28.2350,lng:-80.6101,url:'https://sam.gov/opp/6dc030f2f81d4492b82a91f352f4d2c7/view'},
+    {sol:'36C24826R0132',name:'Replace Miami VAHCS Building 1 Roof',type:'Pre-Solicitation',status:'New',set:'SDVOSB',due:'2026-09-04',agency:'Department of Veterans Affairs',place:'Miami, FL',state:'FL',naics:'238160',scope:'Roofing',lat:25.7617,lng:-80.1918,url:'https://sam.gov/opp/7f34eac138c14980babbea8a1d26a178/view'},
+    {sol:'W912QV1-26-R-A056',name:'Arlington National Cemetery Boundary Wall Repairs Phase 6',type:'Solicitation',status:'Changed',set:'Total Small Business',due:'2026-09-04',agency:'US Army',place:'Arlington, VA',state:'VA',naics:'238140',scope:'Masonry / Historic Site',lat:38.8799,lng:-77.0697,url:'https://sam.gov/opp/6501986ee32044949736dd929a888209/view'},
+    {sol:'36C24626Q0827',name:'Replace AHU 34',type:'Solicitation',status:'Changed',set:'SDVOSB',due:'2026-09-04',agency:'Department of Veterans Affairs',place:'Fayetteville, NC',state:'NC',naics:'238220',scope:'HVAC / Mechanical',lat:35.0527,lng:-78.8784,url:'https://sam.gov/opp/e1e203ecb9f34109ad95cf2c84e8fc3e/view'},
+    {sol:'FA480326B0010',name:'Well 4 PFAS/PFOA Upgrade',type:'Solicitation',status:'Changed',set:'Total Small Business',due:'2026-09-08',agency:'US Air Force',place:'Shaw AFB, SC',state:'SC',naics:'237110',scope:'Water / Sewer',lat:33.9729,lng:-80.4723,url:'https://sam.gov/opp/893a19f9b7c64a8d85cc93157fd12d74/view'},
+    {sol:'W911WN26BA011',name:'Town of Cairo Water System Improvement',type:'Solicitation',status:'Changed',set:'Unrestricted / No Set-Aside',due:'2026-09-08',agency:'USACE Pittsburgh',place:'Cairo, WV',state:'WV',naics:'237110',scope:'Water / Sewer',lat:39.2084,lng:-81.1582,url:'https://sam.gov/opp/7af447ca7fc94d3d81291ffcc7eea323/view'},
+    {sol:'N4008526R0261',name:'LC-3535 Sewer Line Repairs',type:'Solicitation',status:'Active',set:'Total Small Business',due:'2026-09-08',agency:'NAVFAC',place:'Virginia Beach, VA',state:'VA',naics:'237110',scope:'Water / Sewer',lat:36.8529,lng:-75.9780,url:'https://sam.gov/opp/f8cf28d609e24106b286a9e557177087/view'},
+    {sol:'W911SA26BA008',name:'Repair South Post Reservoirs',type:'Solicitation',status:'Active',set:'HUBZone',due:'2026-09-09',agency:'US Army',place:'Fort McCoy, WI',state:'WI',naics:'237110',scope:'Water / Sewer',lat:44.0141,lng:-90.6818,url:'https://sam.gov/'},
+    {sol:'36C24626B0039',name:'Salisbury VAMC Chilled Water Extension',type:'Solicitation',status:'Active',set:'SDVOSB',due:'2026-09-10',agency:'Department of Veterans Affairs',place:'Salisbury, NC',state:'NC',naics:'237110',scope:'Water / Utility Piping',lat:35.6710,lng:-80.4742,url:'https://sam.gov/'},
+    {sol:'W50S6M26QA014',name:'Sewer Pipe Realignment',type:'Solicitation',status:'Active',set:'Total Small Business',due:'2026-09-10',agency:'Air National Guard',place:'Birmingham, AL',state:'AL',naics:'237110',scope:'Water / Sewer',lat:33.5186,lng:-86.8104,url:'https://sam.gov/'},
+    {sol:'W911WN26BA011-C',name:'Water System Improvement - Cairo',type:'Solicitation',status:'Changed',set:'Unrestricted / No Set-Aside',due:'2026-09-08',agency:'USACE Pittsburgh',place:'Cairo, WV',state:'WV',naics:'237110',scope:'Water / Sewer',lat:39.2084,lng:-81.1582,url:'https://sam.gov/'}
+  ];
+
+  const $ = id => document.getElementById(id);
+  const q = $('q'), state = $('state'), setaside = $('setaside'), scope = $('scope'), noticeType = $('noticeType'), statusFilter = $('statusFilter');
+  let map, markerLayer, markerBySol = new Map(), selectedSol = null;
+
+  function dayDiff(dateStr){ const d = new Date(dateStr+'T23:59:59-04:00'); return Math.ceil((d - TODAY)/86400000); }
+  function dueSoon(o){ return dayDiff(o.due) >= 0 && dayDiff(o.due) <= 7; }
+  function formatDate(s){ return new Date(s+'T12:00:00-04:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}); }
+  function statusClass(o){ return dueSoon(o)?'due':o.status==='Changed'?'changed':o.status==='New'?'new':''; }
+  function statusLabel(o){ return dueSoon(o)?'DUE SOON':o.status.toUpperCase(); }
+  function esc(s){ return String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c])); }
+
+  function fillFilters(){
+    [...new Set(opportunities.map(o=>o.state))].sort().forEach(v=>state.add(new Option(v,v)));
+    [...new Set(opportunities.map(o=>o.set))].sort().forEach(v=>setaside.add(new Option(v,v)));
+    [...new Map(opportunities.map(o=>[o.naics,o.scope])).entries()].sort((a,b)=>a[0].localeCompare(b[0])).forEach(([code,name])=>scope.add(new Option(code+' · '+name,code)));
+    [...new Set(opportunities.map(o=>o.type))].sort().forEach(v=>noticeType.add(new Option(v,v)));
+  }
+
+  function getFiltered(){
+    const term=q.value.trim().toLowerCase();
+    return opportunities.filter(o=>{
+      if(state.value!=='ALL' && o.state!==state.value) return false;
+      if(setaside.value!=='ALL' && o.set!==setaside.value) return false;
+      if(scope.value!=='ALL' && o.naics!==scope.value) return false;
+      if(noticeType.value!=='ALL' && o.type!==noticeType.value) return false;
+      if(statusFilter.value==='DUE' && !dueSoon(o)) return false;
+      if(statusFilter.value==='CHANGED' && o.status!=='Changed') return false;
+      if(statusFilter.value==='NEW' && o.status!=='New') return false;
+      if(term && !(`${o.name} ${o.sol} ${o.agency} ${o.place} ${o.scope} ${o.set}`).toLowerCase().includes(term))) return false;
+      return true;
+    }).sort((a,b)=>a.due.localeCompare(b.due)||a.state.localeCompare(b.state));
+  }
+
+  function cardHTML(o){
+    return `<article class="card ${selectedSol===o.sol?'active':''}" data-sol="${esc(o.sol)}" tabindex="0">
+      <div class="title">${esc(o.name)}</div>
+      <div class="chips"><span class="chip">${esc(o.state)}</span><span class="chip">${esc(o.set)}</span><span class="chip ${statusClass(o)}">${statusLabel(o)}</span></div>
+      <div class="meta">${esc(o.agency)}<br>${esc(o.place)}<br><b>Due:</b> ${formatDate(o.due)} &nbsp; <b>NAICS:</b> ${esc(o.naics)}<br><b>Solicitation:</b> ${esc(o.sol)}</div>
+      <a class="open" href="${esc(o.url)}" target="_blank" rel="noopener noreferrer">Open solicitation ↗</a>
+    </article>`;
+  }
+
+  function initMap(){
+    if(!window.L){ $('map').style.display='none'; $('mapFallback').style.display='block'; return; }
+    map=L.map('map',{zoomControl:true}).setView([38.1,-82.0],5);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
+    markerLayer=L.layerGroup().addTo(map);
+  }
+
+  function markerColor(o){ return dueSoon(o)?'#be123c':o.status==='Changed'?'#b45309':'#2563eb'; }
+
+  function renderMap(rows){
+    if(!map || !markerLayer) return;
+    markerLayer.clearLayers(); markerBySol.clear(); const bounds=[];
+    rows.forEach(o=>{
+      const marker=L.circleMarker([o.lat,o.lng],{radius:7,weight:2,color:'#ffffff',fillColor:markerColor(o),fillOpacity:.96});
+      marker.bindPopup(`<div class="popupTitle">${esc(o.name)}</div><div class="popupMeta">${esc(o.sol)}<br>${esc(o.place)}<br>${esc(o.set)}<br><b>Due ${formatDate(o.due)}</b></div><a class="popupLink" href="${esc(o.url)}" target="_blank" rel="noopener noreferrer">Open solicitation ↗</a>`);
+      marker.on('click',()=>selectOpportunity(o.sol,false)); marker.addTo(markerLayer); markerBySol.set(o.sol,marker); bounds.push([o.lat,o.lng]);
+    });
+    if(bounds.length===1) map.setView(bounds[0],8); else if(bounds.length>1) map.fitBounds(bounds,{padding:[28,28],maxZoom:7});
+  }
+
+  function selectOpportunity(sol,pan=true){
+    selectedSol=sol; renderCards(getFiltered());
+    const m=markerBySol.get(sol); if(m){ if(pan) map.setView(m.getLatLng(),Math.max(map.getZoom(),7)); m.openPopup(); }
+    const el=document.querySelector(`.card[data-sol="${CSS.escape(sol)}"]`); if(el) el.scrollIntoView({block:'nearest',behavior:'smooth'});
+  }
+
+  function renderCards(rows){
+    $('resultCount').textContent=rows.length+' result'+(rows.length===1?'':'s');
+    $('results').innerHTML=rows.length?rows.map(cardHTML).join(''):'<div class="empty">No opportunities match those filters.</div>';
+    document.querySelectorAll('.card').forEach(el=>{
+      el.addEventListener('click',e=>{ if(e.target.closest('a')) return; selectOpportunity(el.dataset.sol,true); });
+      el.addEventListener('keydown',e=>{ if(e.key==='Enter'||e.key===' '){e.preventDefault();selectOpportunity(el.dataset.sol,true);} });
+    });
+  }
+
+  function render(){
+    const rows=getFiltered();
+    $('statVisible').textContent=rows.length;
+    $('statDue').textContent=rows.filter(dueSoon).length;
+    $('statSDV').textContent=rows.filter(o=>o.set==='SDVOSB').length;
+    $('statWater').textContent=rows.filter(o=>o.naics==='237110').length;
+    if(selectedSol && !rows.some(o=>o.sol===selectedSol)) selectedSol=null;
+    renderCards(rows); renderMap(rows);
+  }
+
+  fillFilters(); initMap();
+  [q,state,setaside,scope,noticeType,statusFilter].forEach(el=>el.addEventListener(el===q?'input':'change',render));
+  render();
+  </script>
+</body>
+</html>
