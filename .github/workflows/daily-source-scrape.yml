@@ -1,0 +1,90 @@
+name: Daily procurement source scrape
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 12 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/scrape-priority.mjs'
+      - 'package.json'
+      - 'source-health-ui.js'
+      - '.github/workflows/daily-source-scrape.yml'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+environment:
+  name: github-pages
+  url: ${{ steps.deployment.outputs.page_url }}
+
+concurrency:
+  group: procurement-source-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - name: Check out radar
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install scraper dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape eVA, NC eVP, Tennessee Edison, STREAM, and TDOT
+        run: npm run scrape:priority
+
+      - name: Upload scraper diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: procurement-scraper-diagnostics-${{ github.run_number }}
+          path: diagnostics/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "MC3 Pursuit Radar Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html data/priority-current.json data/priority-current.js data/source-health.json data/source-health.js
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Refresh procurement sources $(date -u +%F)"
+            git push
+          fi
+
+      - name: Build static Pages artifact
+        run: |
+          rm -rf _site
+          mkdir -p _site
+          cp index.html .nojekyll source-health-ui.js _site/
+          cp -r data _site/data
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy refreshed radar
+        id: deployment
+        uses: actions/deploy-pages@v4
