@@ -9,6 +9,7 @@ on:
     paths:
       - 'scripts/scrape-priority-fast.mjs'
       - 'scripts/repair-priority-sources.mjs'
+      - 'scripts/fix-stream.mjs'
       - 'package.json'
       - 'source-health-ui.js'
       - '.github/workflows/daily-source-scrape.yml'
@@ -51,6 +52,9 @@ jobs:
 
       - name: Repair eVA, STREAM, and TDOT source adapters
         run: node scripts/repair-priority-sources.mjs
+
+      - name: Parse live STREAM bid opening dates
+        run: node scripts/fix-stream.mjs
 
       - name: Upload scraper diagnostics
         if: always()
