@@ -17,10 +17,6 @@ permissions:
   pages: write
   id-token: write
 
-environment:
-  name: github-pages
-  url: ${{ steps.deployment.outputs.page_url }}
-
 concurrency:
   group: procurement-source-refresh
   cancel-in-progress: false
@@ -29,6 +25,9 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 50
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out radar
         uses: actions/checkout@v4
