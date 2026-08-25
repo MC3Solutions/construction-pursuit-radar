@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/scrape-priority-fast.mjs'
+      - 'scripts/repair-priority-sources.mjs'
       - 'package.json'
       - 'source-health-ui.js'
       - '.github/workflows/daily-source-scrape.yml'
@@ -45,8 +46,11 @@ jobs:
       - name: Install Chromium
         run: npx playwright install --with-deps chromium
 
-      - name: Scrape eVA, NC eVP, Tennessee Edison, STREAM, and TDOT
+      - name: Scrape priority procurement sites
         run: node scripts/scrape-priority-fast.mjs
+
+      - name: Repair eVA, STREAM, and TDOT source adapters
+        run: node scripts/repair-priority-sources.mjs
 
       - name: Upload scraper diagnostics
         if: always()
