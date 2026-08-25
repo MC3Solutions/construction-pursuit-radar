@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'scripts/scrape-priority.mjs'
+      - 'scripts/scrape-priority-fast.mjs'
       - 'package.json'
       - 'source-health-ui.js'
       - '.github/workflows/daily-source-scrape.yml'
@@ -19,12 +19,12 @@ permissions:
 
 concurrency:
   group: procurement-source-refresh
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 30
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -46,7 +46,7 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: Scrape eVA, NC eVP, Tennessee Edison, STREAM, and TDOT
-        run: npm run scrape:priority
+        run: node scripts/scrape-priority-fast.mjs
 
       - name: Upload scraper diagnostics
         if: always()
