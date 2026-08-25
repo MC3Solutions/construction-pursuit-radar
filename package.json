@@ -1,0 +1,11 @@
+{
+  "name": "construction-pursuit-radar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape:priority": "node scripts/scrape-priority.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.55.0"
+  }
+}
