@@ -17,7 +17,7 @@ const ALLOWED_TYPES = new Set(['o','p','k','r','Solicitation','Pre-Solicitation'
 const TYPE_NAMES = {o:'Solicitation',p:'Pre-Solicitation',k:'Combined Synopsis/Solicitation',r:'Sources Sought',Solicitation:'Solicitation','Pre-Solicitation':'Pre-Solicitation',Presolicitation:'Pre-Solicitation','Combined Synopsis/Solicitation':'Combined Synopsis/Solicitation','Sources Sought':'Sources Sought'};
 
 function mmddyyyy(d){const mm=String(d.getUTCMonth()+1).padStart(2,'0'),dd=String(d.getUTCDate()).padStart(2,'0');return `${mm}/${dd}/${d.getUTCFullYear()}`}
-function addYears(d,n){const x=new Date(d);x.setUTCFullYear(x.getUTCFullYear()+n);return x}
+function addDays(d,n){const x=new Date(d);x.setUTCDate(x.getUTCDate()+n);return x}
 function norm(s){return String(s||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim()}
 function canonicalSol(s){return String(s||'').trim().toUpperCase().replace(/(?:[-_](?:A)?0{2,}\d{1,3})$/i,'').replace(/(?:[-_]AMEND(?:MENT)?[-_]?\d+)$/i,'')}
 function cleanTitle(s){return norm(String(s||'').replace(/\(?\s*amend(?:ment)?\s*#?\s*\d+\s*\)?/ig,' ').replace(/\bmodification\s*#?\s*\d+\b/ig,' '))}
@@ -38,7 +38,7 @@ async function main(){
   fs.mkdirSync(DATA_DIR,{recursive:true});
   const previous=loadJson(JSON_PATH,{records:[]});
   if(!API_KEY){if(previous.records?.length)writeLegacy(previous.records);writeHealth('ERROR',previous.records?.length||0,'SAM_GOV_API_KEY is not available to the workflow. Preserving last good federal snapshot.',true);console.error('[SAM] Missing SAM_GOV_API_KEY; preserved last good snapshot.');return}
-  const now=new Date(),dates={postedFrom:mmddyyyy(addYears(now,-1)),postedTo:mmddyyyy(now),rdlfrom:mmddyyyy(now),rdlto:mmddyyyy(addYears(now,1))};
+  const now=new Date(),dates={postedFrom:mmddyyyy(addDays(now,-364)),postedTo:mmddyyyy(now),rdlfrom:mmddyyyy(now),rdlto:mmddyyyy(addDays(now,364))};
   console.log(`[SAM] Fetching active construction opportunities: posted ${dates.postedFrom}..${dates.postedTo}, due ${dates.rdlfrom}..${dates.rdlto}`);
   try{
     const all=[];for(const naics of CONSTRUCTION_NAICS)all.push(...await fetchNaics(naics,dates));
