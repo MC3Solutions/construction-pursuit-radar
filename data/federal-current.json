@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:05:33.572Z",
+  "generatedAt": "2026-08-26T14:27:34.478Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/27/2025",
@@ -5545,7 +5545,7 @@
       "https://sam.gov/opp/f5aca53960f54110a3d90b221de9dce3/view"
     ],
     [
-      "42778846505142fc919658a76ab473f7",
+      "42cdffae4293478e8be933d32af336d9",
       "36C24626B0031",
       "Z2NZ-- 658-23-108 Correct Stormwater Drainage",
       "Solicitation",
@@ -5557,7 +5557,7 @@
       null,
       null,
       "237110",
-      "https://sam.gov/opp/42778846505142fc919658a76ab473f7/view"
+      "https://sam.gov/opp/42cdffae4293478e8be933d32af336d9/view"
     ],
     [
       "f46186008fd74b78a4b34dda5272802e",
@@ -5769,5 +5769,13 @@
       "237990",
       "https://sam.gov/opp/1efe2b5d5b0e42ebb347cb04f720592d/view"
     ]
-  ]
+  ],
+  "geocoding": {
+    "method": "offline ZIP/city centroid lookup",
+    "alreadyLocated": 384,
+    "zipLocated": 0,
+    "cityLocated": 0,
+    "unresolved": 0,
+    "generatedAt": "2026-08-26T14:27:41.231Z"
+  }
 }
