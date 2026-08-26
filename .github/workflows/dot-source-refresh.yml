@@ -4,7 +4,7 @@ name: VDOT and NCDOT source refresh
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 13 * * *'
+    - cron: '1 16 * * *'
   push:
     branches: [main]
     paths:
