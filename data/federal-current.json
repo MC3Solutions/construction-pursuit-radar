@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:27:34.478Z",
+  "generatedAt": "2026-08-26T14:30:18.615Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/27/2025",
@@ -2230,19 +2230,19 @@
       "https://sam.gov/opp/bc4f06be5d60487ebe191e9bf7334133/view"
     ],
     [
-      "03872311c764474183df5e9d1b9e9f33",
+      "f5a774ec34d0443786de122992586020",
       "36C24726R0096",
       "508-22-104 | Upgrade PACS System",
       "Solicitation",
       "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "2026-09-02T17:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "Decatur, GA, 30033",
       null,
       null,
       "238210",
-      "https://sam.gov/opp/03872311c764474183df5e9d1b9e9f33/view"
+      "https://sam.gov/opp/f5a774ec34d0443786de122992586020/view"
     ],
     [
       "6a3e8c37f0b844bdb62f91cbe328c1e3",
@@ -5776,6 +5776,6 @@
     "zipLocated": 0,
     "cityLocated": 0,
     "unresolved": 0,
-    "generatedAt": "2026-08-26T14:27:41.231Z"
+    "generatedAt": "2026-08-26T14:30:25.568Z"
   }
 }

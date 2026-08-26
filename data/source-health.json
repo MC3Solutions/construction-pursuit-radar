@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-26T14:28:40.444Z",
-  "total": 640,
+  "generatedAt": "2026-08-26T14:31:29.859Z",
+  "total": 628,
   "sources": {
     "EVA": {
       "label": "Virginia eVA",
       "status": "OK",
       "count": 114,
-      "checkedAt": "2026-08-26T14:28:28.696Z",
+      "checkedAt": "2026-08-26T14:31:17.057Z",
       "message": "eVA reported 114 open Construction results; loaded 114 cards and parsed 114 future pursuits.",
       "stale": false
     },
     "NCEVP": {
       "label": "NC eVP",
       "status": "OK",
-      "count": 126,
-      "checkedAt": "2026-08-26T14:28:03.832Z",
-      "message": "126 future construction rows parsed from public result pages.",
+      "count": 114,
+      "checkedAt": "2026-08-26T14:30:50.882Z",
+      "message": "114 future construction rows parsed from public result pages.",
       "stale": false
     },
     "TNEDISON": {
       "label": "TN Edison",
       "status": "OK",
       "count": 8,
-      "checkedAt": "2026-08-26T14:28:03.832Z",
+      "checkedAt": "2026-08-26T14:30:50.882Z",
       "message": "8 future construction rows parsed from public result pages.",
       "stale": false
     },
     "TNSTREAM": {
       "label": "TN STREAM",
-      "status": "ERROR",
+      "status": "OK",
       "count": 7,
-      "checkedAt": "2026-08-26T14:28:28.696Z",
-      "message": "page.goto: net::ERR_CONNECTION_RESET at https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html\nCall log:\n  - navigating to \"https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html\", waiting until \"domcontentloaded\"\n Preserved 7 last-good records.",
-      "stale": true
+      "checkedAt": "2026-08-26T14:31:28.307Z",
+      "message": "Parsed 7 future projects from the live STREAM Construction Bid List.",
+      "stale": false
     },
     "TNDOT": {
       "label": "TN TDOT",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-08-26T14:28:28.696Z",
+      "checkedAt": "2026-08-26T14:31:17.057Z",
       "message": "TDOT bidding page reachable (https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/e-plans-room.html); 1 future advertised letting link(s) found.",
       "stale": false
     },
@@ -46,7 +46,7 @@
       "label": "Federal / SAM.gov",
       "status": "OK",
       "count": 384,
-      "checkedAt": "2026-08-26T14:27:34.478Z",
+      "checkedAt": "2026-08-26T14:30:18.615Z",
       "message": "Live SAM.gov Opportunities API snapshot: 384 active deduplicated construction pursuits. 384/384 federal pins have ZIP/city or source coordinates.",
       "stale": false
     }
