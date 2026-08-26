@@ -23,8 +23,39 @@ html=html.replace(
 );
 html=html.replace(
   'Pin positions are projected from pursuit coordinates or a state centroid when a precise location is unavailable.',
-  'Federal pins use SAM place-of-performance ZIP/city centroids when precise coordinates are unavailable; state centroids are the final fallback.'
+  'Federal pins use SAM place-of-performance ZIP/city centroids when precise coordinates are unavailable; numbered circles group overlapping pursuits until you zoom in.'
+);
+html=html.replace(
+  'Federal pins use SAM place-of-performance ZIP/city centroids when precise coordinates are unavailable; state centroids are the final fallback.',
+  'Federal pins use SAM place-of-performance ZIP/city centroids when precise coordinates are unavailable; numbered circles group overlapping pursuits until you zoom in.'
 );
 
+if(!html.includes('leaflet.markercluster@1.5.3/dist/MarkerCluster.css')){
+  html=html.replace(
+    '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">',
+    '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">\n<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">'
+  );
+}
+if(!html.includes('.pursuit-marker{')){
+  html=html.replace(
+    '</style>',
+    '.pursuit-marker{width:14px;height:14px;border-radius:50%;border:2px solid #fff;box-shadow:0 1px 4px #0005}.mc3-cluster{width:36px;height:36px;border-radius:50%;background:#17365f;color:#fff;border:3px solid #fff;box-shadow:0 2px 6px #0005;display:flex;align-items:center;justify-content:center;font:800 12px/1 system-ui,sans-serif}\n</style>'
+  );
+}
+if(!html.includes('leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js')){
+  html=html.replace(
+    '<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js" onerror="window.MC3_MAP_FAIL=true"></script>',
+    '<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js" onerror="window.MC3_MAP_FAIL=true"></script>\n<script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>'
+  );
+}
+
+const oldInit="try{if(window.L&&!window.MC3_MAP_FAIL){map=L.map('map',{zoomControl:true}).setView([38.2,-81.5],5);var tiles=L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; OpenStreetMap'});tiles.on('tileerror',function(){tileErrors++;if(tileErrors>8)useRadar()});tiles.addTo(map);layer=L.layerGroup().addTo(map)}else useRadar()}catch(e){useRadar()}";
+const newInit="try{if(window.L&&!window.MC3_MAP_FAIL){map=L.map('map',{zoomControl:true}).setView([38.2,-81.5],5);var tiles=L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; OpenStreetMap'});tiles.on('tileerror',function(){tileErrors++;if(tileErrors>8)useRadar()});tiles.addTo(map);layer=(L.markerClusterGroup?L.markerClusterGroup({showCoverageOnHover:false,spiderfyOnMaxZoom:true,disableClusteringAtZoom:10,maxClusterRadius:40,chunkedLoading:true,iconCreateFunction:function(cluster){return L.divIcon({html:'<div class=\"mc3-cluster\">'+cluster.getChildCount()+'</div>',className:'',iconSize:[36,36],iconAnchor:[18,18]})}}):L.layerGroup()).addTo(map)}else useRadar()}catch(e){useRadar()}";
+html=html.replace(oldInit,newInit);
+
+const oldRender="function renderMap(rows){if(radarMode){renderRadar(rows);return}if(!map||!layer)return;layer.clearLayers();var bounds=[];rows.forEach(function(o){if(o.x==null||o.y==null)return;L.circleMarker([o.x,o.y],{radius:6,weight:1.5,color:'#fff',fillColor:color(o),fillOpacity:.95}).bindPopup(popup(o)).addTo(layer);bounds.push([o.x,o.y])});if(bounds.length>1)map.fitBounds(bounds,{padding:[25,25],maxZoom:7});else if(bounds.length===1)map.setView(bounds[0],8)}";
+const newRender="function markerIcon(o){return L.divIcon({className:'',html:'<div class=\"pursuit-marker\" style=\"background:'+color(o)+'\"></div>',iconSize:[14,14],iconAnchor:[7,7],popupAnchor:[0,-7]})}\nfunction renderMap(rows){if(radarMode){renderRadar(rows);return}if(!map||!layer)return;layer.clearLayers();var bounds=[];rows.forEach(function(o){if(o.x==null||o.y==null)return;L.marker([o.x,o.y],{icon:markerIcon(o),riseOnHover:true}).bindPopup(popup(o)).addTo(layer);bounds.push([o.x,o.y])});if(bounds.length>1)map.fitBounds(bounds,{padding:[25,25],maxZoom:7});else if(bounds.length===1)map.setView(bounds[0],8)}";
+html=html.replace(oldRender,newRender);
+
 fs.writeFileSync(file,html);
-console.log('index.html now uses current data files, approximate-pin metadata, and fresh cache tokens.');
+console.log('index.html now uses current data files, fresh cache tokens, geocoded pins, and marker clustering.');
