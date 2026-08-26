@@ -10,6 +10,7 @@ on:
       - 'scripts/scrape-priority-fast.mjs'
       - 'scripts/repair-priority-sources.mjs'
       - 'scripts/fix-stream.mjs'
+      - 'scripts/scrape-dot-sources.mjs'
       - 'scripts/fetch-federal-sam.mjs'
       - 'scripts/geocode-current.mjs'
       - 'scripts/finalize-source-health.mjs'
@@ -74,6 +75,10 @@ jobs:
       - name: Parse live STREAM bid opening dates
         continue-on-error: true
         run: node scripts/fix-stream.mjs
+
+      - name: Scrape VDOT CABB and NCDOT lettings
+        continue-on-error: true
+        run: node scripts/scrape-dot-sources.mjs
 
       - name: Restore federal source health after state refreshes
         run: node scripts/finalize-source-health.mjs
