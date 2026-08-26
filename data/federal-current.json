@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T17:14:02.979Z",
+  "generatedAt": "2026-08-26T18:34:06.357Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/27/2025",
@@ -7,72 +7,8 @@
     "rdlfrom": "08/26/2026",
     "rdlto": "08/25/2027"
   },
-  "total": 382,
+  "total": 384,
   "records": [
-    [
-      "1da384ea700e45b29d9a6d90aacbe3ab",
-      "N4008526R0219",
-      "N4008526R0219, Design Bid Build - Decentralize Steam - Provide Natural Gas Fired Boilers at Buildings 23A, 43, 44, 49 at Naval Health Care New England (NHCNE) Newport, RI.",
-      "Solicitation",
-      "No Set aside used",
-      "2026-08-12T00:00:00.000Z",
-      "2026-08-26T18:00:00.000Z",
-      "2026-08-12T00:00:00.000Z",
-      "Newport, RI, 02841",
-      41.494341,
-      -71.316387,
-      "236220",
-      "https://sam.gov/opp/1da384ea700e45b29d9a6d90aacbe3ab/view",
-      1
-    ],
-    [
-      "86d5161a984146de99cafb83276df883",
-      "SSN202608060855",
-      "FDIC VASQ Courtyard and Building Envelope Repair and Replacement",
-      "Sources Sought",
-      "No Set aside used",
-      "2026-08-06T00:00:00.000Z",
-      "2026-08-26T18:00:00.000Z",
-      "2026-08-06T00:00:00.000Z",
-      "Arlington, VA, 22201",
-      38.874898,
-      -77.065794,
-      "236220",
-      "https://sam.gov/opp/86d5161a984146de99cafb83276df883/view",
-      1
-    ],
-    [
-      "0ad21e0a5df84a40b3eb221eb77ea3e7",
-      "N4008526R0001",
-      "Design-Bid-Build, USCG Offshore Patrol Cutters (OPC) Homeport Pier, Naval Station Newport, Newport RI",
-      "Solicitation",
-      "No Set-Aside Used",
-      "2026-08-19T00:00:00.000Z",
-      "2026-08-26T18:00:00.000Z",
-      "2026-08-19T00:00:00.000Z",
-      "Newport, RI",
-      41.493614,
-      -71.295053,
-      "237990",
-      "https://sam.gov/opp/0ad21e0a5df84a40b3eb221eb77ea3e7/view",
-      1
-    ],
-    [
-      "4e10e3ca275a48be8b69aa551bc2d87b",
-      "6923G526Q0078",
-      "Maintenance Base Overhead Door Replacement",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-25T00:00:00.000Z",
-      "2026-08-26T18:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
-      "Massena, NY, 13662",
-      44.925183,
-      -74.861549,
-      "238290",
-      "https://sam.gov/opp/4e10e3ca275a48be8b69aa551bc2d87b/view",
-      1
-    ],
     [
       "24a9a609c6a34416bbb1e49afa62911a",
       "36C24826Q1106",
@@ -170,22 +106,6 @@
       1
     ],
     [
-      "0268140e75804c4ea34b7c953c53d2c2",
-      "N0018926QL342",
-      "Ceiling Tile Replacement",
-      "Combined Synopsis/Solicitation",
-      "SBA Certified Women-Owned Small Business (WOSB) Program Set-Aside (FAR 19.15)",
-      "2026-08-25T00:00:00.000Z",
-      "2026-08-27T13:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
-      "Norfolk, VA, 23511",
-      36.936019,
-      -76.279404,
-      "236210",
-      "https://sam.gov/opp/0268140e75804c4ea34b7c953c53d2c2/view",
-      1
-    ],
-    [
       "9b293c16ff84459eaf39555f7fc8965b",
       "W912QR26BA019",
       "Construction of Aeromedical Evacuation Squadron Facility, Joint Base Charleston, SC",
@@ -199,22 +119,6 @@
       -80.051796,
       "236220",
       "https://sam.gov/opp/9b293c16ff84459eaf39555f7fc8965b/view",
-      1
-    ],
-    [
-      "ae149d41e77e407c9be4f03f909ae4b9",
-      "W50S9B26BA003",
-      "RHS HVAC Replacement ERVD172002",
-      "Solicitation",
-      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-21T00:00:00.000Z",
-      "2026-08-27T14:00:00.000Z",
-      "2026-08-21T00:00:00.000Z",
-      "Virginia Beach, VA, 23451",
-      36.862668,
-      -75.997584,
-      "236220",
-      "https://sam.gov/opp/ae149d41e77e407c9be4f03f909ae4b9/view",
       1
     ],
     [
@@ -1141,6 +1045,22 @@
       1
     ],
     [
+      "09a1896ed83a4cf48889edff40151102",
+      "N0018926QL342",
+      "Ceiling Tile Replacement",
+      "Combined Synopsis/Solicitation",
+      "SBA Certified Women-Owned Small Business (WOSB) Program Set-Aside (FAR 19.15)",
+      "2026-08-26T00:00:00.000Z",
+      "2026-08-31T13:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Norfolk, VA, 23511",
+      36.936847,
+      -76.309269,
+      "236210",
+      "https://sam.gov/opp/09a1896ed83a4cf48889edff40151102/view",
+      1
+    ],
+    [
       "a4b1b30606614254ae20de9e52822c15",
       "W50S8S26QA012",
       "B101 and B136 Roof Repairs",
@@ -1362,22 +1282,6 @@
       -74.021084,
       "238330",
       "https://sam.gov/opp/a6b5e41cf6714b789105298e1a550f0a/view",
-      1
-    ],
-    [
-      "0616570226494c2e812fc7582de753c1",
-      "36C77626B0027",
-      "Y1DA--534-24-706 EHRM Data Center Upgrades  Construction - Charleston",
-      "Solicitation",
-      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-10T00:00:00.000Z",
-      "2026-08-31T17:00:00.000Z",
-      "2026-08-10T00:00:00.000Z",
-      "Charleston, SC, 29401",
-      32.763755,
-      -79.955213,
-      "236220",
-      "https://sam.gov/opp/0616570226494c2e812fc7582de753c1/view",
       1
     ],
     [
@@ -1604,7 +1508,7 @@
       1
     ],
     [
-      "9229c13f864642159d062173cdc5b2e2",
+      "0313a1172f4d47dca140b725f4b2e35c",
       "W15QKN-26-Q-A141",
       "Building 623 Drop Ceiling Grid System Replacement - Devens, MA",
       "Solicitation",
@@ -1613,10 +1517,10 @@
       "2026-08-31T19:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "0, MA, 01434",
-      42.537458,
-      -71.605591,
+      42.522322,
+      -71.603609,
       "236220",
-      "https://sam.gov/opp/9229c13f864642159d062173cdc5b2e2/view",
+      "https://sam.gov/opp/0313a1172f4d47dca140b725f4b2e35c/view",
       1
     ],
     [
@@ -1795,6 +1699,22 @@
       1
     ],
     [
+      "26bb3f49f3344370934f747baa12a527",
+      "37030PR26000072",
+      "USCG Station New Heaven Door Replacement",
+      "Solicitation",
+      "No Set aside used",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-01T04:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "New Haven, CT, 06512",
+      41.300487,
+      -72.937393,
+      "238290",
+      "https://sam.gov/opp/26bb3f49f3344370934f747baa12a527/view",
+      1
+    ],
+    [
       "7878d51078f94d9e8104474be7d02479",
       "70Z03926QCGA00032",
       "Replace Garage Doors",
@@ -1824,6 +1744,22 @@
       -72.076751,
       "238350",
       "https://sam.gov/opp/475f4fc0a2ca4ffda93c2bc14791e1e0/view",
+      1
+    ],
+    [
+      "f1c05ff8675044eba84bc3628f7b6ee9",
+      "W50S9B26BA003",
+      "RHS HVAC Replacement ERVD172002",
+      "Solicitation",
+      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-01T14:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Virginia Beach, VA, 23451",
+      36.845552,
+      -76.014404,
+      "236220",
+      "https://sam.gov/opp/f1c05ff8675044eba84bc3628f7b6ee9/view",
       1
     ],
     [
@@ -2098,19 +2034,19 @@
       1
     ],
     [
-      "f5808e952d99441fb629b8ff5fd6442c",
+      "ef398402f7724f289b7e552586ddf61d",
       "FA445226R0017",
       "FA445226R0017_43d Air Mobility Operations Group_Building 720 Electrical",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "2026-09-01T19:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "Fort Bragg, NC, 28307",
-      35.16048,
-      -79.025814,
+      35.148822,
+      -79.012084,
       "238210",
-      "https://sam.gov/opp/f5808e952d99441fb629b8ff5fd6442c/view",
+      "https://sam.gov/opp/ef398402f7724f289b7e552586ddf61d/view",
       1
     ],
     [
@@ -2271,6 +2207,22 @@
       -84.284825,
       "238210",
       "https://sam.gov/opp/f5a774ec34d0443786de122992586020/view",
+      1
+    ],
+    [
+      "0e62cf4289794ac79fb8822aa012bbd4",
+      "70FB8026Q00000055",
+      "HVAC Maintenance (Sterling, Virginia)",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-02T17:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Sterling, VA, 20164",
+      39.045553,
+      -77.391192,
+      "238220",
+      "https://sam.gov/opp/0e62cf4289794ac79fb8822aa012bbd4/view",
       1
     ],
     [
@@ -3505,6 +3457,22 @@
       1
     ],
     [
+      "1025f76c47de40a69bff7b76a576c18e",
+      "36C24626Q0896",
+      "J041--ED/RADIOLOGY AHU COIL REPLACEMENT",
+      "Pre-Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-07T16:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Salem, VA, 24153",
+      37.284254,
+      -80.057246,
+      "238220",
+      "https://sam.gov/opp/1025f76c47de40a69bff7b76a576c18e/view",
+      1
+    ],
+    [
       "32114081b4f14a8089a44bca60c8953d",
       "70FB7026Q00000030",
       "Fence Expansion",
@@ -4336,6 +4304,22 @@
       1
     ],
     [
+      "2383a7b4323e417e8602fb76f6b452b3",
+      "70LGLY26QSSB00077",
+      "DHS - FLETC - GLYNCO - FENCE UPGRADE",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-10T14:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Brunswick, GA, 31525",
+      31.279877,
+      -81.536477,
+      "236220",
+      "https://sam.gov/opp/2383a7b4323e417e8602fb76f6b452b3/view",
+      1
+    ],
+    [
       "72dea389b1ac440faeb27fcf9711aebc",
       "140P4326R0032",
       "ACADIA NATIONAL PARK - RE-STRIPE PAVEMENT MARKINGS",
@@ -5068,6 +5052,22 @@
       -76.729493,
       "236220",
       "https://sam.gov/opp/de37502047e14e6a83f416897cecdf27/view",
+      1
+    ],
+    [
+      "420c89c1965c4454a6c5356d44a0e8fd",
+      "36C77626B0027",
+      "Y1DA--534-24-706 EHRM Data Center Upgrades  Construction - Charleston",
+      "Solicitation",
+      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-14T17:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Charleston, SC, 29401",
+      32.780128,
+      -79.955089,
+      "236220",
+      "https://sam.gov/opp/420c89c1965c4454a6c5356d44a0e8fd/view",
       1
     ],
     [
@@ -5869,6 +5869,22 @@
       "https://sam.gov/opp/f5aca53960f54110a3d90b221de9dce3/view"
     ],
     [
+      "cd001ab01190461ca2e80276ca77405f",
+      "N6660426Q0473",
+      "CONSTRUCTION - NUWCDIVNPT: Raised Flooring Replacement",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-28T18:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Newport, RI, 02841",
+      41.503961,
+      -71.281697,
+      "236220",
+      "https://sam.gov/opp/cd001ab01190461ca2e80276ca77405f/view",
+      1
+    ],
+    [
       "42cdffae4293478e8be933d32af336d9",
       "36C24626B0031",
       "Z2NZ-- 658-23-108 Correct Stormwater Drainage",
@@ -5898,6 +5914,22 @@
       -77.336348,
       "236220",
       "https://sam.gov/opp/f46186008fd74b78a4b34dda5272802e/view",
+      1
+    ],
+    [
+      "f851d949b6e34c7a91dd7d7aa9f564e2",
+      "FA465426RFI0003",
+      "Grissom ARB, IN SABER -IMPLIFIED ACQUISITION OF BASE ENGINEERING REQUIREMENTS",
+      "Sources Sought",
+      "No Set-Aside Used",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-30T14:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Grissom ARB, IN, 46971",
+      40.662431,
+      -86.139047,
+      "236220",
+      "https://sam.gov/opp/f851d949b6e34c7a91dd7d7aa9f564e2/view",
       1
     ],
     [
@@ -6111,11 +6143,11 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 323,
-    "cityLocated": 45,
+    "zipLocated": 326,
+    "cityLocated": 44,
     "unresolved": 14,
-    "locatedTotal": 368,
-    "total": 382,
-    "generatedAt": "2026-08-26T17:14:12.264Z"
+    "locatedTotal": 370,
+    "total": 384,
+    "generatedAt": "2026-08-26T18:34:10.719Z"
   }
 }
