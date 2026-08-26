@@ -14,6 +14,14 @@ html=html.replace(
 );
 
 html=html.replace("var SNAP='2026-08-25';","var SNAP=new Date().toISOString().slice(0,10);");
+html=html.replace(
+  "function fromArr(a){return{id:a[0],s:a[1],n:a[2],t:a[3],a:a[4],p:a[5],d:a[6],u:a[7],l:a[8],x:a[9],y:a[10],c:a[11],r:a[12]}}",
+  "function fromArr(a){return{id:a[0],s:a[1],n:a[2],t:a[3],a:a[4],p:a[5],d:a[6],u:a[7],l:a[8],x:a[9],y:a[10],c:a[11],r:a[12],approx:a[13]===1}}"
+);
+html=html.replace(
+  'Pin positions are projected from pursuit coordinates or a state centroid when a precise location is unavailable.',
+  'Federal pins use SAM place-of-performance ZIP/city centroids when precise coordinates are unavailable; state centroids are the final fallback.'
+);
 
 fs.writeFileSync(file,html);
-console.log('index.html now loads federal-current.js and uses current-day NEW/CHANGED logic.');
+console.log('index.html now loads current federal data and preserves approximate geocoded pin status.');
