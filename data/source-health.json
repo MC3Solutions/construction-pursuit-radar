@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-26T14:31:29.859Z",
-  "total": 628,
+  "generatedAt": "2026-08-26T14:36:30.219Z",
+  "total": 645,
   "sources": {
     "EVA": {
       "label": "Virginia eVA",
       "status": "OK",
       "count": 114,
-      "checkedAt": "2026-08-26T14:31:17.057Z",
+      "checkedAt": "2026-08-26T14:36:17.043Z",
       "message": "eVA reported 114 open Construction results; loaded 114 cards and parsed 114 future pursuits.",
       "stale": false
     },
     "NCEVP": {
       "label": "NC eVP",
       "status": "OK",
-      "count": 114,
-      "checkedAt": "2026-08-26T14:30:50.882Z",
-      "message": "114 future construction rows parsed from public result pages.",
+      "count": 131,
+      "checkedAt": "2026-08-26T14:35:54.162Z",
+      "message": "131 future construction rows parsed from public result pages.",
       "stale": false
     },
     "TNEDISON": {
       "label": "TN Edison",
       "status": "OK",
       "count": 8,
-      "checkedAt": "2026-08-26T14:30:50.882Z",
+      "checkedAt": "2026-08-26T14:35:54.162Z",
       "message": "8 future construction rows parsed from public result pages.",
       "stale": false
     },
@@ -30,7 +30,7 @@
       "label": "TN STREAM",
       "status": "OK",
       "count": 7,
-      "checkedAt": "2026-08-26T14:31:28.307Z",
+      "checkedAt": "2026-08-26T14:36:28.375Z",
       "message": "Parsed 7 future projects from the live STREAM Construction Bid List.",
       "stale": false
     },
@@ -38,7 +38,7 @@
       "label": "TN TDOT",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-08-26T14:31:17.057Z",
+      "checkedAt": "2026-08-26T14:36:17.043Z",
       "message": "TDOT bidding page reachable (https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/e-plans-room.html); 1 future advertised letting link(s) found.",
       "stale": false
     },
@@ -46,8 +46,8 @@
       "label": "Federal / SAM.gov",
       "status": "OK",
       "count": 384,
-      "checkedAt": "2026-08-26T14:30:18.615Z",
-      "message": "Live SAM.gov Opportunities API snapshot: 384 active deduplicated construction pursuits. 384/384 federal pins have ZIP/city or source coordinates.",
+      "checkedAt": "2026-08-26T14:35:30.646Z",
+      "message": "Live SAM.gov Opportunities API snapshot: 384 active deduplicated construction pursuits. 370/384 federal pins have ZIP/city or source coordinates.",
       "stale": false
     }
   }

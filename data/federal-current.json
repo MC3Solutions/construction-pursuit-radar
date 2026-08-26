@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:30:18.615Z",
+  "generatedAt": "2026-08-26T14:35:30.646Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/27/2025",
@@ -19,10 +19,11 @@
       "2026-08-26T15:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Campbellsville, KY, 42718",
-      null,
-      null,
+      37.343783,
+      -85.356098,
       "237310",
-      "https://sam.gov/opp/aff80adf724c46748aea61c5b4e49204/view"
+      "https://sam.gov/opp/aff80adf724c46748aea61c5b4e49204/view",
+      1
     ],
     [
       "b08c8b77a2734079bb0de1553eaf18e0",
@@ -34,10 +35,11 @@
       "2026-08-26T15:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "North Charleston, SC, 29405",
-      null,
-      null,
+      32.882631,
+      -79.995993,
       "238220",
-      "https://sam.gov/opp/b08c8b77a2734079bb0de1553eaf18e0/view"
+      "https://sam.gov/opp/b08c8b77a2734079bb0de1553eaf18e0/view",
+      1
     ],
     [
       "b205b69c5b1d498ca7242f4b18224b83",
@@ -49,10 +51,11 @@
       "2026-08-26T15:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Marion, VA",
-      null,
-      null,
+      36.840371,
+      -81.555028,
       "238990",
-      "https://sam.gov/opp/b205b69c5b1d498ca7242f4b18224b83/view"
+      "https://sam.gov/opp/b205b69c5b1d498ca7242f4b18224b83/view",
+      1
     ],
     [
       "28670dbc777f43478bc33685d7211d50",
@@ -64,10 +67,11 @@
       "2026-08-26T16:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Pawtucket, RI, 02860",
-      null,
-      null,
+      41.874045,
+      -71.38481,
       "238110",
-      "https://sam.gov/opp/28670dbc777f43478bc33685d7211d50/view"
+      "https://sam.gov/opp/28670dbc777f43478bc33685d7211d50/view",
+      1
     ],
     [
       "04d459ea2c3d4f629b3bdc8a637fe628",
@@ -79,10 +83,11 @@
       "2026-08-26T17:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Sturgeon Bay, WI, 54235",
-      null,
-      null,
+      44.870989,
+      -87.362621,
       "238290",
-      "https://sam.gov/opp/04d459ea2c3d4f629b3bdc8a637fe628/view"
+      "https://sam.gov/opp/04d459ea2c3d4f629b3bdc8a637fe628/view",
+      1
     ],
     [
       "6239d2fa36e946149e0fea2a3c171035",
@@ -94,10 +99,11 @@
       "2026-08-26T17:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Wellfleet, MA, 02667",
-      null,
-      null,
+      41.911636,
+      -70.035272,
       "238990",
-      "https://sam.gov/opp/6239d2fa36e946149e0fea2a3c171035/view"
+      "https://sam.gov/opp/6239d2fa36e946149e0fea2a3c171035/view",
+      1
     ],
     [
       "1da384ea700e45b29d9a6d90aacbe3ab",
@@ -109,10 +115,11 @@
       "2026-08-26T18:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Newport, RI, 02841",
-      null,
-      null,
+      41.494341,
+      -71.316387,
       "236220",
-      "https://sam.gov/opp/1da384ea700e45b29d9a6d90aacbe3ab/view"
+      "https://sam.gov/opp/1da384ea700e45b29d9a6d90aacbe3ab/view",
+      1
     ],
     [
       "86d5161a984146de99cafb83276df883",
@@ -124,10 +131,11 @@
       "2026-08-26T18:00:00.000Z",
       "2026-08-06T00:00:00.000Z",
       "Arlington, VA, 22201",
-      null,
-      null,
+      38.874898,
+      -77.065794,
       "236220",
-      "https://sam.gov/opp/86d5161a984146de99cafb83276df883/view"
+      "https://sam.gov/opp/86d5161a984146de99cafb83276df883/view",
+      1
     ],
     [
       "0ad21e0a5df84a40b3eb221eb77ea3e7",
@@ -139,10 +147,11 @@
       "2026-08-26T18:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Newport, RI",
-      null,
-      null,
+      41.493614,
+      -71.295053,
       "237990",
-      "https://sam.gov/opp/0ad21e0a5df84a40b3eb221eb77ea3e7/view"
+      "https://sam.gov/opp/0ad21e0a5df84a40b3eb221eb77ea3e7/view",
+      1
     ],
     [
       "649a10a23295491cbdf1bcf0b6ad34f6",
@@ -154,10 +163,11 @@
       "2026-08-26T18:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "Groton, CT",
-      null,
-      null,
+      41.384256,
+      -72.050863,
       "238220",
-      "https://sam.gov/opp/649a10a23295491cbdf1bcf0b6ad34f6/view"
+      "https://sam.gov/opp/649a10a23295491cbdf1bcf0b6ad34f6/view",
+      1
     ],
     [
       "4e10e3ca275a48be8b69aa551bc2d87b",
@@ -169,10 +179,11 @@
       "2026-08-26T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Massena, NY, 13662",
-      null,
-      null,
+      44.925183,
+      -74.861549,
       "238290",
-      "https://sam.gov/opp/4e10e3ca275a48be8b69aa551bc2d87b/view"
+      "https://sam.gov/opp/4e10e3ca275a48be8b69aa551bc2d87b/view",
+      1
     ],
     [
       "64942a6065584bbfa4376afd86f5dedf",
@@ -184,10 +195,11 @@
       "2026-08-26T19:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "0, MA, 01434",
-      null,
-      null,
+      42.531278,
+      -71.621084,
       "236220",
-      "https://sam.gov/opp/64942a6065584bbfa4376afd86f5dedf/view"
+      "https://sam.gov/opp/64942a6065584bbfa4376afd86f5dedf/view",
+      1
     ],
     [
       "24a9a609c6a34416bbb1e49afa62911a",
@@ -199,10 +211,11 @@
       "2026-08-26T19:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "West Palm Beach, FL, 33410-6400",
-      null,
-      null,
+      26.825484,
+      -80.126882,
       "238220",
-      "https://sam.gov/opp/24a9a609c6a34416bbb1e49afa62911a/view"
+      "https://sam.gov/opp/24a9a609c6a34416bbb1e49afa62911a/view",
+      1
     ],
     [
       "7fbd8c9dfe1d474ba59e2328e054a6c1",
@@ -214,10 +227,11 @@
       "2026-08-26T20:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "0, SC, 29404",
-      null,
-      null,
+      32.898619,
+      -80.056607,
       "237310",
-      "https://sam.gov/opp/7fbd8c9dfe1d474ba59e2328e054a6c1/view"
+      "https://sam.gov/opp/7fbd8c9dfe1d474ba59e2328e054a6c1/view",
+      1
     ],
     [
       "d9da9738420247678a02ddbbcee063ac",
@@ -229,10 +243,11 @@
       "2026-08-26T21:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Hattiesburg, MS, 39401",
-      null,
-      null,
+      31.309512,
+      -89.30332,
       "236220",
-      "https://sam.gov/opp/d9da9738420247678a02ddbbcee063ac/view"
+      "https://sam.gov/opp/d9da9738420247678a02ddbbcee063ac/view",
+      1
     ],
     [
       "39c2d954f3c24e1296d9b8e931015642",
@@ -244,10 +259,11 @@
       "2026-08-26T21:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "Massena, NY, 13662",
-      null,
-      null,
+      44.959606,
+      -74.896702,
       "236220",
-      "https://sam.gov/opp/39c2d954f3c24e1296d9b8e931015642/view"
+      "https://sam.gov/opp/39c2d954f3c24e1296d9b8e931015642/view",
+      1
     ],
     [
       "7c4a478a32ab4759993feb36f5bb5d95",
@@ -259,10 +275,11 @@
       "2026-08-26T21:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Guilford, CT, 06437",
-      null,
-      null,
+      41.309041,
+      -72.706977,
       "238110",
-      "https://sam.gov/opp/7c4a478a32ab4759993feb36f5bb5d95/view"
+      "https://sam.gov/opp/7c4a478a32ab4759993feb36f5bb5d95/view",
+      1
     ],
     [
       "76e64a708a0c40c68a3a446ce7bafa50",
@@ -274,10 +291,11 @@
       "2026-08-27T06:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Washington, DC",
-      null,
-      null,
+      38.880427,
+      -77.046752,
       "236220",
-      "https://sam.gov/opp/76e64a708a0c40c68a3a446ce7bafa50/view"
+      "https://sam.gov/opp/76e64a708a0c40c68a3a446ce7bafa50/view",
+      1
     ],
     [
       "0268140e75804c4ea34b7c953c53d2c2",
@@ -289,10 +307,11 @@
       "2026-08-27T13:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Norfolk, VA, 23511",
-      null,
-      null,
+      36.936019,
+      -76.279404,
       "236210",
-      "https://sam.gov/opp/0268140e75804c4ea34b7c953c53d2c2/view"
+      "https://sam.gov/opp/0268140e75804c4ea34b7c953c53d2c2/view",
+      1
     ],
     [
       "9b293c16ff84459eaf39555f7fc8965b",
@@ -304,10 +323,11 @@
       "2026-08-27T14:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Charleston, SC, 29404",
-      null,
-      null,
+      32.891749,
+      -80.051796,
       "236220",
-      "https://sam.gov/opp/9b293c16ff84459eaf39555f7fc8965b/view"
+      "https://sam.gov/opp/9b293c16ff84459eaf39555f7fc8965b/view",
+      1
     ],
     [
       "ae149d41e77e407c9be4f03f909ae4b9",
@@ -319,10 +339,11 @@
       "2026-08-27T14:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Virginia Beach, VA, 23451",
-      null,
-      null,
+      36.862668,
+      -75.997584,
       "236220",
-      "https://sam.gov/opp/ae149d41e77e407c9be4f03f909ae4b9/view"
+      "https://sam.gov/opp/ae149d41e77e407c9be4f03f909ae4b9/view",
+      1
     ],
     [
       "b15021bf6b854d5185c925463c22b354",
@@ -334,10 +355,11 @@
       "2026-08-27T15:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Ravenna, OH, 44266",
-      null,
-      null,
+      41.136368,
+      -81.224429,
       "237990",
-      "https://sam.gov/opp/b15021bf6b854d5185c925463c22b354/view"
+      "https://sam.gov/opp/b15021bf6b854d5185c925463c22b354/view",
+      1
     ],
     [
       "dc87207c54a240e9b8c19220ec52417d",
@@ -349,10 +371,11 @@
       "2026-08-27T15:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Fairmont, WV, 26554",
-      null,
-      null,
+      39.476635,
+      -80.225655,
       "238210",
-      "https://sam.gov/opp/dc87207c54a240e9b8c19220ec52417d/view"
+      "https://sam.gov/opp/dc87207c54a240e9b8c19220ec52417d/view",
+      1
     ],
     [
       "1c7d4cedfc0a459aae3b2fffdc22cd55",
@@ -364,10 +387,11 @@
       "2026-08-27T16:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "NY, 14304",
-      null,
-      null,
+      43.063394,
+      -78.976602,
       "238210",
-      "https://sam.gov/opp/1c7d4cedfc0a459aae3b2fffdc22cd55/view"
+      "https://sam.gov/opp/1c7d4cedfc0a459aae3b2fffdc22cd55/view",
+      1
     ],
     [
       "73d399d0482b45e08e5434fba40dc2f4",
@@ -379,10 +403,11 @@
       "2026-08-27T16:00:00.000Z",
       "2026-08-04T00:00:00.000Z",
       "Wright Patterson AFB, OH, 45433",
-      null,
-      null,
+      39.796536,
+      -84.042328,
       "238990",
-      "https://sam.gov/opp/73d399d0482b45e08e5434fba40dc2f4/view"
+      "https://sam.gov/opp/73d399d0482b45e08e5434fba40dc2f4/view",
+      1
     ],
     [
       "591e5ea8847948bb8117e07b73a00360",
@@ -394,10 +419,11 @@
       "2026-08-27T17:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Charleston, SC, 29401",
-      null,
-      null,
+      32.779919,
+      -79.961096,
       "236220",
-      "https://sam.gov/opp/591e5ea8847948bb8117e07b73a00360/view"
+      "https://sam.gov/opp/591e5ea8847948bb8117e07b73a00360/view",
+      1
     ],
     [
       "6fe1db8b106b4bb08a24a608de71bdc8",
@@ -409,10 +435,11 @@
       "2026-08-27T18:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Durham, NC, 27705",
-      null,
-      null,
+      36.01562,
+      -78.937514,
       "236220",
-      "https://sam.gov/opp/6fe1db8b106b4bb08a24a608de71bdc8/view"
+      "https://sam.gov/opp/6fe1db8b106b4bb08a24a608de71bdc8/view",
+      1
     ],
     [
       "93d5d9bde3224d89af7dc6dde7517e32",
@@ -424,10 +451,11 @@
       "2026-08-27T18:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Washington, DC",
-      null,
-      null,
+      38.880896,
+      -77.030581,
       "236220",
-      "https://sam.gov/opp/93d5d9bde3224d89af7dc6dde7517e32/view"
+      "https://sam.gov/opp/93d5d9bde3224d89af7dc6dde7517e32/view",
+      1
     ],
     [
       "3adb08b7df494742869ba6e50b9a7f60",
@@ -439,10 +467,11 @@
       "2026-08-27T18:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Chesapeake, VA",
-      null,
-      null,
+      36.780641,
+      -76.285581,
       "237110",
-      "https://sam.gov/opp/3adb08b7df494742869ba6e50b9a7f60/view"
+      "https://sam.gov/opp/3adb08b7df494742869ba6e50b9a7f60/view",
+      1
     ],
     [
       "d19e93dcfec64d9e988df958106c0fb5",
@@ -469,10 +498,11 @@
       "2026-08-27T18:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Bushnell, FL, 33513",
-      null,
-      null,
+      28.646538,
+      -82.14472,
       "237990",
-      "https://sam.gov/opp/05b51e3f5c3b43eab3a4eb839c02b283/view"
+      "https://sam.gov/opp/05b51e3f5c3b43eab3a4eb839c02b283/view",
+      1
     ],
     [
       "d933e383927d4009a9708d61c5e74286",
@@ -484,10 +514,11 @@
       "2026-08-27T18:00:00.000Z",
       "2026-08-06T00:00:00.000Z",
       "Nashville, TN, 37217",
-      null,
-      null,
+      36.081233,
+      -86.660356,
       "238210",
-      "https://sam.gov/opp/d933e383927d4009a9708d61c5e74286/view"
+      "https://sam.gov/opp/d933e383927d4009a9708d61c5e74286/view",
+      1
     ],
     [
       "a9288c1530794ecf89c1caf959eae938",
@@ -499,10 +530,11 @@
       "2026-08-27T20:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "Washington, DC, 20224",
-      null,
-      null,
+      38.905152,
+      -77.016477,
       "236220",
-      "https://sam.gov/opp/a9288c1530794ecf89c1caf959eae938/view"
+      "https://sam.gov/opp/a9288c1530794ecf89c1caf959eae938/view",
+      1
     ],
     [
       "47215e6d83ff433588486abee5a45544",
@@ -514,10 +546,11 @@
       "2026-08-27T20:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Edison, NJ, 08837",
-      null,
-      null,
+      40.536156,
+      -74.367276,
       "238220",
-      "https://sam.gov/opp/47215e6d83ff433588486abee5a45544/view"
+      "https://sam.gov/opp/47215e6d83ff433588486abee5a45544/view",
+      1
     ],
     [
       "b46506d998d44c168d9240c980091664",
@@ -529,10 +562,11 @@
       "2026-08-27T20:30:00.000Z",
       "2026-07-31T00:00:00.000Z",
       "VA, 23606",
-      null,
-      null,
+      37.083159,
+      -76.506877,
       "238220",
-      "https://sam.gov/opp/b46506d998d44c168d9240c980091664/view"
+      "https://sam.gov/opp/b46506d998d44c168d9240c980091664/view",
+      1
     ],
     [
       "719898299c8c4117ae9d1ebc921283e1",
@@ -544,10 +578,11 @@
       "2026-08-27T21:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Harpers Ferry, WV, 25425",
-      null,
-      null,
+      39.31745,
+      -77.763799,
       "238220",
-      "https://sam.gov/opp/719898299c8c4117ae9d1ebc921283e1/view"
+      "https://sam.gov/opp/719898299c8c4117ae9d1ebc921283e1/view",
+      1
     ],
     [
       "2ab99fba65f54f47b166153c23587f29",
@@ -559,10 +594,11 @@
       "2026-08-27T22:00:00.000Z",
       "2026-08-23T00:00:00.000Z",
       "Alexandria, VA, 22315",
-      null,
-      null,
+      38.762324,
+      -77.153846,
       "238290",
-      "https://sam.gov/opp/2ab99fba65f54f47b166153c23587f29/view"
+      "https://sam.gov/opp/2ab99fba65f54f47b166153c23587f29/view",
+      1
     ],
     [
       "5bcece38a1a94005be3609cca96afaf4",
@@ -574,10 +610,11 @@
       "2026-08-28T00:00:00.000Z",
       "2026-08-10T00:00:00.000Z",
       "Hatteras, NC, 27943",
-      null,
-      null,
+      35.200915,
+      -75.705627,
       "238220",
-      "https://sam.gov/opp/5bcece38a1a94005be3609cca96afaf4/view"
+      "https://sam.gov/opp/5bcece38a1a94005be3609cca96afaf4/view",
+      1
     ],
     [
       "9143a47c421145c1bc9188b46dc4e90c",
@@ -589,10 +626,11 @@
       "2026-08-28T04:00:00.000Z",
       "2026-07-28T00:00:00.000Z",
       "Gainesville, FL, 32608",
-      null,
-      null,
+      29.616326,
+      -82.369573,
       "236220",
-      "https://sam.gov/opp/9143a47c421145c1bc9188b46dc4e90c/view"
+      "https://sam.gov/opp/9143a47c421145c1bc9188b46dc4e90c/view",
+      1
     ],
     [
       "dbc36524fe9c4d13b62eebbdf4a8bf8f",
@@ -604,10 +642,11 @@
       "2026-08-28T12:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Richmond, VA, 23249",
-      null,
-      null,
+      37.506473,
+      -77.490074,
       "238220",
-      "https://sam.gov/opp/dbc36524fe9c4d13b62eebbdf4a8bf8f/view"
+      "https://sam.gov/opp/dbc36524fe9c4d13b62eebbdf4a8bf8f/view",
+      1
     ],
     [
       "5fae1b39d9404227a4a9e8e7c78e399f",
@@ -619,10 +658,11 @@
       "2026-08-28T14:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Homestead, FL, 33039",
-      null,
-      null,
+      25.50881,
+      -80.389752,
       "236220",
-      "https://sam.gov/opp/5fae1b39d9404227a4a9e8e7c78e399f/view"
+      "https://sam.gov/opp/5fae1b39d9404227a4a9e8e7c78e399f/view",
+      1
     ],
     [
       "181c85ef0c8d442d8d70449c97d4fdb2",
@@ -634,10 +674,11 @@
       "2026-08-28T14:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Montrose, NY, 10548-1454",
-      null,
-      null,
+      41.254743,
+      -73.94769,
       "238220",
-      "https://sam.gov/opp/181c85ef0c8d442d8d70449c97d4fdb2/view"
+      "https://sam.gov/opp/181c85ef0c8d442d8d70449c97d4fdb2/view",
+      1
     ],
     [
       "9d74f79e608a431781d24c59fd413183",
@@ -649,10 +690,11 @@
       "2026-08-28T14:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Morgantown, WV, 26508",
-      null,
-      null,
+      39.566191,
+      -79.930158,
       "238290",
-      "https://sam.gov/opp/9d74f79e608a431781d24c59fd413183/view"
+      "https://sam.gov/opp/9d74f79e608a431781d24c59fd413183/view",
+      1
     ],
     [
       "bee658574f6a41e7acf26779e072fd10",
@@ -664,10 +706,11 @@
       "2026-08-28T14:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "VA, 23511",
-      null,
-      null,
+      36.947409,
+      -76.289815,
       "238330",
-      "https://sam.gov/opp/bee658574f6a41e7acf26779e072fd10/view"
+      "https://sam.gov/opp/bee658574f6a41e7acf26779e072fd10/view",
+      1
     ],
     [
       "160b5031f0114e6c95e0145df0970987",
@@ -679,10 +722,11 @@
       "2026-08-28T15:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Scranton, PA, 18509",
-      null,
-      null,
+      41.421404,
+      -75.646291,
       "236220",
-      "https://sam.gov/opp/160b5031f0114e6c95e0145df0970987/view"
+      "https://sam.gov/opp/160b5031f0114e6c95e0145df0970987/view",
+      1
     ],
     [
       "9d152c895ecd400d82c4494efcbed0a4",
@@ -694,10 +738,11 @@
       "2026-08-28T16:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Stronghurst, IL",
-      null,
-      null,
+      40.722318,
+      -90.924653,
       "238910",
-      "https://sam.gov/opp/9d152c895ecd400d82c4494efcbed0a4/view"
+      "https://sam.gov/opp/9d152c895ecd400d82c4494efcbed0a4/view",
+      1
     ],
     [
       "b390aef857e147a5adaf89368ba3ebd3",
@@ -709,10 +754,11 @@
       "2026-08-28T17:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "MD, 21702",
-      null,
-      null,
+      39.502362,
+      -77.439275,
       "238150",
-      "https://sam.gov/opp/b390aef857e147a5adaf89368ba3ebd3/view"
+      "https://sam.gov/opp/b390aef857e147a5adaf89368ba3ebd3/view",
+      1
     ],
     [
       "8bcc95c0a9774e2f9d0dcb4aa7d9bc13",
@@ -724,10 +770,11 @@
       "2026-08-28T17:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Coral Gables, FL, 33158",
-      null,
-      null,
+      25.653089,
+      -80.311957,
       "238220",
-      "https://sam.gov/opp/8bcc95c0a9774e2f9d0dcb4aa7d9bc13/view"
+      "https://sam.gov/opp/8bcc95c0a9774e2f9d0dcb4aa7d9bc13/view",
+      1
     ],
     [
       "5445b92d284c429880a57a5376e59516",
@@ -739,10 +786,11 @@
       "2026-08-28T17:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Gaithersburg, MD, 20899",
-      null,
-      null,
+      39.164259,
+      -77.203946,
       "238990",
-      "https://sam.gov/opp/5445b92d284c429880a57a5376e59516/view"
+      "https://sam.gov/opp/5445b92d284c429880a57a5376e59516/view",
+      1
     ],
     [
       "15d9fccc0f3c46cbb15547ad0079b62f",
@@ -754,10 +802,11 @@
       "2026-08-28T18:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Cherry Point, NC",
-      null,
-      null,
+      34.896035,
+      -76.871022,
       "236220",
-      "https://sam.gov/opp/15d9fccc0f3c46cbb15547ad0079b62f/view"
+      "https://sam.gov/opp/15d9fccc0f3c46cbb15547ad0079b62f/view",
+      1
     ],
     [
       "632d00637997401f9ff4bce07b45d236",
@@ -769,10 +818,11 @@
       "2026-08-28T18:00:00.000Z",
       "2026-08-03T00:00:00.000Z",
       "Washington, DC, 20534",
-      null,
-      null,
+      38.917969,
+      -77.015009,
       "236220",
-      "https://sam.gov/opp/632d00637997401f9ff4bce07b45d236/view"
+      "https://sam.gov/opp/632d00637997401f9ff4bce07b45d236/view",
+      1
     ],
     [
       "3bd6d3c262a347ff8381fc02518a4af2",
@@ -784,10 +834,11 @@
       "2026-08-28T18:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Camp Lejeune, NC, 28547",
-      null,
-      null,
+      34.687465,
+      -77.379069,
       "237310",
-      "https://sam.gov/opp/3bd6d3c262a347ff8381fc02518a4af2/view"
+      "https://sam.gov/opp/3bd6d3c262a347ff8381fc02518a4af2/view",
+      1
     ],
     [
       "09e5cc1b72d748a7b3ddac25e563d2e4",
@@ -829,10 +880,11 @@
       "2026-08-28T19:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Camp Lejeune, NC, 28547",
-      null,
-      null,
+      34.69708,
+      -77.351114,
       "236220",
-      "https://sam.gov/opp/0ca025f0cd9b4c0fb2da0ac6c4e038cf/view"
+      "https://sam.gov/opp/0ca025f0cd9b4c0fb2da0ac6c4e038cf/view",
+      1
     ],
     [
       "89f752fa2f6848289fb5c0450d03e98b",
@@ -844,10 +896,11 @@
       "2026-08-28T19:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Bassett, VA",
-      null,
-      null,
+      36.759392,
+      -80.005814,
       "236220",
-      "https://sam.gov/opp/89f752fa2f6848289fb5c0450d03e98b/view"
+      "https://sam.gov/opp/89f752fa2f6848289fb5c0450d03e98b/view",
+      1
     ],
     [
       "5c069e6953304c81ad3e5fc7ea96f608",
@@ -859,10 +912,11 @@
       "2026-08-28T19:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "Northport, NY, 11768-2200",
-      null,
-      null,
+      40.919184,
+      -73.357388,
       "236220",
-      "https://sam.gov/opp/5c069e6953304c81ad3e5fc7ea96f608/view"
+      "https://sam.gov/opp/5c069e6953304c81ad3e5fc7ea96f608/view",
+      1
     ],
     [
       "9397ab19072e4c558b1116e818802404",
@@ -874,10 +928,11 @@
       "2026-08-28T19:00:00.000Z",
       "2026-07-31T00:00:00.000Z",
       "Manchester, NH, 03103",
-      null,
-      null,
+      42.956682,
+      -71.44127,
       "236220",
-      "https://sam.gov/opp/9397ab19072e4c558b1116e818802404/view"
+      "https://sam.gov/opp/9397ab19072e4c558b1116e818802404/view",
+      1
     ],
     [
       "cd323257af4a40279cf8fda0c5252311",
@@ -889,10 +944,11 @@
       "2026-08-28T19:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Moncure, NC",
-      null,
-      null,
+      35.634256,
+      -79.054124,
       "238110",
-      "https://sam.gov/opp/cd323257af4a40279cf8fda0c5252311/view"
+      "https://sam.gov/opp/cd323257af4a40279cf8fda0c5252311/view",
+      1
     ],
     [
       "652ea49d29ca40fb9b28995f102233b0",
@@ -904,10 +960,11 @@
       "2026-08-28T19:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Manchester, NH, 03104",
-      null,
-      null,
+      43.015901,
+      -71.470606,
       "238910",
-      "https://sam.gov/opp/652ea49d29ca40fb9b28995f102233b0/view"
+      "https://sam.gov/opp/652ea49d29ca40fb9b28995f102233b0/view",
+      1
     ],
     [
       "c60a5370aca044e0945dd29fa91e6af8",
@@ -919,10 +976,11 @@
       "2026-08-28T20:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Newington, NH, 03801",
-      null,
-      null,
+      43.052115,
+      -70.8172,
       "236210",
-      "https://sam.gov/opp/c60a5370aca044e0945dd29fa91e6af8/view"
+      "https://sam.gov/opp/c60a5370aca044e0945dd29fa91e6af8/view",
+      1
     ],
     [
       "142fd1914e6341029d505e98373fd4f3",
@@ -949,10 +1007,11 @@
       "2026-08-28T20:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Fort Bragg, NC, 28310",
-      null,
-      null,
+      35.039397,
+      -78.8081,
       "238220",
-      "https://sam.gov/opp/ec91aeb175af42ed98868402d6fa3406/view"
+      "https://sam.gov/opp/ec91aeb175af42ed98868402d6fa3406/view",
+      1
     ],
     [
       "512e51b5727a4a16879f8a13af4928c1",
@@ -964,10 +1023,11 @@
       "2026-08-28T20:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Homestead, FL, 33039",
-      null,
-      null,
+      25.496754,
+      -80.396976,
       "238990",
-      "https://sam.gov/opp/512e51b5727a4a16879f8a13af4928c1/view"
+      "https://sam.gov/opp/512e51b5727a4a16879f8a13af4928c1/view",
+      1
     ],
     [
       "4294367c3b364410a921f3b96ba00b57",
@@ -979,10 +1039,11 @@
       "2026-08-28T20:30:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Brunswick, GA, 31524",
-      null,
-      null,
+      31.217684,
+      -81.478432,
       "236220",
-      "https://sam.gov/opp/4294367c3b364410a921f3b96ba00b57/view"
+      "https://sam.gov/opp/4294367c3b364410a921f3b96ba00b57/view",
+      1
     ],
     [
       "6a2c00ebdf944334bfe25c238511d50e",
@@ -994,10 +1055,11 @@
       "2026-08-28T21:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Washington, DC, 20210",
-      null,
-      null,
+      38.887907,
+      -77.01197,
       "236220",
-      "https://sam.gov/opp/6a2c00ebdf944334bfe25c238511d50e/view"
+      "https://sam.gov/opp/6a2c00ebdf944334bfe25c238511d50e/view",
+      1
     ],
     [
       "565df1f17e664111a9d534c39de0d3e8",
@@ -1009,10 +1071,11 @@
       "2026-08-28T21:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Elkins, WV",
-      null,
-      null,
+      38.901315,
+      -79.846262,
       "237990",
-      "https://sam.gov/opp/565df1f17e664111a9d534c39de0d3e8/view"
+      "https://sam.gov/opp/565df1f17e664111a9d534c39de0d3e8/view",
+      1
     ],
     [
       "9d3dcfe97ac04c0e88db079494bfc89c",
@@ -1024,10 +1087,11 @@
       "2026-08-28T21:00:00.000Z",
       "2026-07-29T00:00:00.000Z",
       "FL, 32212",
-      null,
-      null,
+      30.211108,
+      -81.713909,
       "238220",
-      "https://sam.gov/opp/9d3dcfe97ac04c0e88db079494bfc89c/view"
+      "https://sam.gov/opp/9d3dcfe97ac04c0e88db079494bfc89c/view",
+      1
     ],
     [
       "bc26b77c28ce456893fe46800a8652d7",
@@ -1039,10 +1103,11 @@
       "2026-08-28T21:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Middlebury, CT",
-      null,
-      null,
+      41.532423,
+      -73.124952,
       "238330",
-      "https://sam.gov/opp/bc26b77c28ce456893fe46800a8652d7/view"
+      "https://sam.gov/opp/bc26b77c28ce456893fe46800a8652d7/view",
+      1
     ],
     [
       "6c4f690980814a1e857ad5f4f9670768",
@@ -1069,10 +1134,11 @@
       "2026-08-28T21:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Tyndall AFB, FL, 32403",
-      null,
-      null,
+      30.081251,
+      -85.583217,
       "238910",
-      "https://sam.gov/opp/78b1c74a20364dfda162491691d4270e/view"
+      "https://sam.gov/opp/78b1c74a20364dfda162491691d4270e/view",
+      1
     ],
     [
       "ccda0fdbb74745ee8faaac812e036aa5",
@@ -1084,10 +1150,11 @@
       "2026-08-28T22:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Washburn, WI",
-      null,
-      null,
+      46.656615,
+      -90.910338,
       "236220",
-      "https://sam.gov/opp/ccda0fdbb74745ee8faaac812e036aa5/view"
+      "https://sam.gov/opp/ccda0fdbb74745ee8faaac812e036aa5/view",
+      1
     ],
     [
       "a6ee10d9441c4c82934422eed16131a9",
@@ -1099,10 +1166,11 @@
       "2026-08-29T03:59:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "0, VA, 23237",
-      null,
-      null,
+      37.425675,
+      -77.444293,
       "236220",
-      "https://sam.gov/opp/a6ee10d9441c4c82934422eed16131a9/view"
+      "https://sam.gov/opp/a6ee10d9441c4c82934422eed16131a9/view",
+      1
     ],
     [
       "41bc3d8bc98f4063b1bc95c468436e5a",
@@ -1114,10 +1182,11 @@
       "2026-08-29T03:59:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Norfolk, VA",
-      null,
-      null,
+      36.885739,
+      -76.265649,
       "237990",
-      "https://sam.gov/opp/41bc3d8bc98f4063b1bc95c468436e5a/view"
+      "https://sam.gov/opp/41bc3d8bc98f4063b1bc95c468436e5a/view",
+      1
     ],
     [
       "c4dfd6e39a9c4b6aaa8e89073c28619a",
@@ -1129,10 +1198,11 @@
       "2026-08-29T03:59:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "0, VA, 23237",
-      null,
-      null,
+      37.395652,
+      -77.450808,
       "238220",
-      "https://sam.gov/opp/c4dfd6e39a9c4b6aaa8e89073c28619a/view"
+      "https://sam.gov/opp/c4dfd6e39a9c4b6aaa8e89073c28619a/view",
+      1
     ],
     [
       "f67dbf25d5b742a79f048c5f5fe6fbfe",
@@ -1144,10 +1214,11 @@
       "2026-08-30T04:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Staten Island, NY, 10305",
-      null,
-      null,
+      40.575729,
+      -74.087321,
       "238220",
-      "https://sam.gov/opp/f67dbf25d5b742a79f048c5f5fe6fbfe/view"
+      "https://sam.gov/opp/f67dbf25d5b742a79f048c5f5fe6fbfe/view",
+      1
     ],
     [
       "937b3434cd974a758dec0ddcd2c36310",
@@ -1159,10 +1230,11 @@
       "2026-08-30T19:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Saint Ignace, MI, 49781",
-      null,
-      null,
+      46.012584,
+      -84.724288,
       "238220",
-      "https://sam.gov/opp/937b3434cd974a758dec0ddcd2c36310/view"
+      "https://sam.gov/opp/937b3434cd974a758dec0ddcd2c36310/view",
+      1
     ],
     [
       "b7b6433f707543c9920e45a01cef3631",
@@ -1174,10 +1246,11 @@
       "2026-08-31T11:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Fayetteville, NC, 28301",
-      null,
-      null,
+      35.052048,
+      -78.892591,
       "237110",
-      "https://sam.gov/opp/b7b6433f707543c9920e45a01cef3631/view"
+      "https://sam.gov/opp/b7b6433f707543c9920e45a01cef3631/view",
+      1
     ],
     [
       "042c870ef86b4b86864510032fb1da39",
@@ -1189,10 +1262,11 @@
       "2026-08-31T12:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "New London, CT, 06320",
-      null,
-      null,
+      41.379232,
+      -72.096929,
       "237110",
-      "https://sam.gov/opp/042c870ef86b4b86864510032fb1da39/view"
+      "https://sam.gov/opp/042c870ef86b4b86864510032fb1da39/view",
+      1
     ],
     [
       "a4b1b30606614254ae20de9e52822c15",
@@ -1204,10 +1278,11 @@
       "2026-08-31T14:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Swanton, OH, 43558",
-      null,
-      null,
+      41.575333,
+      -83.857356,
       "238160",
-      "https://sam.gov/opp/a4b1b30606614254ae20de9e52822c15/view"
+      "https://sam.gov/opp/a4b1b30606614254ae20de9e52822c15/view",
+      1
     ],
     [
       "34269f782ca74e86b14fa586518419e1",
@@ -1219,10 +1294,11 @@
       "2026-08-31T14:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Norfolk, VA, 23511",
-      null,
-      null,
+      36.951345,
+      -76.321513,
       "238220",
-      "https://sam.gov/opp/34269f782ca74e86b14fa586518419e1/view"
+      "https://sam.gov/opp/34269f782ca74e86b14fa586518419e1/view",
+      1
     ],
     [
       "3bc9b7c358d1450fbbbe1c2a09e8d258",
@@ -1234,10 +1310,11 @@
       "2026-08-31T14:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Lyons, NJ, 07939",
-      null,
-      null,
+      40.679398,
+      -74.553691,
       "238290",
-      "https://sam.gov/opp/3bc9b7c358d1450fbbbe1c2a09e8d258/view"
+      "https://sam.gov/opp/3bc9b7c358d1450fbbbe1c2a09e8d258/view",
+      1
     ],
     [
       "1ca67a0e10bc49c9af24c84285f44479",
@@ -1249,10 +1326,11 @@
       "2026-08-31T15:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Charlottesville, VA",
-      null,
-      null,
+      38.043498,
+      -78.45216,
       "236220",
-      "https://sam.gov/opp/1ca67a0e10bc49c9af24c84285f44479/view"
+      "https://sam.gov/opp/1ca67a0e10bc49c9af24c84285f44479/view",
+      1
     ],
     [
       "73c8a794bb8d4e4e957ae388c62a031c",
@@ -1264,10 +1342,11 @@
       "2026-08-31T15:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Indianapolis, IN, 46208",
-      null,
-      null,
+      39.847287,
+      -86.174741,
       "236220",
-      "https://sam.gov/opp/73c8a794bb8d4e4e957ae388c62a031c/view"
+      "https://sam.gov/opp/73c8a794bb8d4e4e957ae388c62a031c/view",
+      1
     ],
     [
       "0fc20d6db4c24d6397099b31e9da8eb1",
@@ -1279,10 +1358,11 @@
       "2026-08-31T15:00:00.000Z",
       "2026-08-01T00:00:00.000Z",
       "RI, 02841",
-      null,
-      null,
+      41.508708,
+      -71.306053,
       "236220",
-      "https://sam.gov/opp/0fc20d6db4c24d6397099b31e9da8eb1/view"
+      "https://sam.gov/opp/0fc20d6db4c24d6397099b31e9da8eb1/view",
+      1
     ],
     [
       "47fb44d524a849f0a47c98886cf57c68",
@@ -1294,10 +1374,11 @@
       "2026-08-31T15:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Campbellsville, KY, 42718",
-      null,
-      null,
+      37.324508,
+      -85.341422,
       "237310",
-      "https://sam.gov/opp/47fb44d524a849f0a47c98886cf57c68/view"
+      "https://sam.gov/opp/47fb44d524a849f0a47c98886cf57c68/view",
+      1
     ],
     [
       "6b1d173fa83a4fa7996b64f31e2f464c",
@@ -1309,10 +1390,11 @@
       "2026-08-31T16:00:00.000Z",
       "2026-07-30T00:00:00.000Z",
       "Cherry Point, NC, 28533",
-      null,
-      null,
+      34.894261,
+      -76.915265,
       "236220",
-      "https://sam.gov/opp/6b1d173fa83a4fa7996b64f31e2f464c/view"
+      "https://sam.gov/opp/6b1d173fa83a4fa7996b64f31e2f464c/view",
+      1
     ],
     [
       "0c1ee8e443a04a5b864a2c1a54d84f9d",
@@ -1324,10 +1406,11 @@
       "2026-08-31T16:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Washington, DC, 20540",
-      null,
-      null,
+      38.883892,
+      -77.016176,
       "238210",
-      "https://sam.gov/opp/0c1ee8e443a04a5b864a2c1a54d84f9d/view"
+      "https://sam.gov/opp/0c1ee8e443a04a5b864a2c1a54d84f9d/view",
+      1
     ],
     [
       "7ca21bc489324214938ddcb756dd674c",
@@ -1339,10 +1422,11 @@
       "2026-08-31T16:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Newark, DE, 19713",
-      null,
-      null,
+      39.654804,
+      -75.724904,
       "238220",
-      "https://sam.gov/opp/7ca21bc489324214938ddcb756dd674c/view"
+      "https://sam.gov/opp/7ca21bc489324214938ddcb756dd674c/view",
+      1
     ],
     [
       "d50fcb0e8775458da554599dfd7f4072",
@@ -1354,10 +1438,11 @@
       "2026-08-31T16:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Cleveland, OH, 44106",
-      null,
-      null,
+      41.506152,
+      -81.613163,
       "238220",
-      "https://sam.gov/opp/d50fcb0e8775458da554599dfd7f4072/view"
+      "https://sam.gov/opp/d50fcb0e8775458da554599dfd7f4072/view",
+      1
     ],
     [
       "cc9d3f16cdb94dda81ff2b736866860c",
@@ -1369,10 +1454,11 @@
       "2026-08-31T16:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Hampton, VA, 23667",
-      null,
-      null,
+      37.00083,
+      -76.35544,
       "238220",
-      "https://sam.gov/opp/cc9d3f16cdb94dda81ff2b736866860c/view"
+      "https://sam.gov/opp/cc9d3f16cdb94dda81ff2b736866860c/view",
+      1
     ],
     [
       "7149b72b2f7d40e5a6dac1088768d637",
@@ -1384,10 +1470,11 @@
       "2026-08-31T16:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Cleveland, OH, 44106",
-      null,
-      null,
+      41.500984,
+      -81.630425,
       "238220",
-      "https://sam.gov/opp/7149b72b2f7d40e5a6dac1088768d637/view"
+      "https://sam.gov/opp/7149b72b2f7d40e5a6dac1088768d637/view",
+      1
     ],
     [
       "a6b5e41cf6714b789105298e1a550f0a",
@@ -1399,10 +1486,11 @@
       "2026-08-31T16:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Brooklyn, NY, 11232",
-      null,
-      null,
+      40.629119,
+      -74.021084,
       "238330",
-      "https://sam.gov/opp/a6b5e41cf6714b789105298e1a550f0a/view"
+      "https://sam.gov/opp/a6b5e41cf6714b789105298e1a550f0a/view",
+      1
     ],
     [
       "0616570226494c2e812fc7582de753c1",
@@ -1414,10 +1502,11 @@
       "2026-08-31T17:00:00.000Z",
       "2026-08-10T00:00:00.000Z",
       "Charleston, SC, 29401",
-      null,
-      null,
+      32.763755,
+      -79.955213,
       "236220",
-      "https://sam.gov/opp/0616570226494c2e812fc7582de753c1/view"
+      "https://sam.gov/opp/0616570226494c2e812fc7582de753c1/view",
+      1
     ],
     [
       "be44ce861ba84bcdb92158681a155de8",
@@ -1429,10 +1518,11 @@
       "2026-08-31T17:00:00.000Z",
       "2026-07-31T00:00:00.000Z",
       "Washington, DC, 20220",
-      null,
-      null,
+      38.892462,
+      -77.038585,
       "236220",
-      "https://sam.gov/opp/be44ce861ba84bcdb92158681a155de8/view"
+      "https://sam.gov/opp/be44ce861ba84bcdb92158681a155de8/view",
+      1
     ],
     [
       "8c20394dad3e43ea9466b00acfb6e61f",
@@ -1444,10 +1534,11 @@
       "2026-08-31T17:00:00.000Z",
       "2026-07-31T00:00:00.000Z",
       "Washington, DC, 20220",
-      null,
-      null,
+      38.910271,
+      -77.031571,
       "236220",
-      "https://sam.gov/opp/8c20394dad3e43ea9466b00acfb6e61f/view"
+      "https://sam.gov/opp/8c20394dad3e43ea9466b00acfb6e61f/view",
+      1
     ],
     [
       "1fa96449951544deba4d964cf8fc18d1",
@@ -1459,10 +1550,11 @@
       "2026-08-31T17:00:00.000Z",
       "2026-07-31T00:00:00.000Z",
       "Washington, DC, 20220",
-      null,
-      null,
+      38.91637,
+      -77.021215,
       "236220",
-      "https://sam.gov/opp/1fa96449951544deba4d964cf8fc18d1/view"
+      "https://sam.gov/opp/1fa96449951544deba4d964cf8fc18d1/view",
+      1
     ],
     [
       "de6e01ba6fc640a2952e8064d6805230",
@@ -1474,10 +1566,11 @@
       "2026-08-31T18:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Newport, RI, 02841",
-      null,
-      null,
+      41.50489,
+      -71.300145,
       "236220",
-      "https://sam.gov/opp/de6e01ba6fc640a2952e8064d6805230/view"
+      "https://sam.gov/opp/de6e01ba6fc640a2952e8064d6805230/view",
+      1
     ],
     [
       "f640529ef0314732b3fcc5a9c7ad9577",
@@ -1489,10 +1582,11 @@
       "2026-08-31T18:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Albany, NY, 12208",
-      null,
-      null,
+      42.63554,
+      -73.774459,
       "236220",
-      "https://sam.gov/opp/f640529ef0314732b3fcc5a9c7ad9577/view"
+      "https://sam.gov/opp/f640529ef0314732b3fcc5a9c7ad9577/view",
+      1
     ],
     [
       "2afb653f9e4b40e28361329d994a349a",
@@ -1504,10 +1598,11 @@
       "2026-08-31T18:00:00.000Z",
       "2026-07-30T00:00:00.000Z",
       "Newport, RI, 02841",
-      null,
-      null,
+      41.515804,
+      -71.292549,
       "236220",
-      "https://sam.gov/opp/2afb653f9e4b40e28361329d994a349a/view"
+      "https://sam.gov/opp/2afb653f9e4b40e28361329d994a349a/view",
+      1
     ],
     [
       "ed05dcaccc004824b67693be44db5ff0",
@@ -1534,10 +1629,11 @@
       "2026-08-31T18:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "Danbury, CT, 06811",
-      null,
-      null,
+      41.436504,
+      -73.484548,
       "238110",
-      "https://sam.gov/opp/9458a16e912d4d1db2844b1b6e72c345/view"
+      "https://sam.gov/opp/9458a16e912d4d1db2844b1b6e72c345/view",
+      1
     ],
     [
       "917426dc655a40fbb1a899c72ef39fdf",
@@ -1549,10 +1645,11 @@
       "2026-08-31T18:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "Arlington, VA, 22204",
-      null,
-      null,
+      38.864869,
+      -77.100947,
       "238160",
-      "https://sam.gov/opp/917426dc655a40fbb1a899c72ef39fdf/view"
+      "https://sam.gov/opp/917426dc655a40fbb1a899c72ef39fdf/view",
+      1
     ],
     [
       "d072dcc3c9cd4c9387b6ae8434c66ff3",
@@ -1564,10 +1661,11 @@
       "2026-08-31T18:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Prairie du Sac, WI, 53578",
-      null,
-      null,
+      43.272041,
+      -89.749779,
       "238190",
-      "https://sam.gov/opp/d072dcc3c9cd4c9387b6ae8434c66ff3/view"
+      "https://sam.gov/opp/d072dcc3c9cd4c9387b6ae8434c66ff3/view",
+      1
     ],
     [
       "27db76868c724215a3af6564e5656925",
@@ -1579,10 +1677,11 @@
       "2026-08-31T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Camp Lejeune, NC, 28547",
-      null,
-      null,
+      34.675804,
+      -77.371204,
       "238220",
-      "https://sam.gov/opp/27db76868c724215a3af6564e5656925/view"
+      "https://sam.gov/opp/27db76868c724215a3af6564e5656925/view",
+      1
     ],
     [
       "ea7e4a3c23194bfb9eedea229b5e40e8",
@@ -1594,10 +1693,11 @@
       "2026-08-31T18:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Milwaukee, WI, 53295-0004",
-      null,
-      null,
+      43.04057,
+      -87.894617,
       "238910",
-      "https://sam.gov/opp/ea7e4a3c23194bfb9eedea229b5e40e8/view"
+      "https://sam.gov/opp/ea7e4a3c23194bfb9eedea229b5e40e8/view",
+      1
     ],
     [
       "5acd109fa34b441093a9bf7ba6d6a6e4",
@@ -1609,10 +1709,11 @@
       "2026-08-31T18:00:00.000Z",
       "2026-08-23T00:00:00.000Z",
       "Lorain, OH, 44052",
-      null,
-      null,
+      41.450767,
+      -82.154431,
       "238990",
-      "https://sam.gov/opp/5acd109fa34b441093a9bf7ba6d6a6e4/view"
+      "https://sam.gov/opp/5acd109fa34b441093a9bf7ba6d6a6e4/view",
+      1
     ],
     [
       "0653828620d745ac9932a8baf29ec24e",
@@ -1624,10 +1725,11 @@
       "2026-08-31T19:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Camp Lejeune, NC, 28547",
-      null,
-      null,
+      34.680836,
+      -77.354864,
       "236220",
-      "https://sam.gov/opp/0653828620d745ac9932a8baf29ec24e/view"
+      "https://sam.gov/opp/0653828620d745ac9932a8baf29ec24e/view",
+      1
     ],
     [
       "57249e03f3024f708fa2290e988fd710",
@@ -1639,10 +1741,11 @@
       "2026-08-31T19:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Camp Lejeune, NC, 28547",
-      null,
-      null,
+      34.688395,
+      -77.379225,
       "237310",
-      "https://sam.gov/opp/57249e03f3024f708fa2290e988fd710/view"
+      "https://sam.gov/opp/57249e03f3024f708fa2290e988fd710/view",
+      1
     ],
     [
       "50e7c7552efa49e580850283881c846c",
@@ -1654,10 +1757,11 @@
       "2026-08-31T19:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Maynard, MA, 01754",
-      null,
-      null,
+      42.460291,
+      -71.444739,
       "238150",
-      "https://sam.gov/opp/50e7c7552efa49e580850283881c846c/view"
+      "https://sam.gov/opp/50e7c7552efa49e580850283881c846c/view",
+      1
     ],
     [
       "2a31d786ce434ba29ae6a0d6235f95ba",
@@ -1669,10 +1773,11 @@
       "2026-08-31T20:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Warner Robins, GA, 31093",
-      null,
-      null,
+      32.627882,
+      -83.63147,
       "236220",
-      "https://sam.gov/opp/2a31d786ce434ba29ae6a0d6235f95ba/view"
+      "https://sam.gov/opp/2a31d786ce434ba29ae6a0d6235f95ba/view",
+      1
     ],
     [
       "784eda874abc4f28aec90b4c7b12f1d6",
@@ -1699,10 +1804,11 @@
       "2026-08-31T20:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Leeds, MA, 01053",
-      null,
-      null,
+      42.33346,
+      -72.72498,
       "238220",
-      "https://sam.gov/opp/da41ec14749a43ddae3588661a0c8f05/view"
+      "https://sam.gov/opp/da41ec14749a43ddae3588661a0c8f05/view",
+      1
     ],
     [
       "abce1effbe124d31b1f42c279c76d81b",
@@ -1714,10 +1820,11 @@
       "2026-08-31T20:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Leeds, MA, 01053",
-      null,
-      null,
+      42.355137,
+      -72.715371,
       "238290",
-      "https://sam.gov/opp/abce1effbe124d31b1f42c279c76d81b/view"
+      "https://sam.gov/opp/abce1effbe124d31b1f42c279c76d81b/view",
+      1
     ],
     [
       "bb2d7bbe713f4f7e83cd98ef26a734d7",
@@ -1729,10 +1836,11 @@
       "2026-08-31T20:30:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Augusta, ME, 04330",
-      null,
-      null,
+      44.305375,
+      -69.769005,
       "236220",
-      "https://sam.gov/opp/bb2d7bbe713f4f7e83cd98ef26a734d7/view"
+      "https://sam.gov/opp/bb2d7bbe713f4f7e83cd98ef26a734d7/view",
+      1
     ],
     [
       "0e2bff26cc02470480cdcabd24c1da60",
@@ -1744,10 +1852,11 @@
       "2026-08-31T21:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Washington, DC, 20024",
-      null,
-      null,
+      38.889889,
+      -77.027328,
       "236220",
-      "https://sam.gov/opp/0e2bff26cc02470480cdcabd24c1da60/view"
+      "https://sam.gov/opp/0e2bff26cc02470480cdcabd24c1da60/view",
+      1
     ],
     [
       "d224edaa2aed47be91134e47f9fff103",
@@ -1759,10 +1868,11 @@
       "2026-08-31T21:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Triadelphia, WV, 26059",
-      null,
-      null,
+      40.065964,
+      -80.590772,
       "238220",
-      "https://sam.gov/opp/d224edaa2aed47be91134e47f9fff103/view"
+      "https://sam.gov/opp/d224edaa2aed47be91134e47f9fff103/view",
+      1
     ],
     [
       "3e90ca8d48cc485d86f6921c5d2508bd",
@@ -1774,10 +1884,11 @@
       "2026-08-31T21:00:00.000Z",
       "2026-08-07T00:00:00.000Z",
       "Hilliard, FL, 32046",
-      null,
-      null,
+      30.677504,
+      -81.955884,
       "238220",
-      "https://sam.gov/opp/3e90ca8d48cc485d86f6921c5d2508bd/view"
+      "https://sam.gov/opp/3e90ca8d48cc485d86f6921c5d2508bd/view",
+      1
     ],
     [
       "8854010d8d0044a68ea8c965049f6908",
@@ -1789,10 +1900,11 @@
       "2026-09-01T02:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "OH, 44473",
-      null,
-      null,
+      41.212107,
+      -80.65763,
       "236220",
-      "https://sam.gov/opp/8854010d8d0044a68ea8c965049f6908/view"
+      "https://sam.gov/opp/8854010d8d0044a68ea8c965049f6908/view",
+      1
     ],
     [
       "7878d51078f94d9e8104474be7d02479",
@@ -1804,10 +1916,11 @@
       "2026-09-01T12:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "CT, 06320",
-      null,
-      null,
+      41.356496,
+      -72.107753,
       "238290",
-      "https://sam.gov/opp/7878d51078f94d9e8104474be7d02479/view"
+      "https://sam.gov/opp/7878d51078f94d9e8104474be7d02479/view",
+      1
     ],
     [
       "475f4fc0a2ca4ffda93c2bc14791e1e0",
@@ -1819,10 +1932,11 @@
       "2026-09-01T12:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "New London, CT, 06320",
-      null,
-      null,
+      41.356424,
+      -72.076751,
       "238350",
-      "https://sam.gov/opp/475f4fc0a2ca4ffda93c2bc14791e1e0/view"
+      "https://sam.gov/opp/475f4fc0a2ca4ffda93c2bc14791e1e0/view",
+      1
     ],
     [
       "af662abe911c4dda8c05e881f65c0cbe",
@@ -1834,10 +1948,11 @@
       "2026-09-01T14:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Watervliet, NY, 12189",
-      null,
-      null,
+      42.723815,
+      -73.712719,
       "237120",
-      "https://sam.gov/opp/af662abe911c4dda8c05e881f65c0cbe/view"
+      "https://sam.gov/opp/af662abe911c4dda8c05e881f65c0cbe/view",
+      1
     ],
     [
       "6518adb267df468fa6f4ec70306d80da",
@@ -1849,10 +1964,11 @@
       "2026-09-01T14:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "Cape Charles, VA",
-      null,
-      null,
+      37.269723,
+      -75.965741,
       "238220",
-      "https://sam.gov/opp/6518adb267df468fa6f4ec70306d80da/view"
+      "https://sam.gov/opp/6518adb267df468fa6f4ec70306d80da/view",
+      1
     ],
     [
       "93ea8447f6bb4b2d8d866e9435ec2283",
@@ -1864,10 +1980,11 @@
       "2026-09-01T15:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Chicago, IL, 60628",
-      null,
-      null,
+      41.716351,
+      -87.631317,
       "236220",
-      "https://sam.gov/opp/93ea8447f6bb4b2d8d866e9435ec2283/view"
+      "https://sam.gov/opp/93ea8447f6bb4b2d8d866e9435ec2283/view",
+      1
     ],
     [
       "b2357230e61442ce84fb9b5b31f2f980",
@@ -1879,10 +1996,11 @@
       "2026-09-01T15:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "IL, 60064",
-      null,
-      null,
+      42.316364,
+      -87.847768,
       "238210",
-      "https://sam.gov/opp/b2357230e61442ce84fb9b5b31f2f980/view"
+      "https://sam.gov/opp/b2357230e61442ce84fb9b5b31f2f980/view",
+      1
     ],
     [
       "190dac8e35b343d6af84079f6c2350cb",
@@ -1894,10 +2012,11 @@
       "2026-09-01T16:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Cherry Point, NC, 28533",
-      null,
-      null,
+      34.905852,
+      -76.905638,
       "236220",
-      "https://sam.gov/opp/190dac8e35b343d6af84079f6c2350cb/view"
+      "https://sam.gov/opp/190dac8e35b343d6af84079f6c2350cb/view",
+      1
     ],
     [
       "97f36bd2abd441349d5f72f235714d04",
@@ -1909,10 +2028,11 @@
       "2026-09-01T16:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Elizabeth City, NC, 27909",
-      null,
-      null,
+      36.318805,
+      -76.248254,
       "237120",
-      "https://sam.gov/opp/97f36bd2abd441349d5f72f235714d04/view"
+      "https://sam.gov/opp/97f36bd2abd441349d5f72f235714d04/view",
+      1
     ],
     [
       "dba83caa72074805b832f26b028526fd",
@@ -1939,10 +2059,11 @@
       "2026-09-01T16:30:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "0, VA, 23665",
-      null,
-      null,
+      37.081346,
+      -76.354262,
       "238210",
-      "https://sam.gov/opp/a1ce30cb5b5f419388ec66fbb94460e9/view"
+      "https://sam.gov/opp/a1ce30cb5b5f419388ec66fbb94460e9/view",
+      1
     ],
     [
       "03343628609f43a498e9436e52242f2b",
@@ -1954,10 +2075,11 @@
       "2026-09-01T17:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Gaithersburg, MD, 20899",
-      null,
-      null,
+      39.111611,
+      -77.230771,
       "238220",
-      "https://sam.gov/opp/03343628609f43a498e9436e52242f2b/view"
+      "https://sam.gov/opp/03343628609f43a498e9436e52242f2b/view",
+      1
     ],
     [
       "61ab948ea6bc41d3b28935089c3f8f7c",
@@ -1969,10 +2091,11 @@
       "2026-09-01T17:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Cherry Point, NC, 28533",
-      null,
-      null,
+      34.910037,
+      -76.870656,
       "238220",
-      "https://sam.gov/opp/61ab948ea6bc41d3b28935089c3f8f7c/view"
+      "https://sam.gov/opp/61ab948ea6bc41d3b28935089c3f8f7c/view",
+      1
     ],
     [
       "fc7f8fd8712d4c6faed9f3979cd09c38",
@@ -1984,10 +2107,11 @@
       "2026-09-01T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Cherry Point, NC, 28533",
-      null,
-      null,
+      34.900365,
+      -76.917669,
       "236220",
-      "https://sam.gov/opp/fc7f8fd8712d4c6faed9f3979cd09c38/view"
+      "https://sam.gov/opp/fc7f8fd8712d4c6faed9f3979cd09c38/view",
+      1
     ],
     [
       "285e2e3852144b8985755b638a81a1a1",
@@ -1999,10 +2123,11 @@
       "2026-09-01T18:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Norfolk, VA, 23511",
-      null,
-      null,
+      36.918581,
+      -76.29754,
       "236220",
-      "https://sam.gov/opp/285e2e3852144b8985755b638a81a1a1/view"
+      "https://sam.gov/opp/285e2e3852144b8985755b638a81a1a1/view",
+      1
     ],
     [
       "6473994ab93f42248b2f0806a937f518",
@@ -2014,10 +2139,11 @@
       "2026-09-01T18:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Newport, RI",
-      null,
-      null,
+      41.487144,
+      -71.329964,
       "236220",
-      "https://sam.gov/opp/6473994ab93f42248b2f0806a937f518/view"
+      "https://sam.gov/opp/6473994ab93f42248b2f0806a937f518/view",
+      1
     ],
     [
       "cb04064d6469441a8d2761505ac977c4",
@@ -2029,10 +2155,11 @@
       "2026-09-01T18:00:00.000Z",
       "2026-08-04T00:00:00.000Z",
       "Groton, CT",
-      null,
-      null,
+      41.376358,
+      -72.098059,
       "237990",
-      "https://sam.gov/opp/cb04064d6469441a8d2761505ac977c4/view"
+      "https://sam.gov/opp/cb04064d6469441a8d2761505ac977c4/view",
+      1
     ],
     [
       "3dfda36fbfbb40de8c90d723e64b176a",
@@ -2044,10 +2171,11 @@
       "2026-09-01T18:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Portsmouth, VA, 23709",
-      null,
-      null,
+      36.880235,
+      -76.376191,
       "238190",
-      "https://sam.gov/opp/3dfda36fbfbb40de8c90d723e64b176a/view"
+      "https://sam.gov/opp/3dfda36fbfbb40de8c90d723e64b176a/view",
+      1
     ],
     [
       "bbdef3280dc8433b8ce6ccd67d0ae3fd",
@@ -2059,10 +2187,11 @@
       "2026-09-01T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Charleston, SC",
-      null,
-      null,
+      32.83637,
+      -79.932758,
       "238220",
-      "https://sam.gov/opp/bbdef3280dc8433b8ce6ccd67d0ae3fd/view"
+      "https://sam.gov/opp/bbdef3280dc8433b8ce6ccd67d0ae3fd/view",
+      1
     ],
     [
       "6cc8d21a11bd4b5aae2e40c1a4d13aa8",
@@ -2074,10 +2203,11 @@
       "2026-09-01T19:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Columbus, MS, 39705",
-      null,
-      null,
+      33.560567,
+      -88.458134,
       "236220",
-      "https://sam.gov/opp/6cc8d21a11bd4b5aae2e40c1a4d13aa8/view"
+      "https://sam.gov/opp/6cc8d21a11bd4b5aae2e40c1a4d13aa8/view",
+      1
     ],
     [
       "f5808e952d99441fb629b8ff5fd6442c",
@@ -2089,10 +2219,11 @@
       "2026-09-01T19:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Fort Bragg, NC, 28307",
-      null,
-      null,
+      35.16048,
+      -79.025814,
       "238210",
-      "https://sam.gov/opp/f5808e952d99441fb629b8ff5fd6442c/view"
+      "https://sam.gov/opp/f5808e952d99441fb629b8ff5fd6442c/view",
+      1
     ],
     [
       "b339a784fd0f40eea3d2f241599f694b",
@@ -2104,10 +2235,11 @@
       "2026-09-01T19:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Camp Lejeune, NC, 28547",
-      null,
-      null,
+      34.667424,
+      -77.36639,
       "238220",
-      "https://sam.gov/opp/b339a784fd0f40eea3d2f241599f694b/view"
+      "https://sam.gov/opp/b339a784fd0f40eea3d2f241599f694b/view",
+      1
     ],
     [
       "319ce2b4ad204209a434e30292642b72",
@@ -2119,10 +2251,11 @@
       "2026-09-01T19:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Tupelo, MS, 38804",
-      null,
-      null,
+      34.299419,
+      -88.665938,
       "238990",
-      "https://sam.gov/opp/319ce2b4ad204209a434e30292642b72/view"
+      "https://sam.gov/opp/319ce2b4ad204209a434e30292642b72/view",
+      1
     ],
     [
       "a52345953581410b86134bba5a617dec",
@@ -2134,10 +2267,11 @@
       "2026-09-01T20:00:00.000Z",
       "2026-08-10T00:00:00.000Z",
       "Brooklyn, NY, 11209",
-      null,
-      null,
+      40.630868,
+      -74.028646,
       "236220",
-      "https://sam.gov/opp/a52345953581410b86134bba5a617dec/view"
+      "https://sam.gov/opp/a52345953581410b86134bba5a617dec/view",
+      1
     ],
     [
       "d6a854341b87492f83003a9d27696189",
@@ -2149,10 +2283,11 @@
       "2026-09-02T14:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Biloxi, MS, 39534",
-      null,
-      null,
+      30.402924,
+      -88.925763,
       "236220",
-      "https://sam.gov/opp/d6a854341b87492f83003a9d27696189/view"
+      "https://sam.gov/opp/d6a854341b87492f83003a9d27696189/view",
+      1
     ],
     [
       "4abe0d569da84fe69812c392ca902859",
@@ -2164,10 +2299,11 @@
       "2026-09-02T14:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Fort Belvoir, VA",
-      null,
-      null,
+      38.706113,
+      -77.139592,
       "238320",
-      "https://sam.gov/opp/4abe0d569da84fe69812c392ca902859/view"
+      "https://sam.gov/opp/4abe0d569da84fe69812c392ca902859/view",
+      1
     ],
     [
       "37706a41f20149bea44e20256eddf6e7",
@@ -2179,10 +2315,11 @@
       "2026-09-02T15:00:00.000Z",
       "2026-08-10T00:00:00.000Z",
       "0, MA, 01731",
-      null,
-      null,
+      42.468176,
+      -71.283008,
       "238220",
-      "https://sam.gov/opp/37706a41f20149bea44e20256eddf6e7/view"
+      "https://sam.gov/opp/37706a41f20149bea44e20256eddf6e7/view",
+      1
     ],
     [
       "7c256a8696aa485e98071e54cabdf9bc",
@@ -2194,10 +2331,11 @@
       "2026-09-02T16:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Cherry Point, NC, 28533",
-      null,
-      null,
+      34.913178,
+      -76.877908,
       "236220",
-      "https://sam.gov/opp/7c256a8696aa485e98071e54cabdf9bc/view"
+      "https://sam.gov/opp/7c256a8696aa485e98071e54cabdf9bc/view",
+      1
     ],
     [
       "03f19ce52a35424aa330873563be5d79",
@@ -2209,10 +2347,11 @@
       "2026-09-02T16:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Washington, DC, 20226",
-      null,
-      null,
+      38.891838,
+      -77.002689,
       "238210",
-      "https://sam.gov/opp/03f19ce52a35424aa330873563be5d79/view"
+      "https://sam.gov/opp/03f19ce52a35424aa330873563be5d79/view",
+      1
     ],
     [
       "bc4f06be5d60487ebe191e9bf7334133",
@@ -2224,10 +2363,11 @@
       "2026-09-02T17:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Marion, IL, 62959",
-      null,
-      null,
+      37.724444,
+      -88.905433,
       "236220",
-      "https://sam.gov/opp/bc4f06be5d60487ebe191e9bf7334133/view"
+      "https://sam.gov/opp/bc4f06be5d60487ebe191e9bf7334133/view",
+      1
     ],
     [
       "f5a774ec34d0443786de122992586020",
@@ -2239,10 +2379,11 @@
       "2026-09-02T17:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "Decatur, GA, 30033",
-      null,
-      null,
+      33.836121,
+      -84.284825,
       "238210",
-      "https://sam.gov/opp/f5a774ec34d0443786de122992586020/view"
+      "https://sam.gov/opp/f5a774ec34d0443786de122992586020/view",
+      1
     ],
     [
       "6a3e8c37f0b844bdb62f91cbe328c1e3",
@@ -2254,10 +2395,11 @@
       "2026-09-02T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Hines, IL, 60141",
-      null,
-      null,
+      41.849621,
+      -87.808311,
       "236220",
-      "https://sam.gov/opp/6a3e8c37f0b844bdb62f91cbe328c1e3/view"
+      "https://sam.gov/opp/6a3e8c37f0b844bdb62f91cbe328c1e3/view",
+      1
     ],
     [
       "b68e1b4b06e14b5a9c4d7ddd9db374e1",
@@ -2269,10 +2411,11 @@
       "2026-09-02T18:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Port Sanilac, MI, 48469",
-      null,
-      null,
+      43.422114,
+      -82.54154,
       "237990",
-      "https://sam.gov/opp/b68e1b4b06e14b5a9c4d7ddd9db374e1/view"
+      "https://sam.gov/opp/b68e1b4b06e14b5a9c4d7ddd9db374e1/view",
+      1
     ],
     [
       "fa58c5d72ae84d799ac9359ce0a3e537",
@@ -2284,10 +2427,11 @@
       "2026-09-02T18:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Loretto, PA, 15940",
-      null,
-      null,
+      40.480664,
+      -78.632536,
       "238110",
-      "https://sam.gov/opp/fa58c5d72ae84d799ac9359ce0a3e537/view"
+      "https://sam.gov/opp/fa58c5d72ae84d799ac9359ce0a3e537/view",
+      1
     ],
     [
       "9e41392b0098423e96144465cf79210b",
@@ -2299,10 +2443,11 @@
       "2026-09-02T18:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "Lisbon, OH, 44432",
-      null,
-      null,
+      40.756501,
+      -80.770392,
       "238210",
-      "https://sam.gov/opp/9e41392b0098423e96144465cf79210b/view"
+      "https://sam.gov/opp/9e41392b0098423e96144465cf79210b/view",
+      1
     ],
     [
       "af77d61e5dd24b4fb898a2cb545353a5",
@@ -2314,10 +2459,11 @@
       "2026-09-02T18:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Nashville, TN, 37212",
-      null,
-      null,
+      36.124643,
+      -86.792727,
       "238210",
-      "https://sam.gov/opp/af77d61e5dd24b4fb898a2cb545353a5/view"
+      "https://sam.gov/opp/af77d61e5dd24b4fb898a2cb545353a5/view",
+      1
     ],
     [
       "96442e0e581c4bb992a77d57b6f3ec5b",
@@ -2329,10 +2475,11 @@
       "2026-09-02T18:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Murfreesboro, TN, 37129",
-      null,
-      null,
+      35.875693,
+      -86.388469,
       "238210",
-      "https://sam.gov/opp/96442e0e581c4bb992a77d57b6f3ec5b/view"
+      "https://sam.gov/opp/96442e0e581c4bb992a77d57b6f3ec5b/view",
+      1
     ],
     [
       "509717f91a5d466890810e1015bb4165",
@@ -2344,10 +2491,11 @@
       "2026-09-02T19:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Ottawa, IL",
-      null,
-      null,
+      41.336156,
+      -88.848921,
       "238220",
-      "https://sam.gov/opp/509717f91a5d466890810e1015bb4165/view"
+      "https://sam.gov/opp/509717f91a5d466890810e1015bb4165/view",
+      1
     ],
     [
       "b8c5238c290e419f916b8b98ed0ad353",
@@ -2359,10 +2507,11 @@
       "2026-09-02T19:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Montgomery, AL, 36112",
-      null,
-      null,
+      32.373578,
+      -86.339516,
       "238910",
-      "https://sam.gov/opp/b8c5238c290e419f916b8b98ed0ad353/view"
+      "https://sam.gov/opp/b8c5238c290e419f916b8b98ed0ad353/view",
+      1
     ],
     [
       "a48ca0867f2043e29988ba36e8e53049",
@@ -2374,10 +2523,11 @@
       "2026-09-02T21:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Indianapolis, IN, 46202",
-      null,
-      null,
+      39.780126,
+      -86.162855,
       "238210",
-      "https://sam.gov/opp/a48ca0867f2043e29988ba36e8e53049/view"
+      "https://sam.gov/opp/a48ca0867f2043e29988ba36e8e53049/view",
+      1
     ],
     [
       "96a04d907ab44943b025c23ad613e762",
@@ -2389,10 +2539,11 @@
       "2026-09-02T21:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Hanover, NH",
-      null,
-      null,
+      43.721172,
+      -72.302264,
       "238330",
-      "https://sam.gov/opp/96a04d907ab44943b025c23ad613e762/view"
+      "https://sam.gov/opp/96a04d907ab44943b025c23ad613e762/view",
+      1
     ],
     [
       "3cbc1336df9f483282b03fc399a1003c",
@@ -2404,10 +2555,11 @@
       "2026-09-03T12:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "Patrick Air Force Base, FL, 32925",
-      null,
-      null,
+      28.176393,
+      -80.554073,
       "238910",
-      "https://sam.gov/opp/3cbc1336df9f483282b03fc399a1003c/view"
+      "https://sam.gov/opp/3cbc1336df9f483282b03fc399a1003c/view",
+      1
     ],
     [
       "13b78843eaf44c38b2f3d9256d7533c8",
@@ -2419,10 +2571,11 @@
       "2026-09-03T14:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Springfield, OH, 45503",
-      null,
-      null,
+      39.952381,
+      -83.768407,
       "237310",
-      "https://sam.gov/opp/13b78843eaf44c38b2f3d9256d7533c8/view"
+      "https://sam.gov/opp/13b78843eaf44c38b2f3d9256d7533c8/view",
+      1
     ],
     [
       "d8980950a7dc4946a742e543052b8fec",
@@ -2434,10 +2587,11 @@
       "2026-09-03T14:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Swanton, OH, 43558",
-      null,
-      null,
+      41.592646,
+      -83.866094,
       "238210",
-      "https://sam.gov/opp/d8980950a7dc4946a742e543052b8fec/view"
+      "https://sam.gov/opp/d8980950a7dc4946a742e543052b8fec/view",
+      1
     ],
     [
       "bd120bb14ef24952937e7ef02ecf941b",
@@ -2449,10 +2603,11 @@
       "2026-09-03T14:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Key Biscayne, FL, 33149",
-      null,
-      null,
+      25.674548,
+      -80.146132,
       "238220",
-      "https://sam.gov/opp/bd120bb14ef24952937e7ef02ecf941b/view"
+      "https://sam.gov/opp/bd120bb14ef24952937e7ef02ecf941b/view",
+      1
     ],
     [
       "93d978d4b0b548888c1b304088532c63",
@@ -2464,10 +2619,11 @@
       "2026-09-03T14:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Cincinnati, OH, 45240",
-      null,
-      null,
+      39.290296,
+      -84.5258,
       "238220",
-      "https://sam.gov/opp/93d978d4b0b548888c1b304088532c63/view"
+      "https://sam.gov/opp/93d978d4b0b548888c1b304088532c63/view",
+      1
     ],
     [
       "d2badcfe0e104d3a979789cd3e174d52",
@@ -2479,10 +2635,11 @@
       "2026-09-03T14:30:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "North Chicago, IL, 60064",
-      null,
-      null,
+      42.329389,
+      -87.845354,
       "236220",
-      "https://sam.gov/opp/d2badcfe0e104d3a979789cd3e174d52/view"
+      "https://sam.gov/opp/d2badcfe0e104d3a979789cd3e174d52/view",
+      1
     ],
     [
       "46c3357a491b4466ad979f50266629a9",
@@ -2494,10 +2651,11 @@
       "2026-09-03T15:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Washington, DC, 20230",
-      null,
-      null,
+      38.890932,
+      -77.032084,
       "236220",
-      "https://sam.gov/opp/46c3357a491b4466ad979f50266629a9/view"
+      "https://sam.gov/opp/46c3357a491b4466ad979f50266629a9/view",
+      1
     ],
     [
       "2542e674146b42fca67575b81d2b5bd8",
@@ -2509,10 +2667,11 @@
       "2026-09-03T15:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Lyons, NJ, 07939",
-      null,
-      null,
+      40.665307,
+      -74.583827,
       "236220",
-      "https://sam.gov/opp/2542e674146b42fca67575b81d2b5bd8/view"
+      "https://sam.gov/opp/2542e674146b42fca67575b81d2b5bd8/view",
+      1
     ],
     [
       "d94eb4a3f10345ae83750302903cb916",
@@ -2524,10 +2683,11 @@
       "2026-09-03T15:00:00.000Z",
       "2026-08-07T00:00:00.000Z",
       "Buffalo, NY, 14215",
-      null,
-      null,
+      42.951039,
+      -78.815549,
       "237110",
-      "https://sam.gov/opp/d94eb4a3f10345ae83750302903cb916/view"
+      "https://sam.gov/opp/d94eb4a3f10345ae83750302903cb916/view",
+      1
     ],
     [
       "faae78a1f66e4d0491ca83cfdf687be7",
@@ -2539,10 +2699,11 @@
       "2026-09-03T15:00:00.000Z",
       "2026-07-10T00:00:00.000Z",
       "Chicago, IL, 60612",
-      null,
-      null,
+      41.887758,
+      -87.658191,
       "238210",
-      "https://sam.gov/opp/faae78a1f66e4d0491ca83cfdf687be7/view"
+      "https://sam.gov/opp/faae78a1f66e4d0491ca83cfdf687be7/view",
+      1
     ],
     [
       "74fbd036126e4441a71a60b5b00f8bfd",
@@ -2554,10 +2715,11 @@
       "2026-09-03T16:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Cherry Point, NC, 28533",
-      null,
-      null,
+      34.91438,
+      -76.914562,
       "236220",
-      "https://sam.gov/opp/74fbd036126e4441a71a60b5b00f8bfd/view"
+      "https://sam.gov/opp/74fbd036126e4441a71a60b5b00f8bfd/view",
+      1
     ],
     [
       "8c331e052cf4433cac25d86acdbc1c07",
@@ -2569,10 +2731,11 @@
       "2026-09-03T16:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Washington, DC, 20220",
-      null,
-      null,
+      38.905118,
+      -77.012516,
       "236220",
-      "https://sam.gov/opp/8c331e052cf4433cac25d86acdbc1c07/view"
+      "https://sam.gov/opp/8c331e052cf4433cac25d86acdbc1c07/view",
+      1
     ],
     [
       "6d3d922a6d594581b57cac20a91b8b94",
@@ -2584,10 +2747,11 @@
       "2026-09-03T16:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Portsmouth, VA, 23708",
-      null,
-      null,
+      36.830102,
+      -76.301117,
       "238210",
-      "https://sam.gov/opp/6d3d922a6d594581b57cac20a91b8b94/view"
+      "https://sam.gov/opp/6d3d922a6d594581b57cac20a91b8b94/view",
+      1
     ],
     [
       "8cb75a0e9f6d405ab694b1f8bb123385",
@@ -2599,10 +2763,11 @@
       "2026-09-03T16:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "WV, 26101",
-      null,
-      null,
+      39.238959,
+      -81.519502,
       "238990",
-      "https://sam.gov/opp/8cb75a0e9f6d405ab694b1f8bb123385/view"
+      "https://sam.gov/opp/8cb75a0e9f6d405ab694b1f8bb123385/view",
+      1
     ],
     [
       "556fdc766c8148a1872f4bd464f2eae0",
@@ -2614,10 +2779,11 @@
       "2026-09-03T16:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Milwaukee, WI, 53207",
-      null,
-      null,
+      42.975623,
+      -87.900677,
       "238990",
-      "https://sam.gov/opp/556fdc766c8148a1872f4bd464f2eae0/view"
+      "https://sam.gov/opp/556fdc766c8148a1872f4bd464f2eae0/view",
+      1
     ],
     [
       "8e949e4d409f457099360b5076387f41",
@@ -2629,10 +2795,11 @@
       "2026-09-03T16:00:00.000Z",
       "2026-08-10T00:00:00.000Z",
       "Elizabeth City, NC, 27909",
-      null,
-      null,
+      36.305695,
+      -76.250134,
       "238990",
-      "https://sam.gov/opp/8e949e4d409f457099360b5076387f41/view"
+      "https://sam.gov/opp/8e949e4d409f457099360b5076387f41/view",
+      1
     ],
     [
       "9f1681711a8d43fcb448645068de35a9",
@@ -2644,10 +2811,11 @@
       "2026-09-03T17:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "West Roxbury, MA, 02132",
-      null,
-      null,
+      42.288765,
+      -71.143977,
       "236220",
-      "https://sam.gov/opp/9f1681711a8d43fcb448645068de35a9/view"
+      "https://sam.gov/opp/9f1681711a8d43fcb448645068de35a9/view",
+      1
     ],
     [
       "4f6eead27bcc4df59fe80bd0162d86e6",
@@ -2659,10 +2827,11 @@
       "2026-09-03T18:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Memphis, TN, 38105",
-      null,
-      null,
+      35.134604,
+      -90.023196,
       "238990",
-      "https://sam.gov/opp/4f6eead27bcc4df59fe80bd0162d86e6/view"
+      "https://sam.gov/opp/4f6eead27bcc4df59fe80bd0162d86e6/view",
+      1
     ],
     [
       "a140f60a66b6441bbaf00abd60a5f19c",
@@ -2674,10 +2843,11 @@
       "2026-09-03T19:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Columbus, MS, 39705",
-      null,
-      null,
+      33.567139,
+      -88.46134,
       "236220",
-      "https://sam.gov/opp/a140f60a66b6441bbaf00abd60a5f19c/view"
+      "https://sam.gov/opp/a140f60a66b6441bbaf00abd60a5f19c/view",
+      1
     ],
     [
       "c1c6fd4f1e344e3a98d12129e88c54fe",
@@ -2689,10 +2859,11 @@
       "2026-09-03T19:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Goose Creek, SC, 29445",
-      null,
-      null,
+      33.045052,
+      -79.997596,
       "236220",
-      "https://sam.gov/opp/c1c6fd4f1e344e3a98d12129e88c54fe/view"
+      "https://sam.gov/opp/c1c6fd4f1e344e3a98d12129e88c54fe/view",
+      1
     ],
     [
       "50623889678245bf8bb3ef8b92afd877",
@@ -2704,10 +2875,11 @@
       "2026-09-03T19:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Goose Creek, SC, 29445",
-      null,
-      null,
+      33.077416,
+      -80.024207,
       "236220",
-      "https://sam.gov/opp/50623889678245bf8bb3ef8b92afd877/view"
+      "https://sam.gov/opp/50623889678245bf8bb3ef8b92afd877/view",
+      1
     ],
     [
       "42ba82d39e924075b273a1f889b2dbc6",
@@ -2719,10 +2891,11 @@
       "2026-09-03T19:00:00.000Z",
       "2026-08-07T00:00:00.000Z",
       "Niagara Falls, NY, 14304",
-      null,
-      null,
+      43.082628,
+      -78.948362,
       "236220",
-      "https://sam.gov/opp/42ba82d39e924075b273a1f889b2dbc6/view"
+      "https://sam.gov/opp/42ba82d39e924075b273a1f889b2dbc6/view",
+      1
     ],
     [
       "4a06716135774abd94c3054b38fb110c",
@@ -2734,10 +2907,11 @@
       "2026-09-03T19:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Washington, DC, 20548",
-      null,
-      null,
+      38.904085,
+      -77.018119,
       "238150",
-      "https://sam.gov/opp/4a06716135774abd94c3054b38fb110c/view"
+      "https://sam.gov/opp/4a06716135774abd94c3054b38fb110c/view",
+      1
     ],
     [
       "27a4c8df1bab4522ab62c7f6c92afe18",
@@ -2749,10 +2923,11 @@
       "2026-09-03T19:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Columbus, MS, 39710",
-      null,
-      null,
+      33.500555,
+      -88.441987,
       "238210",
-      "https://sam.gov/opp/27a4c8df1bab4522ab62c7f6c92afe18/view"
+      "https://sam.gov/opp/27a4c8df1bab4522ab62c7f6c92afe18/view",
+      1
     ],
     [
       "2d39fdb4ab134d57b31988c8a23586fa",
@@ -2764,10 +2939,11 @@
       "2026-09-03T19:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Westboro, WI, 54490",
-      null,
-      null,
+      45.350951,
+      -90.290396,
       "238330",
-      "https://sam.gov/opp/2d39fdb4ab134d57b31988c8a23586fa/view"
+      "https://sam.gov/opp/2d39fdb4ab134d57b31988c8a23586fa/view",
+      1
     ],
     [
       "182f9765a60240318f01f06509e5ec2e",
@@ -2779,10 +2955,11 @@
       "2026-09-03T20:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Groton, CT, 06349",
-      null,
-      null,
+      41.382487,
+      -72.085137,
       "238220",
-      "https://sam.gov/opp/182f9765a60240318f01f06509e5ec2e/view"
+      "https://sam.gov/opp/182f9765a60240318f01f06509e5ec2e/view",
+      1
     ],
     [
       "95ab8912f81d4dfdb9d9d2112a781bec",
@@ -2794,10 +2971,11 @@
       "2026-09-03T20:30:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Cortland, OH, 44410",
-      null,
-      null,
+      41.32725,
+      -80.738301,
       "238160",
-      "https://sam.gov/opp/95ab8912f81d4dfdb9d9d2112a781bec/view"
+      "https://sam.gov/opp/95ab8912f81d4dfdb9d9d2112a781bec/view",
+      1
     ],
     [
       "36d73bbaff8e46bd8bd25f7ee3732de0",
@@ -2809,10 +2987,11 @@
       "2026-09-03T21:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Manchester Center, VT",
-      null,
-      null,
+      43.159157,
+      -73.025649,
       "237310",
-      "https://sam.gov/opp/36d73bbaff8e46bd8bd25f7ee3732de0/view"
+      "https://sam.gov/opp/36d73bbaff8e46bd8bd25f7ee3732de0/view",
+      1
     ],
     [
       "d0a1a4938a3344b589d6cac3bb746635",
@@ -2824,10 +3003,11 @@
       "2026-09-04T00:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "Elizabeth City, NC, 27909",
-      null,
-      null,
+      36.285516,
+      -76.251722,
       "238220",
-      "https://sam.gov/opp/d0a1a4938a3344b589d6cac3bb746635/view"
+      "https://sam.gov/opp/d0a1a4938a3344b589d6cac3bb746635/view",
+      1
     ],
     [
       "6e8f2f6ccbc24ec6b4367998533a1823",
@@ -2839,10 +3019,11 @@
       "2026-09-04T14:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Brunswick, GA, 31524",
-      null,
-      null,
+      31.238804,
+      -81.489051,
       "236220",
-      "https://sam.gov/opp/6e8f2f6ccbc24ec6b4367998533a1823/view"
+      "https://sam.gov/opp/6e8f2f6ccbc24ec6b4367998533a1823/view",
+      1
     ],
     [
       "35b07a36396144818f5ed6d8176cd3ab",
@@ -2854,10 +3035,11 @@
       "2026-09-04T14:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Patrick AFB, FL, 32925",
-      null,
-      null,
+      28.181621,
+      -80.600444,
       "236220",
-      "https://sam.gov/opp/35b07a36396144818f5ed6d8176cd3ab/view"
+      "https://sam.gov/opp/35b07a36396144818f5ed6d8176cd3ab/view",
+      1
     ],
     [
       "4b5375beef664296947fdc915bd9de71",
@@ -2869,10 +3051,11 @@
       "2026-09-04T14:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "NH, 03839",
-      null,
-      null,
+      43.238058,
+      -70.982026,
       "237310",
-      "https://sam.gov/opp/4b5375beef664296947fdc915bd9de71/view"
+      "https://sam.gov/opp/4b5375beef664296947fdc915bd9de71/view",
+      1
     ],
     [
       "4cb9d5e89f5c4b9eb0d1bb72db6a0faf",
@@ -2884,10 +3067,11 @@
       "2026-09-04T14:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Grissom ARB, IN, 46971",
-      null,
-      null,
+      40.674299,
+      -86.137695,
       "238140",
-      "https://sam.gov/opp/4cb9d5e89f5c4b9eb0d1bb72db6a0faf/view"
+      "https://sam.gov/opp/4cb9d5e89f5c4b9eb0d1bb72db6a0faf/view",
+      1
     ],
     [
       "2deea067065742cea793e7ea6a6a2f86",
@@ -2899,10 +3083,11 @@
       "2026-09-04T14:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Grissom ARB, IN, 46971",
-      null,
-      null,
+      40.691251,
+      -86.144817,
       "238390",
-      "https://sam.gov/opp/2deea067065742cea793e7ea6a6a2f86/view"
+      "https://sam.gov/opp/2deea067065742cea793e7ea6a6a2f86/view",
+      1
     ],
     [
       "d76fed09a53d4720b4bc63ca5fbdba63",
@@ -2914,10 +3099,11 @@
       "2026-09-04T15:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Scott Air Force Base, IL, 62225",
-      null,
-      null,
+      38.542991,
+      -89.847002,
       "236220",
-      "https://sam.gov/opp/d76fed09a53d4720b4bc63ca5fbdba63/view"
+      "https://sam.gov/opp/d76fed09a53d4720b4bc63ca5fbdba63/view",
+      1
     ],
     [
       "7e5a5f9a39414ab4b5a33b614bba4071",
@@ -2929,10 +3115,11 @@
       "2026-09-04T15:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Washington, DC, 20405",
-      null,
-      null,
+      38.889462,
+      -77.034348,
       "236220",
-      "https://sam.gov/opp/7e5a5f9a39414ab4b5a33b614bba4071/view"
+      "https://sam.gov/opp/7e5a5f9a39414ab4b5a33b614bba4071/view",
+      1
     ],
     [
       "44c8563c40f74f0693ebe99cf98ed0c6",
@@ -2944,10 +3131,11 @@
       "2026-09-04T15:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Miami, FL, 33125",
-      null,
-      null,
+      25.772005,
+      -80.228282,
       "238160",
-      "https://sam.gov/opp/44c8563c40f74f0693ebe99cf98ed0c6/view"
+      "https://sam.gov/opp/44c8563c40f74f0693ebe99cf98ed0c6/view",
+      1
     ],
     [
       "bfa1c46cd5394cfaa0009c6f92cb69b0",
@@ -2959,10 +3147,11 @@
       "2026-09-04T15:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Mount Vernon, IN, 47620",
-      null,
-      null,
+      37.934707,
+      -87.86535,
       "238210",
-      "https://sam.gov/opp/bfa1c46cd5394cfaa0009c6f92cb69b0/view"
+      "https://sam.gov/opp/bfa1c46cd5394cfaa0009c6f92cb69b0/view",
+      1
     ],
     [
       "7ecc8704299f4ae5846d7d00ef72cc22",
@@ -2974,10 +3163,11 @@
       "2026-09-04T15:30:00.000Z",
       "2026-08-05T00:00:00.000Z",
       "Chillicothe, OH, 45601",
-      null,
-      null,
+      39.31716,
+      -83.01108,
       "236220",
-      "https://sam.gov/opp/7ecc8704299f4ae5846d7d00ef72cc22/view"
+      "https://sam.gov/opp/7ecc8704299f4ae5846d7d00ef72cc22/view",
+      1
     ],
     [
       "f3e657c09f0b4bff8deebc60abe51c01",
@@ -2989,10 +3179,11 @@
       "2026-09-04T16:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Goose Creek, SC, 29445",
-      null,
-      null,
+      33.046016,
+      -80.009472,
       "236220",
-      "https://sam.gov/opp/f3e657c09f0b4bff8deebc60abe51c01/view"
+      "https://sam.gov/opp/f3e657c09f0b4bff8deebc60abe51c01/view",
+      1
     ],
     [
       "7cc7ef5c9328424b8bf3e691a87d065e",
@@ -3004,10 +3195,11 @@
       "2026-09-04T16:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Goose Creek, SC, 29445",
-      null,
-      null,
+      33.060909,
+      -80.015348,
       "236220",
-      "https://sam.gov/opp/7cc7ef5c9328424b8bf3e691a87d065e/view"
+      "https://sam.gov/opp/7cc7ef5c9328424b8bf3e691a87d065e/view",
+      1
     ],
     [
       "b4937bd7284e4a8bb8039184d2919233",
@@ -3019,10 +3211,11 @@
       "2026-09-04T16:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "AL, 36083",
-      null,
-      null,
+      32.41194,
+      -85.699866,
       "236220",
-      "https://sam.gov/opp/b4937bd7284e4a8bb8039184d2919233/view"
+      "https://sam.gov/opp/b4937bd7284e4a8bb8039184d2919233/view",
+      1
     ],
     [
       "0c61bbe462f34f4b85eefa4f14eed980",
@@ -3034,10 +3227,11 @@
       "2026-09-04T16:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Jamestown, VA, 23081",
-      null,
-      null,
+      37.206481,
+      -76.78916,
       "238210",
-      "https://sam.gov/opp/0c61bbe462f34f4b85eefa4f14eed980/view"
+      "https://sam.gov/opp/0c61bbe462f34f4b85eefa4f14eed980/view",
+      1
     ],
     [
       "1c7ef64afd1046159a90eca8c68b568d",
@@ -3049,10 +3243,11 @@
       "2026-09-04T16:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "Chillicothe, OH, 45601",
-      null,
-      null,
+      39.342175,
+      -82.959792,
       "238220",
-      "https://sam.gov/opp/1c7ef64afd1046159a90eca8c68b568d/view"
+      "https://sam.gov/opp/1c7ef64afd1046159a90eca8c68b568d/view",
+      1
     ],
     [
       "92c5e6ce12b040b889c84d54f089d9c3",
@@ -3064,10 +3259,11 @@
       "2026-09-04T16:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Washington, DC, 20375",
-      null,
-      null,
+      38.823275,
+      -76.993579,
       "238330",
-      "https://sam.gov/opp/92c5e6ce12b040b889c84d54f089d9c3/view"
+      "https://sam.gov/opp/92c5e6ce12b040b889c84d54f089d9c3/view",
+      1
     ],
     [
       "a75ebaffbc1e4806881ef272ed859638",
@@ -3094,10 +3290,11 @@
       "2026-09-04T17:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Syracuse, New York, 13210",
-      null,
-      null,
+      43.049944,
+      -76.101961,
       "237990",
-      "https://sam.gov/opp/4511eedd6ad3472684eeaf9a309dad72/view"
+      "https://sam.gov/opp/4511eedd6ad3472684eeaf9a309dad72/view",
+      1
     ],
     [
       "56c6b1316046436eb16fa6d924325d8d",
@@ -3109,10 +3306,11 @@
       "2026-09-04T17:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Dublin, GA, 31021",
-      null,
-      null,
+      32.453315,
+      -82.938519,
       "238290",
-      "https://sam.gov/opp/56c6b1316046436eb16fa6d924325d8d/view"
+      "https://sam.gov/opp/56c6b1316046436eb16fa6d924325d8d/view",
+      1
     ],
     [
       "1fbda1b70b504563acc9177095bde79a",
@@ -3124,10 +3322,11 @@
       "2026-09-04T18:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Indian Head, MD",
-      null,
-      null,
+      38.606551,
+      -77.145396,
       "236210",
-      "https://sam.gov/opp/1fbda1b70b504563acc9177095bde79a/view"
+      "https://sam.gov/opp/1fbda1b70b504563acc9177095bde79a/view",
+      1
     ],
     [
       "ca62c6bc4c58452e8b8e9a52b721eafe",
@@ -3139,10 +3338,11 @@
       "2026-09-04T18:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Brunswick, GA, 31524",
-      null,
-      null,
+      31.209272,
+      -81.495328,
       "236220",
-      "https://sam.gov/opp/ca62c6bc4c58452e8b8e9a52b721eafe/view"
+      "https://sam.gov/opp/ca62c6bc4c58452e8b8e9a52b721eafe/view",
+      1
     ],
     [
       "aba2e7a855cb4e1b9b9948664767ba66",
@@ -3154,10 +3354,11 @@
       "2026-09-04T18:00:00.000Z",
       "2026-08-06T00:00:00.000Z",
       "Nashville, TN, 37217",
-      null,
-      null,
+      36.09931,
+      -86.657955,
       "236220",
-      "https://sam.gov/opp/aba2e7a855cb4e1b9b9948664767ba66/view"
+      "https://sam.gov/opp/aba2e7a855cb4e1b9b9948664767ba66/view",
+      1
     ],
     [
       "30b0702c35144b8d94202fde95911e42",
@@ -3169,10 +3370,11 @@
       "2026-09-04T18:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "South Rockwood, MI",
-      null,
-      null,
+      42.070291,
+      -83.250122,
       "237990",
-      "https://sam.gov/opp/30b0702c35144b8d94202fde95911e42/view"
+      "https://sam.gov/opp/30b0702c35144b8d94202fde95911e42/view",
+      1
     ],
     [
       "3d276e0dac2c4b2fa88f628af31bd9e4",
@@ -3184,10 +3386,11 @@
       "2026-09-04T18:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Washington, DC, 20534",
-      null,
-      null,
+      38.890964,
+      -77.042336,
       "238390",
-      "https://sam.gov/opp/3d276e0dac2c4b2fa88f628af31bd9e4/view"
+      "https://sam.gov/opp/3d276e0dac2c4b2fa88f628af31bd9e4/view",
+      1
     ],
     [
       "a9fd2443caea4aa4b999be732468e837",
@@ -3199,10 +3402,11 @@
       "2026-09-04T18:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Elverson, PA, 19520",
-      null,
-      null,
+      40.155858,
+      -75.804575,
       "238990",
-      "https://sam.gov/opp/a9fd2443caea4aa4b999be732468e837/view"
+      "https://sam.gov/opp/a9fd2443caea4aa4b999be732468e837/view",
+      1
     ],
     [
       "38708cced1de4601ae86d8729bb4ecab",
@@ -3214,10 +3418,11 @@
       "2026-09-04T18:30:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "0, SC, 29404",
-      null,
-      null,
+      32.890309,
+      -80.084778,
       "236220",
-      "https://sam.gov/opp/38708cced1de4601ae86d8729bb4ecab/view"
+      "https://sam.gov/opp/38708cced1de4601ae86d8729bb4ecab/view",
+      1
     ],
     [
       "363a70525b654e2b839f5c714a27dd6f",
@@ -3229,10 +3434,11 @@
       "2026-09-04T19:00:00.000Z",
       "2026-08-10T00:00:00.000Z",
       "Niagara Falls, NY, 14304",
-      null,
-      null,
+      43.104984,
+      -78.953318,
       "236220",
-      "https://sam.gov/opp/363a70525b654e2b839f5c714a27dd6f/view"
+      "https://sam.gov/opp/363a70525b654e2b839f5c714a27dd6f/view",
+      1
     ],
     [
       "8e19df5f22ab4754aced67ec76ca43d0",
@@ -3244,10 +3450,11 @@
       "2026-09-04T19:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Shiloh, TN, 38376",
-      null,
-      null,
+      35.123291,
+      -88.377878,
       "237310",
-      "https://sam.gov/opp/8e19df5f22ab4754aced67ec76ca43d0/view"
+      "https://sam.gov/opp/8e19df5f22ab4754aced67ec76ca43d0/view",
+      1
     ],
     [
       "b093f8bfa55c4dbeafddf69d9b8a1403",
@@ -3259,10 +3466,11 @@
       "2026-09-04T19:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Rome, NY, 13441",
-      null,
-      null,
+      43.22775,
+      -75.414146,
       "238210",
-      "https://sam.gov/opp/b093f8bfa55c4dbeafddf69d9b8a1403/view"
+      "https://sam.gov/opp/b093f8bfa55c4dbeafddf69d9b8a1403/view",
+      1
     ],
     [
       "6b177a9b61db4ad889b2c167e5b64db0",
@@ -3274,10 +3482,11 @@
       "2026-09-04T19:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Middle River, MD, 21220",
-      null,
-      null,
+      39.333485,
+      -76.39223,
       "238330",
-      "https://sam.gov/opp/6b177a9b61db4ad889b2c167e5b64db0/view"
+      "https://sam.gov/opp/6b177a9b61db4ad889b2c167e5b64db0/view",
+      1
     ],
     [
       "54a7158bef524222aaa316e7154aaf25",
@@ -3289,10 +3498,11 @@
       "2026-09-04T19:30:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Rome, NY, 13441",
-      null,
-      null,
+      43.250975,
+      -75.425507,
       "238220",
-      "https://sam.gov/opp/54a7158bef524222aaa316e7154aaf25/view"
+      "https://sam.gov/opp/54a7158bef524222aaa316e7154aaf25/view",
+      1
     ],
     [
       "71804da37eb840538f48827ecf77eb3a",
@@ -3304,10 +3514,11 @@
       "2026-09-04T20:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Fort Myer, VA, 22211",
-      null,
-      null,
+      38.915081,
+      -77.098684,
       "238140",
-      "https://sam.gov/opp/71804da37eb840538f48827ecf77eb3a/view"
+      "https://sam.gov/opp/71804da37eb840538f48827ecf77eb3a/view",
+      1
     ],
     [
       "112ff7b056a34f6c9acf6672f5fdd040",
@@ -3319,10 +3530,11 @@
       "2026-09-04T21:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Mills River, NC",
-      null,
-      null,
+      35.414235,
+      -82.563832,
       "236220",
-      "https://sam.gov/opp/112ff7b056a34f6c9acf6672f5fdd040/view"
+      "https://sam.gov/opp/112ff7b056a34f6c9acf6672f5fdd040/view",
+      1
     ],
     [
       "a828a5f5721047c1baa877dcc4b36e4c",
@@ -3334,10 +3546,11 @@
       "2026-09-04T21:00:00.000Z",
       "2026-07-29T00:00:00.000Z",
       "Pisgah Forest, NC",
-      null,
-      null,
+      35.283535,
+      -82.665332,
       "237310",
-      "https://sam.gov/opp/a828a5f5721047c1baa877dcc4b36e4c/view"
+      "https://sam.gov/opp/a828a5f5721047c1baa877dcc4b36e4c/view",
+      1
     ],
     [
       "2e43b742792e4d28ad8fcfb109c520cd",
@@ -3349,10 +3562,11 @@
       "2026-09-04T21:30:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Fayetteville, NC, 28301",
-      null,
-      null,
+      35.0653,
+      -78.899188,
       "238220",
-      "https://sam.gov/opp/2e43b742792e4d28ad8fcfb109c520cd/view"
+      "https://sam.gov/opp/2e43b742792e4d28ad8fcfb109c520cd/view",
+      1
     ],
     [
       "ea30183e54554c91abd78a7b4f634011",
@@ -3364,10 +3578,11 @@
       "2026-09-04T22:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Alexandria, VA, 22315",
-      null,
-      null,
+      38.741668,
+      -77.150069,
       "238210",
-      "https://sam.gov/opp/ea30183e54554c91abd78a7b4f634011/view"
+      "https://sam.gov/opp/ea30183e54554c91abd78a7b4f634011/view",
+      1
     ],
     [
       "e27df2bfc83249a5874a721f69ec352c",
@@ -3379,10 +3594,11 @@
       "2026-09-05T20:30:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Etna, PA, 15223",
-      null,
-      null,
+      40.518477,
+      -79.964844,
       "237990",
-      "https://sam.gov/opp/e27df2bfc83249a5874a721f69ec352c/view"
+      "https://sam.gov/opp/e27df2bfc83249a5874a721f69ec352c/view",
+      1
     ],
     [
       "3d6223187b214d9286d4e52c3b27a689",
@@ -3394,10 +3610,11 @@
       "2026-09-06T18:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Beltsville, MD",
-      null,
-      null,
+      39.037645,
+      -76.933675,
       "238990",
-      "https://sam.gov/opp/3d6223187b214d9286d4e52c3b27a689/view"
+      "https://sam.gov/opp/3d6223187b214d9286d4e52c3b27a689/view",
+      1
     ],
     [
       "bb18ea93282a44cfb2aae29c7e1c21bd",
@@ -3409,10 +3626,11 @@
       "2026-09-07T16:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Cherry Point, NC, 28533",
-      null,
-      null,
+      34.907456,
+      -76.870224,
       "236220",
-      "https://sam.gov/opp/bb18ea93282a44cfb2aae29c7e1c21bd/view"
+      "https://sam.gov/opp/bb18ea93282a44cfb2aae29c7e1c21bd/view",
+      1
     ],
     [
       "32114081b4f14a8089a44bca60c8953d",
@@ -3424,10 +3642,11 @@
       "2026-09-07T16:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "MA, 01754",
-      null,
-      null,
+      42.414548,
+      -71.438632,
       "238990",
-      "https://sam.gov/opp/32114081b4f14a8089a44bca60c8953d/view"
+      "https://sam.gov/opp/32114081b4f14a8089a44bca60c8953d/view",
+      1
     ],
     [
       "fecdebe0590343ee82ce6b55cf134630",
@@ -3439,10 +3658,11 @@
       "2026-09-07T19:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Havelock, NC, 28532",
-      null,
-      null,
+      34.926782,
+      -76.891047,
       "238910",
-      "https://sam.gov/opp/fecdebe0590343ee82ce6b55cf134630/view"
+      "https://sam.gov/opp/fecdebe0590343ee82ce6b55cf134630/view",
+      1
     ],
     [
       "fdaf50c0882e40b980ef5729059d5e2c",
@@ -3454,10 +3674,11 @@
       "2026-09-07T20:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Grissom ARB, IN, 46971",
-      null,
-      null,
+      40.638524,
+      -86.134144,
       "238220",
-      "https://sam.gov/opp/fdaf50c0882e40b980ef5729059d5e2c/view"
+      "https://sam.gov/opp/fdaf50c0882e40b980ef5729059d5e2c/view",
+      1
     ],
     [
       "bfd6691144d74fffa3c0c938b9dcdfbb",
@@ -3469,10 +3690,11 @@
       "2026-09-08T13:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "IL, 62959",
-      null,
-      null,
+      37.753516,
+      -88.918162,
       "238220",
-      "https://sam.gov/opp/bfd6691144d74fffa3c0c938b9dcdfbb/view"
+      "https://sam.gov/opp/bfd6691144d74fffa3c0c938b9dcdfbb/view",
+      1
     ],
     [
       "27bb37d7e8e640279d79eb9e8bb26f61",
@@ -3484,10 +3706,11 @@
       "2026-09-08T13:30:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Columbus, OH, 43213",
-      null,
-      null,
+      39.992774,
+      -82.855194,
       "236220",
-      "https://sam.gov/opp/27bb37d7e8e640279d79eb9e8bb26f61/view"
+      "https://sam.gov/opp/27bb37d7e8e640279d79eb9e8bb26f61/view",
+      1
     ],
     [
       "28747384a6ea471a80fa0dfe40443073",
@@ -3499,10 +3722,11 @@
       "2026-09-08T14:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Virginia Beach, VA, 23460",
-      null,
-      null,
+      36.78127,
+      -76.01478,
       "236220",
-      "https://sam.gov/opp/28747384a6ea471a80fa0dfe40443073/view"
+      "https://sam.gov/opp/28747384a6ea471a80fa0dfe40443073/view",
+      1
     ],
     [
       "dd7b009e8ae84c3fbff15448458150df",
@@ -3514,10 +3738,11 @@
       "2026-09-08T14:00:00.000Z",
       "2026-07-21T00:00:00.000Z",
       "Salisbury, NC, 28144",
-      null,
-      null,
+      35.640224,
+      -80.484796,
       "238220",
-      "https://sam.gov/opp/dd7b009e8ae84c3fbff15448458150df/view"
+      "https://sam.gov/opp/dd7b009e8ae84c3fbff15448458150df/view",
+      1
     ],
     [
       "970283ef768b4afc8e45dd8089878954",
@@ -3529,10 +3754,11 @@
       "2026-09-08T15:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Rock Island, IL, 61299",
-      null,
-      null,
+      41.537687,
+      -90.536941,
       "238160",
-      "https://sam.gov/opp/970283ef768b4afc8e45dd8089878954/view"
+      "https://sam.gov/opp/970283ef768b4afc8e45dd8089878954/view",
+      1
     ],
     [
       "f2d15bc5e6c04552b6023e382f34b2bd",
@@ -3544,10 +3770,11 @@
       "2026-09-08T15:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Birmingham, AL, 35217",
-      null,
-      null,
+      33.580827,
+      -86.755943,
       "238220",
-      "https://sam.gov/opp/f2d15bc5e6c04552b6023e382f34b2bd/view"
+      "https://sam.gov/opp/f2d15bc5e6c04552b6023e382f34b2bd/view",
+      1
     ],
     [
       "eae7d9ac63d6455faea45d812b4a4198",
@@ -3559,10 +3786,11 @@
       "2026-09-08T16:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Lakemont, GA",
-      null,
-      null,
+      34.773438,
+      -83.406295,
       "237310",
-      "https://sam.gov/opp/eae7d9ac63d6455faea45d812b4a4198/view"
+      "https://sam.gov/opp/eae7d9ac63d6455faea45d812b4a4198/view",
+      1
     ],
     [
       "3abd0a54f18847c7898c794399c875f6",
@@ -3574,10 +3802,11 @@
       "2026-09-08T16:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Washington, DC, 20515",
-      null,
-      null,
+      38.918741,
+      -77.030498,
       "238290",
-      "https://sam.gov/opp/3abd0a54f18847c7898c794399c875f6/view"
+      "https://sam.gov/opp/3abd0a54f18847c7898c794399c875f6/view",
+      1
     ],
     [
       "0bb8a230e4464c18a62ce97cb8d1197f",
@@ -3589,10 +3818,11 @@
       "2026-09-08T16:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Groton, CT, 06349",
-      null,
-      null,
+      41.380284,
+      -72.076293,
       "238990",
-      "https://sam.gov/opp/0bb8a230e4464c18a62ce97cb8d1197f/view"
+      "https://sam.gov/opp/0bb8a230e4464c18a62ce97cb8d1197f/view",
+      1
     ],
     [
       "cd212bc084334893b9e448320a4c0201",
@@ -3604,10 +3834,11 @@
       "2026-09-08T17:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Gainesville, FL, 32608",
-      null,
-      null,
+      29.589913,
+      -82.381494,
       "236220",
-      "https://sam.gov/opp/cd212bc084334893b9e448320a4c0201/view"
+      "https://sam.gov/opp/cd212bc084334893b9e448320a4c0201/view",
+      1
     ],
     [
       "184810e0ec114aa88d93bdf515f7a162",
@@ -3619,10 +3850,11 @@
       "2026-09-08T17:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "MD, 21201",
-      null,
-      null,
+      39.288615,
+      -76.624781,
       "236220",
-      "https://sam.gov/opp/184810e0ec114aa88d93bdf515f7a162/view"
+      "https://sam.gov/opp/184810e0ec114aa88d93bdf515f7a162/view",
+      1
     ],
     [
       "9caf4ecd25aa4ab699bd4b9f1708b917",
@@ -3634,10 +3866,11 @@
       "2026-09-08T17:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Wilmington, DE, 19805",
-      null,
-      null,
+      39.746708,
+      -75.571165,
       "236220",
-      "https://sam.gov/opp/9caf4ecd25aa4ab699bd4b9f1708b917/view"
+      "https://sam.gov/opp/9caf4ecd25aa4ab699bd4b9f1708b917/view",
+      1
     ],
     [
       "b2512fcc4d55425680ad84817f2b89b2",
@@ -3649,10 +3882,11 @@
       "2026-09-08T17:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Wilmington, DE, 19805",
-      null,
-      null,
+      39.726956,
+      -75.590021,
       "236220",
-      "https://sam.gov/opp/b2512fcc4d55425680ad84817f2b89b2/view"
+      "https://sam.gov/opp/b2512fcc4d55425680ad84817f2b89b2/view",
+      1
     ],
     [
       "2160314dd5be47569c3dfe322858c458",
@@ -3664,10 +3898,11 @@
       "2026-09-08T17:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Newnan, GA, 30265",
-      null,
-      null,
+      33.419669,
+      -84.709591,
       "238990",
-      "https://sam.gov/opp/2160314dd5be47569c3dfe322858c458/view"
+      "https://sam.gov/opp/2160314dd5be47569c3dfe322858c458/view",
+      1
     ],
     [
       "4117ba69b3b94c788ccd79039ed32cce",
@@ -3679,10 +3914,11 @@
       "2026-09-08T18:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Jacksonville, FL",
-      null,
-      null,
+      30.32231,
+      -81.639784,
       "236220",
-      "https://sam.gov/opp/4117ba69b3b94c788ccd79039ed32cce/view"
+      "https://sam.gov/opp/4117ba69b3b94c788ccd79039ed32cce/view",
+      1
     ],
     [
       "acab8ad874664e64bc750997e3f9c957",
@@ -3694,10 +3930,11 @@
       "2026-09-08T18:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Camp Lejeune, NC, 28547",
-      null,
-      null,
+      34.681138,
+      -77.339475,
       "236220",
-      "https://sam.gov/opp/acab8ad874664e64bc750997e3f9c957/view"
+      "https://sam.gov/opp/acab8ad874664e64bc750997e3f9c957/view",
+      1
     ],
     [
       "2f7910a93bd34c6199a4c1e2fd6d96f3",
@@ -3709,10 +3946,11 @@
       "2026-09-08T18:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "AL, 36108",
-      null,
-      null,
+      32.339205,
+      -86.364638,
       "238350",
-      "https://sam.gov/opp/2f7910a93bd34c6199a4c1e2fd6d96f3/view"
+      "https://sam.gov/opp/2f7910a93bd34c6199a4c1e2fd6d96f3/view",
+      1
     ],
     [
       "e84df04e622b4c9dbed260cb2ecd3620",
@@ -3724,10 +3962,11 @@
       "2026-09-08T18:00:00.000Z",
       "2026-08-07T00:00:00.000Z",
       "PA, 19038",
-      null,
-      null,
+      40.105551,
+      -75.137461,
       "238390",
-      "https://sam.gov/opp/e84df04e622b4c9dbed260cb2ecd3620/view"
+      "https://sam.gov/opp/e84df04e622b4c9dbed260cb2ecd3620/view",
+      1
     ],
     [
       "3a003a7b3918487794b7e2e5ca72e5e8",
@@ -3739,10 +3978,11 @@
       "2026-09-08T19:00:00.000Z",
       "2026-08-07T00:00:00.000Z",
       "SC, 29405",
-      null,
-      null,
+      32.85826,
+      -79.980514,
       "236220",
-      "https://sam.gov/opp/3a003a7b3918487794b7e2e5ca72e5e8/view"
+      "https://sam.gov/opp/3a003a7b3918487794b7e2e5ca72e5e8/view",
+      1
     ],
     [
       "72b1a7b5bd5144a9b6d41d76876d3321",
@@ -3754,10 +3994,11 @@
       "2026-09-08T19:00:00.000Z",
       "2026-07-20T00:00:00.000Z",
       "Columbus, MS, 39705",
-      null,
-      null,
+      33.5465,
+      -88.475297,
       "238210",
-      "https://sam.gov/opp/72b1a7b5bd5144a9b6d41d76876d3321/view"
+      "https://sam.gov/opp/72b1a7b5bd5144a9b6d41d76876d3321/view",
+      1
     ],
     [
       "2599582098214adbaba97cfb14ce4a98",
@@ -3769,10 +4010,11 @@
       "2026-09-08T19:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Camp Lejeune, NC, 28547",
-      null,
-      null,
+      34.675796,
+      -77.380052,
       "238220",
-      "https://sam.gov/opp/2599582098214adbaba97cfb14ce4a98/view"
+      "https://sam.gov/opp/2599582098214adbaba97cfb14ce4a98/view",
+      1
     ],
     [
       "074797d0f6c94c26b41ca5e760843891",
@@ -3784,10 +4026,11 @@
       "2026-09-08T20:30:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Pascagoula, MS, 39595",
-      null,
-      null,
+      30.37106,
+      -88.545314,
       "238290",
-      "https://sam.gov/opp/074797d0f6c94c26b41ca5e760843891/view"
+      "https://sam.gov/opp/074797d0f6c94c26b41ca5e760843891/view",
+      1
     ],
     [
       "a8bb90fdf32f4071b87620bd134a6bc6",
@@ -3799,10 +4042,11 @@
       "2026-09-08T21:00:00.000Z",
       "2026-07-14T00:00:00.000Z",
       "Rochester, NY, 14614",
-      null,
-      null,
+      43.142636,
+      -77.601924,
       "236220",
-      "https://sam.gov/opp/a8bb90fdf32f4071b87620bd134a6bc6/view"
+      "https://sam.gov/opp/a8bb90fdf32f4071b87620bd134a6bc6/view",
+      1
     ],
     [
       "c5abb59379a746fcad19c830bbabc446",
@@ -3814,10 +4058,11 @@
       "2026-09-08T21:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Lyndhurst, VA",
-      null,
-      null,
+      37.963567,
+      -78.921725,
       "237110",
-      "https://sam.gov/opp/c5abb59379a746fcad19c830bbabc446/view"
+      "https://sam.gov/opp/c5abb59379a746fcad19c830bbabc446/view",
+      1
     ],
     [
       "b3c68ae9b6604bbbaa785bc714bcdad5",
@@ -3829,10 +4074,11 @@
       "2026-09-08T21:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Jacksonville, FL, 32229",
-      null,
-      null,
+      30.344273,
+      -81.677133,
       "238160",
-      "https://sam.gov/opp/b3c68ae9b6604bbbaa785bc714bcdad5/view"
+      "https://sam.gov/opp/b3c68ae9b6604bbbaa785bc714bcdad5/view",
+      1
     ],
     [
       "8f9895ea69ed4754afcd3173355f2e7b",
@@ -3844,10 +4090,11 @@
       "2026-09-08T21:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Salem, VA, 24153",
-      null,
-      null,
+      37.274976,
+      -80.083945,
       "238990",
-      "https://sam.gov/opp/8f9895ea69ed4754afcd3173355f2e7b/view"
+      "https://sam.gov/opp/8f9895ea69ed4754afcd3173355f2e7b/view",
+      1
     ],
     [
       "bc1952e1c1dc439985c1bcc98093044a",
@@ -3859,10 +4106,11 @@
       "2026-09-09T14:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "MD, 20708",
-      null,
-      null,
+      39.034449,
+      -76.860215,
       "236220",
-      "https://sam.gov/opp/bc1952e1c1dc439985c1bcc98093044a/view"
+      "https://sam.gov/opp/bc1952e1c1dc439985c1bcc98093044a/view",
+      1
     ],
     [
       "885d1a81a7374d66a1f1803d5da7b748",
@@ -3874,10 +4122,11 @@
       "2026-09-09T14:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Vienna, OH, 44473",
-      null,
-      null,
+      41.219377,
+      -80.666852,
       "236220",
-      "https://sam.gov/opp/885d1a81a7374d66a1f1803d5da7b748/view"
+      "https://sam.gov/opp/885d1a81a7374d66a1f1803d5da7b748/view",
+      1
     ],
     [
       "fff110c567e94cc89fd5e95d963a5535",
@@ -3889,10 +4138,11 @@
       "2026-09-09T14:00:00.000Z",
       "2026-07-17T00:00:00.000Z",
       "OH, 44473",
-      null,
-      null,
+      41.237628,
+      -80.668071,
       "236220",
-      "https://sam.gov/opp/fff110c567e94cc89fd5e95d963a5535/view"
+      "https://sam.gov/opp/fff110c567e94cc89fd5e95d963a5535/view",
+      1
     ],
     [
       "1f3c4b3f18494df9a64f6318e6680757",
@@ -3904,10 +4154,11 @@
       "2026-09-09T14:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Newark, DE, 19713",
-      null,
-      null,
+      39.657182,
+      -75.694747,
       "237310",
-      "https://sam.gov/opp/1f3c4b3f18494df9a64f6318e6680757/view"
+      "https://sam.gov/opp/1f3c4b3f18494df9a64f6318e6680757/view",
+      1
     ],
     [
       "d6f4c3c2ff934af58cfb2fa861c67d5a",
@@ -3919,10 +4170,11 @@
       "2026-09-09T14:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Salisbury, NC, 28144",
-      null,
-      null,
+      35.643735,
+      -80.517878,
       "238220",
-      "https://sam.gov/opp/d6f4c3c2ff934af58cfb2fa861c67d5a/view"
+      "https://sam.gov/opp/d6f4c3c2ff934af58cfb2fa861c67d5a/view",
+      1
     ],
     [
       "0c9f8c6df748434292e9551cd513d9d1",
@@ -3934,10 +4186,11 @@
       "2026-09-09T14:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Biloxi, MS, 39534",
-      null,
-      null,
+      30.428084,
+      -88.910204,
       "238990",
-      "https://sam.gov/opp/0c9f8c6df748434292e9551cd513d9d1/view"
+      "https://sam.gov/opp/0c9f8c6df748434292e9551cd513d9d1/view",
+      1
     ],
     [
       "20ca375c06f84b43b42809b7e26629e1",
@@ -3949,10 +4202,11 @@
       "2026-09-09T15:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Washington, DC, 20590",
-      null,
-      null,
+      38.907967,
+      -77.020844,
       "236220",
-      "https://sam.gov/opp/20ca375c06f84b43b42809b7e26629e1/view"
+      "https://sam.gov/opp/20ca375c06f84b43b42809b7e26629e1/view",
+      1
     ],
     [
       "a12c620caf49406ebc67a5a5c6a328ab",
@@ -3964,10 +4218,11 @@
       "2026-09-09T16:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Arlington Heights, IL, 60005",
-      null,
-      null,
+      42.052162,
+      -87.983105,
       "236210",
-      "https://sam.gov/opp/a12c620caf49406ebc67a5a5c6a328ab/view"
+      "https://sam.gov/opp/a12c620caf49406ebc67a5a5c6a328ab/view",
+      1
     ],
     [
       "9976e49929e6414c8ce5a257f06220c9",
@@ -3979,10 +4234,11 @@
       "2026-09-09T16:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "NC, 28533",
-      null,
-      null,
+      34.912285,
+      -76.908485,
       "236220",
-      "https://sam.gov/opp/9976e49929e6414c8ce5a257f06220c9/view"
+      "https://sam.gov/opp/9976e49929e6414c8ce5a257f06220c9/view",
+      1
     ],
     [
       "ed7fd672f1aa4073ac9e697d3b15fd54",
@@ -3994,10 +4250,11 @@
       "2026-09-09T17:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Cherry Point, NC, 28533",
-      null,
-      null,
+      34.899272,
+      -76.903936,
       "236220",
-      "https://sam.gov/opp/ed7fd672f1aa4073ac9e697d3b15fd54/view"
+      "https://sam.gov/opp/ed7fd672f1aa4073ac9e697d3b15fd54/view",
+      1
     ],
     [
       "b4787181367d4ce6b0da2e036238b784",
@@ -4009,10 +4266,11 @@
       "2026-09-09T17:00:00.000Z",
       "2026-07-31T00:00:00.000Z",
       "DC, 20220",
-      null,
-      null,
+      38.892044,
+      -76.990633,
       "236220",
-      "https://sam.gov/opp/b4787181367d4ce6b0da2e036238b784/view"
+      "https://sam.gov/opp/b4787181367d4ce6b0da2e036238b784/view",
+      1
     ],
     [
       "227d94cb85b648269e5abc4ee51ea334",
@@ -4024,10 +4282,11 @@
       "2026-09-09T18:00:00.000Z",
       "2026-08-07T00:00:00.000Z",
       "Newport, RI, 02841",
-      null,
-      null,
+      41.510476,
+      -71.302508,
       "236220",
-      "https://sam.gov/opp/227d94cb85b648269e5abc4ee51ea334/view"
+      "https://sam.gov/opp/227d94cb85b648269e5abc4ee51ea334/view",
+      1
     ],
     [
       "87f873789171459481b0c8a92546e577",
@@ -4039,10 +4298,11 @@
       "2026-09-09T18:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Monroe, TN, 38573",
-      null,
-      null,
+      36.465456,
+      -85.198444,
       "237310",
-      "https://sam.gov/opp/87f873789171459481b0c8a92546e577/view"
+      "https://sam.gov/opp/87f873789171459481b0c8a92546e577/view",
+      1
     ],
     [
       "724abf5fd3264485a3cbf06126dd9997",
@@ -4069,10 +4329,11 @@
       "2026-09-09T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Fort Rucker, AL",
-      null,
-      null,
+      31.347269,
+      -85.727355,
       "238160",
-      "https://sam.gov/opp/0a07c75120eb494ea9f7e890de2ac99a/view"
+      "https://sam.gov/opp/0a07c75120eb494ea9f7e890de2ac99a/view",
+      1
     ],
     [
       "20fdaa3a72bb4629b615259686284ebe",
@@ -4084,10 +4345,11 @@
       "2026-09-09T18:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Camp Lejeune, NC, 28547",
-      null,
-      null,
+      34.685757,
+      -77.35831,
       "238220",
-      "https://sam.gov/opp/20fdaa3a72bb4629b615259686284ebe/view"
+      "https://sam.gov/opp/20fdaa3a72bb4629b615259686284ebe/view",
+      1
     ],
     [
       "aa18e2f64f5a4e84b98b0d3f1b5edd2b",
@@ -4099,10 +4361,11 @@
       "2026-09-09T18:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Nashville, TN, 37212",
-      null,
-      null,
+      36.110413,
+      -86.806406,
       "238220",
-      "https://sam.gov/opp/aa18e2f64f5a4e84b98b0d3f1b5edd2b/view"
+      "https://sam.gov/opp/aa18e2f64f5a4e84b98b0d3f1b5edd2b/view",
+      1
     ],
     [
       "23d4330c6d004f3581a477c504ae4e3a",
@@ -4114,10 +4377,11 @@
       "2026-09-09T20:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Laurel, MD, 20708",
-      null,
-      null,
+      39.047084,
+      -76.816722,
       "236220",
-      "https://sam.gov/opp/23d4330c6d004f3581a477c504ae4e3a/view"
+      "https://sam.gov/opp/23d4330c6d004f3581a477c504ae4e3a/view",
+      1
     ],
     [
       "7f1989b165844b3393759329243e93b4",
@@ -4129,10 +4393,11 @@
       "2026-09-09T21:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Marlinton, WV",
-      null,
-      null,
+      38.263688,
+      -80.10778,
       "238220",
-      "https://sam.gov/opp/7f1989b165844b3393759329243e93b4/view"
+      "https://sam.gov/opp/7f1989b165844b3393759329243e93b4/view",
+      1
     ],
     [
       "ed30802e5c9143a7b12ee79880914559",
@@ -4144,10 +4409,11 @@
       "2026-09-10T12:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "New London, CT, 06320",
-      null,
-      null,
+      41.352784,
+      -72.094382,
       "238990",
-      "https://sam.gov/opp/ed30802e5c9143a7b12ee79880914559/view"
+      "https://sam.gov/opp/ed30802e5c9143a7b12ee79880914559/view",
+      1
     ],
     [
       "72dea389b1ac440faeb27fcf9711aebc",
@@ -4159,10 +4425,11 @@
       "2026-09-10T14:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Bar Harbor, ME, 04609",
-      null,
-      null,
+      44.362837,
+      -68.239919,
       "237310",
-      "https://sam.gov/opp/72dea389b1ac440faeb27fcf9711aebc/view"
+      "https://sam.gov/opp/72dea389b1ac440faeb27fcf9711aebc/view",
+      1
     ],
     [
       "916a270c378149278691a20d6fb03b80",
@@ -4174,10 +4441,11 @@
       "2026-09-10T15:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "Niagara Falls, NY, 14304",
-      null,
-      null,
+      43.093616,
+      -78.946622,
       "236220",
-      "https://sam.gov/opp/916a270c378149278691a20d6fb03b80/view"
+      "https://sam.gov/opp/916a270c378149278691a20d6fb03b80/view",
+      1
     ],
     [
       "10a8d1a4ed644d28b56eaf979b929029",
@@ -4189,10 +4457,11 @@
       "2026-09-10T15:30:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Fort Wayne, IN, 46805",
-      null,
-      null,
+      41.089215,
+      -85.127385,
       "238210",
-      "https://sam.gov/opp/10a8d1a4ed644d28b56eaf979b929029/view"
+      "https://sam.gov/opp/10a8d1a4ed644d28b56eaf979b929029/view",
+      1
     ],
     [
       "51868b9b051a4b958a15f70157c3e140",
@@ -4204,10 +4473,11 @@
       "2026-09-10T16:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "NC, 28533",
-      null,
-      null,
+      34.920819,
+      -76.89414,
       "236220",
-      "https://sam.gov/opp/51868b9b051a4b958a15f70157c3e140/view"
+      "https://sam.gov/opp/51868b9b051a4b958a15f70157c3e140/view",
+      1
     ],
     [
       "c4316bdf891b4fa4b1fbe2564fa2444c",
@@ -4219,10 +4489,11 @@
       "2026-09-10T16:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Buzzards Bay, MA, 02542",
-      null,
-      null,
+      41.658906,
+      -70.530413,
       "238160",
-      "https://sam.gov/opp/c4316bdf891b4fa4b1fbe2564fa2444c/view"
+      "https://sam.gov/opp/c4316bdf891b4fa4b1fbe2564fa2444c/view",
+      1
     ],
     [
       "fc547855adea48bba19cffd71159a8b4",
@@ -4234,10 +4505,11 @@
       "2026-09-10T16:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Buzzards Bay, MA, 02542",
-      null,
-      null,
+      41.665011,
+      -70.555162,
       "238210",
-      "https://sam.gov/opp/fc547855adea48bba19cffd71159a8b4/view"
+      "https://sam.gov/opp/fc547855adea48bba19cffd71159a8b4/view",
+      1
     ],
     [
       "5137861ae19141b58b218d850b6215b7",
@@ -4264,10 +4536,11 @@
       "2026-09-10T17:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Cherry Point, NC, 28533",
-      null,
-      null,
+      34.905884,
+      -76.911818,
       "236220",
-      "https://sam.gov/opp/c649dd063eb94537bef71ede4b1fc983/view"
+      "https://sam.gov/opp/c649dd063eb94537bef71ede4b1fc983/view",
+      1
     ],
     [
       "f5106a6722f14c7b885b3bdf68aca091",
@@ -4279,10 +4552,11 @@
       "2026-09-10T17:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Leeds, MA, 01053",
-      null,
-      null,
+      42.368484,
+      -72.714482,
       "236220",
-      "https://sam.gov/opp/f5106a6722f14c7b885b3bdf68aca091/view"
+      "https://sam.gov/opp/f5106a6722f14c7b885b3bdf68aca091/view",
+      1
     ],
     [
       "6786d74d79db4ec48e9aca2c51ba9a85",
@@ -4294,10 +4568,11 @@
       "2026-09-10T17:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Gulfport, MS, 39507",
-      null,
-      null,
+      30.399468,
+      -89.030268,
       "238210",
-      "https://sam.gov/opp/6786d74d79db4ec48e9aca2c51ba9a85/view"
+      "https://sam.gov/opp/6786d74d79db4ec48e9aca2c51ba9a85/view",
+      1
     ],
     [
       "891551f0d47647c7a857545b560e1a43",
@@ -4309,10 +4584,11 @@
       "2026-09-10T17:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "0, NJ, 08641",
-      null,
-      null,
+      40.23868,
+      -74.76374,
       "238290",
-      "https://sam.gov/opp/891551f0d47647c7a857545b560e1a43/view"
+      "https://sam.gov/opp/891551f0d47647c7a857545b560e1a43/view",
+      1
     ],
     [
       "f1da9e56becd4033bfb74368fad42e4c",
@@ -4324,10 +4600,11 @@
       "2026-09-10T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "NC, 28547",
-      null,
-      null,
+      34.693624,
+      -77.356054,
       "236220",
-      "https://sam.gov/opp/f1da9e56becd4033bfb74368fad42e4c/view"
+      "https://sam.gov/opp/f1da9e56becd4033bfb74368fad42e4c/view",
+      1
     ],
     [
       "8f0703bc267c4e908d5d9cc57a82c6ac",
@@ -4339,10 +4616,11 @@
       "2026-09-10T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Washington, DC, 20001",
-      null,
-      null,
+      38.899472,
+      -77.004972,
       "236220",
-      "https://sam.gov/opp/8f0703bc267c4e908d5d9cc57a82c6ac/view"
+      "https://sam.gov/opp/8f0703bc267c4e908d5d9cc57a82c6ac/view",
+      1
     ],
     [
       "09dce14828044951a427dcac6a384b25",
@@ -4354,10 +4632,11 @@
       "2026-09-10T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Milwaukee, WI, 53295",
-      null,
-      null,
+      43.044338,
+      -87.909036,
       "236220",
-      "https://sam.gov/opp/09dce14828044951a427dcac6a384b25/view"
+      "https://sam.gov/opp/09dce14828044951a427dcac6a384b25/view",
+      1
     ],
     [
       "f258e01a96d944158d6fc91672568918",
@@ -4369,10 +4648,11 @@
       "2026-09-10T18:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "Niagara Falls, NY, 14304",
-      null,
-      null,
+      43.086305,
+      -78.953274,
       "236220",
-      "https://sam.gov/opp/f258e01a96d944158d6fc91672568918/view"
+      "https://sam.gov/opp/f258e01a96d944158d6fc91672568918/view",
+      1
     ],
     [
       "c09eb9e8f0c04d4fb643ef55c4276154",
@@ -4384,10 +4664,11 @@
       "2026-09-10T18:00:00.000Z",
       "2026-08-07T00:00:00.000Z",
       "Newport, RI, 02841",
-      null,
-      null,
+      41.526816,
+      -71.310238,
       "236220",
-      "https://sam.gov/opp/c09eb9e8f0c04d4fb643ef55c4276154/view"
+      "https://sam.gov/opp/c09eb9e8f0c04d4fb643ef55c4276154/view",
+      1
     ],
     [
       "7b49e6b7f31144758cc81928d678ca25",
@@ -4399,10 +4680,11 @@
       "2026-09-10T18:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Grand Rivers, KY, 42045",
-      null,
-      null,
+      37.058334,
+      -88.262506,
       "237310",
-      "https://sam.gov/opp/7b49e6b7f31144758cc81928d678ca25/view"
+      "https://sam.gov/opp/7b49e6b7f31144758cc81928d678ca25/view",
+      1
     ],
     [
       "0b44ff305a684387b1362bac8eda2dde",
@@ -4414,10 +4696,11 @@
       "2026-09-10T19:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "WI, 53704",
-      null,
-      null,
+      43.122552,
+      -89.346662,
       "236220",
-      "https://sam.gov/opp/0b44ff305a684387b1362bac8eda2dde/view"
+      "https://sam.gov/opp/0b44ff305a684387b1362bac8eda2dde/view",
+      1
     ],
     [
       "78eebc3b1ee24ba492ba19dd96cde41e",
@@ -4429,10 +4712,11 @@
       "2026-09-10T20:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Fort Wayne, IN, 46805",
-      null,
-      null,
+      41.110061,
+      -85.098328,
       "238220",
-      "https://sam.gov/opp/78eebc3b1ee24ba492ba19dd96cde41e/view"
+      "https://sam.gov/opp/78eebc3b1ee24ba492ba19dd96cde41e/view",
+      1
     ],
     [
       "780fb35d81af4fe880c5c2fc248ff38b",
@@ -4444,10 +4728,11 @@
       "2026-09-10T20:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Marion, IN, 46953",
-      null,
-      null,
+      40.51506,
+      -85.68318,
       "238220",
-      "https://sam.gov/opp/780fb35d81af4fe880c5c2fc248ff38b/view"
+      "https://sam.gov/opp/780fb35d81af4fe880c5c2fc248ff38b/view",
+      1
     ],
     [
       "247e809acfa34ec98c87d11bcbfb2dc8",
@@ -4459,10 +4744,11 @@
       "2026-09-10T21:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Hampton, GA",
-      null,
-      null,
+      33.424761,
+      -84.315272,
       "237310",
-      "https://sam.gov/opp/247e809acfa34ec98c87d11bcbfb2dc8/view"
+      "https://sam.gov/opp/247e809acfa34ec98c87d11bcbfb2dc8/view",
+      1
     ],
     [
       "2b5e32d67f4546ff9d59352ed0ad717e",
@@ -4474,10 +4760,11 @@
       "2026-09-10T21:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Augusta, ME, 04330",
-      null,
-      null,
+      44.312118,
+      -69.780684,
       "238220",
-      "https://sam.gov/opp/2b5e32d67f4546ff9d59352ed0ad717e/view"
+      "https://sam.gov/opp/2b5e32d67f4546ff9d59352ed0ad717e/view",
+      1
     ],
     [
       "67de4e203bff43aaaf2254ad65679903",
@@ -4489,10 +4776,11 @@
       "2026-09-11T04:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Cherry Point, NC, 28533",
-      null,
-      null,
+      34.898237,
+      -76.902248,
       "236220",
-      "https://sam.gov/opp/67de4e203bff43aaaf2254ad65679903/view"
+      "https://sam.gov/opp/67de4e203bff43aaaf2254ad65679903/view",
+      1
     ],
     [
       "456b0eab1d6142469ed2d1c438847c19",
@@ -4504,10 +4792,11 @@
       "2026-09-11T14:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Berlin, MD, 21811",
-      null,
-      null,
+      38.334782,
+      -75.166247,
       "238120",
-      "https://sam.gov/opp/456b0eab1d6142469ed2d1c438847c19/view"
+      "https://sam.gov/opp/456b0eab1d6142469ed2d1c438847c19/view",
+      1
     ],
     [
       "8598bb588398469aab94b6200b20c869",
@@ -4519,10 +4808,11 @@
       "2026-09-11T14:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "DC, 20534",
-      null,
-      null,
+      38.906034,
+      -77.011246,
       "238390",
-      "https://sam.gov/opp/8598bb588398469aab94b6200b20c869/view"
+      "https://sam.gov/opp/8598bb588398469aab94b6200b20c869/view",
+      1
     ],
     [
       "d432f0294d1a40d5950f20b3955d694d",
@@ -4534,10 +4824,11 @@
       "2026-09-11T14:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Sneads Ferry, NC, 28460",
-      null,
-      null,
+      34.544692,
+      -77.379891,
       "238990",
-      "https://sam.gov/opp/d432f0294d1a40d5950f20b3955d694d/view"
+      "https://sam.gov/opp/d432f0294d1a40d5950f20b3955d694d/view",
+      1
     ],
     [
       "eddec429fe2c4653a59e534a63ced017",
@@ -4549,10 +4840,11 @@
       "2026-09-11T15:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Colts Neck, NJ, 07722",
-      null,
-      null,
+      40.277815,
+      -74.172601,
       "236220",
-      "https://sam.gov/opp/eddec429fe2c4653a59e534a63ced017/view"
+      "https://sam.gov/opp/eddec429fe2c4653a59e534a63ced017/view",
+      1
     ],
     [
       "1d965c6fb9234d778cedfe4ae5a89b42",
@@ -4564,10 +4856,11 @@
       "2026-09-11T15:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "North Charleston, SC, 29405",
-      null,
-      null,
+      32.845186,
+      -79.968608,
       "238160",
-      "https://sam.gov/opp/1d965c6fb9234d778cedfe4ae5a89b42/view"
+      "https://sam.gov/opp/1d965c6fb9234d778cedfe4ae5a89b42/view",
+      1
     ],
     [
       "04a1b48db000416bb149617713a938e0",
@@ -4579,10 +4872,11 @@
       "2026-09-11T15:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Colts Neck, NJ, 07722",
-      null,
-      null,
+      40.305368,
+      -74.173684,
       "238220",
-      "https://sam.gov/opp/04a1b48db000416bb149617713a938e0/view"
+      "https://sam.gov/opp/04a1b48db000416bb149617713a938e0/view",
+      1
     ],
     [
       "290a3b55b6be47e0bff0850e4b1c884c",
@@ -4594,10 +4888,11 @@
       "2026-09-11T15:30:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "DC, 20036",
-      null,
-      null,
+      38.913159,
+      -77.045415,
       "238220",
-      "https://sam.gov/opp/290a3b55b6be47e0bff0850e4b1c884c/view"
+      "https://sam.gov/opp/290a3b55b6be47e0bff0850e4b1c884c/view",
+      1
     ],
     [
       "0772203cf50e4b40b8659bfd5736ae6b",
@@ -4609,10 +4904,11 @@
       "2026-09-11T16:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "Houlton, ME, 04730",
-      null,
-      null,
+      46.123861,
+      -67.880303,
       "236220",
-      "https://sam.gov/opp/0772203cf50e4b40b8659bfd5736ae6b/view"
+      "https://sam.gov/opp/0772203cf50e4b40b8659bfd5736ae6b/view",
+      1
     ],
     [
       "376155fbbbbb4c4db161c2ffdb879545",
@@ -4624,10 +4920,11 @@
       "2026-09-11T16:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Pittsburgh, PA, 15215",
-      null,
-      null,
+      40.482859,
+      -79.89334,
       "236220",
-      "https://sam.gov/opp/376155fbbbbb4c4db161c2ffdb879545/view"
+      "https://sam.gov/opp/376155fbbbbb4c4db161c2ffdb879545/view",
+      1
     ],
     [
       "8980cd3daa554d48bfe34827c2d7a247",
@@ -4639,10 +4936,11 @@
       "2026-09-11T16:00:00.000Z",
       "2026-08-03T00:00:00.000Z",
       "Woodford, VA, 22580",
-      null,
-      null,
+      38.080241,
+      -77.435885,
       "238220",
-      "https://sam.gov/opp/8980cd3daa554d48bfe34827c2d7a247/view"
+      "https://sam.gov/opp/8980cd3daa554d48bfe34827c2d7a247/view",
+      1
     ],
     [
       "31c31ca9596443fca4325f729f3e3ddd",
@@ -4654,10 +4952,11 @@
       "2026-09-11T18:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "Washington, DC, 20032",
-      null,
-      null,
+      38.811875,
+      -76.989738,
       "236220",
-      "https://sam.gov/opp/31c31ca9596443fca4325f729f3e3ddd/view"
+      "https://sam.gov/opp/31c31ca9596443fca4325f729f3e3ddd/view",
+      1
     ],
     [
       "8cead09a7fc948a3b2f6c732f880b180",
@@ -4669,10 +4968,11 @@
       "2026-09-11T18:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "Camp Lejeune, NC, 28547",
-      null,
-      null,
+      34.67243,
+      -77.38504,
       "236220",
-      "https://sam.gov/opp/8cead09a7fc948a3b2f6c732f880b180/view"
+      "https://sam.gov/opp/8cead09a7fc948a3b2f6c732f880b180/view",
+      1
     ],
     [
       "459ce2a86b4442468f602f9d806c3291",
@@ -4684,10 +4984,11 @@
       "2026-09-11T19:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Niagara Falls, NY, 14304",
-      null,
-      null,
+      43.114087,
+      -78.970206,
       "236220",
-      "https://sam.gov/opp/459ce2a86b4442468f602f9d806c3291/view"
+      "https://sam.gov/opp/459ce2a86b4442468f602f9d806c3291/view",
+      1
     ],
     [
       "38457af594ad42b7832d344ce881aa6e",
@@ -4699,10 +5000,11 @@
       "2026-09-11T20:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Upton, NY, 11973",
-      null,
-      null,
+      40.86462,
+      -72.877112,
       "236220",
-      "https://sam.gov/opp/38457af594ad42b7832d344ce881aa6e/view"
+      "https://sam.gov/opp/38457af594ad42b7832d344ce881aa6e/view",
+      1
     ],
     [
       "bcee43ef8e20479f9f92a4842bc2d348",
@@ -4714,10 +5016,11 @@
       "2026-09-11T20:00:00.000Z",
       "2026-08-12T00:00:00.000Z",
       "WV, 25405",
-      null,
-      null,
+      39.403223,
+      -77.962023,
       "237310",
-      "https://sam.gov/opp/bcee43ef8e20479f9f92a4842bc2d348/view"
+      "https://sam.gov/opp/bcee43ef8e20479f9f92a4842bc2d348/view",
+      1
     ],
     [
       "4a74b881b8484186b1e818b53c8ab7e2",
@@ -4729,10 +5032,11 @@
       "2026-09-11T20:30:00.000Z",
       "2026-08-06T00:00:00.000Z",
       "Salisbury, NC, 28144",
-      null,
-      null,
+      35.640418,
+      -80.474716,
       "238220",
-      "https://sam.gov/opp/4a74b881b8484186b1e818b53c8ab7e2/view"
+      "https://sam.gov/opp/4a74b881b8484186b1e818b53c8ab7e2/view",
+      1
     ],
     [
       "580d8f3ef4a741338abbdee9ca151ea8",
@@ -4744,10 +5048,11 @@
       "2026-09-14T14:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "North Chicago, IL, 60064",
-      null,
-      null,
+      42.329359,
+      -87.839013,
       "238220",
-      "https://sam.gov/opp/580d8f3ef4a741338abbdee9ca151ea8/view"
+      "https://sam.gov/opp/580d8f3ef4a741338abbdee9ca151ea8/view",
+      1
     ],
     [
       "4753ba9c697940cbbeef870faaf8ae85",
@@ -4759,10 +5064,11 @@
       "2026-09-14T14:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Biloxi, MS, 39534",
-      null,
-      null,
+      30.394848,
+      -88.919223,
       "238990",
-      "https://sam.gov/opp/4753ba9c697940cbbeef870faaf8ae85/view"
+      "https://sam.gov/opp/4753ba9c697940cbbeef870faaf8ae85/view",
+      1
     ],
     [
       "48708904565249a78daf561356d31df4",
@@ -4774,10 +5080,11 @@
       "2026-09-14T14:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Yorktown, VA, 23690",
-      null,
-      null,
+      37.205518,
+      -76.536088,
       "238990",
-      "https://sam.gov/opp/48708904565249a78daf561356d31df4/view"
+      "https://sam.gov/opp/48708904565249a78daf561356d31df4/view",
+      1
     ],
     [
       "217fd92d6f9d4926b039e53ae01ea5c3",
@@ -4789,10 +5096,11 @@
       "2026-09-14T14:00:00.000Z",
       "2026-08-08T00:00:00.000Z",
       "Yorktown, VA, 23690",
-      null,
-      null,
+      37.202985,
+      -76.557751,
       "238990",
-      "https://sam.gov/opp/217fd92d6f9d4926b039e53ae01ea5c3/view"
+      "https://sam.gov/opp/217fd92d6f9d4926b039e53ae01ea5c3/view",
+      1
     ],
     [
       "de37502047e14e6a83f416897cecdf27",
@@ -4804,10 +5112,11 @@
       "2026-09-14T15:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "0, MD, 20755",
-      null,
-      null,
+      39.081325,
+      -76.729493,
       "236220",
-      "https://sam.gov/opp/de37502047e14e6a83f416897cecdf27/view"
+      "https://sam.gov/opp/de37502047e14e6a83f416897cecdf27/view",
+      1
     ],
     [
       "0530099d29bd4d4c81e2cfb94edfd92a",
@@ -4819,10 +5128,11 @@
       "2026-09-14T18:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "Virginia Beach, VA, 23454",
-      null,
-      null,
+      36.811229,
+      -76.006729,
       "237110",
-      "https://sam.gov/opp/0530099d29bd4d4c81e2cfb94edfd92a/view"
+      "https://sam.gov/opp/0530099d29bd4d4c81e2cfb94edfd92a/view",
+      1
     ],
     [
       "bb26896481ed42bf8e0396ceb321a0ba",
@@ -4834,10 +5144,11 @@
       "2026-09-14T19:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Natick, MA, 01760",
-      null,
-      null,
+      42.263504,
+      -71.357819,
       "236220",
-      "https://sam.gov/opp/bb26896481ed42bf8e0396ceb321a0ba/view"
+      "https://sam.gov/opp/bb26896481ed42bf8e0396ceb321a0ba/view",
+      1
     ],
     [
       "f22ce30fcf6d493a8e28642a5d6a2d53",
@@ -4849,10 +5160,11 @@
       "2026-09-14T20:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Upton, NY, 11973",
-      null,
-      null,
+      40.896166,
+      -72.872433,
       "238910",
-      "https://sam.gov/opp/f22ce30fcf6d493a8e28642a5d6a2d53/view"
+      "https://sam.gov/opp/f22ce30fcf6d493a8e28642a5d6a2d53/view",
+      1
     ],
     [
       "36091fb1bcba41e9bb3ced12d89b4de3",
@@ -4864,10 +5176,11 @@
       "2026-09-14T21:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Triangle, VA",
-      null,
-      null,
+      38.566645,
+      -77.304787,
       "237310",
-      "https://sam.gov/opp/36091fb1bcba41e9bb3ced12d89b4de3/view"
+      "https://sam.gov/opp/36091fb1bcba41e9bb3ced12d89b4de3/view",
+      1
     ],
     [
       "ffa77c470fd8426cb5111c740defca59",
@@ -4879,10 +5192,11 @@
       "2026-09-14T21:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Hillsboro, WV",
-      null,
-      null,
+      38.100379,
+      -80.242529,
       "238210",
-      "https://sam.gov/opp/ffa77c470fd8426cb5111c740defca59/view"
+      "https://sam.gov/opp/ffa77c470fd8426cb5111c740defca59/view",
+      1
     ],
     [
       "5215a05ca087427c97fc6d20f34bb0f5",
@@ -4894,10 +5208,11 @@
       "2026-09-15T14:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "0, SC, 29152",
-      null,
-      null,
+      33.924575,
+      -80.311792,
       "237110",
-      "https://sam.gov/opp/5215a05ca087427c97fc6d20f34bb0f5/view"
+      "https://sam.gov/opp/5215a05ca087427c97fc6d20f34bb0f5/view",
+      1
     ],
     [
       "29980196d4b3433a94875bcdff66f1cd",
@@ -4909,10 +5224,11 @@
       "2026-09-15T15:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Rock Island, IL, 61299",
-      null,
-      null,
+      41.502325,
+      -90.542542,
       "237110",
-      "https://sam.gov/opp/29980196d4b3433a94875bcdff66f1cd/view"
+      "https://sam.gov/opp/29980196d4b3433a94875bcdff66f1cd/view",
+      1
     ],
     [
       "e35502ac4dc7423fa1f1a735a2fca5fb",
@@ -4924,10 +5240,11 @@
       "2026-09-15T16:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Biloxi, MS, 39534",
-      null,
-      null,
+      30.384759,
+      -88.94156,
       "237110",
-      "https://sam.gov/opp/e35502ac4dc7423fa1f1a735a2fca5fb/view"
+      "https://sam.gov/opp/e35502ac4dc7423fa1f1a735a2fca5fb/view",
+      1
     ],
     [
       "64dd80bbec7d4dc9bc1dafd7469728ec",
@@ -4939,10 +5256,11 @@
       "2026-09-15T17:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Northport, NY, 11768",
-      null,
-      null,
+      40.893378,
+      -73.358515,
       "236220",
-      "https://sam.gov/opp/64dd80bbec7d4dc9bc1dafd7469728ec/view"
+      "https://sam.gov/opp/64dd80bbec7d4dc9bc1dafd7469728ec/view",
+      1
     ],
     [
       "b107f6c9e4d74986b0a8056c2061302a",
@@ -4954,10 +5272,11 @@
       "2026-09-15T18:00:00.000Z",
       "2026-08-11T00:00:00.000Z",
       "Fort Eustis, VA",
-      null,
-      null,
+      37.140728,
+      -76.567236,
       "237990",
-      "https://sam.gov/opp/b107f6c9e4d74986b0a8056c2061302a/view"
+      "https://sam.gov/opp/b107f6c9e4d74986b0a8056c2061302a/view",
+      1
     ],
     [
       "0aa4d261de6849138bcea7eaa547ebe9",
@@ -4969,10 +5288,11 @@
       "2026-09-15T18:00:00.000Z",
       "2026-08-14T00:00:00.000Z",
       "Gulfport, MS, 39507",
-      null,
-      null,
+      30.426086,
+      -89.032685,
       "238210",
-      "https://sam.gov/opp/0aa4d261de6849138bcea7eaa547ebe9/view"
+      "https://sam.gov/opp/0aa4d261de6849138bcea7eaa547ebe9/view",
+      1
     ],
     [
       "7fcbf86f713d41db853a3373842a89c0",
@@ -4984,10 +5304,11 @@
       "2026-09-15T19:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "AL, 36108",
-      null,
-      null,
+      32.356623,
+      -86.342835,
       "236220",
-      "https://sam.gov/opp/7fcbf86f713d41db853a3373842a89c0/view"
+      "https://sam.gov/opp/7fcbf86f713d41db853a3373842a89c0/view",
+      1
     ],
     [
       "70047507b7b44eb1a946b79cf6419b5d",
@@ -4999,10 +5320,11 @@
       "2026-09-15T19:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Bangor, ME",
-      null,
-      null,
+      44.815806,
+      -68.796391,
       "238110",
-      "https://sam.gov/opp/70047507b7b44eb1a946b79cf6419b5d/view"
+      "https://sam.gov/opp/70047507b7b44eb1a946b79cf6419b5d/view",
+      1
     ],
     [
       "fe697d8f71cc4742a6ff45821d17c190",
@@ -5014,10 +5336,11 @@
       "2026-09-15T22:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Batavia, IL, 60510",
-      null,
-      null,
+      41.856685,
+      -88.318285,
       "238160",
-      "https://sam.gov/opp/fe697d8f71cc4742a6ff45821d17c190/view"
+      "https://sam.gov/opp/fe697d8f71cc4742a6ff45821d17c190/view",
+      1
     ],
     [
       "3483cc9a6d1a47bda9658be9a2d7d950",
@@ -5029,10 +5352,11 @@
       "2026-09-16T14:00:00.000Z",
       "2026-07-14T00:00:00.000Z",
       "Montrose, NY, 10548",
-      null,
-      null,
+      41.238362,
+      -73.972416,
       "236220",
-      "https://sam.gov/opp/3483cc9a6d1a47bda9658be9a2d7d950/view"
+      "https://sam.gov/opp/3483cc9a6d1a47bda9658be9a2d7d950/view",
+      1
     ],
     [
       "47d38a60f13c41e1888d5c5b28042667",
@@ -5044,10 +5368,11 @@
       "2026-09-16T16:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Arlington Heights, IL, 60005",
-      null,
-      null,
+      42.045846,
+      -88.009559,
       "237110",
-      "https://sam.gov/opp/47d38a60f13c41e1888d5c5b28042667/view"
+      "https://sam.gov/opp/47d38a60f13c41e1888d5c5b28042667/view",
+      1
     ],
     [
       "5a510b8140c645948fcb15d23ca5e8fd",
@@ -5059,10 +5384,11 @@
       "2026-09-16T18:00:00.000Z",
       "2026-07-24T00:00:00.000Z",
       "Danville, IL, 61832-2222",
-      null,
-      null,
+      40.125278,
+      -87.649315,
       "238160",
-      "https://sam.gov/opp/5a510b8140c645948fcb15d23ca5e8fd/view"
+      "https://sam.gov/opp/5a510b8140c645948fcb15d23ca5e8fd/view",
+      1
     ],
     [
       "37d0fdc2598a4b5989a0bb884c446026",
@@ -5074,10 +5400,11 @@
       "2026-09-16T19:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Cherry Point, NC",
-      null,
-      null,
+      34.921013,
+      -76.894737,
       "236220",
-      "https://sam.gov/opp/37d0fdc2598a4b5989a0bb884c446026/view"
+      "https://sam.gov/opp/37d0fdc2598a4b5989a0bb884c446026/view",
+      1
     ],
     [
       "f3ce670797bb4f5b812b6ebda66e3b99",
@@ -5089,10 +5416,11 @@
       "2026-09-17T00:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Nags Head, NC, 27959",
-      null,
-      null,
+      35.856518,
+      -75.604847,
       "238220",
-      "https://sam.gov/opp/f3ce670797bb4f5b812b6ebda66e3b99/view"
+      "https://sam.gov/opp/f3ce670797bb4f5b812b6ebda66e3b99/view",
+      1
     ],
     [
       "1ae6b1abd82446b7a3ff870dfff8d52f",
@@ -5104,10 +5432,11 @@
       "2026-09-17T14:00:00.000Z",
       "2026-07-16T00:00:00.000Z",
       "KY, 40356",
-      null,
-      null,
+      37.883725,
+      -84.588421,
       "237990",
-      "https://sam.gov/opp/1ae6b1abd82446b7a3ff870dfff8d52f/view"
+      "https://sam.gov/opp/1ae6b1abd82446b7a3ff870dfff8d52f/view",
+      1
     ],
     [
       "26fcb03ec13b4a85816bc785a939f104",
@@ -5119,10 +5448,11 @@
       "2026-09-17T14:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Philadelphia, PA, 19106",
-      null,
-      null,
+      39.952663,
+      -75.164513,
       "238220",
-      "https://sam.gov/opp/26fcb03ec13b4a85816bc785a939f104/view"
+      "https://sam.gov/opp/26fcb03ec13b4a85816bc785a939f104/view",
+      1
     ],
     [
       "18a98675386441629892fc67ca1711f7",
@@ -5134,10 +5464,11 @@
       "2026-09-17T15:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Brunswick, GA, 31524",
-      null,
-      null,
+      31.22415,
+      -81.488201,
       "236220",
-      "https://sam.gov/opp/18a98675386441629892fc67ca1711f7/view"
+      "https://sam.gov/opp/18a98675386441629892fc67ca1711f7/view",
+      1
     ],
     [
       "006c6f0696d8405b9be5fbca7217ecc0",
@@ -5149,10 +5480,11 @@
       "2026-09-17T16:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "New Boston, NH",
-      null,
-      null,
+      42.980372,
+      -71.702438,
       "237110",
-      "https://sam.gov/opp/006c6f0696d8405b9be5fbca7217ecc0/view"
+      "https://sam.gov/opp/006c6f0696d8405b9be5fbca7217ecc0/view",
+      1
     ],
     [
       "297e477feebe434aaf4cb9a3f26a1553",
@@ -5164,10 +5496,11 @@
       "2026-09-17T18:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Southwest Harbor, ME, 04679",
-      null,
-      null,
+      44.300685,
+      -68.311073,
       "236220",
-      "https://sam.gov/opp/297e477feebe434aaf4cb9a3f26a1553/view"
+      "https://sam.gov/opp/297e477feebe434aaf4cb9a3f26a1553/view",
+      1
     ],
     [
       "f6819caa0d0f42879656f3ea88977cdf",
@@ -5179,10 +5512,11 @@
       "2026-09-17T18:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "MI, 49012",
-      null,
-      null,
+      42.383489,
+      -85.366679,
       "237990",
-      "https://sam.gov/opp/f6819caa0d0f42879656f3ea88977cdf/view"
+      "https://sam.gov/opp/f6819caa0d0f42879656f3ea88977cdf/view",
+      1
     ],
     [
       "ea5d6f24e313483b9d54d914330b5f53",
@@ -5194,10 +5528,11 @@
       "2026-09-17T18:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Wilmington, NC",
-      null,
-      null,
+      34.204782,
+      -77.862924,
       "238160",
-      "https://sam.gov/opp/ea5d6f24e313483b9d54d914330b5f53/view"
+      "https://sam.gov/opp/ea5d6f24e313483b9d54d914330b5f53/view",
+      1
     ],
     [
       "be9c29bff158410e824a02ad0e2ee5c8",
@@ -5209,10 +5544,11 @@
       "2026-09-17T22:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Tomah, WI, 54660",
-      null,
-      null,
+      43.978946,
+      -90.469773,
       "238990",
-      "https://sam.gov/opp/be9c29bff158410e824a02ad0e2ee5c8/view"
+      "https://sam.gov/opp/be9c29bff158410e824a02ad0e2ee5c8/view",
+      1
     ],
     [
       "42c7a7b9b5ca4f94a24102e5b6fca4f9",
@@ -5224,10 +5560,11 @@
       "2026-09-18T14:00:00.000Z",
       "2026-08-05T00:00:00.000Z",
       "Bar Harbor, ME, 04609",
-      null,
-      null,
+      44.381691,
+      -68.228622,
       "237310",
-      "https://sam.gov/opp/42c7a7b9b5ca4f94a24102e5b6fca4f9/view"
+      "https://sam.gov/opp/42c7a7b9b5ca4f94a24102e5b6fca4f9/view",
+      1
     ],
     [
       "5c10b12a53ee42d4bb9418ef0ec60d12",
@@ -5254,10 +5591,11 @@
       "2026-09-18T14:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Richmond, VA, 23223",
-      null,
-      null,
+      37.548328,
+      -77.376811,
       "238220",
-      "https://sam.gov/opp/54da69b098944a75abff2d84d950845f/view"
+      "https://sam.gov/opp/54da69b098944a75abff2d84d950845f/view",
+      1
     ],
     [
       "61772fbfad1f41f8adebf80bac5e352f",
@@ -5269,10 +5607,11 @@
       "2026-09-18T16:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Woodford, VA, 22580",
-      null,
-      null,
+      38.101819,
+      -77.434338,
       "238220",
-      "https://sam.gov/opp/61772fbfad1f41f8adebf80bac5e352f/view"
+      "https://sam.gov/opp/61772fbfad1f41f8adebf80bac5e352f/view",
+      1
     ],
     [
       "d7b9212071ee4a25879bc23ee44cdfb4",
@@ -5284,10 +5623,11 @@
       "2026-09-18T17:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Bay Pines, FL, 33744",
-      null,
-      null,
+      27.794126,
+      -82.755906,
       "236220",
-      "https://sam.gov/opp/d7b9212071ee4a25879bc23ee44cdfb4/view"
+      "https://sam.gov/opp/d7b9212071ee4a25879bc23ee44cdfb4/view",
+      1
     ],
     [
       "a825706e006f43a6a6711129a72ce19f",
@@ -5299,10 +5639,11 @@
       "2026-09-18T21:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Bangor, ME",
-      null,
-      null,
+      44.796641,
+      -68.802635,
       "238210",
-      "https://sam.gov/opp/a825706e006f43a6a6711129a72ce19f/view"
+      "https://sam.gov/opp/a825706e006f43a6a6711129a72ce19f/view",
+      1
     ],
     [
       "8d975bed44e745bd9d3e584408aae01f",
@@ -5314,10 +5655,11 @@
       "2026-09-21T14:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Gettysburg, PA, 17325",
-      null,
-      null,
+      39.860978,
+      -77.230065,
       "236220",
-      "https://sam.gov/opp/8d975bed44e745bd9d3e584408aae01f/view"
+      "https://sam.gov/opp/8d975bed44e745bd9d3e584408aae01f/view",
+      1
     ],
     [
       "df9118b8e45142cdbe349c206cb9458c",
@@ -5329,10 +5671,11 @@
       "2026-09-21T15:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Lexington, KY, 40511",
-      null,
-      null,
+      38.091631,
+      -84.482768,
       "238220",
-      "https://sam.gov/opp/df9118b8e45142cdbe349c206cb9458c/view"
+      "https://sam.gov/opp/df9118b8e45142cdbe349c206cb9458c/view",
+      1
     ],
     [
       "ee45bfd4d35046a5b02bbb4372e20017",
@@ -5344,10 +5687,11 @@
       "2026-09-21T15:00:00.000Z",
       "2026-08-04T00:00:00.000Z",
       "Chicago, IL, 60612",
-      null,
-      null,
+      41.88895,
+      -87.703193,
       "238220",
-      "https://sam.gov/opp/ee45bfd4d35046a5b02bbb4372e20017/view"
+      "https://sam.gov/opp/ee45bfd4d35046a5b02bbb4372e20017/view",
+      1
     ],
     [
       "5c06117ce8a84560af13f47dd4f4434a",
@@ -5359,10 +5703,11 @@
       "2026-09-21T16:00:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "0, SC, 29404",
-      null,
-      null,
+      32.903906,
+      -80.070454,
       "236220",
-      "https://sam.gov/opp/5c06117ce8a84560af13f47dd4f4434a/view"
+      "https://sam.gov/opp/5c06117ce8a84560af13f47dd4f4434a/view",
+      1
     ],
     [
       "398b7596ef32425da76ab48774ec0ba4",
@@ -5374,10 +5719,11 @@
       "2026-09-21T16:00:00.000Z",
       "2026-08-18T00:00:00.000Z",
       "Bronx, NY, 10468",
-      null,
-      null,
+      40.878193,
+      -73.900719,
       "238210",
-      "https://sam.gov/opp/398b7596ef32425da76ab48774ec0ba4/view"
+      "https://sam.gov/opp/398b7596ef32425da76ab48774ec0ba4/view",
+      1
     ],
     [
       "a51cdca581154df4b39c8ad68d81688b",
@@ -5389,10 +5735,11 @@
       "2026-09-21T16:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Washington, DC, 20024",
-      null,
-      null,
+      38.879255,
+      -77.020974,
       "238290",
-      "https://sam.gov/opp/a51cdca581154df4b39c8ad68d81688b/view"
+      "https://sam.gov/opp/a51cdca581154df4b39c8ad68d81688b/view",
+      1
     ],
     [
       "e37d1784bb1e414ba198dd5e9ee7b622",
@@ -5404,10 +5751,11 @@
       "2026-09-21T16:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Chicago, IL, 60612",
-      null,
-      null,
+      41.856941,
+      -87.682721,
       "238290",
-      "https://sam.gov/opp/e37d1784bb1e414ba198dd5e9ee7b622/view"
+      "https://sam.gov/opp/e37d1784bb1e414ba198dd5e9ee7b622/view",
+      1
     ],
     [
       "2eac3145169244a5a6370d628d487aa7",
@@ -5419,10 +5767,11 @@
       "2026-09-21T18:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Newport, RI, 02841",
-      null,
-      null,
+      41.504196,
+      -71.296,
       "236220",
-      "https://sam.gov/opp/2eac3145169244a5a6370d628d487aa7/view"
+      "https://sam.gov/opp/2eac3145169244a5a6370d628d487aa7/view",
+      1
     ],
     [
       "12ca925703334172a984e57b8618e7c4",
@@ -5434,10 +5783,11 @@
       "2026-09-21T19:00:00.000Z",
       "2026-08-21T00:00:00.000Z",
       "Sandwich, MA, 02563",
-      null,
-      null,
+      41.70812,
+      -70.482588,
       "237990",
-      "https://sam.gov/opp/12ca925703334172a984e57b8618e7c4/view"
+      "https://sam.gov/opp/12ca925703334172a984e57b8618e7c4/view",
+      1
     ],
     [
       "3ade2643d2ce4e7bae181e2385cfe9c8",
@@ -5449,10 +5799,11 @@
       "2026-09-22T15:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Tomah, WI, 54660",
-      null,
-      null,
+      43.968212,
+      -90.4823,
       "238210",
-      "https://sam.gov/opp/3ade2643d2ce4e7bae181e2385cfe9c8/view"
+      "https://sam.gov/opp/3ade2643d2ce4e7bae181e2385cfe9c8/view",
+      1
     ],
     [
       "4b3a74a27dd3457383cc5a95151d7c32",
@@ -5464,10 +5815,11 @@
       "2026-09-23T14:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "North Chicago, IL, 60064",
-      null,
-      null,
+      42.295156,
+      -87.851191,
       "238220",
-      "https://sam.gov/opp/4b3a74a27dd3457383cc5a95151d7c32/view"
+      "https://sam.gov/opp/4b3a74a27dd3457383cc5a95151d7c32/view",
+      1
     ],
     [
       "57d863e6fc2342e3ac367e66b2720909",
@@ -5479,10 +5831,11 @@
       "2026-09-23T15:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "WI, 54660",
-      null,
-      null,
+      43.994763,
+      -90.468419,
       "238220",
-      "https://sam.gov/opp/57d863e6fc2342e3ac367e66b2720909/view"
+      "https://sam.gov/opp/57d863e6fc2342e3ac367e66b2720909/view",
+      1
     ],
     [
       "2b08f567ae1440bcbc74141ace8b8b39",
@@ -5494,10 +5847,11 @@
       "2026-09-23T16:00:00.000Z",
       "2026-08-05T00:00:00.000Z",
       "North Chicago, IL, 60064-3048",
-      null,
-      null,
+      42.319437,
+      -87.873613,
       "238220",
-      "https://sam.gov/opp/2b08f567ae1440bcbc74141ace8b8b39/view"
+      "https://sam.gov/opp/2b08f567ae1440bcbc74141ace8b8b39/view",
+      1
     ],
     [
       "1e18a727be7a4adba9c28a73867cc93b",
@@ -5509,10 +5863,11 @@
       "2026-09-23T19:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "FL, 33309",
-      null,
-      null,
+      26.185557,
+      -80.170004,
       "236220",
-      "https://sam.gov/opp/1e18a727be7a4adba9c28a73867cc93b/view"
+      "https://sam.gov/opp/1e18a727be7a4adba9c28a73867cc93b/view",
+      1
     ],
     [
       "07335772cff447f0acd6377c5121ad61",
@@ -5524,10 +5879,11 @@
       "2026-09-25T15:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Meridian, MS, 39309",
-      null,
-      null,
+      32.560677,
+      -88.619559,
       "238290",
-      "https://sam.gov/opp/07335772cff447f0acd6377c5121ad61/view"
+      "https://sam.gov/opp/07335772cff447f0acd6377c5121ad61/view",
+      1
     ],
     [
       "f5aca53960f54110a3d90b221de9dce3",
@@ -5554,10 +5910,11 @@
       "2026-09-28T21:00:00.000Z",
       "2026-08-26T00:00:00.000Z",
       "Salem, VA, 24153",
-      null,
-      null,
+      37.313989,
+      -80.077971,
       "237110",
-      "https://sam.gov/opp/42cdffae4293478e8be933d32af336d9/view"
+      "https://sam.gov/opp/42cdffae4293478e8be933d32af336d9/view",
+      1
     ],
     [
       "f46186008fd74b78a4b34dda5272802e",
@@ -5569,10 +5926,11 @@
       "2026-09-29T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "Fort Lee, VA",
-      null,
-      null,
+      37.250263,
+      -77.336348,
       "236220",
-      "https://sam.gov/opp/f46186008fd74b78a4b34dda5272802e/view"
+      "https://sam.gov/opp/f46186008fd74b78a4b34dda5272802e/view",
+      1
     ],
     [
       "676b257b102f4016821a5f1971a7822b",
@@ -5584,10 +5942,11 @@
       "2026-09-30T15:00:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "Colts Neck, NJ, 07722",
-      null,
-      null,
+      40.2712,
+      -74.178,
       "238210",
-      "https://sam.gov/opp/676b257b102f4016821a5f1971a7822b/view"
+      "https://sam.gov/opp/676b257b102f4016821a5f1971a7822b/view",
+      1
     ],
     [
       "d2bf12c168654ab1828b7bb432ed756a",
@@ -5599,10 +5958,11 @@
       "2026-10-02T21:30:00.000Z",
       "2026-08-17T00:00:00.000Z",
       "Hampton, Virginia, 23667",
-      null,
-      null,
+      37.024934,
+      -76.342395,
       "236118",
-      "https://sam.gov/opp/d2bf12c168654ab1828b7bb432ed756a/view"
+      "https://sam.gov/opp/d2bf12c168654ab1828b7bb432ed756a/view",
+      1
     ],
     [
       "bf90f202cbe647daba4fa9d5461d62fe",
@@ -5614,10 +5974,11 @@
       "2026-10-05T16:00:00.000Z",
       "2026-08-19T00:00:00.000Z",
       "Manchester, NH, 03102",
-      null,
-      null,
+      42.978655,
+      -71.506513,
       "238170",
-      "https://sam.gov/opp/bf90f202cbe647daba4fa9d5461d62fe/view"
+      "https://sam.gov/opp/bf90f202cbe647daba4fa9d5461d62fe/view",
+      1
     ],
     [
       "b986eb6cb4774f609b3edf4c376a80c0",
@@ -5629,10 +5990,11 @@
       "2026-10-09T17:00:00.000Z",
       "2026-07-27T00:00:00.000Z",
       "Bassett, VA",
-      null,
-      null,
+      36.770204,
+      -79.999049,
       "237990",
-      "https://sam.gov/opp/b986eb6cb4774f609b3edf4c376a80c0/view"
+      "https://sam.gov/opp/b986eb6cb4774f609b3edf4c376a80c0/view",
+      1
     ],
     [
       "e1560a63f2914aedb98bf440addde388",
@@ -5644,10 +6006,11 @@
       "2026-10-13T16:00:00.000Z",
       "2026-08-07T00:00:00.000Z",
       "0, SC, 29152",
-      null,
-      null,
+      33.950108,
+      -80.337325,
       "236220",
-      "https://sam.gov/opp/e1560a63f2914aedb98bf440addde388/view"
+      "https://sam.gov/opp/e1560a63f2914aedb98bf440addde388/view",
+      1
     ],
     [
       "cd53883ff4974b888a94d4d8efaa3e9b",
@@ -5659,10 +6022,11 @@
       "2026-10-13T18:00:00.000Z",
       "2026-08-20T00:00:00.000Z",
       "Newport, RI, 02841",
-      null,
-      null,
+      41.504706,
+      -71.297146,
       "236220",
-      "https://sam.gov/opp/cd53883ff4974b888a94d4d8efaa3e9b/view"
+      "https://sam.gov/opp/cd53883ff4974b888a94d4d8efaa3e9b/view",
+      1
     ],
     [
       "02af8b2b91bf49f9967c5c1e3c0a1426",
@@ -5674,10 +6038,11 @@
       "2026-10-13T18:00:00.000Z",
       "2026-08-25T00:00:00.000Z",
       "New Haven, CT, 06510",
-      null,
-      null,
+      41.286759,
+      -72.94756,
       "237990",
-      "https://sam.gov/opp/02af8b2b91bf49f9967c5c1e3c0a1426/view"
+      "https://sam.gov/opp/02af8b2b91bf49f9967c5c1e3c0a1426/view",
+      1
     ],
     [
       "8d11797484e2473fa4ebfc559de772a9",
@@ -5689,10 +6054,11 @@
       "2026-10-15T18:00:00.000Z",
       "2026-08-13T00:00:00.000Z",
       "Philadelphia, PA, 19112",
-      null,
-      null,
+      39.912251,
+      -75.185217,
       "237990",
-      "https://sam.gov/opp/8d11797484e2473fa4ebfc559de772a9/view"
+      "https://sam.gov/opp/8d11797484e2473fa4ebfc559de772a9/view",
+      1
     ],
     [
       "9bbb57e142194631ba71c473a377014d",
@@ -5704,10 +6070,11 @@
       "2026-10-28T13:45:00.000Z",
       "2026-08-24T00:00:00.000Z",
       "New York, NY, 11768-2200",
-      null,
-      null,
+      40.921414,
+      -73.323293,
       "236220",
-      "https://sam.gov/opp/9bbb57e142194631ba71c473a377014d/view"
+      "https://sam.gov/opp/9bbb57e142194631ba71c473a377014d/view",
+      1
     ],
     [
       "4e9bac9582ac4c25b28664281427ee1b",
@@ -5734,10 +6101,11 @@
       "2026-12-01T22:30:00.000Z",
       "2025-11-12T00:00:00.000Z",
       "Fort Eustis, VA, 23604",
-      null,
-      null,
+      37.168482,
+      -76.570316,
       "237990",
-      "https://sam.gov/opp/512decbb3da94bfb9ef55ef7c777706c/view"
+      "https://sam.gov/opp/512decbb3da94bfb9ef55ef7c777706c/view",
+      1
     ],
     [
       "1e344b8e461a417285633ad960e52ba2",
@@ -5749,10 +6117,11 @@
       "2026-12-10T07:00:00.000Z",
       "2025-12-02T00:00:00.000Z",
       "Decatur, GA, 30033",
-      null,
-      null,
+      33.822062,
+      -84.303825,
       "236220",
-      "https://sam.gov/opp/1e344b8e461a417285633ad960e52ba2/view"
+      "https://sam.gov/opp/1e344b8e461a417285633ad960e52ba2/view",
+      1
     ],
     [
       "1efe2b5d5b0e42ebb347cb04f720592d",
@@ -5764,18 +6133,21 @@
       "2026-12-31T20:00:00.000Z",
       "2026-04-30T00:00:00.000Z",
       "Morehead City, NC",
-      null,
-      null,
+      34.735692,
+      -76.7471,
       "237990",
-      "https://sam.gov/opp/1efe2b5d5b0e42ebb347cb04f720592d/view"
+      "https://sam.gov/opp/1efe2b5d5b0e42ebb347cb04f720592d/view",
+      1
     ]
   ],
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
-    "alreadyLocated": 384,
-    "zipLocated": 0,
-    "cityLocated": 0,
-    "unresolved": 0,
-    "generatedAt": "2026-08-26T14:30:25.568Z"
+    "alreadyLocated": 0,
+    "zipLocated": 325,
+    "cityLocated": 45,
+    "unresolved": 14,
+    "locatedTotal": 370,
+    "total": 384,
+    "generatedAt": "2026-08-26T14:35:33.205Z"
   }
 }
