@@ -6,6 +6,7 @@
     "scrape:priority": "node scripts/scrape-priority.mjs"
   },
   "dependencies": {
-    "playwright": "1.55.0"
+    "playwright": "1.55.0",
+    "zipcodes": "8.0.0"
   }
 }
