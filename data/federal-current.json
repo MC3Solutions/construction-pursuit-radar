@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:58:38.520Z",
+  "generatedAt": "2026-08-26T17:14:02.979Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/27/2025",
@@ -9,38 +9,6 @@
   },
   "total": 382,
   "records": [
-    [
-      "04d459ea2c3d4f629b3bdc8a637fe628",
-      "70Z03026QCLEV0072",
-      "70Z03026CCLEV0072 - Station Sturgeon Bay Sliding Glass Door Project",
-      "Combined Synopsis/Solicitation",
-      "No Set aside used",
-      "2026-08-12T00:00:00.000Z",
-      "2026-08-26T17:00:00.000Z",
-      "2026-08-12T00:00:00.000Z",
-      "Sturgeon Bay, WI, 54235",
-      44.870989,
-      -87.362621,
-      "238290",
-      "https://sam.gov/opp/04d459ea2c3d4f629b3bdc8a637fe628/view",
-      1
-    ],
-    [
-      "6239d2fa36e946149e0fea2a3c171035",
-      "140P4326R0035",
-      "Y--CACO-FLAGPOLE REPLACEMENT",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-20T00:00:00.000Z",
-      "2026-08-26T17:00:00.000Z",
-      "2026-08-20T00:00:00.000Z",
-      "Wellfleet, MA, 02667",
-      41.911636,
-      -70.035272,
-      "238990",
-      "https://sam.gov/opp/6239d2fa36e946149e0fea2a3c171035/view",
-      1
-    ],
     [
       "1da384ea700e45b29d9a6d90aacbe3ab",
       "N4008526R0219",
@@ -1684,19 +1652,19 @@
       1
     ],
     [
-      "50e7c7552efa49e580850283881c846c",
+      "fbba3ba0ffe64dac81e24dd33a1cd007",
       "WX02854Y2026T",
       "Window Security Film Install",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "2026-08-31T19:00:00.000Z",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "Maynard, MA, 01754",
-      42.460291,
-      -71.444739,
+      42.4278,
+      -71.466203,
       "238150",
-      "https://sam.gov/opp/50e7c7552efa49e580850283881c846c/view",
+      "https://sam.gov/opp/fbba3ba0ffe64dac81e24dd33a1cd007/view",
       1
     ],
     [
@@ -4719,6 +4687,22 @@
       1
     ],
     [
+      "ba3e1f6a2b6f4c969588bd97cf92df9c",
+      "333ND26RNB190031",
+      "Large-Tier Electrical Construction IDIQ",
+      "Pre-Solicitation",
+      "No Set aside used",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-10T21:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Gaithersburg, MD, 20899",
+      39.138731,
+      -77.204068,
+      "238210",
+      "https://sam.gov/opp/ba3e1f6a2b6f4c969588bd97cf92df9c/view",
+      1
+    ],
+    [
       "2b5e32d67f4546ff9d59352ed0ad717e",
       "36C24126Q0744",
       "J045--Annual Backflow Inspections and Repair Services",
@@ -5164,6 +5148,22 @@
       -80.242529,
       "238210",
       "https://sam.gov/opp/ffa77c470fd8426cb5111c740defca59/view",
+      1
+    ],
+    [
+      "9c9c5c1493834e91aece63b9fec3066b",
+      "6923G226Q000034",
+      "Patten Hall Renovations, United States Merchant Marine Academy",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-15T03:59:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Kings Point, NY, 11024",
+      40.805974,
+      -73.746095,
+      "236220",
+      "https://sam.gov/opp/9c9c5c1493834e91aece63b9fec3066b/view",
       1
     ],
     [
@@ -6116,6 +6116,6 @@
     "unresolved": 14,
     "locatedTotal": 368,
     "total": 382,
-    "generatedAt": "2026-08-26T16:58:40.385Z"
+    "generatedAt": "2026-08-26T17:14:12.264Z"
   }
 }
