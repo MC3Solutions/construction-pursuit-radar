@@ -14,14 +14,17 @@ if(fed && Array.isArray(fed.records)){
   const generated=new Date(fed.generatedAt||0);
   const ageHours=(Date.now()-generated.getTime())/3600000;
   const fresh=Number.isFinite(ageHours)&&ageHours<=26;
+  const geo=fed.geocoding||{};
+  const geoLocated=(Number(geo.alreadyLocated)||0)+(Number(geo.zipLocated)||0)+(Number(geo.cityLocated)||0);
+  const geoNote=geoLocated?` ${geoLocated}/${fed.records.length} federal pins have ZIP/city or source coordinates.`:'';
   health.sources.FED={
     label:'Federal / SAM.gov',
     status:fresh?'OK':'PARTIAL',
     count:fed.records.length,
     checkedAt:fed.generatedAt||new Date().toISOString(),
     message:fresh
-      ?`Live SAM.gov Opportunities API snapshot: ${fed.records.length} active deduplicated construction pursuits.`
-      :`Federal snapshot is ${Math.round(ageHours)} hours old. Last-good SAM.gov data preserved.`,
+      ?`Live SAM.gov Opportunities API snapshot: ${fed.records.length} active deduplicated construction pursuits.${geoNote}`
+      :`Federal snapshot is ${Math.round(ageHours)} hours old. Last-good SAM.gov data preserved.${geoNote}`,
     stale:!fresh
   };
 }else{
