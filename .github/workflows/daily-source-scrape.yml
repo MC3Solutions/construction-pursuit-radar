@@ -125,10 +125,16 @@ jobs:
           else
             git commit -m "Refresh procurement sources $(date -u +%F)"
             if ! git push; then
-              echo "Remote advanced during refresh; rebasing once and retrying."
+              echo "Remote advanced during refresh; preserving this run's newer generated snapshot on top of current main."
               git fetch origin main
-              git rebase origin/main
-              git push
+              git reset --soft origin/main
+              git add index.html data
+              if git diff --cached --quiet; then
+                echo "Remote already contains equivalent generated data."
+              else
+                git commit -m "Refresh procurement sources $(date -u +%F)"
+                git push
+              fi
             fi
           fi
 
