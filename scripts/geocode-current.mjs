@@ -12,6 +12,10 @@ function load(file) {
   return JSON.parse(fs.readFileSync(file, 'utf8'));
 }
 
+function hasCoord(v) {
+  return v !== null && v !== undefined && v !== '' && Number.isFinite(Number(v));
+}
+
 function stateFromLocation(loc='') {
   const matches = String(loc).toUpperCase().match(/\b([A-Z]{2})\b/g) || [];
   return matches.find(s => EAST_STATES.has(s)) || null;
@@ -41,7 +45,7 @@ function lookupLocation(loc='') {
     if (hits.length) {
       const lat = hits.reduce((n,z)=>n+Number(z.latitude||0),0)/hits.length;
       const lng = hits.reduce((n,z)=>n+Number(z.longitude||0),0)/hits.length;
-      if (Number.isFinite(lat) && Number.isFinite(lng)) return {lat,lng,method:'city'};
+      if (Number.isFinite(lat) && Number.isFinite(lng) && lat !== 0 && lng !== 0) return {lat,lng,method:'city'};
     }
   }
   return null;
@@ -56,8 +60,8 @@ function hash(s='') {
 function tinySpread(lat,lng,key) {
   const h = hash(key);
   const angle = (h % 360) * Math.PI / 180;
-  const ring = 1 + ((h >>> 9) % 4);
-  const radius = 0.0045 * ring;
+  const ring = 1 + ((h >>> 9) % 5);
+  const radius = 0.006 * ring;
   return [lat + Math.sin(angle)*radius, lng + Math.cos(angle)*radius];
 }
 
@@ -66,12 +70,17 @@ const records = Array.isArray(payload.records) ? payload.records : [];
 let already = 0, zipCount = 0, cityCount = 0, unresolved = 0;
 
 for (const r of records) {
-  if (Number.isFinite(Number(r[9])) && Number.isFinite(Number(r[10]))) {
+  if (hasCoord(r[9]) && hasCoord(r[10])) {
     already++;
     continue;
   }
   const hit = lookupLocation(r[8]);
-  if (!hit) { unresolved++; continue; }
+  if (!hit) {
+    r[9] = null;
+    r[10] = null;
+    unresolved++;
+    continue;
+  }
   const [lat,lng] = tinySpread(Number(hit.lat), Number(hit.lng), `${r[0]}|${r[1]}|${r[2]}`);
   r[9] = Number(lat.toFixed(6));
   r[10] = Number(lng.toFixed(6));
@@ -85,6 +94,8 @@ payload.geocoding = {
   zipLocated: zipCount,
   cityLocated: cityCount,
   unresolved,
+  locatedTotal: already + zipCount + cityCount,
+  total: records.length,
   generatedAt: new Date().toISOString()
 };
 
