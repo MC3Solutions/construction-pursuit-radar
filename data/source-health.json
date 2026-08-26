@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-08-26T21:41:00.098Z",
+  "generatedAt": "2026-08-26T21:45:04.026Z",
   "total": 642,
   "sources": {
     "EVA": {
       "label": "Virginia eVA",
       "status": "OK",
       "count": 115,
-      "checkedAt": "2026-08-26T21:40:16.866Z",
+      "checkedAt": "2026-08-26T21:44:21.473Z",
       "message": "eVA reported 115 open Construction results; loaded 115 cards and parsed 115 future pursuits.",
       "stale": false
     },
     "NCEVP": {
       "label": "NC eVP",
-      "status": "OK",
+      "status": "PARTIAL",
       "count": 107,
-      "checkedAt": "2026-08-26T21:39:37.134Z",
-      "message": "107 future construction rows parsed from public result pages.",
-      "stale": false
+      "checkedAt": "2026-08-26T21:44:13.307Z",
+      "message": "0 future construction rows parsed from public result pages. Preserved 107 last-good records.",
+      "stale": true
     },
     "TNEDISON": {
       "label": "TN Edison",
       "status": "OK",
       "count": 8,
-      "checkedAt": "2026-08-26T21:39:37.134Z",
+      "checkedAt": "2026-08-26T21:44:13.307Z",
       "message": "8 future construction rows parsed from public result pages.",
       "stale": false
     },
     "TNSTREAM": {
       "label": "TN STREAM",
-      "status": "ERROR",
+      "status": "OK",
       "count": 7,
-      "checkedAt": "2026-08-26T21:40:16.866Z",
-      "message": "page.goto: net::ERR_CONNECTION_RESET at https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html\nCall log:\n  - navigating to \"https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html\", waiting until \"domcontentloaded\"\n Preserved 7 last-good records.",
-      "stale": true
+      "checkedAt": "2026-08-26T21:44:33.196Z",
+      "message": "Parsed 7 future projects from the live STREAM Construction Bid List.",
+      "stale": false
     },
     "TNDOT": {
       "label": "TN TDOT",
-      "status": "ERROR",
+      "status": "OK",
       "count": 1,
-      "checkedAt": "2026-08-26T21:40:16.866Z",
-      "message": "TDOT public bidding pages could not be reached from the runner. Preserved 1 last-good records.",
-      "stale": true
+      "checkedAt": "2026-08-26T21:44:21.473Z",
+      "message": "TDOT bidding page reachable (https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/e-plans-room.html); 1 future advertised letting link(s) found.",
+      "stale": false
     },
     "WVWA": {
       "label": "Western Virginia Water Authority",
       "status": "OK",
       "count": 4,
-      "checkedAt": "2026-08-26T21:40:12.604Z",
+      "checkedAt": "2026-08-26T21:44:19.296Z",
       "message": "4 active construction invitations parsed from the WVWA public bid portal.",
       "stale": false
     },
@@ -54,7 +54,7 @@
       "label": "VDOT CABB",
       "status": "OK",
       "count": 13,
-      "checkedAt": "2026-08-26T21:40:29.955Z",
+      "checkedAt": "2026-08-26T21:44:34.981Z",
       "message": "13 future VDOT CABB highway advertisements parsed.",
       "stale": false
     },
@@ -62,7 +62,7 @@
       "label": "NCDOT",
       "status": "PARTIAL",
       "count": 0,
-      "checkedAt": "2026-08-26T21:40:44.702Z",
+      "checkedAt": "2026-08-26T21:44:48.331Z",
       "message": "NCDOT returned no usable records during this refresh. Preserved 0 last-good record(s).",
       "stale": true
     },
@@ -70,7 +70,7 @@
       "label": "Federal / SAM.gov",
       "status": "OK",
       "count": 387,
-      "checkedAt": "2026-08-26T21:39:07.865Z",
+      "checkedAt": "2026-08-26T21:43:45.447Z",
       "message": "Live SAM.gov Opportunities API snapshot: 387 active deduplicated construction pursuits. 373/387 federal pins have ZIP/city or source coordinates.",
       "stale": false
     }
