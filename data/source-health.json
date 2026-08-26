@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T17:15:49.233Z",
-  "total": 618,
+  "generatedAt": "2026-08-26T18:31:13.275Z",
+  "total": 617,
   "sources": {
     "EVA": {
       "label": "Virginia eVA",
@@ -46,17 +46,17 @@
       "label": "VDOT CABB",
       "status": "OK",
       "count": 13,
-      "checkedAt": "2026-08-26T17:15:17.663Z",
+      "checkedAt": "2026-08-26T18:30:58.196Z",
       "message": "13 future VDOT CABB highway advertisements parsed.",
       "stale": false
     },
     "NCDOT": {
       "label": "NCDOT",
-      "status": "OK",
-      "count": 1,
-      "checkedAt": "2026-08-26T17:15:35.653Z",
-      "message": "Parsed 1 active/future NCDOT Central, Division, Alternative Delivery, and Roadside records from direct NCDOT letting pages.",
-      "stale": false
+      "status": "PARTIAL",
+      "count": 0,
+      "checkedAt": "2026-08-26T18:31:13.275Z",
+      "message": "NCDOT returned no usable records during this refresh. Preserved 0 last-good record(s).",
+      "stale": true
     },
     "FED": {
       "label": "Federal / SAM.gov",
