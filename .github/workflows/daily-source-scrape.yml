@@ -10,6 +10,7 @@ on:
     paths:
       - 'scripts/scrape-priority-fast.mjs'
       - 'scripts/scrape-wvwa.mjs'
+      - 'scripts/scrape-va-utility-authorities.mjs'
       - 'scripts/patch-wvwa-index.mjs'
       - 'scripts/repair-priority-sources.mjs'
       - 'scripts/fix-stream.mjs'
@@ -92,13 +93,17 @@ jobs:
         continue-on-error: true
         run: node scripts/fix-ncdot-sources.mjs
 
+      - name: Scrape Virginia utility authority sources
+        continue-on-error: true
+        run: node scripts/scrape-va-utility-authorities.mjs
+
       - name: Restore federal source health after state refreshes
         run: node scripts/finalize-source-health.mjs
 
       - name: Keep dashboard on current data files
         run: node scripts/update-index-current-sources.mjs
 
-      - name: Keep WVWA source visible in dashboard filters
+      - name: Keep Virginia utility authority sources visible in dashboard filters
         run: node scripts/patch-wvwa-index.mjs
 
       - name: Upload scraper diagnostics
