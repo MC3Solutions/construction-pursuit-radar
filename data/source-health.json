@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-26T14:41:51.092Z",
+  "generatedAt": "2026-08-26T14:51:49.325Z",
   "total": 645,
   "sources": {
     "EVA": {
       "label": "Virginia eVA",
       "status": "OK",
       "count": 114,
-      "checkedAt": "2026-08-26T14:41:35.894Z",
+      "checkedAt": "2026-08-26T14:51:34.485Z",
       "message": "eVA reported 114 open Construction results; loaded 114 cards and parsed 114 future pursuits.",
       "stale": false
     },
@@ -14,7 +14,7 @@
       "label": "NC eVP",
       "status": "OK",
       "count": 131,
-      "checkedAt": "2026-08-26T14:41:13.293Z",
+      "checkedAt": "2026-08-26T14:51:10.464Z",
       "message": "131 future construction rows parsed from public result pages.",
       "stale": false
     },
@@ -22,7 +22,7 @@
       "label": "TN Edison",
       "status": "OK",
       "count": 8,
-      "checkedAt": "2026-08-26T14:41:13.293Z",
+      "checkedAt": "2026-08-26T14:51:10.464Z",
       "message": "8 future construction rows parsed from public result pages.",
       "stale": false
     },
@@ -30,7 +30,7 @@
       "label": "TN STREAM",
       "status": "OK",
       "count": 7,
-      "checkedAt": "2026-08-26T14:41:47.315Z",
+      "checkedAt": "2026-08-26T14:51:46.631Z",
       "message": "Parsed 7 future projects from the live STREAM Construction Bid List.",
       "stale": false
     },
@@ -38,7 +38,7 @@
       "label": "TN TDOT",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-08-26T14:41:35.894Z",
+      "checkedAt": "2026-08-26T14:51:34.485Z",
       "message": "TDOT bidding page reachable (https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/e-plans-room.html); 1 future advertised letting link(s) found.",
       "stale": false
     },
@@ -46,7 +46,7 @@
       "label": "Federal / SAM.gov",
       "status": "OK",
       "count": 384,
-      "checkedAt": "2026-08-26T14:40:34.825Z",
+      "checkedAt": "2026-08-26T14:50:31.789Z",
       "message": "Live SAM.gov Opportunities API snapshot: 384 active deduplicated construction pursuits. 370/384 federal pins have ZIP/city or source coordinates.",
       "stale": false
     }
