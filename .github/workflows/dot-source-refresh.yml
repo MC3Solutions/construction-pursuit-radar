@@ -1,5 +1,6 @@
 name: VDOT and NCDOT source refresh
 
+# Dedicated direct transportation-agency feed.
 on:
   workflow_dispatch:
   schedule:
