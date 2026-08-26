@@ -3,7 +3,7 @@ name: Daily procurement source scrape
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '30 12 * * *'
   push:
     branches: [main]
     paths:
