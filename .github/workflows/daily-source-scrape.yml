@@ -11,6 +11,7 @@ on:
       - 'scripts/repair-priority-sources.mjs'
       - 'scripts/fix-stream.mjs'
       - 'scripts/fetch-federal-sam.mjs'
+      - 'scripts/geocode-current.mjs'
       - 'scripts/finalize-source-health.mjs'
       - 'scripts/update-index-current-sources.mjs'
       - 'package.json'
@@ -53,6 +54,10 @@ jobs:
       - name: Install scraper dependencies
         continue-on-error: true
         run: npm install --no-audit --no-fund
+
+      - name: Geocode federal pins from place of performance
+        continue-on-error: true
+        run: node scripts/geocode-current.mjs
 
       - name: Install Chromium
         continue-on-error: true
