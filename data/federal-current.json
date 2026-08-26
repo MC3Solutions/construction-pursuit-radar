@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T21:18:51.793Z",
+  "generatedAt": "2026-08-26T21:39:07.865Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/27/2025",
@@ -23,7 +23,8 @@
       -77.046752,
       "236220",
       "https://sam.gov/opp/76e64a708a0c40c68a3a446ce7bafa50/view",
-      1
+      1,
+      ""
     ],
     [
       "9b293c16ff84459eaf39555f7fc8965b",
@@ -39,7 +40,8 @@
       -80.051796,
       "236220",
       "https://sam.gov/opp/9b293c16ff84459eaf39555f7fc8965b/view",
-      1
+      1,
+      ""
     ],
     [
       "b15021bf6b854d5185c925463c22b354",
@@ -55,7 +57,8 @@
       -81.224429,
       "237990",
       "https://sam.gov/opp/b15021bf6b854d5185c925463c22b354/view",
-      1
+      1,
+      ""
     ],
     [
       "dc87207c54a240e9b8c19220ec52417d",
@@ -71,7 +74,8 @@
       -80.225655,
       "238210",
       "https://sam.gov/opp/dc87207c54a240e9b8c19220ec52417d/view",
-      1
+      1,
+      ""
     ],
     [
       "1c7d4cedfc0a459aae3b2fffdc22cd55",
@@ -87,7 +91,8 @@
       -78.976602,
       "238210",
       "https://sam.gov/opp/1c7d4cedfc0a459aae3b2fffdc22cd55/view",
-      1
+      1,
+      ""
     ],
     [
       "591e5ea8847948bb8117e07b73a00360",
@@ -103,7 +108,8 @@
       -79.961096,
       "236220",
       "https://sam.gov/opp/591e5ea8847948bb8117e07b73a00360/view",
-      1
+      1,
+      ""
     ],
     [
       "6fe1db8b106b4bb08a24a608de71bdc8",
@@ -119,7 +125,8 @@
       -78.937514,
       "236220",
       "https://sam.gov/opp/6fe1db8b106b4bb08a24a608de71bdc8/view",
-      1
+      1,
+      ""
     ],
     [
       "93d5d9bde3224d89af7dc6dde7517e32",
@@ -135,7 +142,8 @@
       -77.030581,
       "236220",
       "https://sam.gov/opp/93d5d9bde3224d89af7dc6dde7517e32/view",
-      1
+      1,
+      ""
     ],
     [
       "3adb08b7df494742869ba6e50b9a7f60",
@@ -151,7 +159,8 @@
       -76.285581,
       "237110",
       "https://sam.gov/opp/3adb08b7df494742869ba6e50b9a7f60/view",
-      1
+      1,
+      ""
     ],
     [
       "d19e93dcfec64d9e988df958106c0fb5",
@@ -166,7 +175,9 @@
       null,
       null,
       "237990",
-      "https://sam.gov/opp/d19e93dcfec64d9e988df958106c0fb5/view"
+      "https://sam.gov/opp/d19e93dcfec64d9e988df958106c0fb5/view",
+      null,
+      ""
     ],
     [
       "05b51e3f5c3b43eab3a4eb839c02b283",
@@ -182,7 +193,8 @@
       -82.14472,
       "237990",
       "https://sam.gov/opp/05b51e3f5c3b43eab3a4eb839c02b283/view",
-      1
+      1,
+      ""
     ],
     [
       "d933e383927d4009a9708d61c5e74286",
@@ -198,7 +210,8 @@
       -86.660356,
       "238210",
       "https://sam.gov/opp/d933e383927d4009a9708d61c5e74286/view",
-      1
+      1,
+      ""
     ],
     [
       "a9288c1530794ecf89c1caf959eae938",
@@ -214,7 +227,8 @@
       -77.016477,
       "236220",
       "https://sam.gov/opp/a9288c1530794ecf89c1caf959eae938/view",
-      1
+      1,
+      ""
     ],
     [
       "47215e6d83ff433588486abee5a45544",
@@ -230,7 +244,8 @@
       -74.367276,
       "238220",
       "https://sam.gov/opp/47215e6d83ff433588486abee5a45544/view",
-      1
+      1,
+      ""
     ],
     [
       "b46506d998d44c168d9240c980091664",
@@ -246,7 +261,8 @@
       -76.506877,
       "238220",
       "https://sam.gov/opp/b46506d998d44c168d9240c980091664/view",
-      1
+      1,
+      ""
     ],
     [
       "719898299c8c4117ae9d1ebc921283e1",
@@ -262,7 +278,8 @@
       -77.763799,
       "238220",
       "https://sam.gov/opp/719898299c8c4117ae9d1ebc921283e1/view",
-      1
+      1,
+      ""
     ],
     [
       "2ab99fba65f54f47b166153c23587f29",
@@ -270,15 +287,16 @@
       "Break Room Install",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-24T00:00:00.000Z",
+      "2026-08-23T00:00:00.000Z",
       "2026-08-27T22:00:00.000Z",
-      "2026-08-24T00:00:00.000Z",
+      "2026-08-23T00:00:00.000Z",
       "Alexandria, VA, 22315",
       38.762324,
       -77.153846,
       "238290",
       "https://sam.gov/opp/2ab99fba65f54f47b166153c23587f29/view",
-      1
+      1,
+      ""
     ],
     [
       "5bcece38a1a94005be3609cca96afaf4",
@@ -294,7 +312,8 @@
       -75.705627,
       "238220",
       "https://sam.gov/opp/5bcece38a1a94005be3609cca96afaf4/view",
-      1
+      1,
+      ""
     ],
     [
       "9143a47c421145c1bc9188b46dc4e90c",
@@ -310,7 +329,8 @@
       -82.369573,
       "236220",
       "https://sam.gov/opp/9143a47c421145c1bc9188b46dc4e90c/view",
-      1
+      1,
+      ""
     ],
     [
       "dbc36524fe9c4d13b62eebbdf4a8bf8f",
@@ -326,7 +346,8 @@
       -77.490074,
       "238220",
       "https://sam.gov/opp/dbc36524fe9c4d13b62eebbdf4a8bf8f/view",
-      1
+      1,
+      ""
     ],
     [
       "5fae1b39d9404227a4a9e8e7c78e399f",
@@ -342,7 +363,8 @@
       -80.389752,
       "236220",
       "https://sam.gov/opp/5fae1b39d9404227a4a9e8e7c78e399f/view",
-      1
+      1,
+      ""
     ],
     [
       "b111ecca926c4e65b7b30cfe8d7662ca",
@@ -358,7 +380,8 @@
       -73.940141,
       "238220",
       "https://sam.gov/opp/b111ecca926c4e65b7b30cfe8d7662ca/view",
-      1
+      1,
+      ""
     ],
     [
       "9d74f79e608a431781d24c59fd413183",
@@ -374,7 +397,8 @@
       -79.930158,
       "238290",
       "https://sam.gov/opp/9d74f79e608a431781d24c59fd413183/view",
-      1
+      1,
+      ""
     ],
     [
       "bee658574f6a41e7acf26779e072fd10",
@@ -390,7 +414,8 @@
       -76.289815,
       "238330",
       "https://sam.gov/opp/bee658574f6a41e7acf26779e072fd10/view",
-      1
+      1,
+      ""
     ],
     [
       "160b5031f0114e6c95e0145df0970987",
@@ -406,7 +431,8 @@
       -75.646291,
       "236220",
       "https://sam.gov/opp/160b5031f0114e6c95e0145df0970987/view",
-      1
+      1,
+      ""
     ],
     [
       "9d152c895ecd400d82c4494efcbed0a4",
@@ -422,7 +448,8 @@
       -90.924653,
       "238910",
       "https://sam.gov/opp/9d152c895ecd400d82c4494efcbed0a4/view",
-      1
+      1,
+      ""
     ],
     [
       "b390aef857e147a5adaf89368ba3ebd3",
@@ -438,7 +465,8 @@
       -77.439275,
       "238150",
       "https://sam.gov/opp/b390aef857e147a5adaf89368ba3ebd3/view",
-      1
+      1,
+      ""
     ],
     [
       "8bcc95c0a9774e2f9d0dcb4aa7d9bc13",
@@ -454,7 +482,8 @@
       -80.311957,
       "238220",
       "https://sam.gov/opp/8bcc95c0a9774e2f9d0dcb4aa7d9bc13/view",
-      1
+      1,
+      ""
     ],
     [
       "5445b92d284c429880a57a5376e59516",
@@ -470,7 +499,8 @@
       -77.203946,
       "238990",
       "https://sam.gov/opp/5445b92d284c429880a57a5376e59516/view",
-      1
+      1,
+      ""
     ],
     [
       "15d9fccc0f3c46cbb15547ad0079b62f",
@@ -486,7 +516,8 @@
       -76.871022,
       "236220",
       "https://sam.gov/opp/15d9fccc0f3c46cbb15547ad0079b62f/view",
-      1
+      1,
+      ""
     ],
     [
       "632d00637997401f9ff4bce07b45d236",
@@ -502,7 +533,8 @@
       -77.015009,
       "236220",
       "https://sam.gov/opp/632d00637997401f9ff4bce07b45d236/view",
-      1
+      1,
+      ""
     ],
     [
       "3bd6d3c262a347ff8381fc02518a4af2",
@@ -518,7 +550,8 @@
       -77.379069,
       "237310",
       "https://sam.gov/opp/3bd6d3c262a347ff8381fc02518a4af2/view",
-      1
+      1,
+      ""
     ],
     [
       "09e5cc1b72d748a7b3ddac25e563d2e4",
@@ -533,7 +566,9 @@
       null,
       null,
       "238140",
-      "https://sam.gov/opp/09e5cc1b72d748a7b3ddac25e563d2e4/view"
+      "https://sam.gov/opp/09e5cc1b72d748a7b3ddac25e563d2e4/view",
+      null,
+      ""
     ],
     [
       "6cad8b6a6bd143ecb741171ec2d8c1cc",
@@ -548,7 +583,9 @@
       null,
       null,
       "238290",
-      "https://sam.gov/opp/6cad8b6a6bd143ecb741171ec2d8c1cc/view"
+      "https://sam.gov/opp/6cad8b6a6bd143ecb741171ec2d8c1cc/view",
+      null,
+      ""
     ],
     [
       "bfa68adf32734915a9c90af448e4e273",
@@ -564,7 +601,8 @@
       -77.344831,
       "236220",
       "https://sam.gov/opp/bfa68adf32734915a9c90af448e4e273/view",
-      1
+      1,
+      ""
     ],
     [
       "89f752fa2f6848289fb5c0450d03e98b",
@@ -580,7 +618,8 @@
       -80.005814,
       "236220",
       "https://sam.gov/opp/89f752fa2f6848289fb5c0450d03e98b/view",
-      1
+      1,
+      ""
     ],
     [
       "5c069e6953304c81ad3e5fc7ea96f608",
@@ -596,7 +635,8 @@
       -73.357388,
       "236220",
       "https://sam.gov/opp/5c069e6953304c81ad3e5fc7ea96f608/view",
-      1
+      1,
+      ""
     ],
     [
       "9397ab19072e4c558b1116e818802404",
@@ -612,7 +652,8 @@
       -71.44127,
       "236220",
       "https://sam.gov/opp/9397ab19072e4c558b1116e818802404/view",
-      1
+      1,
+      ""
     ],
     [
       "cd323257af4a40279cf8fda0c5252311",
@@ -628,7 +669,8 @@
       -79.054124,
       "238110",
       "https://sam.gov/opp/cd323257af4a40279cf8fda0c5252311/view",
-      1
+      1,
+      ""
     ],
     [
       "652ea49d29ca40fb9b28995f102233b0",
@@ -644,7 +686,8 @@
       -71.470606,
       "238910",
       "https://sam.gov/opp/652ea49d29ca40fb9b28995f102233b0/view",
-      1
+      1,
+      ""
     ],
     [
       "c60a5370aca044e0945dd29fa91e6af8",
@@ -660,7 +703,8 @@
       -70.8172,
       "236210",
       "https://sam.gov/opp/c60a5370aca044e0945dd29fa91e6af8/view",
-      1
+      1,
+      ""
     ],
     [
       "142fd1914e6341029d505e98373fd4f3",
@@ -675,7 +719,9 @@
       null,
       null,
       "236220",
-      "https://sam.gov/opp/142fd1914e6341029d505e98373fd4f3/view"
+      "https://sam.gov/opp/142fd1914e6341029d505e98373fd4f3/view",
+      null,
+      ""
     ],
     [
       "ec91aeb175af42ed98868402d6fa3406",
@@ -691,7 +737,8 @@
       -78.8081,
       "238220",
       "https://sam.gov/opp/ec91aeb175af42ed98868402d6fa3406/view",
-      1
+      1,
+      ""
     ],
     [
       "512e51b5727a4a16879f8a13af4928c1",
@@ -707,7 +754,8 @@
       -80.396976,
       "238990",
       "https://sam.gov/opp/512e51b5727a4a16879f8a13af4928c1/view",
-      1
+      1,
+      ""
     ],
     [
       "4294367c3b364410a921f3b96ba00b57",
@@ -723,23 +771,8 @@
       -81.478432,
       "236220",
       "https://sam.gov/opp/4294367c3b364410a921f3b96ba00b57/view",
-      1
-    ],
-    [
-      "6a2c00ebdf944334bfe25c238511d50e",
-      "1605C4-26-R-00029",
-      "Conference Room Renovations at the Frances Perkins Building",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-19T00:00:00.000Z",
-      "2026-08-28T21:00:00.000Z",
-      "2026-08-19T00:00:00.000Z",
-      "Washington, DC, 20210",
-      38.887907,
-      -77.01197,
-      "236220",
-      "https://sam.gov/opp/6a2c00ebdf944334bfe25c238511d50e/view",
-      1
+      1,
+      ""
     ],
     [
       "565df1f17e664111a9d534c39de0d3e8",
@@ -755,7 +788,8 @@
       -79.846262,
       "237990",
       "https://sam.gov/opp/565df1f17e664111a9d534c39de0d3e8/view",
-      1
+      1,
+      ""
     ],
     [
       "9d3dcfe97ac04c0e88db079494bfc89c",
@@ -771,7 +805,8 @@
       -81.713909,
       "238220",
       "https://sam.gov/opp/9d3dcfe97ac04c0e88db079494bfc89c/view",
-      1
+      1,
+      ""
     ],
     [
       "bc26b77c28ce456893fe46800a8652d7",
@@ -787,7 +822,8 @@
       -73.124952,
       "238330",
       "https://sam.gov/opp/bc26b77c28ce456893fe46800a8652d7/view",
-      1
+      1,
+      ""
     ],
     [
       "6c4f690980814a1e857ad5f4f9670768",
@@ -802,7 +838,9 @@
       null,
       null,
       "238390",
-      "https://sam.gov/opp/6c4f690980814a1e857ad5f4f9670768/view"
+      "https://sam.gov/opp/6c4f690980814a1e857ad5f4f9670768/view",
+      null,
+      ""
     ],
     [
       "78b1c74a20364dfda162491691d4270e",
@@ -818,7 +856,8 @@
       -85.583217,
       "238910",
       "https://sam.gov/opp/78b1c74a20364dfda162491691d4270e/view",
-      1
+      1,
+      ""
     ],
     [
       "ccda0fdbb74745ee8faaac812e036aa5",
@@ -834,7 +873,8 @@
       -90.910338,
       "236220",
       "https://sam.gov/opp/ccda0fdbb74745ee8faaac812e036aa5/view",
-      1
+      1,
+      ""
     ],
     [
       "a6ee10d9441c4c82934422eed16131a9",
@@ -850,7 +890,8 @@
       -77.444293,
       "236220",
       "https://sam.gov/opp/a6ee10d9441c4c82934422eed16131a9/view",
-      1
+      1,
+      ""
     ],
     [
       "41bc3d8bc98f4063b1bc95c468436e5a",
@@ -866,7 +907,8 @@
       -76.265649,
       "237990",
       "https://sam.gov/opp/41bc3d8bc98f4063b1bc95c468436e5a/view",
-      1
+      1,
+      ""
     ],
     [
       "c4dfd6e39a9c4b6aaa8e89073c28619a",
@@ -882,7 +924,8 @@
       -77.450808,
       "238220",
       "https://sam.gov/opp/c4dfd6e39a9c4b6aaa8e89073c28619a/view",
-      1
+      1,
+      ""
     ],
     [
       "f67dbf25d5b742a79f048c5f5fe6fbfe",
@@ -898,7 +941,8 @@
       -74.087321,
       "238220",
       "https://sam.gov/opp/f67dbf25d5b742a79f048c5f5fe6fbfe/view",
-      1
+      1,
+      ""
     ],
     [
       "937b3434cd974a758dec0ddcd2c36310",
@@ -914,7 +958,8 @@
       -84.724288,
       "238220",
       "https://sam.gov/opp/937b3434cd974a758dec0ddcd2c36310/view",
-      1
+      1,
+      ""
     ],
     [
       "b7b6433f707543c9920e45a01cef3631",
@@ -930,7 +975,8 @@
       -78.892591,
       "237110",
       "https://sam.gov/opp/b7b6433f707543c9920e45a01cef3631/view",
-      1
+      1,
+      ""
     ],
     [
       "042c870ef86b4b86864510032fb1da39",
@@ -946,7 +992,8 @@
       -72.096929,
       "237110",
       "https://sam.gov/opp/042c870ef86b4b86864510032fb1da39/view",
-      1
+      1,
+      ""
     ],
     [
       "09a1896ed83a4cf48889edff40151102",
@@ -962,7 +1009,8 @@
       -76.309269,
       "236210",
       "https://sam.gov/opp/09a1896ed83a4cf48889edff40151102/view",
-      1
+      1,
+      ""
     ],
     [
       "a4b1b30606614254ae20de9e52822c15",
@@ -978,7 +1026,8 @@
       -83.857356,
       "238160",
       "https://sam.gov/opp/a4b1b30606614254ae20de9e52822c15/view",
-      1
+      1,
+      ""
     ],
     [
       "34269f782ca74e86b14fa586518419e1",
@@ -994,7 +1043,8 @@
       -76.321513,
       "238220",
       "https://sam.gov/opp/34269f782ca74e86b14fa586518419e1/view",
-      1
+      1,
+      ""
     ],
     [
       "3bc9b7c358d1450fbbbe1c2a09e8d258",
@@ -1010,7 +1060,8 @@
       -74.553691,
       "238290",
       "https://sam.gov/opp/3bc9b7c358d1450fbbbe1c2a09e8d258/view",
-      1
+      1,
+      ""
     ],
     [
       "1ca67a0e10bc49c9af24c84285f44479",
@@ -1026,7 +1077,8 @@
       -78.45216,
       "236220",
       "https://sam.gov/opp/1ca67a0e10bc49c9af24c84285f44479/view",
-      1
+      1,
+      ""
     ],
     [
       "73c8a794bb8d4e4e957ae388c62a031c",
@@ -1042,7 +1094,8 @@
       -86.174741,
       "236220",
       "https://sam.gov/opp/73c8a794bb8d4e4e957ae388c62a031c/view",
-      1
+      1,
+      ""
     ],
     [
       "0fc20d6db4c24d6397099b31e9da8eb1",
@@ -1058,7 +1111,8 @@
       -71.306053,
       "236220",
       "https://sam.gov/opp/0fc20d6db4c24d6397099b31e9da8eb1/view",
-      1
+      1,
+      ""
     ],
     [
       "47fb44d524a849f0a47c98886cf57c68",
@@ -1074,7 +1128,8 @@
       -85.341422,
       "237310",
       "https://sam.gov/opp/47fb44d524a849f0a47c98886cf57c68/view",
-      1
+      1,
+      ""
     ],
     [
       "6b1d173fa83a4fa7996b64f31e2f464c",
@@ -1090,7 +1145,8 @@
       -76.915265,
       "236220",
       "https://sam.gov/opp/6b1d173fa83a4fa7996b64f31e2f464c/view",
-      1
+      1,
+      ""
     ],
     [
       "0c1ee8e443a04a5b864a2c1a54d84f9d",
@@ -1106,7 +1162,8 @@
       -77.016176,
       "238210",
       "https://sam.gov/opp/0c1ee8e443a04a5b864a2c1a54d84f9d/view",
-      1
+      1,
+      ""
     ],
     [
       "7ca21bc489324214938ddcb756dd674c",
@@ -1122,7 +1179,8 @@
       -75.724904,
       "238220",
       "https://sam.gov/opp/7ca21bc489324214938ddcb756dd674c/view",
-      1
+      1,
+      ""
     ],
     [
       "d50fcb0e8775458da554599dfd7f4072",
@@ -1138,7 +1196,8 @@
       -81.613163,
       "238220",
       "https://sam.gov/opp/d50fcb0e8775458da554599dfd7f4072/view",
-      1
+      1,
+      ""
     ],
     [
       "cc9d3f16cdb94dda81ff2b736866860c",
@@ -1154,7 +1213,8 @@
       -76.35544,
       "238220",
       "https://sam.gov/opp/cc9d3f16cdb94dda81ff2b736866860c/view",
-      1
+      1,
+      ""
     ],
     [
       "7149b72b2f7d40e5a6dac1088768d637",
@@ -1170,7 +1230,8 @@
       -81.630425,
       "238220",
       "https://sam.gov/opp/7149b72b2f7d40e5a6dac1088768d637/view",
-      1
+      1,
+      ""
     ],
     [
       "a6b5e41cf6714b789105298e1a550f0a",
@@ -1186,7 +1247,8 @@
       -74.021084,
       "238330",
       "https://sam.gov/opp/a6b5e41cf6714b789105298e1a550f0a/view",
-      1
+      1,
+      ""
     ],
     [
       "be44ce861ba84bcdb92158681a155de8",
@@ -1202,7 +1264,8 @@
       -77.038585,
       "236220",
       "https://sam.gov/opp/be44ce861ba84bcdb92158681a155de8/view",
-      1
+      1,
+      ""
     ],
     [
       "8c20394dad3e43ea9466b00acfb6e61f",
@@ -1218,7 +1281,8 @@
       -77.031571,
       "236220",
       "https://sam.gov/opp/8c20394dad3e43ea9466b00acfb6e61f/view",
-      1
+      1,
+      ""
     ],
     [
       "1fa96449951544deba4d964cf8fc18d1",
@@ -1234,7 +1298,8 @@
       -77.021215,
       "236220",
       "https://sam.gov/opp/1fa96449951544deba4d964cf8fc18d1/view",
-      1
+      1,
+      ""
     ],
     [
       "de6e01ba6fc640a2952e8064d6805230",
@@ -1250,7 +1315,8 @@
       -71.300145,
       "236220",
       "https://sam.gov/opp/de6e01ba6fc640a2952e8064d6805230/view",
-      1
+      1,
+      ""
     ],
     [
       "f640529ef0314732b3fcc5a9c7ad9577",
@@ -1266,7 +1332,8 @@
       -73.774459,
       "236220",
       "https://sam.gov/opp/f640529ef0314732b3fcc5a9c7ad9577/view",
-      1
+      1,
+      ""
     ],
     [
       "2afb653f9e4b40e28361329d994a349a",
@@ -1282,7 +1349,8 @@
       -71.292549,
       "236220",
       "https://sam.gov/opp/2afb653f9e4b40e28361329d994a349a/view",
-      1
+      1,
+      ""
     ],
     [
       "ed05dcaccc004824b67693be44db5ff0",
@@ -1297,7 +1365,9 @@
       null,
       null,
       "237310",
-      "https://sam.gov/opp/ed05dcaccc004824b67693be44db5ff0/view"
+      "https://sam.gov/opp/ed05dcaccc004824b67693be44db5ff0/view",
+      null,
+      ""
     ],
     [
       "9458a16e912d4d1db2844b1b6e72c345",
@@ -1313,7 +1383,8 @@
       -73.484548,
       "238110",
       "https://sam.gov/opp/9458a16e912d4d1db2844b1b6e72c345/view",
-      1
+      1,
+      ""
     ],
     [
       "917426dc655a40fbb1a899c72ef39fdf",
@@ -1329,7 +1400,8 @@
       -77.100947,
       "238160",
       "https://sam.gov/opp/917426dc655a40fbb1a899c72ef39fdf/view",
-      1
+      1,
+      ""
     ],
     [
       "d072dcc3c9cd4c9387b6ae8434c66ff3",
@@ -1345,7 +1417,8 @@
       -89.749779,
       "238190",
       "https://sam.gov/opp/d072dcc3c9cd4c9387b6ae8434c66ff3/view",
-      1
+      1,
+      ""
     ],
     [
       "28f9de1ae36e47fb8b3adf51c8c53d6d",
@@ -1361,7 +1434,8 @@
       -72.065942,
       "238220",
       "https://sam.gov/opp/28f9de1ae36e47fb8b3adf51c8c53d6d/view",
-      1
+      1,
+      ""
     ],
     [
       "27db76868c724215a3af6564e5656925",
@@ -1377,7 +1451,8 @@
       -77.371204,
       "238220",
       "https://sam.gov/opp/27db76868c724215a3af6564e5656925/view",
-      1
+      1,
+      ""
     ],
     [
       "ea7e4a3c23194bfb9eedea229b5e40e8",
@@ -1393,7 +1468,8 @@
       -87.894617,
       "238910",
       "https://sam.gov/opp/ea7e4a3c23194bfb9eedea229b5e40e8/view",
-      1
+      1,
+      ""
     ],
     [
       "5acd109fa34b441093a9bf7ba6d6a6e4",
@@ -1409,7 +1485,8 @@
       -82.154431,
       "238990",
       "https://sam.gov/opp/5acd109fa34b441093a9bf7ba6d6a6e4/view",
-      1
+      1,
+      ""
     ],
     [
       "0313a1172f4d47dca140b725f4b2e35c",
@@ -1425,7 +1502,8 @@
       -71.603609,
       "236220",
       "https://sam.gov/opp/0313a1172f4d47dca140b725f4b2e35c/view",
-      1
+      1,
+      ""
     ],
     [
       "0653828620d745ac9932a8baf29ec24e",
@@ -1441,7 +1519,8 @@
       -77.354864,
       "236220",
       "https://sam.gov/opp/0653828620d745ac9932a8baf29ec24e/view",
-      1
+      1,
+      ""
     ],
     [
       "57249e03f3024f708fa2290e988fd710",
@@ -1457,7 +1536,8 @@
       -77.379225,
       "237310",
       "https://sam.gov/opp/57249e03f3024f708fa2290e988fd710/view",
-      1
+      1,
+      ""
     ],
     [
       "fbba3ba0ffe64dac81e24dd33a1cd007",
@@ -1473,7 +1553,8 @@
       -71.466203,
       "238150",
       "https://sam.gov/opp/fbba3ba0ffe64dac81e24dd33a1cd007/view",
-      1
+      1,
+      ""
     ],
     [
       "2a31d786ce434ba29ae6a0d6235f95ba",
@@ -1489,7 +1570,8 @@
       -83.63147,
       "236220",
       "https://sam.gov/opp/2a31d786ce434ba29ae6a0d6235f95ba/view",
-      1
+      1,
+      ""
     ],
     [
       "784eda874abc4f28aec90b4c7b12f1d6",
@@ -1504,7 +1586,9 @@
       null,
       null,
       "236220",
-      "https://sam.gov/opp/784eda874abc4f28aec90b4c7b12f1d6/view"
+      "https://sam.gov/opp/784eda874abc4f28aec90b4c7b12f1d6/view",
+      null,
+      ""
     ],
     [
       "da41ec14749a43ddae3588661a0c8f05",
@@ -1520,7 +1604,8 @@
       -72.72498,
       "238220",
       "https://sam.gov/opp/da41ec14749a43ddae3588661a0c8f05/view",
-      1
+      1,
+      ""
     ],
     [
       "abce1effbe124d31b1f42c279c76d81b",
@@ -1536,7 +1621,8 @@
       -72.715371,
       "238290",
       "https://sam.gov/opp/abce1effbe124d31b1f42c279c76d81b/view",
-      1
+      1,
+      ""
     ],
     [
       "620cef72b0964a9aa9f7592d63a1fb00",
@@ -1552,7 +1638,8 @@
       -69.774769,
       "236220",
       "https://sam.gov/opp/620cef72b0964a9aa9f7592d63a1fb00/view",
-      1
+      1,
+      ""
     ],
     [
       "0e2bff26cc02470480cdcabd24c1da60",
@@ -1568,7 +1655,8 @@
       -77.027328,
       "236220",
       "https://sam.gov/opp/0e2bff26cc02470480cdcabd24c1da60/view",
-      1
+      1,
+      ""
     ],
     [
       "3e90ca8d48cc485d86f6921c5d2508bd",
@@ -1584,7 +1672,8 @@
       -81.955884,
       "238220",
       "https://sam.gov/opp/3e90ca8d48cc485d86f6921c5d2508bd/view",
-      1
+      1,
+      ""
     ],
     [
       "8854010d8d0044a68ea8c965049f6908",
@@ -1600,7 +1689,8 @@
       -80.65763,
       "236220",
       "https://sam.gov/opp/8854010d8d0044a68ea8c965049f6908/view",
-      1
+      1,
+      ""
     ],
     [
       "d77f41987ffc4f21bd6eb0bbf7a5ae65",
@@ -1616,7 +1706,8 @@
       -71.066318,
       "238290",
       "https://sam.gov/opp/d77f41987ffc4f21bd6eb0bbf7a5ae65/view",
-      1
+      1,
+      ""
     ],
     [
       "991b47046cda43d98feddf6383469c59",
@@ -1632,7 +1723,8 @@
       -72.90513,
       "238290",
       "https://sam.gov/opp/991b47046cda43d98feddf6383469c59/view",
-      1
+      1,
+      ""
     ],
     [
       "6b9830812dd44d9b81b698bcb56eeb31",
@@ -1648,7 +1740,8 @@
       -71.059292,
       "238290",
       "https://sam.gov/opp/6b9830812dd44d9b81b698bcb56eeb31/view",
-      1
+      1,
+      ""
     ],
     [
       "26bb3f49f3344370934f747baa12a527",
@@ -1664,7 +1757,8 @@
       -72.937393,
       "238290",
       "https://sam.gov/opp/26bb3f49f3344370934f747baa12a527/view",
-      1
+      1,
+      ""
     ],
     [
       "7878d51078f94d9e8104474be7d02479",
@@ -1680,7 +1774,8 @@
       -72.107753,
       "238290",
       "https://sam.gov/opp/7878d51078f94d9e8104474be7d02479/view",
-      1
+      1,
+      ""
     ],
     [
       "475f4fc0a2ca4ffda93c2bc14791e1e0",
@@ -1696,7 +1791,8 @@
       -72.076751,
       "238350",
       "https://sam.gov/opp/475f4fc0a2ca4ffda93c2bc14791e1e0/view",
-      1
+      1,
+      ""
     ],
     [
       "f1c05ff8675044eba84bc3628f7b6ee9",
@@ -1712,7 +1808,8 @@
       -76.014404,
       "236220",
       "https://sam.gov/opp/f1c05ff8675044eba84bc3628f7b6ee9/view",
-      1
+      1,
+      ""
     ],
     [
       "af662abe911c4dda8c05e881f65c0cbe",
@@ -1728,7 +1825,8 @@
       -73.712719,
       "237120",
       "https://sam.gov/opp/af662abe911c4dda8c05e881f65c0cbe/view",
-      1
+      1,
+      ""
     ],
     [
       "6518adb267df468fa6f4ec70306d80da",
@@ -1744,7 +1842,8 @@
       -75.965741,
       "238220",
       "https://sam.gov/opp/6518adb267df468fa6f4ec70306d80da/view",
-      1
+      1,
+      ""
     ],
     [
       "93ea8447f6bb4b2d8d866e9435ec2283",
@@ -1760,7 +1859,8 @@
       -87.631317,
       "236220",
       "https://sam.gov/opp/93ea8447f6bb4b2d8d866e9435ec2283/view",
-      1
+      1,
+      ""
     ],
     [
       "b2357230e61442ce84fb9b5b31f2f980",
@@ -1776,7 +1876,8 @@
       -87.847768,
       "238210",
       "https://sam.gov/opp/b2357230e61442ce84fb9b5b31f2f980/view",
-      1
+      1,
+      ""
     ],
     [
       "190dac8e35b343d6af84079f6c2350cb",
@@ -1792,7 +1893,8 @@
       -76.905638,
       "236220",
       "https://sam.gov/opp/190dac8e35b343d6af84079f6c2350cb/view",
-      1
+      1,
+      ""
     ],
     [
       "97f36bd2abd441349d5f72f235714d04",
@@ -1808,7 +1910,8 @@
       -76.248254,
       "237120",
       "https://sam.gov/opp/97f36bd2abd441349d5f72f235714d04/view",
-      1
+      1,
+      ""
     ],
     [
       "dba83caa72074805b832f26b028526fd",
@@ -1823,7 +1926,9 @@
       null,
       null,
       "238160",
-      "https://sam.gov/opp/dba83caa72074805b832f26b028526fd/view"
+      "https://sam.gov/opp/dba83caa72074805b832f26b028526fd/view",
+      null,
+      ""
     ],
     [
       "a1ce30cb5b5f419388ec66fbb94460e9",
@@ -1839,7 +1944,8 @@
       -76.354262,
       "238210",
       "https://sam.gov/opp/a1ce30cb5b5f419388ec66fbb94460e9/view",
-      1
+      1,
+      ""
     ],
     [
       "03343628609f43a498e9436e52242f2b",
@@ -1855,7 +1961,8 @@
       -77.230771,
       "238220",
       "https://sam.gov/opp/03343628609f43a498e9436e52242f2b/view",
-      1
+      1,
+      ""
     ],
     [
       "61ab948ea6bc41d3b28935089c3f8f7c",
@@ -1871,7 +1978,8 @@
       -76.870656,
       "238220",
       "https://sam.gov/opp/61ab948ea6bc41d3b28935089c3f8f7c/view",
-      1
+      1,
+      ""
     ],
     [
       "9e88355b90244bedb1fd6874e7a663d9",
@@ -1887,7 +1995,8 @@
       -71.310435,
       "236220",
       "https://sam.gov/opp/9e88355b90244bedb1fd6874e7a663d9/view",
-      1
+      1,
+      ""
     ],
     [
       "fc7f8fd8712d4c6faed9f3979cd09c38",
@@ -1903,7 +2012,8 @@
       -76.917669,
       "236220",
       "https://sam.gov/opp/fc7f8fd8712d4c6faed9f3979cd09c38/view",
-      1
+      1,
+      ""
     ],
     [
       "285e2e3852144b8985755b638a81a1a1",
@@ -1919,7 +2029,8 @@
       -76.29754,
       "236220",
       "https://sam.gov/opp/285e2e3852144b8985755b638a81a1a1/view",
-      1
+      1,
+      ""
     ],
     [
       "cb04064d6469441a8d2761505ac977c4",
@@ -1935,7 +2046,8 @@
       -72.098059,
       "237990",
       "https://sam.gov/opp/cb04064d6469441a8d2761505ac977c4/view",
-      1
+      1,
+      ""
     ],
     [
       "3dfda36fbfbb40de8c90d723e64b176a",
@@ -1951,7 +2063,8 @@
       -76.376191,
       "238190",
       "https://sam.gov/opp/3dfda36fbfbb40de8c90d723e64b176a/view",
-      1
+      1,
+      ""
     ],
     [
       "bbdef3280dc8433b8ce6ccd67d0ae3fd",
@@ -1967,7 +2080,8 @@
       -79.932758,
       "238220",
       "https://sam.gov/opp/bbdef3280dc8433b8ce6ccd67d0ae3fd/view",
-      1
+      1,
+      ""
     ],
     [
       "6cc8d21a11bd4b5aae2e40c1a4d13aa8",
@@ -1983,7 +2097,8 @@
       -88.458134,
       "236220",
       "https://sam.gov/opp/6cc8d21a11bd4b5aae2e40c1a4d13aa8/view",
-      1
+      1,
+      ""
     ],
     [
       "ef398402f7724f289b7e552586ddf61d",
@@ -1999,7 +2114,8 @@
       -79.012084,
       "238210",
       "https://sam.gov/opp/ef398402f7724f289b7e552586ddf61d/view",
-      1
+      1,
+      ""
     ],
     [
       "b339a784fd0f40eea3d2f241599f694b",
@@ -2015,7 +2131,8 @@
       -77.36639,
       "238220",
       "https://sam.gov/opp/b339a784fd0f40eea3d2f241599f694b/view",
-      1
+      1,
+      ""
     ],
     [
       "319ce2b4ad204209a434e30292642b72",
@@ -2031,7 +2148,8 @@
       -88.665938,
       "238990",
       "https://sam.gov/opp/319ce2b4ad204209a434e30292642b72/view",
-      1
+      1,
+      ""
     ],
     [
       "a52345953581410b86134bba5a617dec",
@@ -2047,7 +2165,8 @@
       -74.028646,
       "236220",
       "https://sam.gov/opp/a52345953581410b86134bba5a617dec/view",
-      1
+      1,
+      ""
     ],
     [
       "d6a854341b87492f83003a9d27696189",
@@ -2063,7 +2182,8 @@
       -88.925763,
       "236220",
       "https://sam.gov/opp/d6a854341b87492f83003a9d27696189/view",
-      1
+      1,
+      ""
     ],
     [
       "179274c18d514597830adda6b13dc804",
@@ -2079,7 +2199,8 @@
       -71.085785,
       "238210",
       "https://sam.gov/opp/179274c18d514597830adda6b13dc804/view",
-      1
+      1,
+      ""
     ],
     [
       "4abe0d569da84fe69812c392ca902859",
@@ -2095,7 +2216,8 @@
       -77.139592,
       "238320",
       "https://sam.gov/opp/4abe0d569da84fe69812c392ca902859/view",
-      1
+      1,
+      ""
     ],
     [
       "37706a41f20149bea44e20256eddf6e7",
@@ -2111,7 +2233,8 @@
       -71.283008,
       "238220",
       "https://sam.gov/opp/37706a41f20149bea44e20256eddf6e7/view",
-      1
+      1,
+      ""
     ],
     [
       "7c256a8696aa485e98071e54cabdf9bc",
@@ -2127,7 +2250,8 @@
       -76.877908,
       "236220",
       "https://sam.gov/opp/7c256a8696aa485e98071e54cabdf9bc/view",
-      1
+      1,
+      ""
     ],
     [
       "03f19ce52a35424aa330873563be5d79",
@@ -2143,7 +2267,8 @@
       -77.002689,
       "238210",
       "https://sam.gov/opp/03f19ce52a35424aa330873563be5d79/view",
-      1
+      1,
+      ""
     ],
     [
       "bc4f06be5d60487ebe191e9bf7334133",
@@ -2159,7 +2284,8 @@
       -88.905433,
       "236220",
       "https://sam.gov/opp/bc4f06be5d60487ebe191e9bf7334133/view",
-      1
+      1,
+      ""
     ],
     [
       "f5a774ec34d0443786de122992586020",
@@ -2175,7 +2301,8 @@
       -84.284825,
       "238210",
       "https://sam.gov/opp/f5a774ec34d0443786de122992586020/view",
-      1
+      1,
+      ""
     ],
     [
       "0e62cf4289794ac79fb8822aa012bbd4",
@@ -2191,7 +2318,8 @@
       -77.391192,
       "238220",
       "https://sam.gov/opp/0e62cf4289794ac79fb8822aa012bbd4/view",
-      1
+      1,
+      ""
     ],
     [
       "6a3e8c37f0b844bdb62f91cbe328c1e3",
@@ -2207,7 +2335,8 @@
       -87.808311,
       "236220",
       "https://sam.gov/opp/6a3e8c37f0b844bdb62f91cbe328c1e3/view",
-      1
+      1,
+      ""
     ],
     [
       "b68e1b4b06e14b5a9c4d7ddd9db374e1",
@@ -2223,7 +2352,8 @@
       -82.54154,
       "237990",
       "https://sam.gov/opp/b68e1b4b06e14b5a9c4d7ddd9db374e1/view",
-      1
+      1,
+      ""
     ],
     [
       "fa58c5d72ae84d799ac9359ce0a3e537",
@@ -2239,7 +2369,8 @@
       -78.632536,
       "238110",
       "https://sam.gov/opp/fa58c5d72ae84d799ac9359ce0a3e537/view",
-      1
+      1,
+      ""
     ],
     [
       "9e41392b0098423e96144465cf79210b",
@@ -2255,7 +2386,8 @@
       -80.770392,
       "238210",
       "https://sam.gov/opp/9e41392b0098423e96144465cf79210b/view",
-      1
+      1,
+      ""
     ],
     [
       "af77d61e5dd24b4fb898a2cb545353a5",
@@ -2271,7 +2403,8 @@
       -86.792727,
       "238210",
       "https://sam.gov/opp/af77d61e5dd24b4fb898a2cb545353a5/view",
-      1
+      1,
+      ""
     ],
     [
       "96442e0e581c4bb992a77d57b6f3ec5b",
@@ -2287,7 +2420,8 @@
       -86.388469,
       "238210",
       "https://sam.gov/opp/96442e0e581c4bb992a77d57b6f3ec5b/view",
-      1
+      1,
+      ""
     ],
     [
       "509717f91a5d466890810e1015bb4165",
@@ -2303,7 +2437,8 @@
       -88.848921,
       "238220",
       "https://sam.gov/opp/509717f91a5d466890810e1015bb4165/view",
-      1
+      1,
+      ""
     ],
     [
       "b8c5238c290e419f916b8b98ed0ad353",
@@ -2319,7 +2454,25 @@
       -86.339516,
       "238910",
       "https://sam.gov/opp/b8c5238c290e419f916b8b98ed0ad353/view",
-      1
+      1,
+      ""
+    ],
+    [
+      "c3cf1dfc96de4e058230376fdb095367",
+      "1605C4-26-R-00029",
+      "Conference Room Renovations at the Frances Perkins Building",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-02T21:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Washington, DC, 20210",
+      38.885486,
+      -76.991908,
+      "236220",
+      "https://sam.gov/opp/c3cf1dfc96de4e058230376fdb095367/view",
+      1,
+      ""
     ],
     [
       "a48ca0867f2043e29988ba36e8e53049",
@@ -2335,7 +2488,8 @@
       -86.162855,
       "238210",
       "https://sam.gov/opp/a48ca0867f2043e29988ba36e8e53049/view",
-      1
+      1,
+      ""
     ],
     [
       "96a04d907ab44943b025c23ad613e762",
@@ -2351,7 +2505,8 @@
       -72.302264,
       "238330",
       "https://sam.gov/opp/96a04d907ab44943b025c23ad613e762/view",
-      1
+      1,
+      ""
     ],
     [
       "13b78843eaf44c38b2f3d9256d7533c8",
@@ -2367,7 +2522,8 @@
       -83.768407,
       "237310",
       "https://sam.gov/opp/13b78843eaf44c38b2f3d9256d7533c8/view",
-      1
+      1,
+      ""
     ],
     [
       "d8980950a7dc4946a742e543052b8fec",
@@ -2383,7 +2539,8 @@
       -83.866094,
       "238210",
       "https://sam.gov/opp/d8980950a7dc4946a742e543052b8fec/view",
-      1
+      1,
+      ""
     ],
     [
       "bd120bb14ef24952937e7ef02ecf941b",
@@ -2399,7 +2556,8 @@
       -80.146132,
       "238220",
       "https://sam.gov/opp/bd120bb14ef24952937e7ef02ecf941b/view",
-      1
+      1,
+      ""
     ],
     [
       "93d978d4b0b548888c1b304088532c63",
@@ -2415,7 +2573,8 @@
       -84.5258,
       "238220",
       "https://sam.gov/opp/93d978d4b0b548888c1b304088532c63/view",
-      1
+      1,
+      ""
     ],
     [
       "d2badcfe0e104d3a979789cd3e174d52",
@@ -2431,7 +2590,8 @@
       -87.845354,
       "236220",
       "https://sam.gov/opp/d2badcfe0e104d3a979789cd3e174d52/view",
-      1
+      1,
+      ""
     ],
     [
       "46c3357a491b4466ad979f50266629a9",
@@ -2447,7 +2607,8 @@
       -77.032084,
       "236220",
       "https://sam.gov/opp/46c3357a491b4466ad979f50266629a9/view",
-      1
+      1,
+      ""
     ],
     [
       "2542e674146b42fca67575b81d2b5bd8",
@@ -2463,7 +2624,8 @@
       -74.583827,
       "236220",
       "https://sam.gov/opp/2542e674146b42fca67575b81d2b5bd8/view",
-      1
+      1,
+      ""
     ],
     [
       "d94eb4a3f10345ae83750302903cb916",
@@ -2479,7 +2641,8 @@
       -78.815549,
       "237110",
       "https://sam.gov/opp/d94eb4a3f10345ae83750302903cb916/view",
-      1
+      1,
+      ""
     ],
     [
       "faae78a1f66e4d0491ca83cfdf687be7",
@@ -2495,7 +2658,8 @@
       -87.658191,
       "238210",
       "https://sam.gov/opp/faae78a1f66e4d0491ca83cfdf687be7/view",
-      1
+      1,
+      ""
     ],
     [
       "74fbd036126e4441a71a60b5b00f8bfd",
@@ -2511,7 +2675,8 @@
       -76.914562,
       "236220",
       "https://sam.gov/opp/74fbd036126e4441a71a60b5b00f8bfd/view",
-      1
+      1,
+      ""
     ],
     [
       "8c331e052cf4433cac25d86acdbc1c07",
@@ -2527,7 +2692,8 @@
       -77.012516,
       "236220",
       "https://sam.gov/opp/8c331e052cf4433cac25d86acdbc1c07/view",
-      1
+      1,
+      ""
     ],
     [
       "6d3d922a6d594581b57cac20a91b8b94",
@@ -2543,7 +2709,8 @@
       -76.301117,
       "238210",
       "https://sam.gov/opp/6d3d922a6d594581b57cac20a91b8b94/view",
-      1
+      1,
+      ""
     ],
     [
       "8cb75a0e9f6d405ab694b1f8bb123385",
@@ -2559,7 +2726,8 @@
       -81.519502,
       "238990",
       "https://sam.gov/opp/8cb75a0e9f6d405ab694b1f8bb123385/view",
-      1
+      1,
+      ""
     ],
     [
       "556fdc766c8148a1872f4bd464f2eae0",
@@ -2575,7 +2743,8 @@
       -87.900677,
       "238990",
       "https://sam.gov/opp/556fdc766c8148a1872f4bd464f2eae0/view",
-      1
+      1,
+      ""
     ],
     [
       "8e949e4d409f457099360b5076387f41",
@@ -2591,7 +2760,8 @@
       -76.250134,
       "238990",
       "https://sam.gov/opp/8e949e4d409f457099360b5076387f41/view",
-      1
+      1,
+      ""
     ],
     [
       "9f1681711a8d43fcb448645068de35a9",
@@ -2607,7 +2777,8 @@
       -71.143977,
       "236220",
       "https://sam.gov/opp/9f1681711a8d43fcb448645068de35a9/view",
-      1
+      1,
+      ""
     ],
     [
       "4f6eead27bcc4df59fe80bd0162d86e6",
@@ -2623,7 +2794,8 @@
       -90.023196,
       "238990",
       "https://sam.gov/opp/4f6eead27bcc4df59fe80bd0162d86e6/view",
-      1
+      1,
+      ""
     ],
     [
       "a140f60a66b6441bbaf00abd60a5f19c",
@@ -2639,7 +2811,8 @@
       -88.46134,
       "236220",
       "https://sam.gov/opp/a140f60a66b6441bbaf00abd60a5f19c/view",
-      1
+      1,
+      ""
     ],
     [
       "c1c6fd4f1e344e3a98d12129e88c54fe",
@@ -2655,7 +2828,8 @@
       -79.997596,
       "236220",
       "https://sam.gov/opp/c1c6fd4f1e344e3a98d12129e88c54fe/view",
-      1
+      1,
+      ""
     ],
     [
       "50623889678245bf8bb3ef8b92afd877",
@@ -2671,7 +2845,8 @@
       -80.024207,
       "236220",
       "https://sam.gov/opp/50623889678245bf8bb3ef8b92afd877/view",
-      1
+      1,
+      ""
     ],
     [
       "42ba82d39e924075b273a1f889b2dbc6",
@@ -2687,7 +2862,8 @@
       -78.948362,
       "236220",
       "https://sam.gov/opp/42ba82d39e924075b273a1f889b2dbc6/view",
-      1
+      1,
+      ""
     ],
     [
       "4a06716135774abd94c3054b38fb110c",
@@ -2703,7 +2879,8 @@
       -77.018119,
       "238150",
       "https://sam.gov/opp/4a06716135774abd94c3054b38fb110c/view",
-      1
+      1,
+      ""
     ],
     [
       "27a4c8df1bab4522ab62c7f6c92afe18",
@@ -2719,7 +2896,8 @@
       -88.441987,
       "238210",
       "https://sam.gov/opp/27a4c8df1bab4522ab62c7f6c92afe18/view",
-      1
+      1,
+      ""
     ],
     [
       "2d39fdb4ab134d57b31988c8a23586fa",
@@ -2735,7 +2913,8 @@
       -90.290396,
       "238330",
       "https://sam.gov/opp/2d39fdb4ab134d57b31988c8a23586fa/view",
-      1
+      1,
+      ""
     ],
     [
       "182f9765a60240318f01f06509e5ec2e",
@@ -2751,7 +2930,8 @@
       -72.085137,
       "238220",
       "https://sam.gov/opp/182f9765a60240318f01f06509e5ec2e/view",
-      1
+      1,
+      ""
     ],
     [
       "95ab8912f81d4dfdb9d9d2112a781bec",
@@ -2767,7 +2947,8 @@
       -80.738301,
       "238160",
       "https://sam.gov/opp/95ab8912f81d4dfdb9d9d2112a781bec/view",
-      1
+      1,
+      ""
     ],
     [
       "36d73bbaff8e46bd8bd25f7ee3732de0",
@@ -2783,7 +2964,8 @@
       -73.025649,
       "237310",
       "https://sam.gov/opp/36d73bbaff8e46bd8bd25f7ee3732de0/view",
-      1
+      1,
+      ""
     ],
     [
       "d0a1a4938a3344b589d6cac3bb746635",
@@ -2799,7 +2981,8 @@
       -76.251722,
       "238220",
       "https://sam.gov/opp/d0a1a4938a3344b589d6cac3bb746635/view",
-      1
+      1,
+      ""
     ],
     [
       "6e8f2f6ccbc24ec6b4367998533a1823",
@@ -2815,7 +2998,8 @@
       -81.489051,
       "236220",
       "https://sam.gov/opp/6e8f2f6ccbc24ec6b4367998533a1823/view",
-      1
+      1,
+      ""
     ],
     [
       "4b5375beef664296947fdc915bd9de71",
@@ -2823,15 +3007,16 @@
       "Repair Taxiway Shoulders",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-20T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "2026-09-04T14:00:00.000Z",
-      "2026-08-20T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "NH, 03839",
       43.238058,
       -70.982026,
       "237310",
       "https://sam.gov/opp/4b5375beef664296947fdc915bd9de71/view",
-      1
+      1,
+      ""
     ],
     [
       "4cb9d5e89f5c4b9eb0d1bb72db6a0faf",
@@ -2847,7 +3032,8 @@
       -86.137695,
       "238140",
       "https://sam.gov/opp/4cb9d5e89f5c4b9eb0d1bb72db6a0faf/view",
-      1
+      1,
+      ""
     ],
     [
       "2deea067065742cea793e7ea6a6a2f86",
@@ -2863,7 +3049,8 @@
       -86.144817,
       "238390",
       "https://sam.gov/opp/2deea067065742cea793e7ea6a6a2f86/view",
-      1
+      1,
+      ""
     ],
     [
       "d76fed09a53d4720b4bc63ca5fbdba63",
@@ -2879,7 +3066,8 @@
       -89.847002,
       "236220",
       "https://sam.gov/opp/d76fed09a53d4720b4bc63ca5fbdba63/view",
-      1
+      1,
+      ""
     ],
     [
       "7e5a5f9a39414ab4b5a33b614bba4071",
@@ -2895,7 +3083,8 @@
       -77.034348,
       "236220",
       "https://sam.gov/opp/7e5a5f9a39414ab4b5a33b614bba4071/view",
-      1
+      1,
+      ""
     ],
     [
       "44c8563c40f74f0693ebe99cf98ed0c6",
@@ -2911,7 +3100,8 @@
       -80.228282,
       "238160",
       "https://sam.gov/opp/44c8563c40f74f0693ebe99cf98ed0c6/view",
-      1
+      1,
+      ""
     ],
     [
       "bfa1c46cd5394cfaa0009c6f92cb69b0",
@@ -2927,7 +3117,8 @@
       -87.86535,
       "238210",
       "https://sam.gov/opp/bfa1c46cd5394cfaa0009c6f92cb69b0/view",
-      1
+      1,
+      ""
     ],
     [
       "7ecc8704299f4ae5846d7d00ef72cc22",
@@ -2943,7 +3134,8 @@
       -83.01108,
       "236220",
       "https://sam.gov/opp/7ecc8704299f4ae5846d7d00ef72cc22/view",
-      1
+      1,
+      ""
     ],
     [
       "f3e657c09f0b4bff8deebc60abe51c01",
@@ -2959,7 +3151,8 @@
       -80.009472,
       "236220",
       "https://sam.gov/opp/f3e657c09f0b4bff8deebc60abe51c01/view",
-      1
+      1,
+      ""
     ],
     [
       "7cc7ef5c9328424b8bf3e691a87d065e",
@@ -2975,7 +3168,8 @@
       -80.015348,
       "236220",
       "https://sam.gov/opp/7cc7ef5c9328424b8bf3e691a87d065e/view",
-      1
+      1,
+      ""
     ],
     [
       "b4937bd7284e4a8bb8039184d2919233",
@@ -2991,7 +3185,8 @@
       -85.699866,
       "236220",
       "https://sam.gov/opp/b4937bd7284e4a8bb8039184d2919233/view",
-      1
+      1,
+      ""
     ],
     [
       "0c61bbe462f34f4b85eefa4f14eed980",
@@ -3007,7 +3202,8 @@
       -76.78916,
       "238210",
       "https://sam.gov/opp/0c61bbe462f34f4b85eefa4f14eed980/view",
-      1
+      1,
+      ""
     ],
     [
       "1c7ef64afd1046159a90eca8c68b568d",
@@ -3023,7 +3219,8 @@
       -82.959792,
       "238220",
       "https://sam.gov/opp/1c7ef64afd1046159a90eca8c68b568d/view",
-      1
+      1,
+      ""
     ],
     [
       "92c5e6ce12b040b889c84d54f089d9c3",
@@ -3039,7 +3236,8 @@
       -76.993579,
       "238330",
       "https://sam.gov/opp/92c5e6ce12b040b889c84d54f089d9c3/view",
-      1
+      1,
+      ""
     ],
     [
       "d0ac7dc6af4d410d8584fbfc7eff65a4",
@@ -3055,7 +3253,8 @@
       -84.081981,
       "238990",
       "https://sam.gov/opp/d0ac7dc6af4d410d8584fbfc7eff65a4/view",
-      1
+      1,
+      ""
     ],
     [
       "4511eedd6ad3472684eeaf9a309dad72",
@@ -3071,7 +3270,8 @@
       -76.101961,
       "237990",
       "https://sam.gov/opp/4511eedd6ad3472684eeaf9a309dad72/view",
-      1
+      1,
+      ""
     ],
     [
       "56c6b1316046436eb16fa6d924325d8d",
@@ -3087,7 +3287,8 @@
       -82.938519,
       "238290",
       "https://sam.gov/opp/56c6b1316046436eb16fa6d924325d8d/view",
-      1
+      1,
+      ""
     ],
     [
       "1fbda1b70b504563acc9177095bde79a",
@@ -3103,7 +3304,8 @@
       -77.145396,
       "236210",
       "https://sam.gov/opp/1fbda1b70b504563acc9177095bde79a/view",
-      1
+      1,
+      ""
     ],
     [
       "aba2e7a855cb4e1b9b9948664767ba66",
@@ -3119,7 +3321,8 @@
       -86.657955,
       "236220",
       "https://sam.gov/opp/aba2e7a855cb4e1b9b9948664767ba66/view",
-      1
+      1,
+      ""
     ],
     [
       "30b0702c35144b8d94202fde95911e42",
@@ -3135,7 +3338,8 @@
       -83.250122,
       "237990",
       "https://sam.gov/opp/30b0702c35144b8d94202fde95911e42/view",
-      1
+      1,
+      ""
     ],
     [
       "3d276e0dac2c4b2fa88f628af31bd9e4",
@@ -3151,7 +3355,8 @@
       -77.042336,
       "238390",
       "https://sam.gov/opp/3d276e0dac2c4b2fa88f628af31bd9e4/view",
-      1
+      1,
+      ""
     ],
     [
       "a9fd2443caea4aa4b999be732468e837",
@@ -3167,7 +3372,8 @@
       -75.804575,
       "238990",
       "https://sam.gov/opp/a9fd2443caea4aa4b999be732468e837/view",
-      1
+      1,
+      ""
     ],
     [
       "38708cced1de4601ae86d8729bb4ecab",
@@ -3183,7 +3389,8 @@
       -80.084778,
       "236220",
       "https://sam.gov/opp/38708cced1de4601ae86d8729bb4ecab/view",
-      1
+      1,
+      ""
     ],
     [
       "363a70525b654e2b839f5c714a27dd6f",
@@ -3199,7 +3406,8 @@
       -78.953318,
       "236220",
       "https://sam.gov/opp/363a70525b654e2b839f5c714a27dd6f/view",
-      1
+      1,
+      ""
     ],
     [
       "8e19df5f22ab4754aced67ec76ca43d0",
@@ -3215,7 +3423,8 @@
       -88.377878,
       "237310",
       "https://sam.gov/opp/8e19df5f22ab4754aced67ec76ca43d0/view",
-      1
+      1,
+      ""
     ],
     [
       "b093f8bfa55c4dbeafddf69d9b8a1403",
@@ -3231,7 +3440,8 @@
       -75.414146,
       "238210",
       "https://sam.gov/opp/b093f8bfa55c4dbeafddf69d9b8a1403/view",
-      1
+      1,
+      ""
     ],
     [
       "6b177a9b61db4ad889b2c167e5b64db0",
@@ -3247,7 +3457,8 @@
       -76.39223,
       "238330",
       "https://sam.gov/opp/6b177a9b61db4ad889b2c167e5b64db0/view",
-      1
+      1,
+      ""
     ],
     [
       "54a7158bef524222aaa316e7154aaf25",
@@ -3263,7 +3474,8 @@
       -75.425507,
       "238220",
       "https://sam.gov/opp/54a7158bef524222aaa316e7154aaf25/view",
-      1
+      1,
+      ""
     ],
     [
       "71804da37eb840538f48827ecf77eb3a",
@@ -3279,7 +3491,8 @@
       -77.098684,
       "238140",
       "https://sam.gov/opp/71804da37eb840538f48827ecf77eb3a/view",
-      1
+      1,
+      ""
     ],
     [
       "112ff7b056a34f6c9acf6672f5fdd040",
@@ -3295,7 +3508,8 @@
       -82.563832,
       "236220",
       "https://sam.gov/opp/112ff7b056a34f6c9acf6672f5fdd040/view",
-      1
+      1,
+      ""
     ],
     [
       "a828a5f5721047c1baa877dcc4b36e4c",
@@ -3311,7 +3525,8 @@
       -82.665332,
       "237310",
       "https://sam.gov/opp/a828a5f5721047c1baa877dcc4b36e4c/view",
-      1
+      1,
+      ""
     ],
     [
       "2e43b742792e4d28ad8fcfb109c520cd",
@@ -3327,7 +3542,8 @@
       -78.899188,
       "238220",
       "https://sam.gov/opp/2e43b742792e4d28ad8fcfb109c520cd/view",
-      1
+      1,
+      ""
     ],
     [
       "ea30183e54554c91abd78a7b4f634011",
@@ -3343,7 +3559,8 @@
       -77.150069,
       "238210",
       "https://sam.gov/opp/ea30183e54554c91abd78a7b4f634011/view",
-      1
+      1,
+      ""
     ],
     [
       "e27df2bfc83249a5874a721f69ec352c",
@@ -3359,7 +3576,8 @@
       -79.964844,
       "237990",
       "https://sam.gov/opp/e27df2bfc83249a5874a721f69ec352c/view",
-      1
+      1,
+      ""
     ],
     [
       "3d6223187b214d9286d4e52c3b27a689",
@@ -3375,7 +3593,8 @@
       -76.933675,
       "238990",
       "https://sam.gov/opp/3d6223187b214d9286d4e52c3b27a689/view",
-      1
+      1,
+      ""
     ],
     [
       "bb18ea93282a44cfb2aae29c7e1c21bd",
@@ -3391,7 +3610,8 @@
       -76.870224,
       "236220",
       "https://sam.gov/opp/bb18ea93282a44cfb2aae29c7e1c21bd/view",
-      1
+      1,
+      ""
     ],
     [
       "1025f76c47de40a69bff7b76a576c18e",
@@ -3407,7 +3627,8 @@
       -80.057246,
       "238220",
       "https://sam.gov/opp/1025f76c47de40a69bff7b76a576c18e/view",
-      1
+      1,
+      ""
     ],
     [
       "32114081b4f14a8089a44bca60c8953d",
@@ -3423,7 +3644,8 @@
       -71.438632,
       "238990",
       "https://sam.gov/opp/32114081b4f14a8089a44bca60c8953d/view",
-      1
+      1,
+      ""
     ],
     [
       "fecdebe0590343ee82ce6b55cf134630",
@@ -3439,7 +3661,8 @@
       -76.891047,
       "238910",
       "https://sam.gov/opp/fecdebe0590343ee82ce6b55cf134630/view",
-      1
+      1,
+      ""
     ],
     [
       "fdaf50c0882e40b980ef5729059d5e2c",
@@ -3455,7 +3678,8 @@
       -86.134144,
       "238220",
       "https://sam.gov/opp/fdaf50c0882e40b980ef5729059d5e2c/view",
-      1
+      1,
+      ""
     ],
     [
       "bfd6691144d74fffa3c0c938b9dcdfbb",
@@ -3471,7 +3695,8 @@
       -88.918162,
       "238220",
       "https://sam.gov/opp/bfd6691144d74fffa3c0c938b9dcdfbb/view",
-      1
+      1,
+      ""
     ],
     [
       "27bb37d7e8e640279d79eb9e8bb26f61",
@@ -3487,7 +3712,8 @@
       -82.855194,
       "236220",
       "https://sam.gov/opp/27bb37d7e8e640279d79eb9e8bb26f61/view",
-      1
+      1,
+      ""
     ],
     [
       "28747384a6ea471a80fa0dfe40443073",
@@ -3503,7 +3729,8 @@
       -76.01478,
       "236220",
       "https://sam.gov/opp/28747384a6ea471a80fa0dfe40443073/view",
-      1
+      1,
+      ""
     ],
     [
       "dd7b009e8ae84c3fbff15448458150df",
@@ -3519,7 +3746,8 @@
       -80.484796,
       "238220",
       "https://sam.gov/opp/dd7b009e8ae84c3fbff15448458150df/view",
-      1
+      1,
+      ""
     ],
     [
       "970283ef768b4afc8e45dd8089878954",
@@ -3535,7 +3763,8 @@
       -90.536941,
       "238160",
       "https://sam.gov/opp/970283ef768b4afc8e45dd8089878954/view",
-      1
+      1,
+      ""
     ],
     [
       "c42f3ba414ec4c41adb92d2dc33360c1",
@@ -3551,7 +3780,8 @@
       -86.762184,
       "238220",
       "https://sam.gov/opp/c42f3ba414ec4c41adb92d2dc33360c1/view",
-      1
+      1,
+      ""
     ],
     [
       "eae7d9ac63d6455faea45d812b4a4198",
@@ -3567,7 +3797,8 @@
       -83.406295,
       "237310",
       "https://sam.gov/opp/eae7d9ac63d6455faea45d812b4a4198/view",
-      1
+      1,
+      ""
     ],
     [
       "3abd0a54f18847c7898c794399c875f6",
@@ -3575,15 +3806,16 @@
       "Conservatory Doors Preventive Maintenance & Repair Services",
       "Solicitation",
       "No Set aside used",
-      "2026-08-13T00:00:00.000Z",
+      "2026-08-12T00:00:00.000Z",
       "2026-09-08T16:00:00.000Z",
-      "2026-08-13T00:00:00.000Z",
+      "2026-08-12T00:00:00.000Z",
       "Washington, DC, 20515",
       38.918741,
       -77.030498,
       "238290",
       "https://sam.gov/opp/3abd0a54f18847c7898c794399c875f6/view",
-      1
+      1,
+      ""
     ],
     [
       "cfb6c307bed04730bc08e958712a0889",
@@ -3599,7 +3831,8 @@
       -80.562429,
       "238910",
       "https://sam.gov/opp/cfb6c307bed04730bc08e958712a0889/view",
-      1
+      1,
+      ""
     ],
     [
       "0bb8a230e4464c18a62ce97cb8d1197f",
@@ -3615,7 +3848,8 @@
       -72.076293,
       "238990",
       "https://sam.gov/opp/0bb8a230e4464c18a62ce97cb8d1197f/view",
-      1
+      1,
+      ""
     ],
     [
       "cd212bc084334893b9e448320a4c0201",
@@ -3631,7 +3865,8 @@
       -82.381494,
       "236220",
       "https://sam.gov/opp/cd212bc084334893b9e448320a4c0201/view",
-      1
+      1,
+      ""
     ],
     [
       "184810e0ec114aa88d93bdf515f7a162",
@@ -3647,7 +3882,8 @@
       -76.624781,
       "236220",
       "https://sam.gov/opp/184810e0ec114aa88d93bdf515f7a162/view",
-      1
+      1,
+      ""
     ],
     [
       "9caf4ecd25aa4ab699bd4b9f1708b917",
@@ -3663,7 +3899,8 @@
       -75.571165,
       "236220",
       "https://sam.gov/opp/9caf4ecd25aa4ab699bd4b9f1708b917/view",
-      1
+      1,
+      ""
     ],
     [
       "b2512fcc4d55425680ad84817f2b89b2",
@@ -3679,7 +3916,8 @@
       -75.590021,
       "236220",
       "https://sam.gov/opp/b2512fcc4d55425680ad84817f2b89b2/view",
-      1
+      1,
+      ""
     ],
     [
       "2160314dd5be47569c3dfe322858c458",
@@ -3695,7 +3933,8 @@
       -84.709591,
       "238990",
       "https://sam.gov/opp/2160314dd5be47569c3dfe322858c458/view",
-      1
+      1,
+      ""
     ],
     [
       "4117ba69b3b94c788ccd79039ed32cce",
@@ -3711,7 +3950,8 @@
       -81.639784,
       "236220",
       "https://sam.gov/opp/4117ba69b3b94c788ccd79039ed32cce/view",
-      1
+      1,
+      ""
     ],
     [
       "acab8ad874664e64bc750997e3f9c957",
@@ -3727,7 +3967,8 @@
       -77.339475,
       "236220",
       "https://sam.gov/opp/acab8ad874664e64bc750997e3f9c957/view",
-      1
+      1,
+      ""
     ],
     [
       "2f7910a93bd34c6199a4c1e2fd6d96f3",
@@ -3743,7 +3984,8 @@
       -86.364638,
       "238350",
       "https://sam.gov/opp/2f7910a93bd34c6199a4c1e2fd6d96f3/view",
-      1
+      1,
+      ""
     ],
     [
       "e84df04e622b4c9dbed260cb2ecd3620",
@@ -3759,7 +4001,8 @@
       -75.137461,
       "238390",
       "https://sam.gov/opp/e84df04e622b4c9dbed260cb2ecd3620/view",
-      1
+      1,
+      ""
     ],
     [
       "3a003a7b3918487794b7e2e5ca72e5e8",
@@ -3775,7 +4018,8 @@
       -79.980514,
       "236220",
       "https://sam.gov/opp/3a003a7b3918487794b7e2e5ca72e5e8/view",
-      1
+      1,
+      ""
     ],
     [
       "72b1a7b5bd5144a9b6d41d76876d3321",
@@ -3791,7 +4035,8 @@
       -88.475297,
       "238210",
       "https://sam.gov/opp/72b1a7b5bd5144a9b6d41d76876d3321/view",
-      1
+      1,
+      ""
     ],
     [
       "2599582098214adbaba97cfb14ce4a98",
@@ -3807,7 +4052,8 @@
       -77.380052,
       "238220",
       "https://sam.gov/opp/2599582098214adbaba97cfb14ce4a98/view",
-      1
+      1,
+      ""
     ],
     [
       "074797d0f6c94c26b41ca5e760843891",
@@ -3823,7 +4069,8 @@
       -88.545314,
       "238290",
       "https://sam.gov/opp/074797d0f6c94c26b41ca5e760843891/view",
-      1
+      1,
+      ""
     ],
     [
       "a8bb90fdf32f4071b87620bd134a6bc6",
@@ -3839,7 +4086,8 @@
       -77.601924,
       "236220",
       "https://sam.gov/opp/a8bb90fdf32f4071b87620bd134a6bc6/view",
-      1
+      1,
+      ""
     ],
     [
       "c5abb59379a746fcad19c830bbabc446",
@@ -3855,7 +4103,8 @@
       -78.921725,
       "237110",
       "https://sam.gov/opp/c5abb59379a746fcad19c830bbabc446/view",
-      1
+      1,
+      ""
     ],
     [
       "b3c68ae9b6604bbbaa785bc714bcdad5",
@@ -3871,7 +4120,8 @@
       -81.677133,
       "238160",
       "https://sam.gov/opp/b3c68ae9b6604bbbaa785bc714bcdad5/view",
-      1
+      1,
+      ""
     ],
     [
       "b096eabd415245cd8fed7dad846f205b",
@@ -3887,7 +4137,8 @@
       -80.583562,
       "238220",
       "https://sam.gov/opp/b096eabd415245cd8fed7dad846f205b/view",
-      1
+      1,
+      ""
     ],
     [
       "8f9895ea69ed4754afcd3173355f2e7b",
@@ -3903,7 +4154,8 @@
       -80.083945,
       "238990",
       "https://sam.gov/opp/8f9895ea69ed4754afcd3173355f2e7b/view",
-      1
+      1,
+      ""
     ],
     [
       "bc1952e1c1dc439985c1bcc98093044a",
@@ -3919,7 +4171,8 @@
       -76.860215,
       "236220",
       "https://sam.gov/opp/bc1952e1c1dc439985c1bcc98093044a/view",
-      1
+      1,
+      ""
     ],
     [
       "885d1a81a7374d66a1f1803d5da7b748",
@@ -3935,7 +4188,8 @@
       -80.666852,
       "236220",
       "https://sam.gov/opp/885d1a81a7374d66a1f1803d5da7b748/view",
-      1
+      1,
+      ""
     ],
     [
       "fff110c567e94cc89fd5e95d963a5535",
@@ -3951,7 +4205,8 @@
       -80.668071,
       "236220",
       "https://sam.gov/opp/fff110c567e94cc89fd5e95d963a5535/view",
-      1
+      1,
+      ""
     ],
     [
       "47ed848b760440b48f07512c1cf1bf75",
@@ -3967,7 +4222,8 @@
       -71.358011,
       "237110",
       "https://sam.gov/opp/47ed848b760440b48f07512c1cf1bf75/view",
-      1
+      1,
+      ""
     ],
     [
       "1f3c4b3f18494df9a64f6318e6680757",
@@ -3983,7 +4239,8 @@
       -75.694747,
       "237310",
       "https://sam.gov/opp/1f3c4b3f18494df9a64f6318e6680757/view",
-      1
+      1,
+      ""
     ],
     [
       "d6f4c3c2ff934af58cfb2fa861c67d5a",
@@ -3999,7 +4256,8 @@
       -80.517878,
       "238220",
       "https://sam.gov/opp/d6f4c3c2ff934af58cfb2fa861c67d5a/view",
-      1
+      1,
+      ""
     ],
     [
       "0c9f8c6df748434292e9551cd513d9d1",
@@ -4015,7 +4273,8 @@
       -88.910204,
       "238990",
       "https://sam.gov/opp/0c9f8c6df748434292e9551cd513d9d1/view",
-      1
+      1,
+      ""
     ],
     [
       "20ca375c06f84b43b42809b7e26629e1",
@@ -4031,7 +4290,8 @@
       -77.020844,
       "236220",
       "https://sam.gov/opp/20ca375c06f84b43b42809b7e26629e1/view",
-      1
+      1,
+      ""
     ],
     [
       "a12c620caf49406ebc67a5a5c6a328ab",
@@ -4047,7 +4307,8 @@
       -87.983105,
       "236210",
       "https://sam.gov/opp/a12c620caf49406ebc67a5a5c6a328ab/view",
-      1
+      1,
+      ""
     ],
     [
       "3ee37e6b73b84911b79f4f49362fa13e",
@@ -4063,7 +4324,8 @@
       -80.573124,
       "236220",
       "https://sam.gov/opp/3ee37e6b73b84911b79f4f49362fa13e/view",
-      1
+      1,
+      ""
     ],
     [
       "9976e49929e6414c8ce5a257f06220c9",
@@ -4079,7 +4341,8 @@
       -76.908485,
       "236220",
       "https://sam.gov/opp/9976e49929e6414c8ce5a257f06220c9/view",
-      1
+      1,
+      ""
     ],
     [
       "ed7fd672f1aa4073ac9e697d3b15fd54",
@@ -4095,7 +4358,8 @@
       -76.903936,
       "236220",
       "https://sam.gov/opp/ed7fd672f1aa4073ac9e697d3b15fd54/view",
-      1
+      1,
+      ""
     ],
     [
       "b4787181367d4ce6b0da2e036238b784",
@@ -4111,7 +4375,8 @@
       -76.990633,
       "236220",
       "https://sam.gov/opp/b4787181367d4ce6b0da2e036238b784/view",
-      1
+      1,
+      ""
     ],
     [
       "947eff0e5c6344f0bf8e9487c68e57d8",
@@ -4127,7 +4392,8 @@
       -81.505581,
       "236220",
       "https://sam.gov/opp/947eff0e5c6344f0bf8e9487c68e57d8/view",
-      1
+      1,
+      ""
     ],
     [
       "227d94cb85b648269e5abc4ee51ea334",
@@ -4143,7 +4409,8 @@
       -71.302508,
       "236220",
       "https://sam.gov/opp/227d94cb85b648269e5abc4ee51ea334/view",
-      1
+      1,
+      ""
     ],
     [
       "87f873789171459481b0c8a92546e577",
@@ -4159,7 +4426,8 @@
       -85.198444,
       "237310",
       "https://sam.gov/opp/87f873789171459481b0c8a92546e577/view",
-      1
+      1,
+      ""
     ],
     [
       "724abf5fd3264485a3cbf06126dd9997",
@@ -4174,7 +4442,9 @@
       null,
       null,
       "237990",
-      "https://sam.gov/opp/724abf5fd3264485a3cbf06126dd9997/view"
+      "https://sam.gov/opp/724abf5fd3264485a3cbf06126dd9997/view",
+      null,
+      ""
     ],
     [
       "dfde28c2e44c47e5a13bf7d3c4ba8482",
@@ -4190,7 +4460,8 @@
       -89.404218,
       "238160",
       "https://sam.gov/opp/dfde28c2e44c47e5a13bf7d3c4ba8482/view",
-      1
+      1,
+      ""
     ],
     [
       "0a07c75120eb494ea9f7e890de2ac99a",
@@ -4206,7 +4477,8 @@
       -85.727355,
       "238160",
       "https://sam.gov/opp/0a07c75120eb494ea9f7e890de2ac99a/view",
-      1
+      1,
+      ""
     ],
     [
       "20fdaa3a72bb4629b615259686284ebe",
@@ -4222,7 +4494,8 @@
       -77.35831,
       "238220",
       "https://sam.gov/opp/20fdaa3a72bb4629b615259686284ebe/view",
-      1
+      1,
+      ""
     ],
     [
       "aa18e2f64f5a4e84b98b0d3f1b5edd2b",
@@ -4238,7 +4511,8 @@
       -86.806406,
       "238220",
       "https://sam.gov/opp/aa18e2f64f5a4e84b98b0d3f1b5edd2b/view",
-      1
+      1,
+      ""
     ],
     [
       "23d4330c6d004f3581a477c504ae4e3a",
@@ -4254,7 +4528,8 @@
       -76.816722,
       "236220",
       "https://sam.gov/opp/23d4330c6d004f3581a477c504ae4e3a/view",
-      1
+      1,
+      ""
     ],
     [
       "7f1989b165844b3393759329243e93b4",
@@ -4270,7 +4545,8 @@
       -80.10778,
       "238220",
       "https://sam.gov/opp/7f1989b165844b3393759329243e93b4/view",
-      1
+      1,
+      ""
     ],
     [
       "ed30802e5c9143a7b12ee79880914559",
@@ -4286,7 +4562,8 @@
       -72.094382,
       "238990",
       "https://sam.gov/opp/ed30802e5c9143a7b12ee79880914559/view",
-      1
+      1,
+      ""
     ],
     [
       "2383a7b4323e417e8602fb76f6b452b3",
@@ -4302,7 +4579,8 @@
       -81.536477,
       "236220",
       "https://sam.gov/opp/2383a7b4323e417e8602fb76f6b452b3/view",
-      1
+      1,
+      ""
     ],
     [
       "72dea389b1ac440faeb27fcf9711aebc",
@@ -4318,7 +4596,8 @@
       -68.239919,
       "237310",
       "https://sam.gov/opp/72dea389b1ac440faeb27fcf9711aebc/view",
-      1
+      1,
+      ""
     ],
     [
       "916a270c378149278691a20d6fb03b80",
@@ -4334,7 +4613,8 @@
       -78.946622,
       "236220",
       "https://sam.gov/opp/916a270c378149278691a20d6fb03b80/view",
-      1
+      1,
+      ""
     ],
     [
       "10a8d1a4ed644d28b56eaf979b929029",
@@ -4350,7 +4630,8 @@
       -85.127385,
       "238210",
       "https://sam.gov/opp/10a8d1a4ed644d28b56eaf979b929029/view",
-      1
+      1,
+      ""
     ],
     [
       "51868b9b051a4b958a15f70157c3e140",
@@ -4366,7 +4647,8 @@
       -76.89414,
       "236220",
       "https://sam.gov/opp/51868b9b051a4b958a15f70157c3e140/view",
-      1
+      1,
+      ""
     ],
     [
       "c4316bdf891b4fa4b1fbe2564fa2444c",
@@ -4382,7 +4664,8 @@
       -70.530413,
       "238160",
       "https://sam.gov/opp/c4316bdf891b4fa4b1fbe2564fa2444c/view",
-      1
+      1,
+      ""
     ],
     [
       "fc547855adea48bba19cffd71159a8b4",
@@ -4398,7 +4681,8 @@
       -70.555162,
       "238210",
       "https://sam.gov/opp/fc547855adea48bba19cffd71159a8b4/view",
-      1
+      1,
+      ""
     ],
     [
       "5137861ae19141b58b218d850b6215b7",
@@ -4413,7 +4697,9 @@
       null,
       null,
       "238220",
-      "https://sam.gov/opp/5137861ae19141b58b218d850b6215b7/view"
+      "https://sam.gov/opp/5137861ae19141b58b218d850b6215b7/view",
+      null,
+      ""
     ],
     [
       "c649dd063eb94537bef71ede4b1fc983",
@@ -4429,7 +4715,8 @@
       -76.911818,
       "236220",
       "https://sam.gov/opp/c649dd063eb94537bef71ede4b1fc983/view",
-      1
+      1,
+      ""
     ],
     [
       "f5106a6722f14c7b885b3bdf68aca091",
@@ -4445,7 +4732,8 @@
       -72.714482,
       "236220",
       "https://sam.gov/opp/f5106a6722f14c7b885b3bdf68aca091/view",
-      1
+      1,
+      ""
     ],
     [
       "6786d74d79db4ec48e9aca2c51ba9a85",
@@ -4461,7 +4749,8 @@
       -89.030268,
       "238210",
       "https://sam.gov/opp/6786d74d79db4ec48e9aca2c51ba9a85/view",
-      1
+      1,
+      ""
     ],
     [
       "891551f0d47647c7a857545b560e1a43",
@@ -4477,7 +4766,8 @@
       -74.76374,
       "238290",
       "https://sam.gov/opp/891551f0d47647c7a857545b560e1a43/view",
-      1
+      1,
+      ""
     ],
     [
       "f1da9e56becd4033bfb74368fad42e4c",
@@ -4493,7 +4783,8 @@
       -77.356054,
       "236220",
       "https://sam.gov/opp/f1da9e56becd4033bfb74368fad42e4c/view",
-      1
+      1,
+      ""
     ],
     [
       "8f0703bc267c4e908d5d9cc57a82c6ac",
@@ -4509,7 +4800,8 @@
       -77.004972,
       "236220",
       "https://sam.gov/opp/8f0703bc267c4e908d5d9cc57a82c6ac/view",
-      1
+      1,
+      ""
     ],
     [
       "09dce14828044951a427dcac6a384b25",
@@ -4525,7 +4817,8 @@
       -87.909036,
       "236220",
       "https://sam.gov/opp/09dce14828044951a427dcac6a384b25/view",
-      1
+      1,
+      ""
     ],
     [
       "f258e01a96d944158d6fc91672568918",
@@ -4541,7 +4834,8 @@
       -78.953274,
       "236220",
       "https://sam.gov/opp/f258e01a96d944158d6fc91672568918/view",
-      1
+      1,
+      ""
     ],
     [
       "c09eb9e8f0c04d4fb643ef55c4276154",
@@ -4557,7 +4851,8 @@
       -71.310238,
       "236220",
       "https://sam.gov/opp/c09eb9e8f0c04d4fb643ef55c4276154/view",
-      1
+      1,
+      ""
     ],
     [
       "7b49e6b7f31144758cc81928d678ca25",
@@ -4573,7 +4868,8 @@
       -88.262506,
       "237310",
       "https://sam.gov/opp/7b49e6b7f31144758cc81928d678ca25/view",
-      1
+      1,
+      ""
     ],
     [
       "0b44ff305a684387b1362bac8eda2dde",
@@ -4589,7 +4885,8 @@
       -89.346662,
       "236220",
       "https://sam.gov/opp/0b44ff305a684387b1362bac8eda2dde/view",
-      1
+      1,
+      ""
     ],
     [
       "78eebc3b1ee24ba492ba19dd96cde41e",
@@ -4605,7 +4902,8 @@
       -85.098328,
       "238220",
       "https://sam.gov/opp/78eebc3b1ee24ba492ba19dd96cde41e/view",
-      1
+      1,
+      ""
     ],
     [
       "780fb35d81af4fe880c5c2fc248ff38b",
@@ -4621,7 +4919,8 @@
       -85.68318,
       "238220",
       "https://sam.gov/opp/780fb35d81af4fe880c5c2fc248ff38b/view",
-      1
+      1,
+      ""
     ],
     [
       "247e809acfa34ec98c87d11bcbfb2dc8",
@@ -4637,7 +4936,8 @@
       -84.315272,
       "237310",
       "https://sam.gov/opp/247e809acfa34ec98c87d11bcbfb2dc8/view",
-      1
+      1,
+      ""
     ],
     [
       "ef5cc07aa43f409889811b5f32a7eb33",
@@ -4653,7 +4953,8 @@
       -77.184511,
       "238210",
       "https://sam.gov/opp/ef5cc07aa43f409889811b5f32a7eb33/view",
-      1
+      1,
+      ""
     ],
     [
       "ba3e1f6a2b6f4c969588bd97cf92df9c",
@@ -4669,7 +4970,8 @@
       -77.204068,
       "238210",
       "https://sam.gov/opp/ba3e1f6a2b6f4c969588bd97cf92df9c/view",
-      1
+      1,
+      ""
     ],
     [
       "2b5e32d67f4546ff9d59352ed0ad717e",
@@ -4685,7 +4987,8 @@
       -69.780684,
       "238220",
       "https://sam.gov/opp/2b5e32d67f4546ff9d59352ed0ad717e/view",
-      1
+      1,
+      ""
     ],
     [
       "e13f6d91f59e46189db48843cca88801",
@@ -4701,7 +5004,8 @@
       -80.051334,
       "238140",
       "https://sam.gov/opp/e13f6d91f59e46189db48843cca88801/view",
-      1
+      1,
+      ""
     ],
     [
       "67de4e203bff43aaaf2254ad65679903",
@@ -4717,7 +5021,8 @@
       -76.902248,
       "236220",
       "https://sam.gov/opp/67de4e203bff43aaaf2254ad65679903/view",
-      1
+      1,
+      ""
     ],
     [
       "456b0eab1d6142469ed2d1c438847c19",
@@ -4733,7 +5038,8 @@
       -75.166247,
       "238120",
       "https://sam.gov/opp/456b0eab1d6142469ed2d1c438847c19/view",
-      1
+      1,
+      ""
     ],
     [
       "8598bb588398469aab94b6200b20c869",
@@ -4749,7 +5055,8 @@
       -77.011246,
       "238390",
       "https://sam.gov/opp/8598bb588398469aab94b6200b20c869/view",
-      1
+      1,
+      ""
     ],
     [
       "d432f0294d1a40d5950f20b3955d694d",
@@ -4765,7 +5072,8 @@
       -77.379891,
       "238990",
       "https://sam.gov/opp/d432f0294d1a40d5950f20b3955d694d/view",
-      1
+      1,
+      ""
     ],
     [
       "eddec429fe2c4653a59e534a63ced017",
@@ -4781,7 +5089,8 @@
       -74.172601,
       "236220",
       "https://sam.gov/opp/eddec429fe2c4653a59e534a63ced017/view",
-      1
+      1,
+      ""
     ],
     [
       "1d965c6fb9234d778cedfe4ae5a89b42",
@@ -4797,7 +5106,8 @@
       -79.968608,
       "238160",
       "https://sam.gov/opp/1d965c6fb9234d778cedfe4ae5a89b42/view",
-      1
+      1,
+      ""
     ],
     [
       "04a1b48db000416bb149617713a938e0",
@@ -4813,7 +5123,8 @@
       -74.173684,
       "238220",
       "https://sam.gov/opp/04a1b48db000416bb149617713a938e0/view",
-      1
+      1,
+      ""
     ],
     [
       "290a3b55b6be47e0bff0850e4b1c884c",
@@ -4829,7 +5140,8 @@
       -77.045415,
       "238220",
       "https://sam.gov/opp/290a3b55b6be47e0bff0850e4b1c884c/view",
-      1
+      1,
+      ""
     ],
     [
       "0772203cf50e4b40b8659bfd5736ae6b",
@@ -4845,7 +5157,8 @@
       -67.880303,
       "236220",
       "https://sam.gov/opp/0772203cf50e4b40b8659bfd5736ae6b/view",
-      1
+      1,
+      ""
     ],
     [
       "376155fbbbbb4c4db161c2ffdb879545",
@@ -4861,7 +5174,8 @@
       -79.89334,
       "236220",
       "https://sam.gov/opp/376155fbbbbb4c4db161c2ffdb879545/view",
-      1
+      1,
+      ""
     ],
     [
       "8980cd3daa554d48bfe34827c2d7a247",
@@ -4877,7 +5191,8 @@
       -77.435885,
       "238220",
       "https://sam.gov/opp/8980cd3daa554d48bfe34827c2d7a247/view",
-      1
+      1,
+      ""
     ],
     [
       "16ed158f6bf342ac9513d20b0c09fed8",
@@ -4892,7 +5207,9 @@
       null,
       null,
       "237310",
-      "https://sam.gov/opp/16ed158f6bf342ac9513d20b0c09fed8/view"
+      "https://sam.gov/opp/16ed158f6bf342ac9513d20b0c09fed8/view",
+      null,
+      ""
     ],
     [
       "31c31ca9596443fca4325f729f3e3ddd",
@@ -4908,7 +5225,8 @@
       -76.989738,
       "236220",
       "https://sam.gov/opp/31c31ca9596443fca4325f729f3e3ddd/view",
-      1
+      1,
+      ""
     ],
     [
       "8cead09a7fc948a3b2f6c732f880b180",
@@ -4924,7 +5242,8 @@
       -77.38504,
       "236220",
       "https://sam.gov/opp/8cead09a7fc948a3b2f6c732f880b180/view",
-      1
+      1,
+      ""
     ],
     [
       "459ce2a86b4442468f602f9d806c3291",
@@ -4940,7 +5259,8 @@
       -78.970206,
       "236220",
       "https://sam.gov/opp/459ce2a86b4442468f602f9d806c3291/view",
-      1
+      1,
+      ""
     ],
     [
       "36a7f805994c47a7a6f480c78499bb37",
@@ -4956,7 +5276,8 @@
       -72.886443,
       "236220",
       "https://sam.gov/opp/36a7f805994c47a7a6f480c78499bb37/view",
-      1
+      1,
+      ""
     ],
     [
       "bcee43ef8e20479f9f92a4842bc2d348",
@@ -4972,7 +5293,8 @@
       -77.962023,
       "237310",
       "https://sam.gov/opp/bcee43ef8e20479f9f92a4842bc2d348/view",
-      1
+      1,
+      ""
     ],
     [
       "4a74b881b8484186b1e818b53c8ab7e2",
@@ -4988,7 +5310,8 @@
       -80.474716,
       "238220",
       "https://sam.gov/opp/4a74b881b8484186b1e818b53c8ab7e2/view",
-      1
+      1,
+      ""
     ],
     [
       "580d8f3ef4a741338abbdee9ca151ea8",
@@ -4996,15 +5319,16 @@
       "Y1DA--556-26-2-6953-0001 - 556-24-108 Double  Block and Bleed Construction  (VA-26-00035322)",
       "Solicitation",
       "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-18T00:00:00.000Z",
       "2026-09-14T14:00:00.000Z",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-18T00:00:00.000Z",
       "North Chicago, IL, 60064",
       42.329359,
       -87.839013,
       "238220",
       "https://sam.gov/opp/580d8f3ef4a741338abbdee9ca151ea8/view",
-      1
+      1,
+      ""
     ],
     [
       "4753ba9c697940cbbeef870faaf8ae85",
@@ -5020,7 +5344,8 @@
       -88.919223,
       "238990",
       "https://sam.gov/opp/4753ba9c697940cbbeef870faaf8ae85/view",
-      1
+      1,
+      ""
     ],
     [
       "48708904565249a78daf561356d31df4",
@@ -5036,7 +5361,8 @@
       -76.536088,
       "238990",
       "https://sam.gov/opp/48708904565249a78daf561356d31df4/view",
-      1
+      1,
+      ""
     ],
     [
       "217fd92d6f9d4926b039e53ae01ea5c3",
@@ -5052,7 +5378,8 @@
       -76.557751,
       "238990",
       "https://sam.gov/opp/217fd92d6f9d4926b039e53ae01ea5c3/view",
-      1
+      1,
+      ""
     ],
     [
       "de37502047e14e6a83f416897cecdf27",
@@ -5068,7 +5395,8 @@
       -76.729493,
       "236220",
       "https://sam.gov/opp/de37502047e14e6a83f416897cecdf27/view",
-      1
+      1,
+      ""
     ],
     [
       "420c89c1965c4454a6c5356d44a0e8fd",
@@ -5084,7 +5412,8 @@
       -79.955089,
       "236220",
       "https://sam.gov/opp/420c89c1965c4454a6c5356d44a0e8fd/view",
-      1
+      1,
+      ""
     ],
     [
       "0530099d29bd4d4c81e2cfb94edfd92a",
@@ -5100,7 +5429,8 @@
       -76.006729,
       "237110",
       "https://sam.gov/opp/0530099d29bd4d4c81e2cfb94edfd92a/view",
-      1
+      1,
+      ""
     ],
     [
       "bb26896481ed42bf8e0396ceb321a0ba",
@@ -5116,7 +5446,8 @@
       -71.357819,
       "236220",
       "https://sam.gov/opp/bb26896481ed42bf8e0396ceb321a0ba/view",
-      1
+      1,
+      ""
     ],
     [
       "f22ce30fcf6d493a8e28642a5d6a2d53",
@@ -5132,7 +5463,8 @@
       -72.872433,
       "238910",
       "https://sam.gov/opp/f22ce30fcf6d493a8e28642a5d6a2d53/view",
-      1
+      1,
+      ""
     ],
     [
       "36091fb1bcba41e9bb3ced12d89b4de3",
@@ -5148,7 +5480,8 @@
       -77.304787,
       "237310",
       "https://sam.gov/opp/36091fb1bcba41e9bb3ced12d89b4de3/view",
-      1
+      1,
+      ""
     ],
     [
       "ffa77c470fd8426cb5111c740defca59",
@@ -5164,7 +5497,8 @@
       -80.242529,
       "238210",
       "https://sam.gov/opp/ffa77c470fd8426cb5111c740defca59/view",
-      1
+      1,
+      ""
     ],
     [
       "9c9c5c1493834e91aece63b9fec3066b",
@@ -5180,7 +5514,8 @@
       -73.746095,
       "236220",
       "https://sam.gov/opp/9c9c5c1493834e91aece63b9fec3066b/view",
-      1
+      1,
+      ""
     ],
     [
       "5215a05ca087427c97fc6d20f34bb0f5",
@@ -5196,7 +5531,8 @@
       -80.311792,
       "237110",
       "https://sam.gov/opp/5215a05ca087427c97fc6d20f34bb0f5/view",
-      1
+      1,
+      ""
     ],
     [
       "29980196d4b3433a94875bcdff66f1cd",
@@ -5212,7 +5548,8 @@
       -90.542542,
       "237110",
       "https://sam.gov/opp/29980196d4b3433a94875bcdff66f1cd/view",
-      1
+      1,
+      ""
     ],
     [
       "e35502ac4dc7423fa1f1a735a2fca5fb",
@@ -5228,7 +5565,8 @@
       -88.94156,
       "237110",
       "https://sam.gov/opp/e35502ac4dc7423fa1f1a735a2fca5fb/view",
-      1
+      1,
+      ""
     ],
     [
       "64dd80bbec7d4dc9bc1dafd7469728ec",
@@ -5244,7 +5582,8 @@
       -73.358515,
       "236220",
       "https://sam.gov/opp/64dd80bbec7d4dc9bc1dafd7469728ec/view",
-      1
+      1,
+      ""
     ],
     [
       "6230ab0342d248e6bd50973b5b814c67",
@@ -5260,7 +5599,8 @@
       -77.022596,
       "238120",
       "https://sam.gov/opp/6230ab0342d248e6bd50973b5b814c67/view",
-      1
+      1,
+      ""
     ],
     [
       "b107f6c9e4d74986b0a8056c2061302a",
@@ -5276,7 +5616,8 @@
       -76.567236,
       "237990",
       "https://sam.gov/opp/b107f6c9e4d74986b0a8056c2061302a/view",
-      1
+      1,
+      ""
     ],
     [
       "0aa4d261de6849138bcea7eaa547ebe9",
@@ -5292,7 +5633,8 @@
       -89.032685,
       "238210",
       "https://sam.gov/opp/0aa4d261de6849138bcea7eaa547ebe9/view",
-      1
+      1,
+      ""
     ],
     [
       "7fcbf86f713d41db853a3373842a89c0",
@@ -5308,7 +5650,8 @@
       -86.342835,
       "236220",
       "https://sam.gov/opp/7fcbf86f713d41db853a3373842a89c0/view",
-      1
+      1,
+      ""
     ],
     [
       "70047507b7b44eb1a946b79cf6419b5d",
@@ -5316,15 +5659,16 @@
       "Monopole Tower Procurement and Base Foundation Construction (577 SWES/DIFF)",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-20T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "2026-09-15T19:00:00.000Z",
-      "2026-08-20T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "Bangor, ME",
       44.815806,
       -68.796391,
       "238110",
       "https://sam.gov/opp/70047507b7b44eb1a946b79cf6419b5d/view",
-      1
+      1,
+      ""
     ],
     [
       "fe697d8f71cc4742a6ff45821d17c190",
@@ -5340,7 +5684,8 @@
       -88.318285,
       "238160",
       "https://sam.gov/opp/fe697d8f71cc4742a6ff45821d17c190/view",
-      1
+      1,
+      ""
     ],
     [
       "3483cc9a6d1a47bda9658be9a2d7d950",
@@ -5356,7 +5701,8 @@
       -73.972416,
       "236220",
       "https://sam.gov/opp/3483cc9a6d1a47bda9658be9a2d7d950/view",
-      1
+      1,
+      ""
     ],
     [
       "47d38a60f13c41e1888d5c5b28042667",
@@ -5372,7 +5718,8 @@
       -88.009559,
       "237110",
       "https://sam.gov/opp/47d38a60f13c41e1888d5c5b28042667/view",
-      1
+      1,
+      ""
     ],
     [
       "5a510b8140c645948fcb15d23ca5e8fd",
@@ -5388,7 +5735,8 @@
       -87.649315,
       "238160",
       "https://sam.gov/opp/5a510b8140c645948fcb15d23ca5e8fd/view",
-      1
+      1,
+      ""
     ],
     [
       "37d0fdc2598a4b5989a0bb884c446026",
@@ -5404,7 +5752,8 @@
       -76.894737,
       "236220",
       "https://sam.gov/opp/37d0fdc2598a4b5989a0bb884c446026/view",
-      1
+      1,
+      ""
     ],
     [
       "f3ce670797bb4f5b812b6ebda66e3b99",
@@ -5420,7 +5769,8 @@
       -75.604847,
       "238220",
       "https://sam.gov/opp/f3ce670797bb4f5b812b6ebda66e3b99/view",
-      1
+      1,
+      ""
     ],
     [
       "1ae6b1abd82446b7a3ff870dfff8d52f",
@@ -5436,7 +5786,8 @@
       -84.588421,
       "237990",
       "https://sam.gov/opp/1ae6b1abd82446b7a3ff870dfff8d52f/view",
-      1
+      1,
+      ""
     ],
     [
       "26fcb03ec13b4a85816bc785a939f104",
@@ -5452,7 +5803,8 @@
       -75.164513,
       "238220",
       "https://sam.gov/opp/26fcb03ec13b4a85816bc785a939f104/view",
-      1
+      1,
+      ""
     ],
     [
       "18a98675386441629892fc67ca1711f7",
@@ -5468,7 +5820,8 @@
       -81.488201,
       "236220",
       "https://sam.gov/opp/18a98675386441629892fc67ca1711f7/view",
-      1
+      1,
+      ""
     ],
     [
       "006c6f0696d8405b9be5fbca7217ecc0",
@@ -5484,7 +5837,8 @@
       -71.702438,
       "237110",
       "https://sam.gov/opp/006c6f0696d8405b9be5fbca7217ecc0/view",
-      1
+      1,
+      ""
     ],
     [
       "297e477feebe434aaf4cb9a3f26a1553",
@@ -5500,7 +5854,8 @@
       -68.311073,
       "236220",
       "https://sam.gov/opp/297e477feebe434aaf4cb9a3f26a1553/view",
-      1
+      1,
+      ""
     ],
     [
       "f6819caa0d0f42879656f3ea88977cdf",
@@ -5516,7 +5871,8 @@
       -85.366679,
       "237990",
       "https://sam.gov/opp/f6819caa0d0f42879656f3ea88977cdf/view",
-      1
+      1,
+      ""
     ],
     [
       "ea5d6f24e313483b9d54d914330b5f53",
@@ -5532,7 +5888,8 @@
       -77.862924,
       "238160",
       "https://sam.gov/opp/ea5d6f24e313483b9d54d914330b5f53/view",
-      1
+      1,
+      ""
     ],
     [
       "be9c29bff158410e824a02ad0e2ee5c8",
@@ -5548,7 +5905,8 @@
       -90.469773,
       "238990",
       "https://sam.gov/opp/be9c29bff158410e824a02ad0e2ee5c8/view",
-      1
+      1,
+      ""
     ],
     [
       "42c7a7b9b5ca4f94a24102e5b6fca4f9",
@@ -5564,7 +5922,8 @@
       -68.228622,
       "237310",
       "https://sam.gov/opp/42c7a7b9b5ca4f94a24102e5b6fca4f9/view",
-      1
+      1,
+      ""
     ],
     [
       "5c10b12a53ee42d4bb9418ef0ec60d12",
@@ -5579,7 +5938,9 @@
       null,
       null,
       "238160",
-      "https://sam.gov/opp/5c10b12a53ee42d4bb9418ef0ec60d12/view"
+      "https://sam.gov/opp/5c10b12a53ee42d4bb9418ef0ec60d12/view",
+      null,
+      ""
     ],
     [
       "54da69b098944a75abff2d84d950845f",
@@ -5595,7 +5956,8 @@
       -77.376811,
       "238220",
       "https://sam.gov/opp/54da69b098944a75abff2d84d950845f/view",
-      1
+      1,
+      ""
     ],
     [
       "61772fbfad1f41f8adebf80bac5e352f",
@@ -5611,7 +5973,8 @@
       -77.434338,
       "238220",
       "https://sam.gov/opp/61772fbfad1f41f8adebf80bac5e352f/view",
-      1
+      1,
+      ""
     ],
     [
       "d7b9212071ee4a25879bc23ee44cdfb4",
@@ -5627,7 +5990,8 @@
       -82.755906,
       "236220",
       "https://sam.gov/opp/d7b9212071ee4a25879bc23ee44cdfb4/view",
-      1
+      1,
+      ""
     ],
     [
       "a825706e006f43a6a6711129a72ce19f",
@@ -5635,15 +5999,16 @@
       "GASNTi2 BLOCK 1 Nationwide Material Procurement (Electrical & Telecommunications)",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-21T00:00:00.000Z",
+      "2026-08-20T00:00:00.000Z",
       "2026-09-18T21:00:00.000Z",
-      "2026-08-21T00:00:00.000Z",
+      "2026-08-20T00:00:00.000Z",
       "Bangor, ME",
       44.796641,
       -68.802635,
       "238210",
       "https://sam.gov/opp/a825706e006f43a6a6711129a72ce19f/view",
-      1
+      1,
+      ""
     ],
     [
       "8d975bed44e745bd9d3e584408aae01f",
@@ -5659,7 +6024,8 @@
       -77.230065,
       "236220",
       "https://sam.gov/opp/8d975bed44e745bd9d3e584408aae01f/view",
-      1
+      1,
+      ""
     ],
     [
       "df9118b8e45142cdbe349c206cb9458c",
@@ -5675,7 +6041,8 @@
       -84.482768,
       "238220",
       "https://sam.gov/opp/df9118b8e45142cdbe349c206cb9458c/view",
-      1
+      1,
+      ""
     ],
     [
       "ee45bfd4d35046a5b02bbb4372e20017",
@@ -5691,7 +6058,8 @@
       -87.703193,
       "238220",
       "https://sam.gov/opp/ee45bfd4d35046a5b02bbb4372e20017/view",
-      1
+      1,
+      ""
     ],
     [
       "5c06117ce8a84560af13f47dd4f4434a",
@@ -5707,7 +6075,8 @@
       -80.070454,
       "236220",
       "https://sam.gov/opp/5c06117ce8a84560af13f47dd4f4434a/view",
-      1
+      1,
+      ""
     ],
     [
       "398b7596ef32425da76ab48774ec0ba4",
@@ -5723,7 +6092,8 @@
       -73.900719,
       "238210",
       "https://sam.gov/opp/398b7596ef32425da76ab48774ec0ba4/view",
-      1
+      1,
+      ""
     ],
     [
       "a51cdca581154df4b39c8ad68d81688b",
@@ -5739,7 +6109,8 @@
       -77.020974,
       "238290",
       "https://sam.gov/opp/a51cdca581154df4b39c8ad68d81688b/view",
-      1
+      1,
+      ""
     ],
     [
       "e37d1784bb1e414ba198dd5e9ee7b622",
@@ -5755,7 +6126,8 @@
       -87.682721,
       "238290",
       "https://sam.gov/opp/e37d1784bb1e414ba198dd5e9ee7b622/view",
-      1
+      1,
+      ""
     ],
     [
       "2eac3145169244a5a6370d628d487aa7",
@@ -5771,7 +6143,8 @@
       -71.296,
       "236220",
       "https://sam.gov/opp/2eac3145169244a5a6370d628d487aa7/view",
-      1
+      1,
+      ""
     ],
     [
       "12ca925703334172a984e57b8618e7c4",
@@ -5787,7 +6160,8 @@
       -70.482588,
       "237990",
       "https://sam.gov/opp/12ca925703334172a984e57b8618e7c4/view",
-      1
+      1,
+      ""
     ],
     [
       "3ade2643d2ce4e7bae181e2385cfe9c8",
@@ -5803,7 +6177,8 @@
       -90.4823,
       "238210",
       "https://sam.gov/opp/3ade2643d2ce4e7bae181e2385cfe9c8/view",
-      1
+      1,
+      ""
     ],
     [
       "4b3a74a27dd3457383cc5a95151d7c32",
@@ -5819,7 +6194,8 @@
       -87.851191,
       "238220",
       "https://sam.gov/opp/4b3a74a27dd3457383cc5a95151d7c32/view",
-      1
+      1,
+      ""
     ],
     [
       "57d863e6fc2342e3ac367e66b2720909",
@@ -5827,15 +6203,16 @@
       "Z1DA--Replace Cast Iron Fittings  676-23-009",
       "Solicitation",
       "Veteran-Owned Small Business Set-Aside (specific to Department of Veterans Affairs)",
-      "2026-08-21T00:00:00.000Z",
+      "2026-08-20T00:00:00.000Z",
       "2026-09-23T15:00:00.000Z",
-      "2026-08-21T00:00:00.000Z",
+      "2026-08-20T00:00:00.000Z",
       "WI, 54660",
       43.994763,
       -90.468419,
       "238220",
       "https://sam.gov/opp/57d863e6fc2342e3ac367e66b2720909/view",
-      1
+      1,
+      ""
     ],
     [
       "2b08f567ae1440bcbc74141ace8b8b39",
@@ -5851,7 +6228,8 @@
       -87.873613,
       "238220",
       "https://sam.gov/opp/2b08f567ae1440bcbc74141ace8b8b39/view",
-      1
+      1,
+      ""
     ],
     [
       "1e18a727be7a4adba9c28a73867cc93b",
@@ -5867,7 +6245,8 @@
       -80.170004,
       "236220",
       "https://sam.gov/opp/1e18a727be7a4adba9c28a73867cc93b/view",
-      1
+      1,
+      ""
     ],
     [
       "07335772cff447f0acd6377c5121ad61",
@@ -5875,15 +6254,16 @@
       "Elevator Maintenance, Testing, Inspection, and Repair Services at Naval Air Station Meridian, MS",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-26T00:00:00.000Z",
+      "2026-08-25T00:00:00.000Z",
       "2026-09-25T15:00:00.000Z",
-      "2026-08-26T00:00:00.000Z",
+      "2026-08-25T00:00:00.000Z",
       "Meridian, MS, 39309",
       32.560677,
       -88.619559,
       "238290",
       "https://sam.gov/opp/07335772cff447f0acd6377c5121ad61/view",
-      1
+      1,
+      ""
     ],
     [
       "5ddbcdef888941ce8a884388763b3410",
@@ -5899,7 +6279,8 @@
       -71.328449,
       "236220",
       "https://sam.gov/opp/5ddbcdef888941ce8a884388763b3410/view",
-      1
+      1,
+      ""
     ],
     [
       "f5aca53960f54110a3d90b221de9dce3",
@@ -5914,7 +6295,9 @@
       null,
       null,
       "238390",
-      "https://sam.gov/opp/f5aca53960f54110a3d90b221de9dce3/view"
+      "https://sam.gov/opp/f5aca53960f54110a3d90b221de9dce3/view",
+      null,
+      ""
     ],
     [
       "cd001ab01190461ca2e80276ca77405f",
@@ -5930,7 +6313,8 @@
       -71.281697,
       "236220",
       "https://sam.gov/opp/cd001ab01190461ca2e80276ca77405f/view",
-      1
+      1,
+      ""
     ],
     [
       "42cdffae4293478e8be933d32af336d9",
@@ -5946,7 +6330,8 @@
       -80.077971,
       "237110",
       "https://sam.gov/opp/42cdffae4293478e8be933d32af336d9/view",
-      1
+      1,
+      ""
     ],
     [
       "f46186008fd74b78a4b34dda5272802e",
@@ -5962,7 +6347,8 @@
       -77.336348,
       "236220",
       "https://sam.gov/opp/f46186008fd74b78a4b34dda5272802e/view",
-      1
+      1,
+      ""
     ],
     [
       "f851d949b6e34c7a91dd7d7aa9f564e2",
@@ -5978,7 +6364,8 @@
       -86.139047,
       "236220",
       "https://sam.gov/opp/f851d949b6e34c7a91dd7d7aa9f564e2/view",
-      1
+      1,
+      ""
     ],
     [
       "676b257b102f4016821a5f1971a7822b",
@@ -5994,7 +6381,8 @@
       -74.178,
       "238210",
       "https://sam.gov/opp/676b257b102f4016821a5f1971a7822b/view",
-      1
+      1,
+      ""
     ],
     [
       "d2bf12c168654ab1828b7bb432ed756a",
@@ -6010,7 +6398,8 @@
       -76.342395,
       "236118",
       "https://sam.gov/opp/d2bf12c168654ab1828b7bb432ed756a/view",
-      1
+      1,
+      ""
     ],
     [
       "bf90f202cbe647daba4fa9d5461d62fe",
@@ -6026,7 +6415,8 @@
       -71.506513,
       "238170",
       "https://sam.gov/opp/bf90f202cbe647daba4fa9d5461d62fe/view",
-      1
+      1,
+      ""
     ],
     [
       "b986eb6cb4774f609b3edf4c376a80c0",
@@ -6042,7 +6432,8 @@
       -79.999049,
       "237990",
       "https://sam.gov/opp/b986eb6cb4774f609b3edf4c376a80c0/view",
-      1
+      1,
+      ""
     ],
     [
       "e1560a63f2914aedb98bf440addde388",
@@ -6058,7 +6449,8 @@
       -80.337325,
       "236220",
       "https://sam.gov/opp/e1560a63f2914aedb98bf440addde388/view",
-      1
+      1,
+      ""
     ],
     [
       "cd53883ff4974b888a94d4d8efaa3e9b",
@@ -6074,7 +6466,8 @@
       -71.297146,
       "236220",
       "https://sam.gov/opp/cd53883ff4974b888a94d4d8efaa3e9b/view",
-      1
+      1,
+      ""
     ],
     [
       "02af8b2b91bf49f9967c5c1e3c0a1426",
@@ -6090,7 +6483,8 @@
       -72.94756,
       "237990",
       "https://sam.gov/opp/02af8b2b91bf49f9967c5c1e3c0a1426/view",
-      1
+      1,
+      ""
     ],
     [
       "8d11797484e2473fa4ebfc559de772a9",
@@ -6106,7 +6500,8 @@
       -75.185217,
       "237990",
       "https://sam.gov/opp/8d11797484e2473fa4ebfc559de772a9/view",
-      1
+      1,
+      ""
     ],
     [
       "9bbb57e142194631ba71c473a377014d",
@@ -6122,7 +6517,8 @@
       -73.323293,
       "236220",
       "https://sam.gov/opp/9bbb57e142194631ba71c473a377014d/view",
-      1
+      1,
+      ""
     ],
     [
       "4e9bac9582ac4c25b28664281427ee1b",
@@ -6137,7 +6533,9 @@
       null,
       null,
       "238220",
-      "https://sam.gov/opp/4e9bac9582ac4c25b28664281427ee1b/view"
+      "https://sam.gov/opp/4e9bac9582ac4c25b28664281427ee1b/view",
+      null,
+      ""
     ],
     [
       "512decbb3da94bfb9ef55ef7c777706c",
@@ -6153,7 +6551,8 @@
       -76.570316,
       "237990",
       "https://sam.gov/opp/512decbb3da94bfb9ef55ef7c777706c/view",
-      1
+      1,
+      ""
     ],
     [
       "1e344b8e461a417285633ad960e52ba2",
@@ -6169,7 +6568,8 @@
       -84.303825,
       "236220",
       "https://sam.gov/opp/1e344b8e461a417285633ad960e52ba2/view",
-      1
+      1,
+      ""
     ],
     [
       "1efe2b5d5b0e42ebb347cb04f720592d",
@@ -6185,7 +6585,8 @@
       -76.7471,
       "237990",
       "https://sam.gov/opp/1efe2b5d5b0e42ebb347cb04f720592d/view",
-      1
+      1,
+      ""
     ]
   ],
   "geocoding": {
@@ -6196,6 +6597,6 @@
     "unresolved": 14,
     "locatedTotal": 373,
     "total": 387,
-    "generatedAt": "2026-08-26T21:18:54.055Z"
+    "generatedAt": "2026-08-26T21:39:11.418Z"
   }
 }
