@@ -10,9 +10,10 @@ on:
       - 'scripts/scrape-priority-fast.mjs'
       - 'scripts/repair-priority-sources.mjs'
       - 'scripts/fix-stream.mjs'
-      - 'scripts/inject-federal-overrides.mjs'
+      - 'scripts/fetch-federal-sam.mjs'
       - 'package.json'
       - 'source-health-ui.js'
+      - 'index.html'
       - '.github/workflows/daily-source-scrape.yml'
 
 permissions:
@@ -57,8 +58,10 @@ jobs:
       - name: Parse live STREAM bid opening dates
         run: node scripts/fix-stream.mjs
 
-      - name: Preserve latest active federal solicitation versions
-        run: node scripts/inject-federal-overrides.mjs
+      - name: Refresh federal opportunities from SAM.gov API
+        env:
+          SAM_GOV_API_KEY: ${{ secrets.SAM_GOV_API_KEY }}
+        run: node scripts/fetch-federal-sam.mjs
 
       - name: Upload scraper diagnostics
         if: always()
@@ -73,7 +76,7 @@ jobs:
         run: |
           git config user.name "MC3 Pursuit Radar Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add index.html data/priority-current.json data/priority-current.js data/source-health.json data/source-health.js
+          git add index.html data/priority-current.json data/priority-current.js data/federal-current.json data/federal-current.js data/source-health.json data/source-health.js
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
