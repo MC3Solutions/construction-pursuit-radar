@@ -9,6 +9,8 @@ on:
     branches: [main]
     paths:
       - 'scripts/scrape-priority-fast.mjs'
+      - 'scripts/scrape-wvwa.mjs'
+      - 'scripts/patch-wvwa-index.mjs'
       - 'scripts/repair-priority-sources.mjs'
       - 'scripts/fix-stream.mjs'
       - 'scripts/scrape-dot-sources.mjs'
@@ -70,6 +72,10 @@ jobs:
         continue-on-error: true
         run: node scripts/scrape-priority-fast.mjs
 
+      - name: Refresh Western Virginia Water Authority bids
+        continue-on-error: true
+        run: node scripts/scrape-wvwa.mjs
+
       - name: Repair eVA, STREAM, and TDOT source adapters
         continue-on-error: true
         run: node scripts/repair-priority-sources.mjs
@@ -91,6 +97,9 @@ jobs:
 
       - name: Keep dashboard on current data files
         run: node scripts/update-index-current-sources.mjs
+
+      - name: Keep WVWA source visible in dashboard filters
+        run: node scripts/patch-wvwa-index.mjs
 
       - name: Upload scraper diagnostics
         if: always()
