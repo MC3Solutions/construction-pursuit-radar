@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:50:31.789Z",
+  "generatedAt": "2026-08-26T16:36:30.388Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/27/2025",
@@ -7,72 +7,8 @@
     "rdlfrom": "08/26/2026",
     "rdlto": "08/25/2027"
   },
-  "total": 384,
+  "total": 381,
   "records": [
-    [
-      "aff80adf724c46748aea61c5b4e49204",
-      "W912QR26QA078",
-      "Asphalt Paving and Trench Repair Services at Green River Lake",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-12T00:00:00.000Z",
-      "2026-08-26T15:00:00.000Z",
-      "2026-08-12T00:00:00.000Z",
-      "Campbellsville, KY, 42718",
-      37.343783,
-      -85.356098,
-      "237310",
-      "https://sam.gov/opp/aff80adf724c46748aea61c5b4e49204/view",
-      1
-    ],
-    [
-      "b08c8b77a2734079bb0de1553eaf18e0",
-      "70Z036-26Q-MINISPLT",
-      "SERVER ROOM MINI SPLIT REPLACEMENT FOR USCG BASE CHARLESTON",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-25T00:00:00.000Z",
-      "2026-08-26T15:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
-      "North Charleston, SC, 29405",
-      32.882631,
-      -79.995993,
-      "238220",
-      "https://sam.gov/opp/b08c8b77a2734079bb0de1553eaf18e0/view",
-      1
-    ],
-    [
-      "b205b69c5b1d498ca7242f4b18224b83",
-      "W15QKN-26-Q-A104",
-      "CSS#89923 - Clear and Repair Fence Line- Marion, VA",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-14T00:00:00.000Z",
-      "2026-08-26T15:00:00.000Z",
-      "2026-08-14T00:00:00.000Z",
-      "Marion, VA",
-      36.840371,
-      -81.555028,
-      "238990",
-      "https://sam.gov/opp/b205b69c5b1d498ca7242f4b18224b83/view",
-      1
-    ],
-    [
-      "28670dbc777f43478bc33685d7211d50",
-      "140P4326R0036",
-      "Z--Blackstone River Valley National Historical Park -",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-21T00:00:00.000Z",
-      "2026-08-26T16:00:00.000Z",
-      "2026-08-21T00:00:00.000Z",
-      "Pawtucket, RI, 02860",
-      41.874045,
-      -71.38481,
-      "238110",
-      "https://sam.gov/opp/28670dbc777f43478bc33685d7211d50/view",
-      1
-    ],
     [
       "04d459ea2c3d4f629b3bdc8a637fe628",
       "70Z03026QCLEV0072",
@@ -154,22 +90,6 @@
       1
     ],
     [
-      "649a10a23295491cbdf1bcf0b6ad34f6",
-      "N4008526R0071",
-      "Facility Investment Services for Heating, Ventilation, and Air Conditioning (HVAC) Maintenance at Naval Submarine Base New London Groton, Connecticut",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-26T00:00:00.000Z",
-      "2026-08-26T18:00:00.000Z",
-      "2026-08-26T00:00:00.000Z",
-      "Groton, CT",
-      41.384256,
-      -72.050863,
-      "238220",
-      "https://sam.gov/opp/649a10a23295491cbdf1bcf0b6ad34f6/view",
-      1
-    ],
-    [
       "4e10e3ca275a48be8b69aa551bc2d87b",
       "6923G526Q0078",
       "Maintenance Base Overhead Door Replacement",
@@ -183,22 +103,6 @@
       -74.861549,
       "238290",
       "https://sam.gov/opp/4e10e3ca275a48be8b69aa551bc2d87b/view",
-      1
-    ],
-    [
-      "64942a6065584bbfa4376afd86f5dedf",
-      "W15QKN-26-Q-A141",
-      "Building 623 Drop Ceiling Grid System Replacement - Devens, MA",
-      "Solicitation",
-      "8(a) Set-Aside (FAR 19.8)",
-      "2026-08-18T00:00:00.000Z",
-      "2026-08-26T19:00:00.000Z",
-      "2026-08-18T00:00:00.000Z",
-      "0, MA, 01434",
-      42.531278,
-      -71.621084,
-      "236220",
-      "https://sam.gov/opp/64942a6065584bbfa4376afd86f5dedf/view",
       1
     ],
     [
@@ -1668,6 +1572,22 @@
       1
     ],
     [
+      "28f9de1ae36e47fb8b3adf51c8c53d6d",
+      "N4008526R0071",
+      "Facility Investment Services for Heating, Ventilation, and Air Conditioning (HVAC) Maintenance at Naval Submarine Base New London Groton, Connecticut",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-26T00:00:00.000Z",
+      "2026-08-31T18:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Groton, CT",
+      41.401003,
+      -72.065942,
+      "238220",
+      "https://sam.gov/opp/28f9de1ae36e47fb8b3adf51c8c53d6d/view",
+      1
+    ],
+    [
       "27db76868c724215a3af6564e5656925",
       "N4008526R9077",
       "WWTP FC436 Clarifier Repairs and G575 Lift Station Repairs",
@@ -1713,6 +1633,22 @@
       -82.154431,
       "238990",
       "https://sam.gov/opp/5acd109fa34b441093a9bf7ba6d6a6e4/view",
+      1
+    ],
+    [
+      "9229c13f864642159d062173cdc5b2e2",
+      "W15QKN-26-Q-A141",
+      "Building 623 Drop Ceiling Grid System Replacement - Devens, MA",
+      "Solicitation",
+      "8(a) Set-Aside (FAR 19.8)",
+      "2026-08-26T00:00:00.000Z",
+      "2026-08-31T19:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "0, MA, 01434",
+      42.537458,
+      -71.605591,
+      "236220",
+      "https://sam.gov/opp/9229c13f864642159d062173cdc5b2e2/view",
       1
     ],
     [
@@ -1856,22 +1792,6 @@
       -77.027328,
       "236220",
       "https://sam.gov/opp/0e2bff26cc02470480cdcabd24c1da60/view",
-      1
-    ],
-    [
-      "d224edaa2aed47be91134e47f9fff103",
-      "1605C4-26-R-00031",
-      "Triadelphia - B1 HVAC Chiller",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-24T00:00:00.000Z",
-      "2026-08-31T21:00:00.000Z",
-      "2026-08-24T00:00:00.000Z",
-      "Triadelphia, WV, 26059",
-      40.065964,
-      -80.590772,
-      "238220",
-      "https://sam.gov/opp/d224edaa2aed47be91134e47f9fff103/view",
       1
     ],
     [
@@ -2098,6 +2018,22 @@
       1
     ],
     [
+      "9e88355b90244bedb1fd6874e7a663d9",
+      "N4008526R0234",
+      "SPECIAL PROJECT RM25-4593 – Building 47 Upgrades/Modernization of Storage Space, Naval Undersea Warfare Center, Naval Station Newport, Newport, RI",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-01T18:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Newport, RI",
+      41.463414,
+      -71.310435,
+      "236220",
+      "https://sam.gov/opp/9e88355b90244bedb1fd6874e7a663d9/view",
+      1
+    ],
+    [
       "fc7f8fd8712d4c6faed9f3979cd09c38",
       "N400857406712",
       "7406712 Building 7019 Renovations",
@@ -2127,22 +2063,6 @@
       -76.29754,
       "236220",
       "https://sam.gov/opp/285e2e3852144b8985755b638a81a1a1/view",
-      1
-    ],
-    [
-      "6473994ab93f42248b2f0806a937f518",
-      "N4008526R0234",
-      "SPECIAL PROJECT RM25-4593 – Building 47 Upgrades/Modernization of Storage Space, Naval Undersea Warfare Center, Naval Station Newport, Newport, RI",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-17T00:00:00.000Z",
-      "2026-09-01T18:00:00.000Z",
-      "2026-08-17T00:00:00.000Z",
-      "Newport, RI",
-      41.487144,
-      -71.329964,
-      "236220",
-      "https://sam.gov/opp/6473994ab93f42248b2f0806a937f518/view",
       1
     ],
     [
@@ -2543,22 +2463,6 @@
       -72.302264,
       "238330",
       "https://sam.gov/opp/96a04d907ab44943b025c23ad613e762/view",
-      1
-    ],
-    [
-      "3cbc1336df9f483282b03fc399a1003c",
-      "FA252126B0003",
-      "DBEH 25-1628_Demolition Indefinite Delivery Indefinite Quantity",
-      "Solicitation",
-      "Economically Disadvantaged Women-Owned Small Business",
-      "2026-08-11T00:00:00.000Z",
-      "2026-09-03T12:00:00.000Z",
-      "2026-08-11T00:00:00.000Z",
-      "Patrick Air Force Base, FL, 32925",
-      28.176393,
-      -80.554073,
-      "238910",
-      "https://sam.gov/opp/3cbc1336df9f483282b03fc399a1003c/view",
       1
     ],
     [
@@ -3809,6 +3713,22 @@
       1
     ],
     [
+      "cfb6c307bed04730bc08e958712a0889",
+      "FA252126B0003",
+      "DBEH 25-1628_Demolition Indefinite Delivery Indefinite Quantity",
+      "Solicitation",
+      "Economically Disadvantaged Women-Owned Small Business",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-08T16:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Patrick Air Force Base, FL, 32925",
+      28.184821,
+      -80.562429,
+      "238910",
+      "https://sam.gov/opp/cfb6c307bed04730bc08e958712a0889/view",
+      1
+    ],
+    [
       "0bb8a230e4464c18a62ce97cb8d1197f",
       "N4008526R0245",
       "Crane Lease/ Rental Services",
@@ -4081,6 +4001,22 @@
       1
     ],
     [
+      "b096eabd415245cd8fed7dad846f205b",
+      "1605C4-26-R-00031",
+      "Triadelphia - B1 HVAC Chiller",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-08T21:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Triadelphia, WV, 26059",
+      40.072395,
+      -80.583562,
+      "238220",
+      "https://sam.gov/opp/b096eabd415245cd8fed7dad846f205b/view",
+      1
+    ],
+    [
       "8f9895ea69ed4754afcd3173355f2e7b",
       "36C24626Q0889",
       "DOCK AND DECK PLATE REPAIR",
@@ -4318,6 +4254,22 @@
       null,
       "237990",
       "https://sam.gov/opp/724abf5fd3264485a3cbf06126dd9997/view"
+    ],
+    [
+      "dfde28c2e44c47e5a13bf7d3c4ba8482",
+      "12444526Q0073",
+      "Bi- Yearly Roof Inspections",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-09T18:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Madison, WI, 53726",
+      43.046959,
+      -89.404218,
+      "238160",
+      "https://sam.gov/opp/dfde28c2e44c47e5a13bf7d3c4ba8482/view",
+      1
     ],
     [
       "0a07c75120eb494ea9f7e890de2ac99a",
@@ -4991,19 +4943,19 @@
       1
     ],
     [
-      "38457af594ad42b7832d344ce881aa6e",
+      "36a7f805994c47a7a6f480c78499bb37",
       "476044",
       "UPGRADE ENTRANCE PORTAL AT BROOHAVEN NATIONAL LABORATORY",
       "Solicitation",
       "No Set aside used",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "2026-09-11T20:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "Upton, NY, 11973",
-      40.86462,
-      -72.877112,
+      40.863557,
+      -72.886443,
       "236220",
-      "https://sam.gov/opp/38457af594ad42b7832d344ce881aa6e/view",
+      "https://sam.gov/opp/36a7f805994c47a7a6f480c78499bb37/view",
       1
     ],
     [
@@ -6143,11 +6095,11 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 325,
-    "cityLocated": 45,
+    "zipLocated": 323,
+    "cityLocated": 44,
     "unresolved": 14,
-    "locatedTotal": 370,
-    "total": 384,
-    "generatedAt": "2026-08-26T14:50:34.181Z"
+    "locatedTotal": 367,
+    "total": 381,
+    "generatedAt": "2026-08-26T16:36:34.239Z"
   }
 }
