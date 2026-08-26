@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:36:30.388Z",
+  "generatedAt": "2026-08-26T16:58:38.520Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/27/2025",
@@ -7,7 +7,7 @@
     "rdlfrom": "08/26/2026",
     "rdlto": "08/25/2027"
   },
-  "total": 381,
+  "total": 382,
   "records": [
     [
       "04d459ea2c3d4f629b3bdc8a637fe628",
@@ -4703,6 +4703,22 @@
       1
     ],
     [
+      "ef5cc07aa43f409889811b5f32a7eb33",
+      "1333ND26RNB190031",
+      "Large-Tier Electrical Construction IDIQ",
+      "Solicitation",
+      "No Set aside used",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-10T21:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Gaithersburg, MD",
+      39.17244,
+      -77.184511,
+      "238210",
+      "https://sam.gov/opp/ef5cc07aa43f409889811b5f32a7eb33/view",
+      1
+    ],
+    [
       "2b5e32d67f4546ff9d59352ed0ad717e",
       "36C24126Q0744",
       "J045--Annual Backflow Inspections and Repair Services",
@@ -6096,10 +6112,10 @@
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
     "zipLocated": 323,
-    "cityLocated": 44,
+    "cityLocated": 45,
     "unresolved": 14,
-    "locatedTotal": 367,
-    "total": 381,
-    "generatedAt": "2026-08-26T16:36:34.239Z"
+    "locatedTotal": 368,
+    "total": 382,
+    "generatedAt": "2026-08-26T16:58:40.385Z"
   }
 }
