@@ -10,6 +10,7 @@ on:
       - 'scripts/scrape-priority-fast.mjs'
       - 'scripts/repair-priority-sources.mjs'
       - 'scripts/fix-stream.mjs'
+      - 'scripts/inject-federal-overrides.mjs'
       - 'package.json'
       - 'source-health-ui.js'
       - '.github/workflows/daily-source-scrape.yml'
@@ -55,6 +56,9 @@ jobs:
 
       - name: Parse live STREAM bid opening dates
         run: node scripts/fix-stream.mjs
+
+      - name: Preserve latest active federal solicitation versions
+        run: node scripts/inject-federal-overrides.mjs
 
       - name: Upload scraper diagnostics
         if: always()
