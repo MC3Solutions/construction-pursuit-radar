@@ -11,6 +11,7 @@ on:
       - 'scripts/repair-priority-sources.mjs'
       - 'scripts/fix-stream.mjs'
       - 'scripts/scrape-dot-sources.mjs'
+      - 'scripts/fix-ncdot-sources.mjs'
       - 'scripts/fetch-federal-sam.mjs'
       - 'scripts/geocode-current.mjs'
       - 'scripts/finalize-source-health.mjs'
@@ -79,6 +80,10 @@ jobs:
       - name: Scrape VDOT CABB and NCDOT lettings
         continue-on-error: true
         run: node scripts/scrape-dot-sources.mjs
+
+      - name: Repair NCDOT from direct letting pages
+        continue-on-error: true
+        run: node scripts/fix-ncdot-sources.mjs
 
       - name: Restore federal source health after state refreshes
         run: node scripts/finalize-source-health.mjs
