@@ -22,6 +22,16 @@ html=html.replace(
   "function fromArr(a){return{id:a[0],s:a[1],n:a[2],t:a[3],a:a[4],p:a[5],d:a[6],u:a[7],l:a[8],x:a[9],y:a[10],c:a[11],r:a[12],approx:a[13]===1}}"
 );
 
+// Keep only the overall visible-pursuit KPI in the header.
+html=html.replace(
+  '<div class="stats"><div class="stat"><b id="visibleCount">…</b><span>Visible pursuits</span></div><div class="stat"><b id="due14Count">…</b><span>Due in 14+ days</span></div><div class="stat"><b id="sdvCount">…</b><span>SDVOSB</span></div><div class="stat"><b id="tsbCount">…</b><span>Total Small Business</span></div></div>',
+  '<div class="stats"><div class="stat"><b id="visibleCount">…</b><span>Visible pursuits</span></div></div>'
+);
+html=html.replace(
+  "$('visibleCount').textContent=currentRows.length;$('due14Count').textContent=currentRows.filter(due14Plus).length;$('sdvCount').textContent=currentRows.filter(function(o){return String(o.set).indexOf('SDVOSB')===0}).length;$('tsbCount').textContent=currentRows.filter(function(o){return o.set==='Total Small Business'}).length;",
+  "$('visibleCount').textContent=currentRows.length;"
+);
+
 html=html.replace(
   'Federal pins use SAM place-of-performance ZIP/city centroids when precise coordinates are unavailable; numbered circles group overlapping pursuits until you zoom in.',
   'Federal pins use SAM place-of-performance ZIP/city centroids when precise coordinates are unavailable; individual colored dots remain visible across the map.'
@@ -45,4 +55,4 @@ const dotRender="function renderMap(rows){if(radarMode){renderRadar(rows);return
 html=html.replace(clusteredRender,dotRender);
 
 fs.writeFileSync(file,html);
-console.log('index.html now uses current data files, fresh cache tokens, geocoded pins, and individual colored pursuit dots.');
+console.log('index.html now uses current data files, one Visible Pursuits KPI, fresh cache tokens, geocoded pins, and individual colored pursuit dots.');
