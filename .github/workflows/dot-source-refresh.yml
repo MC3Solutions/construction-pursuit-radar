@@ -1,0 +1,57 @@
+name: VDOT and NCDOT source refresh
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 13 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/scrape-dot-sources.mjs'
+      - '.github/workflows/dot-source-refresh.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dot-source-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh-dot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out radar
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install scraper dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape VDOT CABB and NCDOT lettings
+        run: node scripts/scrape-dot-sources.mjs
+
+      - name: Refresh dashboard source labels and cache tokens
+        run: node scripts/update-index-current-sources.mjs
+
+      - name: Commit refreshed DOT data
+        run: |
+          git config user.name "MC3 Pursuit Radar Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html data/priority-current.json data/priority-current.js data/dot-current.json data/source-health.json data/source-health.js
+          if git diff --cached --quiet; then
+            echo "No DOT data changes to commit."
+          else
+            git commit -m "Refresh VDOT and NCDOT sources $(date -u +%F)"
+            git push
+          fi
