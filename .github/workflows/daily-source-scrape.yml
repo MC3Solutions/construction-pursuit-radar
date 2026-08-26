@@ -43,25 +43,30 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Install scraper dependencies
-        run: npm install --no-audit --no-fund
-
-      - name: Install Chromium
-        run: npx playwright install --with-deps chromium
-
-      - name: Scrape priority procurement sites
-        run: node scripts/scrape-priority-fast.mjs
-
-      - name: Repair eVA, STREAM, and TDOT source adapters
-        run: node scripts/repair-priority-sources.mjs
-
-      - name: Parse live STREAM bid opening dates
-        run: node scripts/fix-stream.mjs
-
       - name: Refresh federal opportunities from SAM.gov API
         env:
           SAM_GOV_API_KEY: ${{ secrets.SAM_GOV_API_KEY }}
         run: node scripts/fetch-federal-sam.mjs
+
+      - name: Install scraper dependencies
+        continue-on-error: true
+        run: npm install --no-audit --no-fund
+
+      - name: Install Chromium
+        continue-on-error: true
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape priority procurement sites
+        continue-on-error: true
+        run: node scripts/scrape-priority-fast.mjs
+
+      - name: Repair eVA, STREAM, and TDOT source adapters
+        continue-on-error: true
+        run: node scripts/repair-priority-sources.mjs
+
+      - name: Parse live STREAM bid opening dates
+        continue-on-error: true
+        run: node scripts/fix-stream.mjs
 
       - name: Upload scraper diagnostics
         if: always()
