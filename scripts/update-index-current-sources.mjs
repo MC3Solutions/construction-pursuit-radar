@@ -5,13 +5,13 @@ let html=fs.readFileSync(file,'utf8');
 const cacheToken=new Date().toISOString().replace(/\D/g,'').slice(0,12);
 
 html=html.replace(
-  /<div class="notice"><b>Priority sources:<\/b>[\s\S]*?<\/div>\n<div id="sourceHealth">/,
-  '<div class="notice"><b>Live procurement sources:</b> Federal construction opportunities refresh directly from the SAM.gov Opportunities API. Virginia eVA, NC eVP, Tennessee Edison, Tennessee STREAM and Tennessee TDOT refresh from their public procurement sites. Expired opportunities are removed automatically and failed sources preserve their last-good snapshot.</div>\n<div id="sourceHealth">'
+  /<div class="notice"><b>[^<]*sources:<\/b>[\s\S]*?<\/div>\n<div id="sourceHealth">/,
+  '<div class="notice"><b>Live procurement sources:</b> Federal construction opportunities refresh directly from the SAM.gov Opportunities API. VDOT CABB, Virginia eVA, NCDOT, NC eVP, Tennessee Edison, Tennessee STREAM and Tennessee TDOT refresh from their public procurement sites. Expired opportunities are removed automatically and failed sources preserve their last-good snapshot.</div>\n<div id="sourceHealth">'
 );
 
 html=html.replace(
-  /<footer>[\s\S]*?<\/footer>\n<script src="data\/federal-1-20260825\.js\?v=2"><\/script>\n<script src="data\/federal-2-20260825\.js\?v=2"><\/script>\n<script src="data\/federal-3-20260825\.js\?v=2"><\/script>/,
-  '<footer>Federal records are sourced directly from the SAM.gov Opportunities API. Priority state records are sourced from public Virginia eVA, NC eVP, TN Edison, TN STREAM and TN TDOT procurement pages. Map coordinates may be approximate. Always verify solicitation documents and deadlines at the linked procurement source before pursuit decisions.</footer>\n<script src="data/federal-current.js?v='+cacheToken+'"></script>'
+  /<footer>[\s\S]*?<\/footer>/,
+  '<footer>Federal records are sourced directly from the SAM.gov Opportunities API. Priority state records are sourced from public VDOT CABB, Virginia eVA, NCDOT, NC eVP, TN Edison, TN STREAM and TN TDOT procurement pages. Map coordinates may be approximate. Always verify solicitation documents and deadlines at the linked procurement source before pursuit decisions.</footer>'
 );
 
 html=html.replace(/data\/federal-current\.js\?v=[^"']+/,'data/federal-current.js?v='+cacheToken);
@@ -22,14 +22,23 @@ html=html.replace(
   "function fromArr(a){return{id:a[0],s:a[1],n:a[2],t:a[3],a:a[4],p:a[5],d:a[6],u:a[7],l:a[8],x:a[9],y:a[10],c:a[11],r:a[12],approx:a[13]===1}}"
 );
 
-// Keep only the overall visible-pursuit KPI in the header.
 html=html.replace(
-  '<div class="stats"><div class="stat"><b id="visibleCount">…</b><span>Visible pursuits</span></div><div class="stat"><b id="due14Count">…</b><span>Due in 14+ days</span></div><div class="stat"><b id="sdvCount">…</b><span>SDVOSB</span></div><div class="stat"><b id="tsbCount">…</b><span>Total Small Business</span></div></div>',
-  '<div class="stats"><div class="stat"><b id="visibleCount">…</b><span>Visible pursuits</span></div></div>'
+  /var SOURCE_LABEL=\{[^;]+\};/,
+  "var SOURCE_LABEL={FED:'Federal / SAM.gov',VDOT:'VDOT CABB',EVA:'Virginia eVA',NCDOT:'NCDOT',NCEVP:'NC eVP',TNEDISON:'TN Edison',TNSTREAM:'TN STREAM',TNDOT:'TN TDOT'};"
 );
 html=html.replace(
-  "$('visibleCount').textContent=currentRows.length;$('due14Count').textContent=currentRows.filter(due14Plus).length;$('sdvCount').textContent=currentRows.filter(function(o){return String(o.set).indexOf('SDVOSB')===0}).length;$('tsbCount').textContent=currentRows.filter(function(o){return o.set==='Total Small Business'}).length;",
-  "$('visibleCount').textContent=currentRows.length;"
+  /var sourceOrder=\[[^\]]+\];/,
+  "var sourceOrder=['FED','VDOT','EVA','NCDOT','NCEVP','TNEDISON','TNSTREAM','TNDOT'];"
+);
+
+// Keep only the overall visible-pursuit KPI in the header.
+html=html.replace(
+  /<div class="stats">[\s\S]*?<\/div><\/header>/,
+  '<div class="stats"><div class="stat"><b id="visibleCount">…</b><span>Visible pursuits</span></div></div></header>'
+);
+html=html.replace(
+  /\$\('visibleCount'\)\.textContent=currentRows\.length;\$\('due14Count'\)[\s\S]*?;var activeSources=/,
+  "$('visibleCount').textContent=currentRows.length;var activeSources="
 );
 
 html=html.replace(
@@ -41,7 +50,7 @@ html=html.replace(
   'Federal pins use SAM place-of-performance ZIP/city centroids when precise coordinates are unavailable; individual colored dots remain visible across the map.'
 );
 
-// Remove marker-cluster assets and styles. Corrected ZIP/city coordinates now provide useful individual-dot separation.
+// Remove marker-cluster assets and styles. Corrected coordinates now provide useful individual-dot separation.
 html=html.replace(/\n?<link rel="stylesheet" href="https:\/\/cdn\.jsdelivr\.net\/npm\/leaflet\.markercluster@1\.5\.3\/dist\/MarkerCluster\.css">/g,'');
 html=html.replace(/\n?<script src="https:\/\/cdn\.jsdelivr\.net\/npm\/leaflet\.markercluster@1\.5\.3\/dist\/leaflet\.markercluster\.js"><\/script>/g,'');
 html=html.replace(/\.pursuit-marker\{[^}]*\}\.mc3-cluster\{[^}]*\}\n?/g,'');
@@ -55,4 +64,4 @@ const dotRender="function renderMap(rows){if(radarMode){renderRadar(rows);return
 html=html.replace(clusteredRender,dotRender);
 
 fs.writeFileSync(file,html);
-console.log('index.html now uses current data files, one Visible Pursuits KPI, fresh cache tokens, geocoded pins, and individual colored pursuit dots.');
+console.log('index.html now uses current data files, VDOT/NCDOT source labels, one Visible Pursuits KPI, fresh cache tokens, and individual colored pursuit dots.');
