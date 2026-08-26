@@ -76,7 +76,7 @@ jobs:
         run: |
           git config user.name "MC3 Pursuit Radar Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add index.html data/priority-current.json data/priority-current.js data/federal-current.json data/federal-current.js data/source-health.json data/source-health.js
+          git add index.html data/priority-current.json data/priority-current.js data/federal-current.json data/federal-current.js data/federal-1-20260825.js data/federal-2-20260825.js data/federal-3-20260825.js data/source-health.json data/source-health.js
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
