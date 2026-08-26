@@ -9,6 +9,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/scrape-dot-sources.mjs'
+      - 'scripts/fix-ncdot-sources.mjs'
       - '.github/workflows/dot-source-refresh.yml'
 
 permissions:
@@ -41,6 +42,9 @@ jobs:
 
       - name: Scrape VDOT CABB and NCDOT lettings
         run: node scripts/scrape-dot-sources.mjs
+
+      - name: Repair NCDOT from direct letting pages
+        run: node scripts/fix-ncdot-sources.mjs
 
       - name: Refresh dashboard source labels and cache tokens
         run: node scripts/update-index-current-sources.mjs
