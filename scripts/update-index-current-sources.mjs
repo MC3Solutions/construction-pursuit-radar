@@ -18,8 +18,8 @@ html=html.replace(/data\/federal-current\.js\?v=[^"']+/,'data/federal-current.js
 html=html.replace(/data\/priority-current\.js\?v=[^"']+/,'data/priority-current.js?v='+cacheToken);
 html=html.replace("var SNAP='2026-08-25';","var SNAP=new Date().toISOString().slice(0,10);");
 html=html.replace(
-  "function fromArr(a){return{id:a[0],s:a[1],n:a[2],t:a[3],a:a[4],p:a[5],d:a[6],u:a[7],l:a[8],x:a[9],y:a[10],c:a[11],r:a[12]}}",
-  "function fromArr(a){return{id:a[0],s:a[1],n:a[2],t:a[3],a:a[4],p:a[5],d:a[6],u:a[7],l:a[8],x:a[9],y:a[10],c:a[11],r:a[12],approx:a[13]===1}}"
+  /function fromArr\(a\)\{return\{id:a\[0\],s:a\[1\],n:a\[2\],t:a\[3\],a:a\[4\],p:a\[5\],d:a\[6\],u:a\[7\],l:a\[8\],x:a\[9\],y:a\[10\],c:a\[11\],r:a\[12\](?:,approx:a\[13\]===1)?(?:,rom:a\[14\])?\}\}/,
+  "function fromArr(a){return{id:a[0],s:a[1],n:a[2],t:a[3],a:a[4],p:a[5],d:a[6],u:a[7],l:a[8],x:a[9],y:a[10],c:a[11],r:a[12],approx:a[13]===1,rom:a[14]||''}}"
 );
 
 html=html.replace(
@@ -63,5 +63,9 @@ const clusteredRender="function markerIcon(o){return L.divIcon({className:'',htm
 const dotRender="function renderMap(rows){if(radarMode){renderRadar(rows);return}if(!map||!layer)return;layer.clearLayers();var bounds=[];rows.forEach(function(o){if(o.x==null||o.y==null)return;L.circleMarker([o.x,o.y],{radius:5.5,weight:1.5,color:'#fff',fillColor:color(o),fillOpacity:.95}).bindPopup(popup(o)).addTo(layer);bounds.push([o.x,o.y])});if(bounds.length>1)map.fitBounds(bounds,{padding:[25,25],maxZoom:7});else if(bounds.length===1)map.setView(bounds[0],8)}";
 html=html.replace(clusteredRender,dotRender);
 
+// Display ROM / estimated construction value only when the source actually provides one.
+html=html.replace(/function popup\(o\)\{return[\s\S]*?\}\nfunction useRadar/, "function popup(o){return'<b>'+esc(o.n)+'</b><br>'+esc(o.sourceLabel)+' · '+esc(o.l)+'<br>'+esc(o.set)+(o.rom?'<br><b>ROM:</b> '+esc(o.rom):'')+'<br>Due '+esc(fmtDate(o.d))+'<br><a href=\"'+esc(o.r)+'\" target=\"_blank\" rel=\"noopener\">Open source ↗</a>'}\nfunction useRadar");
+html=html.replace(/function card\(o\)\{[\s\S]*?\}\nfunction filtered/, "function card(o){var scopePrefix=/^\\d{6}$/.test(String(o.c||''))?'<b>NAICS:</b> ':'<b>Scope:</b> ',romLine=o.rom?'<br><b>ROM:</b> '+esc(o.rom):'';return'<article class=\"card\"><div class=\"project-name\">'+esc(o.n)+'</div><div class=\"badges\">'+badges(o)+'</div><div class=\"meta\">'+esc(o.l)+(o.approx?' <em>(map pin approximate)</em>':'')+'<br>'+scopePrefix+esc(o.c||'')+(o.scope&&o.scope!==o.c?' · '+esc(o.scope):'')+romLine+'<br><b>Due:</b> '+esc(fmtDate(o.d))+' · <b>Solicitation:</b> '+esc(o.s)+'<br><b>Posted:</b> '+esc(String(o.p||'').slice(0,10))+'</div><a class=\"open\" href=\"'+esc(o.r)+'\" target=\"_blank\" rel=\"noopener\">Open source ↗</a></article>'}\nfunction filtered");
+
 fs.writeFileSync(file,html);
-console.log('index.html now uses current data files, VDOT/NCDOT source labels, one Visible Pursuits KPI, fresh cache tokens, and individual colored pursuit dots.');
+console.log('index.html now uses current data files, current source labels, one Visible Pursuits KPI, individual pursuit dots, and conditional ROM display.');
