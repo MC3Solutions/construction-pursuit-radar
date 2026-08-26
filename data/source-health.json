@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-26T18:35:37.678Z",
-  "total": 659,
+  "generatedAt": "2026-08-26T21:20:27.128Z",
+  "total": 662,
   "sources": {
     "EVA": {
       "label": "Virginia eVA",
       "status": "OK",
       "count": 115,
-      "checkedAt": "2026-08-26T18:34:55.096Z",
+      "checkedAt": "2026-08-26T21:19:43.907Z",
       "message": "eVA reported 115 open Construction results; loaded 115 cards and parsed 115 future pursuits.",
       "stale": false
     },
@@ -14,7 +14,7 @@
       "label": "NC eVP",
       "status": "OK",
       "count": 131,
-      "checkedAt": "2026-08-26T18:34:33.282Z",
+      "checkedAt": "2026-08-26T21:19:21.361Z",
       "message": "131 future construction rows parsed from public result pages.",
       "stale": false
     },
@@ -22,7 +22,7 @@
       "label": "TN Edison",
       "status": "OK",
       "count": 8,
-      "checkedAt": "2026-08-26T18:34:33.282Z",
+      "checkedAt": "2026-08-26T21:19:21.361Z",
       "message": "8 future construction rows parsed from public result pages.",
       "stale": false
     },
@@ -30,7 +30,7 @@
       "label": "TN STREAM",
       "status": "OK",
       "count": 7,
-      "checkedAt": "2026-08-26T18:35:05.915Z",
+      "checkedAt": "2026-08-26T21:19:55.370Z",
       "message": "Parsed 7 future projects from the live STREAM Construction Bid List.",
       "stale": false
     },
@@ -38,7 +38,7 @@
       "label": "TN TDOT",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-08-26T18:34:55.096Z",
+      "checkedAt": "2026-08-26T21:19:43.907Z",
       "message": "TDOT bidding page reachable (https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/e-plans-room.html); 1 future advertised letting link(s) found.",
       "stale": false
     },
@@ -46,7 +46,7 @@
       "label": "VDOT CABB",
       "status": "OK",
       "count": 13,
-      "checkedAt": "2026-08-26T18:35:08.286Z",
+      "checkedAt": "2026-08-26T21:19:57.135Z",
       "message": "13 future VDOT CABB highway advertisements parsed.",
       "stale": false
     },
@@ -54,16 +54,16 @@
       "label": "NCDOT",
       "status": "PARTIAL",
       "count": 0,
-      "checkedAt": "2026-08-26T18:35:22.220Z",
+      "checkedAt": "2026-08-26T21:20:11.227Z",
       "message": "NCDOT returned no usable records during this refresh. Preserved 0 last-good record(s).",
       "stale": true
     },
     "FED": {
       "label": "Federal / SAM.gov",
       "status": "OK",
-      "count": 384,
-      "checkedAt": "2026-08-26T18:34:06.357Z",
-      "message": "Live SAM.gov Opportunities API snapshot: 384 active deduplicated construction pursuits. 370/384 federal pins have ZIP/city or source coordinates.",
+      "count": 387,
+      "checkedAt": "2026-08-26T21:18:51.793Z",
+      "message": "Live SAM.gov Opportunities API snapshot: 387 active deduplicated construction pursuits. 373/387 federal pins have ZIP/city or source coordinates.",
       "stale": false
     }
   }
