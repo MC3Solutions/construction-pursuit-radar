@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-26T14:00:02.286Z",
-  "total": 241,
+  "generatedAt": "2026-08-26T14:06:37.237Z",
+  "total": 633,
   "sources": {
     "EVA": {
       "label": "Virginia eVA",
       "status": "OK",
       "count": 114,
-      "checkedAt": "2026-08-26T13:59:51.540Z",
+      "checkedAt": "2026-08-26T14:06:23.223Z",
       "message": "eVA reported 114 open Construction results; loaded 114 cards and parsed 114 future pursuits.",
       "stale": false
     },
     "NCEVP": {
       "label": "NC eVP",
       "status": "OK",
-      "count": 111,
-      "checkedAt": "2026-08-26T13:59:25.536Z",
-      "message": "111 future construction rows parsed from public result pages.",
+      "count": 119,
+      "checkedAt": "2026-08-26T14:05:58.384Z",
+      "message": "119 future construction rows parsed from public result pages.",
       "stale": false
     },
     "TNEDISON": {
       "label": "TN Edison",
       "status": "OK",
       "count": 8,
-      "checkedAt": "2026-08-26T13:59:25.536Z",
+      "checkedAt": "2026-08-26T14:05:58.384Z",
       "message": "8 future construction rows parsed from public result pages.",
       "stale": false
     },
@@ -30,7 +30,7 @@
       "label": "TN STREAM",
       "status": "OK",
       "count": 7,
-      "checkedAt": "2026-08-26T14:00:02.286Z",
+      "checkedAt": "2026-08-26T14:06:34.980Z",
       "message": "Parsed 7 future projects from the live STREAM Construction Bid List.",
       "stale": false
     },
@@ -38,8 +38,16 @@
       "label": "TN TDOT",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-08-26T13:59:51.540Z",
+      "checkedAt": "2026-08-26T14:06:23.223Z",
       "message": "TDOT bidding page reachable (https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/e-plans-room.html); 1 future advertised letting link(s) found.",
+      "stale": false
+    },
+    "FED": {
+      "label": "Federal / SAM.gov",
+      "status": "OK",
+      "count": 384,
+      "checkedAt": "2026-08-26T14:05:33.572Z",
+      "message": "Live SAM.gov Opportunities API snapshot: 384 active deduplicated construction pursuits.",
       "stale": false
     }
   }

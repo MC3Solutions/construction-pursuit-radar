@@ -21,7 +21,7 @@ footer{padding:8px 15px;font-size:10.5px;color:#697487;background:#fff;border-to
 </head>
 <body>
 <header><h1>MC3 Construction Pursuit Radar</h1><p>Active construction opportunities east of the Mississippi</p><div class="stats"><div class="stat"><b id="visibleCount">…</b><span>Visible pursuits</span></div><div class="stat"><b id="due14Count">…</b><span>Due in 14+ days</span></div><div class="stat"><b id="sdvCount">…</b><span>SDVOSB</span></div><div class="stat"><b id="tsbCount">…</b><span>Total Small Business</span></div></div></header>
-<div class="notice"><b>Priority sources:</b> SAM.gov federal opportunities plus Virginia eVA, NC eVP, Tennessee Edison and Tennessee STREAM. eVA blocks ordinary automated access to its Open Construction results, so Virginia uses indexed eVA-origin records and official issuing-agency/eVA links. Expired opportunities are removed automatically. TDOT will join the source list with its next advertised letting.</div>
+<div class="notice"><b>Live procurement sources:</b> Federal construction opportunities refresh directly from the SAM.gov Opportunities API. Virginia eVA, NC eVP, Tennessee Edison, Tennessee STREAM and Tennessee TDOT refresh from their public procurement sites. Expired opportunities are removed automatically and failed sources preserve their last-good snapshot.</div>
 <div id="sourceHealth"></div>
 <section class="filters">
 <div class="search"><label for="q">Search</label><input id="q" placeholder="Project, solicitation, city, scope..."></div>
@@ -37,16 +37,14 @@ footer{padding:8px 15px;font-size:10.5px;color:#697487;background:#fff;border-to
 <section class="mapPane"><div id="map"></div><div id="radar"></div><div class="errorStrip" id="errorStrip">Tile map unavailable. Showing geographic radar.</div><div class="radarNote" id="radarNote"><b>Geographic radar</b><br>Pin positions are projected from pursuit coordinates or a state centroid when a precise location is unavailable.</div><div class="legend"><div><span class="dot red"></span>Due ≤ 7 days</div><div><span class="dot amber"></span>Changed</div><div><span class="dot green"></span>New</div><div><span class="dot blue"></span>Active</div></div></section>
 <aside class="side"><div class="sideHead"><b>Opportunities</b><span id="resultCount">Loading…</span></div><div class="cards" id="cards"></div></aside>
 </main>
-<footer>Federal records are sourced through GovTribe from SAM.gov. Priority state records are sourced from public eVA/eVA-origin listings, NC eVP, TN Edison and TN STREAM. Map coordinates may be approximate. Always verify solicitation documents and deadlines at the linked procurement source before pursuit decisions.</footer>
-<script src="data/federal-1-20260825.js?v=2"></script>
-<script src="data/federal-2-20260825.js?v=2"></script>
-<script src="data/federal-3-20260825.js?v=2"></script>
+<footer>Federal records are sourced directly from the SAM.gov Opportunities API. Priority state records are sourced from public Virginia eVA, NC eVP, TN Edison, TN STREAM and TN TDOT procurement pages. Map coordinates may be approximate. Always verify solicitation documents and deadlines at the linked procurement source before pursuit decisions.</footer>
+<script src="data/federal-current.js?v=live"></script>
 <script src="data/priority-current.js?v=1"></script>
 <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js" onerror="window.MC3_MAP_FAIL=true"></script>
 <script>
 (function(){
 'use strict';
-var SNAP='2026-08-25';
+var SNAP=new Date().toISOString().slice(0,10);
 var NAICS={'236115':'New Single-Family Housing Construction','236116':'New Multifamily Housing Construction','236117':'New Housing For-Sale Builders','236118':'Residential Remodelers','236210':'Industrial Building Construction','236220':'Commercial / Institutional Building Construction','237110':'Water / Sewer Line Construction','237120':'Oil / Gas Pipeline Construction','237130':'Power / Communication Line Construction','237310':'Highway / Street / Bridge Construction','237990':'Other Heavy / Civil Construction','238110':'Concrete Foundation / Structure','238120':'Structural Steel / Precast','238130':'Framing','238140':'Masonry','238150':'Glass / Glazing','238160':'Roofing','238170':'Siding','238190':'Other Building Exterior','238210':'Electrical / Wiring','238220':'Plumbing / HVAC','238290':'Other Building Equipment','238310':'Drywall / Insulation','238320':'Painting / Wall Covering','238330':'Flooring','238340':'Tile / Terrazzo','238350':'Finish Carpentry','238390':'Other Building Finishing','238910':'Site Preparation / Demolition','238990':'Other Specialty Trade'};
 var CENT={AL:[32.8,-86.8],CT:[41.6,-72.7],DC:[38.91,-77.04],DE:[39.0,-75.5],FL:[28.2,-82.0],GA:[32.7,-83.3],IL:[40.0,-89.2],IN:[39.9,-86.3],KY:[37.8,-85.8],MA:[42.3,-71.8],MD:[39.0,-76.7],ME:[45.3,-69.0],MI:[44.3,-85.5],MS:[32.7,-89.7],NC:[35.5,-79.4],NH:[43.7,-71.6],NJ:[40.1,-74.5],NY:[42.9,-75.5],OH:[40.4,-82.8],PA:[40.9,-77.8],RI:[41.7,-71.5],SC:[33.8,-80.9],TN:[35.8,-86.4],VA:[37.6,-78.6],VT:[44.0,-72.7],WI:[44.6,-89.6],WV:[38.6,-80.6]};
 var NAMES={'Alabama':'AL','Connecticut':'CT','District of Columbia':'DC','Delaware':'DE','Florida':'FL','Georgia':'GA','Illinois':'IL','Indiana':'IN','Kentucky':'KY','Massachusetts':'MA','Maryland':'MD','Maine':'ME','Michigan':'MI','Mississippi':'MS','North Carolina':'NC','New Hampshire':'NH','New Jersey':'NJ','New York':'NY','Ohio':'OH','Pennsylvania':'PA','Rhode Island':'RI','South Carolina':'SC','Tennessee':'TN','Virginia':'VA','Vermont':'VT','Wisconsin':'WI','West Virginia':'WV'};

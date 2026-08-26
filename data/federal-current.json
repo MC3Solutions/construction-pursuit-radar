@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T13:58:32.291Z",
+  "generatedAt": "2026-08-26T14:05:33.572Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/27/2025",
@@ -7,38 +7,8 @@
     "rdlfrom": "08/26/2026",
     "rdlto": "08/25/2027"
   },
-  "total": 385,
+  "total": 384,
   "records": [
-    [
-      "0b8806de871547209ec14d0581acada7",
-      "36C24126Q0691",
-      "4510--Newington Fire Suppression and Steam Leak Repairs",
-      "Combined Synopsis/Solicitation",
-      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-21T00:00:00.000Z",
-      "2026-08-26T14:00:00.000Z",
-      "2026-08-21T00:00:00.000Z",
-      "Newington, CT, 06111",
-      null,
-      null,
-      "238220",
-      "https://sam.gov/opp/0b8806de871547209ec14d0581acada7/view"
-    ],
-    [
-      "f090343d79314014829ae97bfa93d059",
-      "36C24226Q0927",
-      "J036--East Orange and Lyons Automatic and Roll Up Doors",
-      "Sources Sought",
-      "No Set-Aside Used",
-      "2026-08-20T00:00:00.000Z",
-      "2026-08-26T14:00:00.000Z",
-      "2026-08-20T00:00:00.000Z",
-      "East Orange, NJ, 07018",
-      null,
-      null,
-      "238290",
-      "https://sam.gov/opp/f090343d79314014829ae97bfa93d059/view"
-    ],
     [
       "aff80adf724c46748aea61c5b4e49204",
       "W912QR26QA078",
@@ -4628,6 +4598,21 @@
       null,
       "238220",
       "https://sam.gov/opp/290a3b55b6be47e0bff0850e4b1c884c/view"
+    ],
+    [
+      "0772203cf50e4b40b8659bfd5736ae6b",
+      "47PC5226Q0134",
+      "Installation of Commercial Gate - Houlton, Maine",
+      "Solicitation",
+      "Historically Underutilized Business (HUBZone) Set-Aside (FAR 19.13)",
+      "2026-08-26T00:00:00.000Z",
+      "2026-09-11T16:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
+      "Houlton, ME, 04730",
+      null,
+      null,
+      "236220",
+      "https://sam.gov/opp/0772203cf50e4b40b8659bfd5736ae6b/view"
     ],
     [
       "376155fbbbbb4c4db161c2ffdb879545",
