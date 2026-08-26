@@ -28,8 +28,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: procurement-source-refresh-v2
-  cancel-in-progress: true
+  group: procurement-source-refresh
+  cancel-in-progress: false
 
 jobs:
   refresh:
@@ -110,7 +110,12 @@ jobs:
             echo "No data changes to commit."
           else
             git commit -m "Refresh procurement sources $(date -u +%F)"
-            git push
+            if ! git push; then
+              echo "Remote advanced during refresh; rebasing once and retrying."
+              git fetch origin main
+              git rebase origin/main
+              git push
+            fi
           fi
 
       - name: Build static Pages artifact
