@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-08-26T12:15:21.000Z",
+  "status": "verified-refresh",
+  "notes": [
+    "Expired pursuits continue to be removed client-side at render time based on due date.",
+    "Duplicate federal amendments/reposts and duplicate direct-source rows continue to be collapsed by the existing index deduplication logic.",
+    "No verified morning source delta required replacing the current 2026-08-25 versioned federal/direct data snapshot.",
+    "Virginia eVA remains a public indexed-fallback layer rather than a direct automated feed.",
+    "NC eVP direct public solicitation pages were reachable and verified.",
+    "Tennessee Central Procurement public bidding pages were checked for Edison-origin opportunities.",
+    "Tennessee STREAM coverage was rechecked against current Tennessee procurement pages.",
+    "TDOT next scheduled construction letting is 2026-10-02; CN262061 Hamilton County is already advertised via the 2026-08-20 mandatory pre-bid notice."
+  ],
+  "sources": {
+    "SAM.gov": "current repository federal snapshot retained; live site deadline/dedup logic applied",
+    "Virginia eVA": "indexed eVA-origin fallback with official links; direct automated extraction not represented",
+    "NC eVP": "direct public solicitation pages",
+    "TN Edison": "public Tennessee procurement pages / Edison-origin records",
+    "TN STREAM": "public Tennessee construction procurement coverage",
+    "TN TDOT": "official TDOT letting schedule and Construction Division notices"
+  }
+}
