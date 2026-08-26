@@ -11,6 +11,8 @@ on:
       - 'scripts/repair-priority-sources.mjs'
       - 'scripts/fix-stream.mjs'
       - 'scripts/fetch-federal-sam.mjs'
+      - 'scripts/finalize-source-health.mjs'
+      - 'scripts/update-index-current-sources.mjs'
       - 'package.json'
       - 'source-health-ui.js'
       - 'index.html'
@@ -67,6 +69,12 @@ jobs:
       - name: Parse live STREAM bid opening dates
         continue-on-error: true
         run: node scripts/fix-stream.mjs
+
+      - name: Restore federal source health after state refreshes
+        run: node scripts/finalize-source-health.mjs
+
+      - name: Keep dashboard on current data files
+        run: node scripts/update-index-current-sources.mjs
 
       - name: Upload scraper diagnostics
         if: always()
