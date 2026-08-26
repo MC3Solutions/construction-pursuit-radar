@@ -27,6 +27,8 @@ async function bodyText(browser,url){
     if(!r?.ok()) return '';
     await page.waitForTimeout(1800);
     return clean(await page.locator('body').innerText().catch(()=>''));
+  } catch {
+    return '';
   } finally { await page.close(); }
 }
 
@@ -72,11 +74,17 @@ async function parseRoadside(browser,url){
       const due=activeDate(dm[0]); if(!due) continue;
       out.push(rec({id:id.toUpperCase(),title:row.text.slice(0,220),due,url:row.href||url,type:'Roadside Environmental',status:'Advertised'}));
     }
+  } catch {
+    return out;
   } finally { await page.close(); }
   return out;
 }
 
 async function main(){
+  const dotBefore=await readJson(DOT,{generatedAt:RUN,records:[]});
+  const priorityBefore=await readJson(PRIORITY,{generatedAt:RUN,records:[]});
+  const previousNC=dotBefore.records.filter(o=>o.source==='NCDOT'&&(!o.d||new Date(o.d)>NOW));
+
   const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
   let rows=[];
   try{
@@ -92,24 +100,34 @@ async function main(){
   } finally { await browser.close(); }
 
   const dedup=new Map(); for(const o of rows) dedup.set(key(o),o); rows=[...dedup.values()];
-  const dot=await readJson(DOT,{generatedAt:RUN,records:[]});
-  const oldNC=dot.records.filter(o=>o.source==='NCDOT');
-  const prev=new Map(oldNC.map(o=>[key(o),o]));
-  rows=rows.map(o=>{const p=prev.get(key(o));o.firstSeen=p?.firstSeen||RUN;o.lastSeen=RUN;o.change=p?'ACTIVE':'NEW';return o});
-  const dotRows=[...dot.records.filter(o=>o.source!=='NCDOT'),...rows];
+  const prev=new Map(previousNC.map(o=>[key(o),o]));
+  const freshCount=rows.length;
+
+  if(rows.length){
+    rows=rows.map(o=>{const p=prev.get(key(o));o.firstSeen=p?.firstSeen||RUN;o.lastSeen=RUN;o.change=p?'ACTIVE':'NEW';return o});
+  } else {
+    rows=previousNC.map(o=>({...o,stale:true,change:'ACTIVE'}));
+  }
+
+  const dotRows=[...dotBefore.records.filter(o=>o.source!=='NCDOT'),...rows];
   await fs.writeFile(DOT,JSON.stringify({generatedAt:RUN,records:dotRows},null,2)+'\n');
 
-  const priority=await readJson(PRIORITY,{generatedAt:RUN,records:[]});
-  const merged=[...priority.records.filter(o=>o.source!=='NCDOT'),...rows];
+  const merged=[...priorityBefore.records.filter(o=>o.source!=='NCDOT'),...rows];
   await fs.writeFile(PRIORITY,JSON.stringify({generatedAt:RUN,records:merged},null,2)+'\n');
   await fs.writeFile(PRIORITY_JS,`window.MC3_DIRECT=${JSON.stringify(merged)};\n`);
 
   const health=await readJson(HEALTH,{generatedAt:RUN,total:0,sources:{}}); health.sources||={};
-  health.sources.NCDOT={label:'NCDOT',status:rows.length?'OK':'PARTIAL',count:rows.length,checkedAt:RUN,message:rows.length?`Parsed ${rows.length} active/future NCDOT Central, Division, Alternative Delivery, and Roadside records from direct NCDOT letting pages.`:'No active/future NCDOT records parsed from direct letting pages.',stale:!rows.length};
+  health.sources.NCDOT={
+    label:'NCDOT',
+    status:freshCount?'OK':'PARTIAL',
+    count:rows.length,
+    checkedAt:RUN,
+    message:freshCount?`Parsed ${freshCount} active/future NCDOT Central, Division, Alternative Delivery, and Roadside records from direct NCDOT letting pages.`:`NCDOT returned no usable records during this refresh. Preserved ${rows.length} last-good record(s).`,
+    stale:!freshCount
+  };
   health.generatedAt=RUN; health.total=Object.values(health.sources).reduce((n,s)=>n+(Number(s.count)||0),0);
   await fs.writeFile(HEALTH,JSON.stringify(health,null,2)+'\n');
   await fs.writeFile(HEALTH_JS,`window.MC3_SOURCE_HEALTH=${JSON.stringify(health)};\n`);
-  console.log(`NCDOT repair parsed ${rows.length} active/future records.`);
-  if(!rows.length) process.exitCode=2;
+  console.log(freshCount?`NCDOT repair parsed ${freshCount} active/future records.`:`NCDOT repair parsed 0 records; preserved ${rows.length} last-good record(s) and marked source PARTIAL.`);
 }
 main().catch(e=>{console.error(e);process.exit(1)});
