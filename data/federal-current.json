@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T15:51:26.097Z",
+  "generatedAt": "2026-08-27T16:05:16.319Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/28/2025",
@@ -9,23 +9,6 @@
   },
   "total": 379,
   "records": [
-    [
-      "1c7d4cedfc0a459aae3b2fffdc22cd55",
-      "SS-MassNotificationSystemRadio-NFARS-FY6",
-      "SOURCES SOUGHT - Mass Notification System Kenwood Radio",
-      "Sources Sought",
-      "Small Business Set Aside - Total",
-      "2026-08-21T00:00:00.000Z",
-      "2026-08-27T16:00:00.000Z",
-      "2026-08-21T00:00:00.000Z",
-      "NY, 14304",
-      43.063394,
-      -78.976602,
-      "238210",
-      "https://sam.gov/opp/1c7d4cedfc0a459aae3b2fffdc22cd55/view",
-      1,
-      ""
-    ],
     [
       "591e5ea8847948bb8117e07b73a00360",
       "36C24726Q0729",
@@ -109,7 +92,7 @@
       "237990",
       "https://sam.gov/opp/d19e93dcfec64d9e988df958106c0fb5/view",
       null,
-      ""
+      "$25M – $100M"
     ],
     [
       "05b51e3f5c3b43eab3a4eb839c02b283",
@@ -202,9 +185,9 @@
       "Break Room Install",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-23T00:00:00.000Z",
+      "2026-08-24T00:00:00.000Z",
       "2026-08-27T22:00:00.000Z",
-      "2026-08-23T00:00:00.000Z",
+      "2026-08-24T00:00:00.000Z",
       "Alexandria, VA, 22315",
       38.762324,
       -77.153846,
@@ -1877,7 +1860,7 @@
       "236220",
       "https://sam.gov/opp/6cc8d21a11bd4b5aae2e40c1a4d13aa8/view",
       1,
-      ""
+      "$250K – $500K"
     ],
     [
       "ef398402f7724f289b7e552586ddf61d",
@@ -1962,7 +1945,7 @@
       "236220",
       "https://sam.gov/opp/d6a854341b87492f83003a9d27696189/view",
       1,
-      ""
+      "Over $10M"
     ],
     [
       "179274c18d514597830adda6b13dc804",
@@ -2820,9 +2803,9 @@
       "Repair Taxiway Shoulders",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-20T00:00:00.000Z",
       "2026-09-04T14:00:00.000Z",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-20T00:00:00.000Z",
       "NH, 03839",
       43.238058,
       -70.982026,
@@ -3135,7 +3118,7 @@
       "236220",
       "https://sam.gov/opp/aba2e7a855cb4e1b9b9948664767ba66/view",
       1,
-      ""
+      "$500K – $1M"
     ],
     [
       "30b0702c35144b8d94202fde95911e42",
@@ -3611,7 +3594,7 @@
       "237310",
       "https://sam.gov/opp/eae7d9ac63d6455faea45d812b4a4198/view",
       1,
-      ""
+      "$1M – $5M"
     ],
     [
       "f9b0ff628d7f43b08c5bcce9254e212e",
@@ -3934,7 +3917,7 @@
       "237310",
       "https://sam.gov/opp/4c734b75d4254f9199864e53f13f0aba/view",
       1,
-      ""
+      "$1M – $5M"
     ],
     [
       "b3c68ae9b6604bbbaa785bc714bcdad5",
@@ -4733,7 +4716,7 @@
       "236220",
       "https://sam.gov/opp/0b44ff305a684387b1362bac8eda2dde/view",
       1,
-      ""
+      "$1.25M – $1.75M"
     ],
     [
       "78eebc3b1ee24ba492ba19dd96cde41e",
@@ -5008,23 +4991,6 @@
       ""
     ],
     [
-      "0772203cf50e4b40b8659bfd5736ae6b",
-      "47PC5226Q0134",
-      "Installation of Commercial Gate - Houlton, Maine",
-      "Solicitation",
-      "Historically Underutilized Business (HUBZone) Set-Aside (FAR 19.13)",
-      "2026-08-26T00:00:00.000Z",
-      "2026-09-11T16:00:00.000Z",
-      "2026-08-26T00:00:00.000Z",
-      "Houlton, ME, 04730",
-      46.123861,
-      -67.880303,
-      "236220",
-      "https://sam.gov/opp/0772203cf50e4b40b8659bfd5736ae6b/view",
-      1,
-      ""
-    ],
-    [
       "376155fbbbbb4c4db161c2ffdb879545",
       "36C24426R0139",
       "Z1DA--| SOL| NRM| 646-21-101 UD SPS AHU & RO Upgrade  Construction   (VA-26-00036217)",
@@ -5158,7 +5124,7 @@
       "237310",
       "https://sam.gov/opp/bcee43ef8e20479f9f92a4842bc2d348/view",
       1,
-      ""
+      "$500K – $1M"
     ],
     [
       "4a74b881b8484186b1e818b53c8ab7e2",
@@ -5183,9 +5149,9 @@
       "Y1DA--556-26-2-6953-0001 - 556-24-108 Double  Block and Bleed Construction  (VA-26-00035322)",
       "Solicitation",
       "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-18T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "2026-09-14T14:00:00.000Z",
-      "2026-08-18T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "North Chicago, IL, 60064",
       42.329359,
       -87.839013,
@@ -5379,7 +5345,7 @@
       "237110",
       "https://sam.gov/opp/5215a05ca087427c97fc6d20f34bb0f5/view",
       1,
-      ""
+      "$5M – $10M"
     ],
     [
       "29980196d4b3433a94875bcdff66f1cd",
@@ -5506,9 +5472,9 @@
       "Monopole Tower Procurement and Base Foundation Construction (577 SWES/DIFF)",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-20T00:00:00.000Z",
       "2026-09-15T19:00:00.000Z",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-20T00:00:00.000Z",
       "Bangor, ME",
       44.815806,
       -68.796391,
@@ -5719,6 +5685,23 @@
       "236220",
       "https://sam.gov/opp/761fc9841e2b4c9892890fdedd788c06/view",
       1,
+      "$1M – $5M"
+    ],
+    [
+      "51b167d3698b4cd791351eb4af6ac16c",
+      "47PC5226Q0134",
+      "Installation of Commercial Gate - Houlton, Maine",
+      "Solicitation",
+      "Historically Underutilized Business (HUBZone) Set-Aside (FAR 19.13)",
+      "2026-08-27T00:00:00.000Z",
+      "2026-09-17T18:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
+      "Houlton, ME, 04730",
+      46.120554,
+      -67.857232,
+      "236220",
+      "https://sam.gov/opp/51b167d3698b4cd791351eb4af6ac16c/view",
+      1,
       ""
     ],
     [
@@ -5863,9 +5846,9 @@
       "GASNTi2 BLOCK 1 Nationwide Material Procurement (Electrical & Telecommunications)",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-20T00:00:00.000Z",
+      "2026-08-21T00:00:00.000Z",
       "2026-09-18T21:00:00.000Z",
-      "2026-08-20T00:00:00.000Z",
+      "2026-08-21T00:00:00.000Z",
       "Bangor, ME",
       44.796641,
       -68.802635,
@@ -6025,7 +6008,7 @@
       "236220",
       "https://sam.gov/opp/2eac3145169244a5a6370d628d487aa7/view",
       1,
-      ""
+      "$5M – $10M"
     ],
     [
       "12ca925703334172a984e57b8618e7c4",
@@ -6118,14 +6101,31 @@
       "Elevator Maintenance, Testing, Inspection, and Repair Services at Naval Air Station Meridian, MS",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "2026-09-25T15:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "Meridian, MS, 39309",
       32.560677,
       -88.619559,
       "238290",
       "https://sam.gov/opp/07335772cff447f0acd6377c5121ad61/view",
+      1,
+      ""
+    ],
+    [
+      "aae676f912e14c87b4e7224502143ef2",
+      "6923G526R0094",
+      "Construction of a New Administration Building and Maintenance Garage",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-27T00:00:00.000Z",
+      "2026-09-25T18:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
+      "Massena, NY, 13662",
+      44.914375,
+      -74.887005,
+      "236220",
+      "https://sam.gov/opp/aae676f912e14c87b4e7224502143ef2/view",
       1,
       ""
     ],
@@ -6195,7 +6195,7 @@
       "237110",
       "https://sam.gov/opp/92d69d10bebd4023854d6c6a70e3c506/view",
       1,
-      ""
+      "$10M – $20M"
     ],
     [
       "f46186008fd74b78a4b34dda5272802e",
@@ -6297,7 +6297,7 @@
       "237990",
       "https://sam.gov/opp/b986eb6cb4774f609b3edf4c376a80c0/view",
       1,
-      ""
+      "$5M – $10M"
     ],
     [
       "e1560a63f2914aedb98bf440addde388",
@@ -6462,7 +6462,12 @@
     "unresolved": 15,
     "locatedTotal": 364,
     "total": 379,
-    "generatedAt": "2026-08-27T15:49:23.471Z"
+    "generatedAt": "2026-08-27T16:03:18.216Z"
   },
-  "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published."
+  "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
+  "govTribeEnrichment": {
+    "snapshotGeneratedAt": "2026-08-27T15:59:03Z",
+    "romAdded": 13,
+    "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice."
+  }
 }
