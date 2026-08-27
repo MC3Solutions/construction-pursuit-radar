@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:38:20.573Z",
+  "generatedAt": "2026-08-27T13:48:30.473Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/28/2025",
@@ -2900,19 +2900,19 @@
       ""
     ],
     [
-      "4cb9d5e89f5c4b9eb0d1bb72db6a0faf",
+      "cfb261acb68747888bef375ec8a2c8fc",
       "FA465426R0008",
       "Multi-Trade Exterior Building Sustainment (Masonry, Painting, and Gutter Repair) IDIQ – Grissom ARB",
       "Combined Synopsis/Solicitation",
       "No Set aside used",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "2026-09-04T14:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "Grissom ARB, IN, 46971",
-      40.674299,
-      -86.137695,
+      40.676065,
+      -86.108822,
       "238140",
-      "https://sam.gov/opp/4cb9d5e89f5c4b9eb0d1bb72db6a0faf/view",
+      "https://sam.gov/opp/cfb261acb68747888bef375ec8a2c8fc/view",
       1,
       ""
     ],
@@ -4328,6 +4328,23 @@
       ""
     ],
     [
+      "ae4a0188b6444168808dc637d4109c2d",
+      "W912QR261C5X",
+      "Design and Construction Services for the FY26 National Roofing Program (NRP) Project #12 – AL018 Fort Rucker, AL and MS800 Camp Shelby, MS",
+      "Solicitation",
+      "No Set-Aside Used",
+      "2026-08-27T00:00:00.000Z",
+      "2026-09-09T18:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
+      "Fort Rucker, AL",
+      31.320594,
+      -85.709198,
+      "238160",
+      "https://sam.gov/opp/ae4a0188b6444168808dc637d4109c2d/view",
+      1,
+      ""
+    ],
+    [
       "dfde28c2e44c47e5a13bf7d3c4ba8482",
       "12444526Q0073",
       "Bi- Yearly Roof Inspections",
@@ -4341,23 +4358,6 @@
       -89.404218,
       "238160",
       "https://sam.gov/opp/dfde28c2e44c47e5a13bf7d3c4ba8482/view",
-      1,
-      ""
-    ],
-    [
-      "0a07c75120eb494ea9f7e890de2ac99a",
-      "W912QR261C5X",
-      "Design and Construction Services for the FY26 National Roofing Program (NRP) Project #12 – AL018 Fort Rucker, AL and MS800 Camp Shelby, MS",
-      "Solicitation",
-      "No Set-Aside Used",
-      "2026-08-25T00:00:00.000Z",
-      "2026-09-09T18:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
-      "Fort Rucker, AL",
-      31.347269,
-      -85.727355,
-      "238160",
-      "https://sam.gov/opp/0a07c75120eb494ea9f7e890de2ac99a/view",
       1,
       ""
     ],
@@ -6513,7 +6513,7 @@
     "unresolved": 15,
     "locatedTotal": 367,
     "total": 382,
-    "generatedAt": "2026-08-27T13:36:09.186Z"
+    "generatedAt": "2026-08-27T13:45:42.786Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published."
 }

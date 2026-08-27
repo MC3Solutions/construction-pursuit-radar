@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-27T13:43:21.940Z",
-  "total": 745,
+  "generatedAt": "2026-08-27T13:48:31.017Z",
+  "total": 744,
   "sources": {
     "EVA": {
       "label": "Virginia eVA",
       "status": "OK",
       "count": 116,
-      "checkedAt": "2026-08-27T13:36:52.578Z",
+      "checkedAt": "2026-08-27T13:46:49.645Z",
       "message": "eVA reported 116 open Construction results; loaded 116 cards and parsed 116 future pursuits.",
       "stale": false
     },
     "NCEVP": {
       "label": "NC eVP",
       "status": "PARTIAL",
-      "count": 213,
-      "checkedAt": "2026-08-27T13:37:32.943Z",
-      "message": "NC eVP pagination repair visited 28/29 page(s) and parsed 145 live construction pursuit(s). Continuity guard preserved the latest healthy future snapshot (134) because the live count collapsed unexpectedly: locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator('.view-pagination a[data-page=\"29\"]').last()\n    - locator resolved to <a title=\"\" role=\"button\" data-page=\"29\" aria-disabled=\"true\" data-toggle=\"tooltip\" aria-label=\"Next page\" class=\"entity-pager-next-link\" data-original-title=\"Next page\" aria-describedby=\"tooltip861353\">></a>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying click action\n      - waiting 100ms\n    19 × waiting for element to be visible, enabled and stable\n       - element is not enabled\n     - retrying click action\n       - waiting 500ms\n.",
+      "count": 212,
+      "checkedAt": "2026-08-27T13:47:34.027Z",
+      "message": "NC eVP pagination repair visited 28/29 page(s) and parsed 145 live construction pursuit(s). Continuity guard preserved the latest healthy future snapshot (131) because the live count collapsed unexpectedly: locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator('.view-pagination a[data-page=\"29\"]').last()\n    - locator resolved to <a title=\"\" role=\"button\" data-page=\"29\" aria-disabled=\"true\" data-toggle=\"tooltip\" aria-label=\"Next page\" class=\"entity-pager-next-link\" data-original-title=\"Next page\" aria-describedby=\"tooltip950421\">></a>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying click action\n      - waiting 100ms\n    19 × waiting for element to be visible, enabled and stable\n       - element is not enabled\n     - retrying click action\n       - waiting 500ms\n.",
       "stale": true
     },
     "TNEDISON": {
       "label": "TN Edison",
       "status": "OK",
       "count": 9,
-      "checkedAt": "2026-08-27T13:36:28.912Z",
+      "checkedAt": "2026-08-27T13:46:21.450Z",
       "message": "9 future construction rows parsed from public result pages.",
       "stale": false
     },
@@ -30,7 +30,7 @@
       "label": "TN STREAM",
       "status": "OK",
       "count": 7,
-      "checkedAt": "2026-08-27T13:37:03.907Z",
+      "checkedAt": "2026-08-27T13:47:02.238Z",
       "message": "Parsed 7 future projects from the live STREAM Construction Bid List.",
       "stale": false
     },
@@ -38,7 +38,7 @@
       "label": "TN TDOT",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-08-27T13:36:52.578Z",
+      "checkedAt": "2026-08-27T13:46:49.645Z",
       "message": "TDOT bidding page reachable (https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/e-plans-room.html); 1 future advertised letting link(s) found.",
       "stale": false
     },
@@ -46,7 +46,7 @@
       "label": "Western Virginia Water Authority",
       "status": "OK",
       "count": 4,
-      "checkedAt": "2026-08-27T13:36:51.275Z",
+      "checkedAt": "2026-08-27T13:46:46.316Z",
       "message": "4 active construction invitations parsed from the WVWA public bid portal.",
       "stale": false
     },
@@ -54,7 +54,7 @@
       "label": "VDOT CABB",
       "status": "OK",
       "count": 13,
-      "checkedAt": "2026-08-27T13:37:06.009Z",
+      "checkedAt": "2026-08-27T13:47:04.642Z",
       "message": "13 future VDOT CABB highway advertisements parsed.",
       "stale": false
     },
@@ -62,7 +62,7 @@
       "label": "NCDOT",
       "status": "PARTIAL",
       "count": 0,
-      "checkedAt": "2026-08-27T13:37:20.023Z",
+      "checkedAt": "2026-08-27T13:47:19.384Z",
       "message": "NCDOT returned no usable records during this refresh. Preserved 0 last-good record(s).",
       "stale": true
     },
@@ -70,7 +70,7 @@
       "label": "Washington County Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-08-27T13:38:09.780Z",
+      "checkedAt": "2026-08-27T13:48:19.258Z",
       "message": "eVA utility-owner scan loaded 116 open construction cards; 0 active Washington County Service Authority pursuit(s) matched.",
       "stale": false
     },
@@ -78,7 +78,7 @@
       "label": "Bristol Virginia Utilities Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-08-27T13:38:09.780Z",
+      "checkedAt": "2026-08-27T13:48:19.258Z",
       "message": "eVA utility-owner scan loaded 116 open construction cards; 0 active Bristol Virginia Utilities Authority pursuit(s) matched.",
       "stale": false
     },
@@ -86,7 +86,7 @@
       "label": "Bedford Regional Water Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-08-27T13:38:09.780Z",
+      "checkedAt": "2026-08-27T13:48:19.258Z",
       "message": "eVA utility-owner scan loaded 116 open construction cards; 0 active Bedford Regional Water Authority pursuit(s) matched. Bedford Regional Water Authority direct bidding page checked; 0 active construction pursuit(s) found.",
       "stale": false
     },
@@ -94,7 +94,7 @@
       "label": "Henry County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-08-27T13:38:09.780Z",
+      "checkedAt": "2026-08-27T13:48:19.258Z",
       "message": "eVA utility-owner scan loaded 116 open construction cards; 0 active Henry County Public Service Authority pursuit(s) matched. Henry County procurement board checked for PSA water/sewer construction; 0 active pursuit(s) found. Bid-tabulation-only entries are excluded.",
       "stale": false
     },
@@ -102,7 +102,7 @@
       "label": "Montgomery County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-08-27T13:38:09.780Z",
+      "checkedAt": "2026-08-27T13:48:19.258Z",
       "message": "eVA utility-owner scan loaded 116 open construction cards; 0 active Montgomery County Public Service Authority pursuit(s) matched. Montgomery County purchasing page checked for Public Service Authority construction; 0 active pursuit(s) found.",
       "stale": false
     },
@@ -110,7 +110,7 @@
       "label": "Wise County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-08-27T13:38:09.780Z",
+      "checkedAt": "2026-08-27T13:48:19.258Z",
       "message": "eVA utility-owner scan loaded 116 open construction cards; 0 active Wise County Public Service Authority pursuit(s) matched.",
       "stale": false
     },
@@ -118,7 +118,7 @@
       "label": "Buchanan County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-08-27T13:38:09.780Z",
+      "checkedAt": "2026-08-27T13:48:19.258Z",
       "message": "eVA utility-owner scan loaded 116 open construction cards; 0 active Buchanan County Public Service Authority pursuit(s) matched.",
       "stale": false
     },
@@ -126,7 +126,7 @@
       "label": "Scott County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-08-27T13:38:09.780Z",
+      "checkedAt": "2026-08-27T13:48:19.258Z",
       "message": "eVA utility-owner scan loaded 116 open construction cards; 0 active Scott County Public Service Authority pursuit(s) matched.",
       "stale": false
     },
@@ -134,7 +134,7 @@
       "label": "Russell County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-08-27T13:38:09.780Z",
+      "checkedAt": "2026-08-27T13:48:19.258Z",
       "message": "eVA utility-owner scan loaded 116 open construction cards; 0 active Russell County Public Service Authority pursuit(s) matched.",
       "stale": false
     },
@@ -142,7 +142,7 @@
       "label": "Tazewell County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-08-27T13:38:09.780Z",
+      "checkedAt": "2026-08-27T13:48:19.258Z",
       "message": "eVA utility-owner scan loaded 116 open construction cards; 0 active Tazewell County Public Service Authority pursuit(s) matched. Tazewell County procurement page checked for PSA water/wastewater construction; 0 active dated pursuit(s) found.",
       "stale": false
     },
@@ -150,13 +150,13 @@
       "label": "Federal / SAM.gov",
       "status": "OK",
       "count": 382,
-      "checkedAt": "2026-08-27T13:38:20.573Z",
+      "checkedAt": "2026-08-27T13:48:30.473Z",
       "message": "Live SAM.gov Opportunities API snapshot: 382 active deduplicated construction pursuits. 367/382 federal pins have ZIP/city or source coordinates. Published ROMs: 29.",
       "stale": false
     }
   },
   "priorityRom": {
-    "checkedAt": "2026-08-27T13:43:21.940Z",
+    "checkedAt": "2026-08-27T13:48:31.017Z",
     "populated": 0,
     "message": "0 active state/local pursuit(s) currently contain a published ROM/estimate parsed from a source page or listing."
   }
