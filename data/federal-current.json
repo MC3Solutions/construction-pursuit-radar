@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:48:30.473Z",
+  "generatedAt": "2026-08-27T15:51:26.097Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/28/2025",
@@ -7,59 +7,8 @@
     "rdlfrom": "08/27/2026",
     "rdlto": "08/26/2027"
   },
-  "total": 382,
+  "total": 379,
   "records": [
-    [
-      "9b293c16ff84459eaf39555f7fc8965b",
-      "W912QR26BA019",
-      "Construction of Aeromedical Evacuation Squadron Facility, Joint Base Charleston, SC",
-      "Solicitation",
-      "No Set aside used",
-      "2026-08-24T00:00:00.000Z",
-      "2026-08-27T14:00:00.000Z",
-      "2026-08-24T00:00:00.000Z",
-      "Charleston, SC, 29404",
-      32.891749,
-      -80.051796,
-      "236220",
-      "https://sam.gov/opp/9b293c16ff84459eaf39555f7fc8965b/view",
-      1,
-      "$25 million – $100 million"
-    ],
-    [
-      "b15021bf6b854d5185c925463c22b354",
-      "W91364-26-B-A003",
-      "OHARNG Tactical Vehicle Maneuver Lane Improvement at Camp James A. Garfield Joint Military Training Center (CJAG)",
-      "Solicitation",
-      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-12T00:00:00.000Z",
-      "2026-08-27T15:00:00.000Z",
-      "2026-08-12T00:00:00.000Z",
-      "Ravenna, OH, 44266",
-      41.136368,
-      -81.224429,
-      "237990",
-      "https://sam.gov/opp/b15021bf6b854d5185c925463c22b354/view",
-      1,
-      ""
-    ],
-    [
-      "dc87207c54a240e9b8c19220ec52417d",
-      "W911WN26QA564",
-      "Insulation Resistance Testing Services",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-20T00:00:00.000Z",
-      "2026-08-27T15:00:00.000Z",
-      "2026-08-20T00:00:00.000Z",
-      "Fairmont, WV, 26554",
-      39.476635,
-      -80.225655,
-      "238210",
-      "https://sam.gov/opp/dc87207c54a240e9b8c19220ec52417d/view",
-      1,
-      ""
-    ],
     [
       "1c7d4cedfc0a459aae3b2fffdc22cd55",
       "SS-MassNotificationSystemRadio-NFARS-FY6",
@@ -979,23 +928,6 @@
       "$25,000 and $100,000"
     ],
     [
-      "34269f782ca74e86b14fa586518419e1",
-      "N0018926RL026",
-      "HVAC Services/Supplies",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-18T00:00:00.000Z",
-      "2026-08-31T14:00:00.000Z",
-      "2026-08-18T00:00:00.000Z",
-      "Norfolk, VA, 23511",
-      36.951345,
-      -76.321513,
-      "238220",
-      "https://sam.gov/opp/34269f782ca74e86b14fa586518419e1/view",
-      1,
-      ""
-    ],
-    [
       "3bc9b7c358d1450fbbbe1c2a09e8d258",
       "36C24226R0097",
       "J039--561A4-25-500 Elevator Upgrade & Modernization Repairs at  VA NJ HCS Lyons Buildings 6 & 53",
@@ -1283,23 +1215,6 @@
       "https://sam.gov/opp/917426dc655a40fbb1a899c72ef39fdf/view",
       1,
       "$1M - $3M"
-    ],
-    [
-      "d072dcc3c9cd4c9387b6ae8434c66ff3",
-      "1232SA26Q0919",
-      "K3 Barn Repairs, Prairie du Sac, Wisconsin",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-24T00:00:00.000Z",
-      "2026-08-31T18:00:00.000Z",
-      "2026-08-24T00:00:00.000Z",
-      "Prairie du Sac, WI, 53578",
-      43.272041,
-      -89.749779,
-      "238190",
-      "https://sam.gov/opp/d072dcc3c9cd4c9387b6ae8434c66ff3/view",
-      1,
-      ""
     ],
     [
       "28f9de1ae36e47fb8b3adf51c8c53d6d",
@@ -1659,19 +1574,19 @@
       ""
     ],
     [
-      "475f4fc0a2ca4ffda93c2bc14791e1e0",
+      "6a960b298f744a8aadc3d2ecebb5aee5",
       "70Z03926QCGA00033",
       "In-Kind replacement Consolidated Club door",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-12T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "2026-09-01T12:00:00.000Z",
-      "2026-08-12T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "New London, CT, 06320",
-      41.356424,
-      -72.076751,
+      41.343284,
+      -72.129025,
       "238350",
-      "https://sam.gov/opp/475f4fc0a2ca4ffda93c2bc14791e1e0/view",
+      "https://sam.gov/opp/6a960b298f744a8aadc3d2ecebb5aee5/view",
       1,
       ""
     ],
@@ -1859,23 +1774,6 @@
       -76.870656,
       "238220",
       "https://sam.gov/opp/61ab948ea6bc41d3b28935089c3f8f7c/view",
-      1,
-      ""
-    ],
-    [
-      "9e88355b90244bedb1fd6874e7a663d9",
-      "N4008526R0234",
-      "SPECIAL PROJECT RM25-4593 – Building 47 Upgrades/Modernization of Storage Space, Naval Undersea Warfare Center, Naval Station Newport, Newport, RI",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-26T00:00:00.000Z",
-      "2026-09-01T18:00:00.000Z",
-      "2026-08-26T00:00:00.000Z",
-      "Newport, RI",
-      41.463414,
-      -71.310435,
-      "236220",
-      "https://sam.gov/opp/9e88355b90244bedb1fd6874e7a663d9/view",
       1,
       ""
     ],
@@ -2679,6 +2577,40 @@
       ""
     ],
     [
+      "e5ef8161325d46029760bd23e3a7683f",
+      "N4008526R0234",
+      "SPECIAL PROJECT RM25-4593 – Building 47 Upgrades/Modernization of Storage Space, Naval Undersea Warfare Center, Naval Station Newport, Newport, RI",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-27T00:00:00.000Z",
+      "2026-09-03T18:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
+      "Newport, RI",
+      41.483235,
+      -71.327973,
+      "236220",
+      "https://sam.gov/opp/e5ef8161325d46029760bd23e3a7683f/view",
+      1,
+      ""
+    ],
+    [
+      "8cea4e737847462ca8f39d76968eb5ed",
+      "1232SA26Q0919",
+      "K3 Barn Repairs, Prairie du Sac, Wisconsin",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-27T00:00:00.000Z",
+      "2026-09-03T18:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
+      "Prairie du Sac, WI, 53578",
+      43.324709,
+      -89.737942,
+      "238190",
+      "https://sam.gov/opp/8cea4e737847462ca8f39d76968eb5ed/view",
+      1,
+      ""
+    ],
+    [
       "4f6eead27bcc4df59fe80bd0162d86e6",
       "70Z02926QNEWO0000031",
       "Levee Security Fence Replacement, USCGC KANKAKEE, Memphis, TN",
@@ -3393,21 +3325,21 @@
       ""
     ],
     [
-      "49d231e959884df2a5a79807b3456bb1",
+      "8a01ea225e424e279001fc7750efb7fa",
       "12445226Q0042",
       "North Mills River Campground",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-26T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "2026-09-04T21:00:00.000Z",
-      "2026-08-26T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "Mills River, NC",
-      35.394308,
-      -82.556587,
+      35.375504,
+      -82.558196,
       "236220",
-      "https://sam.gov/opp/49d231e959884df2a5a79807b3456bb1/view",
+      "https://sam.gov/opp/8a01ea225e424e279001fc7750efb7fa/view",
       1,
-      ""
+      "Under $25,000"
     ],
     [
       "2e43b742792e4d28ad8fcfb109c520cd",
@@ -4481,7 +4413,7 @@
       ""
     ],
     [
-      "6b08c1630dfc4eb69c027d8fec086357",
+      "71f2867186b84934960cfba0d629b3f4",
       "W912QR-62373550",
       "Soo Lock Fire Alarm Modernization",
       "Solicitation",
@@ -4493,7 +4425,7 @@
       null,
       null,
       "236220",
-      "https://sam.gov/opp/6b08c1630dfc4eb69c027d8fec086357/view",
+      "https://sam.gov/opp/71f2867186b84934960cfba0d629b3f4/view",
       null,
       ""
     ],
@@ -4668,6 +4600,23 @@
       ""
     ],
     [
+      "e276cfbbd3ae4094bac5ab83b68c6667",
+      "FA667026Q0013",
+      "Airfield Joint Sealant Repairs, RVKQ-21-0019",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-27T00:00:00.000Z",
+      "2026-09-10T18:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
+      "Niagara Falls, NY, 14304",
+      43.091009,
+      -78.976398,
+      "236220",
+      "https://sam.gov/opp/e276cfbbd3ae4094bac5ab83b68c6667/view",
+      1,
+      ""
+    ],
+    [
       "f1da9e56becd4033bfb74368fad42e4c",
       "N4008526R9081",
       "FC294 Bay Doors, 1606 Fire Exit Doors, G640 Freezer Doors, 67 Wall and Door, WC100 Remote Condensing Unit",
@@ -4717,23 +4666,6 @@
       "https://sam.gov/opp/09dce14828044951a427dcac6a384b25/view",
       1,
       "$10,000,000.00 and $20,000,000.00"
-    ],
-    [
-      "f258e01a96d944158d6fc91672568918",
-      "FA667026Q0013",
-      "Airfield Joint Sealant Repairs, RVKQ-21-0019",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-11T00:00:00.000Z",
-      "2026-09-10T18:00:00.000Z",
-      "2026-08-11T00:00:00.000Z",
-      "Niagara Falls, NY, 14304",
-      43.086305,
-      -78.953274,
-      "236220",
-      "https://sam.gov/opp/f258e01a96d944158d6fc91672568918/view",
-      1,
-      ""
     ],
     [
       "c09eb9e8f0c04d4fb643ef55c4276154",
@@ -5008,19 +4940,19 @@
       ""
     ],
     [
-      "1d965c6fb9234d778cedfe4ae5a89b42",
+      "651d138186584dd7a04266fed7f8cc7b",
       "70LCHS26QPFB00034",
       "Multiple Roof Repairs and/or Replacements at FLETC in Charleston, SC",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-13T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "2026-09-11T15:00:00.000Z",
-      "2026-08-13T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "North Charleston, SC, 29405",
-      32.845186,
-      -79.968608,
+      32.855084,
+      -79.979482,
       "238160",
-      "https://sam.gov/opp/1d965c6fb9234d778cedfe4ae5a89b42/view",
+      "https://sam.gov/opp/651d138186584dd7a04266fed7f8cc7b/view",
       1,
       ""
     ],
@@ -5735,6 +5667,23 @@
       -81.488201,
       "236220",
       "https://sam.gov/opp/18a98675386441629892fc67ca1711f7/view",
+      1,
+      ""
+    ],
+    [
+      "55d2a7550edb4876ae44a20df6cf5373",
+      "W519TC-26-R-A071",
+      "Repair Quarters 1 - Driveways and Sidewalks",
+      "Solicitation",
+      "No Set-Aside Used",
+      "2026-08-27T00:00:00.000Z",
+      "2026-09-17T15:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
+      "Rock Island, IL, 61299",
+      41.522154,
+      -90.535894,
+      "237310",
+      "https://sam.gov/opp/55d2a7550edb4876ae44a20df6cf5373/view",
       1,
       ""
     ],
@@ -6508,12 +6457,12 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 323,
+    "zipLocated": 320,
     "cityLocated": 44,
     "unresolved": 15,
-    "locatedTotal": 367,
-    "total": 382,
-    "generatedAt": "2026-08-27T13:45:42.786Z"
+    "locatedTotal": 364,
+    "total": 379,
+    "generatedAt": "2026-08-27T15:49:23.471Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published."
 }
