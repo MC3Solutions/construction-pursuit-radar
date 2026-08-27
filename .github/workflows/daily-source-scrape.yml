@@ -17,9 +17,11 @@ on:
       - 'scripts/scrape-dot-sources.mjs'
       - 'scripts/fix-ncdot-sources.mjs'
       - 'scripts/fetch-federal-sam.mjs'
+      - 'scripts/harden-federal-current.mjs'
       - 'scripts/geocode-current.mjs'
       - 'scripts/finalize-source-health.mjs'
       - 'scripts/update-index-current-sources.mjs'
+      - 'scripts/restore-dashboard-kpis.mjs'
       - 'package.json'
       - 'source-health-ui.js'
       - 'index.html'
@@ -56,6 +58,9 @@ jobs:
         env:
           SAM_GOV_API_KEY: ${{ secrets.SAM_GOV_API_KEY }}
         run: node scripts/fetch-federal-sam.mjs
+
+      - name: Harden federal pursuit grouping
+        run: node scripts/harden-federal-current.mjs
 
       - name: Install scraper dependencies
         continue-on-error: true
@@ -105,6 +110,9 @@ jobs:
 
       - name: Keep Virginia utility authority sources visible in dashboard filters
         run: node scripts/patch-wvwa-index.mjs
+
+      - name: Restore required KPI cards
+        run: node scripts/restore-dashboard-kpis.mjs
 
       - name: Upload scraper diagnostics
         if: always()
