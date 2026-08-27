@@ -37,7 +37,7 @@ permissions:
 
 concurrency:
   group: procurement-source-refresh
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   refresh:
