@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T12:22:21.076Z",
+  "generatedAt": "2026-08-27T13:38:20.573Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/28/2025",
@@ -7,7 +7,7 @@
     "rdlfrom": "08/27/2026",
     "rdlto": "08/26/2027"
   },
-  "total": 380,
+  "total": 382,
   "records": [
     [
       "9b293c16ff84459eaf39555f7fc8965b",
@@ -24,7 +24,7 @@
       "236220",
       "https://sam.gov/opp/9b293c16ff84459eaf39555f7fc8965b/view",
       1,
-      ""
+      "$25 million – $100 million"
     ],
     [
       "b15021bf6b854d5185c925463c22b354",
@@ -92,7 +92,7 @@
       "236220",
       "https://sam.gov/opp/591e5ea8847948bb8117e07b73a00360/view",
       1,
-      ""
+      "$5 million and $10 million"
     ],
     [
       "6fe1db8b106b4bb08a24a608de71bdc8",
@@ -194,7 +194,7 @@
       "238210",
       "https://sam.gov/opp/d933e383927d4009a9708d61c5e74286/view",
       1,
-      ""
+      "$250,000 and $500,000"
     ],
     [
       "a9288c1530794ecf89c1caf959eae938",
@@ -253,9 +253,9 @@
       "Break Room Install",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-24T00:00:00.000Z",
+      "2026-08-23T00:00:00.000Z",
       "2026-08-27T22:00:00.000Z",
-      "2026-08-24T00:00:00.000Z",
+      "2026-08-23T00:00:00.000Z",
       "Alexandria, VA, 22315",
       38.762324,
       -77.153846,
@@ -483,7 +483,7 @@
       "236220",
       "https://sam.gov/opp/15d9fccc0f3c46cbb15547ad0079b62f/view",
       1,
-      ""
+      "Over $500,000,000"
     ],
     [
       "632d00637997401f9ff4bce07b45d236",
@@ -721,7 +721,7 @@
       "238990",
       "https://sam.gov/opp/512e51b5727a4a16879f8a13af4928c1/view",
       1,
-      ""
+      "$2500,000 – $500,000"
     ],
     [
       "4294367c3b364410a921f3b96ba00b57",
@@ -789,24 +789,7 @@
       "238330",
       "https://sam.gov/opp/bc26b77c28ce456893fe46800a8652d7/view",
       1,
-      ""
-    ],
-    [
-      "6c4f690980814a1e857ad5f4f9670768",
-      "19AQMM26R0279",
-      "DOS Overseas Furniture Install Services",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-18T00:00:00.000Z",
-      "2026-08-28T21:00:00.000Z",
-      "2026-08-18T00:00:00.000Z",
-      "0, VA",
-      null,
-      null,
-      "238390",
-      "https://sam.gov/opp/6c4f690980814a1e857ad5f4f9670768/view",
-      null,
-      ""
+      "$25,000 and $100,000"
     ],
     [
       "78b1c74a20364dfda162491691d4270e",
@@ -840,7 +823,7 @@
       "236220",
       "https://sam.gov/opp/ccda0fdbb74745ee8faaac812e036aa5/view",
       1,
-      ""
+      "$250,000 and $500,000"
     ],
     [
       "a6ee10d9441c4c82934422eed16131a9",
@@ -857,7 +840,7 @@
       "236220",
       "https://sam.gov/opp/a6ee10d9441c4c82934422eed16131a9/view",
       1,
-      ""
+      "$250,000 – $500,000"
     ],
     [
       "41bc3d8bc98f4063b1bc95c468436e5a",
@@ -874,7 +857,7 @@
       "237990",
       "https://sam.gov/opp/41bc3d8bc98f4063b1bc95c468436e5a/view",
       1,
-      ""
+      "$25,000,000.00 – $100,000,000.00"
     ],
     [
       "c4dfd6e39a9c4b6aaa8e89073c28619a",
@@ -891,7 +874,7 @@
       "238220",
       "https://sam.gov/opp/c4dfd6e39a9c4b6aaa8e89073c28619a/view",
       1,
-      ""
+      "$250,000 – $500,000"
     ],
     [
       "f67dbf25d5b742a79f048c5f5fe6fbfe",
@@ -993,7 +976,7 @@
       "238160",
       "https://sam.gov/opp/a4b1b30606614254ae20de9e52822c15/view",
       1,
-      ""
+      "$25,000 and $100,000"
     ],
     [
       "34269f782ca74e86b14fa586518419e1",
@@ -1061,7 +1044,7 @@
       "236220",
       "https://sam.gov/opp/73c8a794bb8d4e4e957ae388c62a031c/view",
       1,
-      ""
+      "$5,000,000 and $10,000,000"
     ],
     [
       "0fc20d6db4c24d6397099b31e9da8eb1",
@@ -1180,7 +1163,7 @@
       "238330",
       "https://sam.gov/opp/a6b5e41cf6714b789105298e1a550f0a/view",
       1,
-      ""
+      "$100,000 – $250,000"
     ],
     [
       "1fa96449951544deba4d964cf8fc18d1",
@@ -1282,7 +1265,7 @@
       "238110",
       "https://sam.gov/opp/9458a16e912d4d1db2844b1b6e72c345/view",
       1,
-      ""
+      "$25,000 – $100,000"
     ],
     [
       "917426dc655a40fbb1a899c72ef39fdf",
@@ -1299,7 +1282,7 @@
       "238160",
       "https://sam.gov/opp/917426dc655a40fbb1a899c72ef39fdf/view",
       1,
-      ""
+      "$1M - $3M"
     ],
     [
       "d072dcc3c9cd4c9387b6ae8434c66ff3",
@@ -1367,7 +1350,7 @@
       "238910",
       "https://sam.gov/opp/ea7e4a3c23194bfb9eedea229b5e40e8/view",
       1,
-      ""
+      "$500,000 – $1,000,000"
     ],
     [
       "5acd109fa34b441093a9bf7ba6d6a6e4",
@@ -1503,7 +1486,7 @@
       "236220",
       "https://sam.gov/opp/784eda874abc4f28aec90b4c7b12f1d6/view",
       null,
-      ""
+      "$140,000,000 - $170,000,000"
     ],
     [
       "da41ec14749a43ddae3588661a0c8f05",
@@ -1707,7 +1690,7 @@
       "236220",
       "https://sam.gov/opp/f1c05ff8675044eba84bc3628f7b6ee9/view",
       1,
-      ""
+      "$1,000,000 and $5,000,000"
     ],
     [
       "af662abe911c4dda8c05e881f65c0cbe",
@@ -2905,9 +2888,9 @@
       "Repair Taxiway Shoulders",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-20T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "2026-09-04T14:00:00.000Z",
-      "2026-08-20T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "NH, 03839",
       43.238058,
       -70.982026,
@@ -2934,19 +2917,19 @@
       ""
     ],
     [
-      "2deea067065742cea793e7ea6a6a2f86",
+      "2ecf4861f5634fc69432186de6556101",
       "FA465426R0009",
       "IDIQ for Interior Facility Repairs, Grissom Air Reserve Base, IN",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-21T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "2026-09-04T14:00:00.000Z",
-      "2026-08-21T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "Grissom ARB, IN, 46971",
-      40.691251,
-      -86.144817,
+      40.644304,
+      -86.138219,
       "238390",
-      "https://sam.gov/opp/2deea067065742cea793e7ea6a6a2f86/view",
+      "https://sam.gov/opp/2ecf4861f5634fc69432186de6556101/view",
       1,
       ""
     ],
@@ -4325,7 +4308,7 @@
       "237310",
       "https://sam.gov/opp/87f873789171459481b0c8a92546e577/view",
       1,
-      ""
+      "$250,000 – $500,000"
     ],
     [
       "724abf5fd3264485a3cbf06126dd9997",
@@ -4444,7 +4427,7 @@
       "238220",
       "https://sam.gov/opp/7f1989b165844b3393759329243e93b4/view",
       1,
-      ""
+      "$25,000 and $100,000"
     ],
     [
       "ed30802e5c9143a7b12ee79880914559",
@@ -4495,6 +4478,23 @@
       "237310",
       "https://sam.gov/opp/72dea389b1ac440faeb27fcf9711aebc/view",
       1,
+      ""
+    ],
+    [
+      "6b08c1630dfc4eb69c027d8fec086357",
+      "W912QR-62373550",
+      "Soo Lock Fire Alarm Modernization",
+      "Solicitation",
+      "No Set-Aside Used",
+      "2026-08-27T00:00:00.000Z",
+      "2026-09-10T15:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
+      "0, MI",
+      null,
+      null,
+      "236220",
+      "https://sam.gov/opp/6b08c1630dfc4eb69c027d8fec086357/view",
+      null,
       ""
     ],
     [
@@ -4716,7 +4716,7 @@
       "236220",
       "https://sam.gov/opp/09dce14828044951a427dcac6a384b25/view",
       1,
-      ""
+      "$10,000,000.00 and $20,000,000.00"
     ],
     [
       "f258e01a96d944158d6fc91672568918",
@@ -4767,7 +4767,7 @@
       "237310",
       "https://sam.gov/opp/7b49e6b7f31144758cc81928d678ca25/view",
       1,
-      ""
+      "$1,000,000 – $3,500,000"
     ],
     [
       "6b581725ade14460a03b7c8f318edb92",
@@ -5025,6 +5025,23 @@
       ""
     ],
     [
+      "5e285375d51e45aa80c4b2d5a06b10c1",
+      "70LGLY26RSSB00028",
+      "Multi-Building Fire Alarm System Retrofit",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-27T00:00:00.000Z",
+      "2026-09-11T15:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
+      "Brunswick, GA, 31524",
+      31.236444,
+      -81.501767,
+      "238210",
+      "https://sam.gov/opp/5e285375d51e45aa80c4b2d5a06b10c1/view",
+      1,
+      ""
+    ],
+    [
       "04a1b48db000416bb149617713a938e0",
       "70FBR226R00000018",
       "FEMA Region 2 Naval Weapons Station Earle Building C-54 HVAC Rooftop Units Replacement and Mini Split Units for Server Room & Warehouse",
@@ -5107,7 +5124,7 @@
       "238220",
       "https://sam.gov/opp/8980cd3daa554d48bfe34827c2d7a247/view",
       1,
-      ""
+      "$250,000 – $500,000"
     ],
     [
       "007e26a7aca942fb94724d9d652122ed",
@@ -5141,7 +5158,7 @@
       "236220",
       "https://sam.gov/opp/31c31ca9596443fca4325f729f3e3ddd/view",
       1,
-      ""
+      "$120 million – $140 million"
     ],
     [
       "8cead09a7fc948a3b2f6c732f880b180",
@@ -5234,9 +5251,9 @@
       "Y1DA--556-26-2-6953-0001 - 556-24-108 Double  Block and Bleed Construction  (VA-26-00035322)",
       "Solicitation",
       "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-18T00:00:00.000Z",
       "2026-09-14T14:00:00.000Z",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-18T00:00:00.000Z",
       "North Chicago, IL, 60064",
       42.329359,
       -87.839013,
@@ -5294,7 +5311,7 @@
       "236220",
       "https://sam.gov/opp/de37502047e14e6a83f416897cecdf27/view",
       1,
-      ""
+      "$5,000,000 – $10,000,000"
     ],
     [
       "420c89c1965c4454a6c5356d44a0e8fd",
@@ -5345,7 +5362,7 @@
       "236220",
       "https://sam.gov/opp/bb26896481ed42bf8e0396ceb321a0ba/view",
       1,
-      ""
+      "$2,500,000.00 and $3,000,000.00"
     ],
     [
       "f22ce30fcf6d493a8e28642a5d6a2d53",
@@ -5396,7 +5413,7 @@
       "238210",
       "https://sam.gov/opp/ffa77c470fd8426cb5111c740defca59/view",
       1,
-      ""
+      "$25,000 and $100,000"
     ],
     [
       "9c9c5c1493834e91aece63b9fec3066b",
@@ -5557,9 +5574,9 @@
       "Monopole Tower Procurement and Base Foundation Construction (577 SWES/DIFF)",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-20T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "2026-09-15T19:00:00.000Z",
-      "2026-08-20T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "Bangor, ME",
       44.815806,
       -68.796391,
@@ -5600,7 +5617,7 @@
       "236220",
       "https://sam.gov/opp/3483cc9a6d1a47bda9658be9a2d7d950/view",
       1,
-      ""
+      "$20,000,000.00 – $50,000,000.00"
     ],
     [
       "47d38a60f13c41e1888d5c5b28042667",
@@ -5634,7 +5651,7 @@
       "238160",
       "https://sam.gov/opp/5a510b8140c645948fcb15d23ca5e8fd/view",
       1,
-      ""
+      "$250,000 – $500,000"
     ],
     [
       "37d0fdc2598a4b5989a0bb884c446026",
@@ -5739,19 +5756,19 @@
       ""
     ],
     [
-      "297e477feebe434aaf4cb9a3f26a1553",
+      "761fc9841e2b4c9892890fdedd788c06",
       "70Z0G126BSNNESW01",
       "USCG Sector Field Office Southwest Harbor - Major Maintenance and Repair Galley and Housing",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-24T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "2026-09-17T18:00:00.000Z",
-      "2026-08-24T00:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
       "Southwest Harbor, ME, 04679",
-      44.300685,
-      -68.311073,
+      44.258915,
+      -68.321101,
       "236220",
-      "https://sam.gov/opp/297e477feebe434aaf4cb9a3f26a1553/view",
+      "https://sam.gov/opp/761fc9841e2b4c9892890fdedd788c06/view",
       1,
       ""
     ],
@@ -5841,7 +5858,7 @@
       ""
     ],
     [
-      "a357de87ceba4d71ad0a13fdf6c7b4d0",
+      "90bd3c72509c40bd859971c656ca7000",
       "36C25226B0037_01",
       "Z1DA--Replace Cast Iron Fittings  676-23-009",
       "Solicitation",
@@ -5850,10 +5867,10 @@
       "2026-09-18T15:00:00.000Z",
       "2026-08-27T00:00:00.000Z",
       "WI, 54660",
-      43.959841,
-      -90.455246,
+      44.006441,
+      -90.492982,
       "238220",
-      "https://sam.gov/opp/a357de87ceba4d71ad0a13fdf6c7b4d0/view",
+      "https://sam.gov/opp/90bd3c72509c40bd859971c656ca7000/view",
       1,
       ""
     ],
@@ -5897,15 +5914,32 @@
       "GASNTi2 BLOCK 1 Nationwide Material Procurement (Electrical & Telecommunications)",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-21T00:00:00.000Z",
+      "2026-08-20T00:00:00.000Z",
       "2026-09-18T21:00:00.000Z",
-      "2026-08-21T00:00:00.000Z",
+      "2026-08-20T00:00:00.000Z",
       "Bangor, ME",
       44.796641,
       -68.802635,
       "238210",
       "https://sam.gov/opp/a825706e006f43a6a6711129a72ce19f/view",
       1,
+      ""
+    ],
+    [
+      "e07980926b3840709c26fae9056078b5",
+      "19AQMM26R0279",
+      "DOS Overseas Furniture Install Services",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-08-27T00:00:00.000Z",
+      "2026-09-18T21:00:00.000Z",
+      "2026-08-27T00:00:00.000Z",
+      "0, VA",
+      null,
+      null,
+      "238390",
+      "https://sam.gov/opp/e07980926b3840709c26fae9056078b5/view",
+      null,
       ""
     ],
     [
@@ -6135,9 +6169,9 @@
       "Elevator Maintenance, Testing, Inspection, and Repair Services at Naval Air Station Meridian, MS",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-26T00:00:00.000Z",
+      "2026-08-25T00:00:00.000Z",
       "2026-09-25T15:00:00.000Z",
-      "2026-08-26T00:00:00.000Z",
+      "2026-08-25T00:00:00.000Z",
       "Meridian, MS, 39309",
       32.560677,
       -88.619559,
@@ -6474,11 +6508,12 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 322,
+    "zipLocated": 323,
     "cityLocated": 44,
-    "unresolved": 14,
-    "locatedTotal": 366,
-    "total": 380,
-    "generatedAt": "2026-08-27T12:22:24.266Z"
-  }
+    "unresolved": 15,
+    "locatedTotal": 367,
+    "total": 382,
+    "generatedAt": "2026-08-27T13:36:09.186Z"
+  },
+  "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published."
 }
