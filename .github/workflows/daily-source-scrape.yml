@@ -12,6 +12,7 @@ on:
       - 'scripts/scrape-wvwa.mjs'
       - 'scripts/scrape-va-utility-authorities.mjs'
       - 'scripts/patch-wvwa-index.mjs'
+      - 'scripts/patch-govtribe-index.mjs'
       - 'scripts/repair-priority-sources.mjs'
       - 'scripts/fix-stream.mjs'
       - 'scripts/scrape-dot-sources.mjs'
@@ -21,10 +22,12 @@ on:
       - 'scripts/harden-federal-current.mjs'
       - 'scripts/enrich-federal-rom.mjs'
       - 'scripts/enrich-priority-rom.mjs'
+      - 'scripts/merge-govtribe-current.mjs'
       - 'scripts/geocode-current.mjs'
       - 'scripts/finalize-source-health.mjs'
       - 'scripts/update-index-current-sources.mjs'
       - 'scripts/fix-dashboard-ui.mjs'
+      - 'data/govtribe-current.json'
       - 'package.json'
       - 'source-health-ui.js'
       - 'index.html'
@@ -122,11 +125,17 @@ jobs:
         continue-on-error: true
         run: node scripts/enrich-priority-rom.mjs
 
+      - name: Merge GovTribe supplemental snapshot
+        run: node scripts/merge-govtribe-current.mjs
+
       - name: Keep dashboard on current data files
         run: node scripts/update-index-current-sources.mjs
 
       - name: Keep Virginia utility authority sources visible in dashboard filters
         run: node scripts/patch-wvwa-index.mjs
+
+      - name: Keep GovTribe supplemental source visible in dashboard
+        run: node scripts/patch-govtribe-index.mjs
 
       - name: Repair dashboard search and KPI state
         run: node scripts/fix-dashboard-ui.mjs
