@@ -716,9 +716,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-08-28T04:00:00.000Z|HERITAGE PARK RESTROOM",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-03T19:00:00.000Z|ITB-COVB-26-101677- Centerville Turnpike Phase II",
       "rom": "",
-      "checkedAt": "2026-08-27T16:05:15.510Z"
+      "checkedAt": "2026-08-27T16:10:07.345Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-02T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -731,9 +731,9 @@
       "checkedAt": "2026-08-27T13:43:21.940Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-08-27T16:05:15.510Z",
+      "checkedAt": "2026-08-27T16:10:07.345Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -810,7 +810,12 @@
       "stamp": "https://cabb.virginiadot.org/upload/20260811104153AUG-B07.pdf|2026-09-23T17:00:00.000Z|ON - CALL BRIDGE REPAIR · BRISTOL DISTRICT WIDE",
       "rom": "",
       "checkedAt": "2026-08-27T13:43:21.940Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=008a7985-7da1-f111-b8dc-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=008a7985-7da1-f111-b8dc-001dd803db57|2026-09-29T15:00:00.000Z|Appalachian State University",
+      "rom": "",
+      "checkedAt": "2026-08-27T16:10:07.345Z"
     }
   },
-  "generatedAt": "2026-08-27T16:05:15.510Z"
+  "generatedAt": "2026-08-27T16:10:07.345Z"
 }
