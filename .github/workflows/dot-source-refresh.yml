@@ -49,6 +49,15 @@ jobs:
       - name: Refresh dashboard source labels and cache tokens
         run: node scripts/update-index-current-sources.mjs
 
+      - name: Preserve Virginia utility authority source labels
+        run: node scripts/patch-wvwa-index.mjs
+
+      - name: Preserve GovTribe supplemental source labels
+        run: node scripts/patch-govtribe-index.mjs
+
+      - name: Preserve dashboard search and KPI state
+        run: node scripts/fix-dashboard-ui.mjs
+
       - name: Commit refreshed DOT data
         run: |
           git config user.name "MC3 Pursuit Radar Bot"
