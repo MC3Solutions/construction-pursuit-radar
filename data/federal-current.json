@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:39:41.571Z",
+  "generatedAt": "2026-08-28T12:45:05.141Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/29/2025",
@@ -6581,7 +6581,7 @@
     "unresolved": 15,
     "locatedTotal": 371,
     "total": 386,
-    "generatedAt": "2026-08-28T12:32:40.104Z"
+    "generatedAt": "2026-08-28T12:41:59.941Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {

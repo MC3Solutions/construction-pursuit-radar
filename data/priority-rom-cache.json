@@ -651,9 +651,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-10T18:00:00.000Z|OPEN REPAIR OF COLLAPSED STORM SEWER SYSTEM - VENA...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-01T18:00:00.000Z|RFP-2526-536, Relocation of Single Family Dwelling",
       "rom": "",
-      "checkedAt": "2026-08-28T12:39:39.575Z"
+      "checkedAt": "2026-08-28T12:45:04.157Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-02T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -666,9 +666,9 @@
       "checkedAt": "2026-08-27T13:43:21.940Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T14:00:00.000Z|NWCX Waste Water System Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
       "rom": "",
-      "checkedAt": "2026-08-28T12:39:39.575Z",
+      "checkedAt": "2026-08-28T12:45:04.157Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -795,7 +795,12 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9|2026-10-19T17:00:00.000Z|GoRaleigh Operations and Maintenance Facility Expansion",
       "rom": "",
       "checkedAt": "2026-08-28T12:39:39.575Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=2e96cf6b-dda2-f111-b8dc-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=2e96cf6b-dda2-f111-b8dc-001dd803db57|2026-09-14T18:00:00.000Z|19-IFB-2362342761-BJL Madison County ACQ Demo Group 2",
+      "rom": "",
+      "checkedAt": "2026-08-28T12:45:04.157Z"
     }
   },
-  "generatedAt": "2026-08-28T12:39:39.575Z"
+  "generatedAt": "2026-08-28T12:45:04.157Z"
 }
