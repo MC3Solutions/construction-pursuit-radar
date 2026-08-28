@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 122,
     "rawSledMatches": 444,
-    "curatedSledRecords": 53,
+    "curatedSledRecords": 52,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only."
   },
   "federalEnrichment": [
@@ -135,24 +135,6 @@
     }
   ],
   "records": [
-    {
-      "state": "GA",
-      "s": "PE60800NONST2026000000053",
-      "n": "RFB 26-35-006 Cassville-White Road Ph II",
-      "d": "2026-08-28T19:00:00Z",
-      "p": "2026-07-30T12:40:00Z",
-      "l": "Bartow County, GA",
-      "scope": "Road / Paving",
-      "c": "Road / Paving",
-      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-60800-NONST-2026-000000053&sourceSystemType=gpr20",
-      "type": "State / Local",
-      "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
-      "x": 32.7,
-      "y": -83.3,
-      "approx": true,
-      "rom": ""
-    },
     {
       "state": "GA",
       "s": "PE76110NONST2027000000146",
