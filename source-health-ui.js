@@ -5,6 +5,33 @@
     if(card)card.remove();
   });
 
+  function plottedCount(){
+    var radar=document.getElementById('radar');
+    if(radar&&getComputedStyle(radar).display!=='none')return radar.querySelectorAll('.radarPin').length;
+    var map=document.getElementById('map');
+    return map?map.querySelectorAll('.leaflet-overlay-pane .leaflet-interactive').length:0;
+  }
+  var syncQueued=false;
+  function syncVisibleCount(){
+    if(syncQueued)return;
+    syncQueued=true;
+    requestAnimationFrame(function(){
+      syncQueued=false;
+      var el=document.getElementById('visibleCount');
+      if(!el)return;
+      el.textContent=String(plottedCount());
+      el.title='Unique active pursuits currently plotted on the map';
+    });
+  }
+  ['map','radar'].forEach(function(id){
+    var el=document.getElementById(id);
+    if(el)new MutationObserver(syncVisibleCount).observe(el,{childList:true,subtree:true,attributes:true,attributeFilter:['style','class']});
+  });
+  ['q','type','status','sort'].forEach(function(id){var el=document.getElementById(id);if(el){el.addEventListener('input',syncVisibleCount);el.addEventListener('change',syncVisibleCount)}});
+  document.querySelectorAll('.multiMenu').forEach(function(el){el.addEventListener('change',syncVisibleCount)});
+  window.addEventListener('load',function(){syncVisibleCount();setTimeout(syncVisibleCount,250);setTimeout(syncVisibleCount,1000)});
+  syncVisibleCount();
+
   var host=document.getElementById('sourceHealth');
   var h=window.MC3_HEALTH;
   if(!host||!h)return;
