@@ -3,6 +3,7 @@ import path from 'node:path';
 
 const DATA=path.resolve('data');
 const SNAP=path.join(DATA,'govtribe-current.json');
+const PATCH=path.join(DATA,'govtribe-refresh-patch.json');
 const FED_JSON=path.join(DATA,'federal-current.json');
 const FED_JS=path.join(DATA,'federal-current.js');
 const PRIORITY_JSON=path.join(DATA,'priority-current.json');
@@ -18,7 +19,29 @@ const future=o=>!o.d || new Date(o.d)>NOW;
 const romClean=s=>String(s||'').replace(/\s+/g,' ').trim().slice(0,140);
 const publicUrl=o=>/^https?:\/\//i.test(String(o.r||''))?o.r:'';
 
-const snapshot=load(SNAP,{federalEnrichment:[],records:[],meta:{}});
+let snapshot=load(SNAP,{federalEnrichment:[],records:[],meta:{}});
+const patch=load(PATCH,null);
+if(patch){
+  const enrich=new Map();
+  for(const e of snapshot.federalEnrichment||[]){const k=norm(e.solicitation||e.s||'');if(k&&romClean(e.rom))enrich.set(k,{...e,rom:romClean(e.rom)})}
+  for(const e of patch.federalEnrichment||[]){const k=norm(e.solicitation||e.s||'');if(k&&romClean(e.rom))enrich.set(k,{...e,rom:romClean(e.rom)})}
+  const priorRecords=(snapshot.records||[]).filter(future);
+  const bySol=new Map(),byTitle=new Map();
+  for(const o of priorRecords){const s=norm(o.s);if(s)bySol.set(s,o);if(normWords(o.n))byTitle.set(`${o.state||''}|${normWords(o.n)}`,o)}
+  let deltaAdded=0,deltaUpdated=0;
+  for(const raw of patch.records||[]){
+    if(!future(raw)||!publicUrl(raw))continue;
+    const o={...raw,u:patch.generatedAt||RUN};
+    const s=norm(o.s),tk=`${o.state||''}|${normWords(o.n)}`;
+    const old=(s&&bySol.get(s))||byTitle.get(tk);
+    if(old){Object.assign(old,o);deltaUpdated++;continue}
+    priorRecords.push(o);if(s)bySol.set(s,o);if(normWords(o.n))byTitle.set(tk,o);deltaAdded++;
+  }
+  snapshot={...snapshot,generatedAt:patch.generatedAt||RUN,meta:{...(snapshot.meta||{}),rawFederalMatches:Number(patch.rawFederalMatches||0),rawSledMatches:Number(patch.rawSledMatches||0),curatedSledRecords:priorRecords.length,rules:'Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only.'},federalEnrichment:[...enrich.values()],records:priorRecords.sort((a,b)=>new Date(a.d||'2999-12-31')-new Date(b.d||'2999-12-31'))};
+  fs.writeFileSync(SNAP,JSON.stringify(snapshot,null,2)+'\n');
+  console.log(JSON.stringify({govTribeDeltaApplied:true,deltaAdded,deltaUpdated,curatedSledRecords:priorRecords.length,rawFederalMatches:snapshot.meta.rawFederalMatches,rawSledMatches:snapshot.meta.rawSledMatches},null,2));
+}
+
 const fed=load(FED_JSON,{records:[]});
 const priority=load(PRIORITY_JSON,{records:[]});
 const health=load(HEALTH_JSON,{generatedAt:RUN,total:0,sources:{}});
