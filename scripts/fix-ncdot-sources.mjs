@@ -10,7 +10,7 @@ const HEALTH='data/source-health.json';
 const HEALTH_JS='data/source-health.js';
 const NC_CENTER=[35.5,-79.4];
 const readJson=(p,f)=>fs.readFile(p,'utf8').then(JSON.parse).catch(()=>f);
-const clean=s=>String(s||'').replace(/\u00a0/g,' ').replace(/\s+/g,' ').trim();
+const clean=s=>String(s||'').replace(/\u00a0|\u200b/g,' ').replace(/\s+/g,' ').trim();
 const slug=s=>clean(s).toUpperCase().replace(/[^A-Z0-9]+/g,'-').replace(/^-|-$/g,'');
 const dateIso=s=>{const d=new Date(`${s} 14:00:00 GMT-0400`);return Number.isFinite(d.getTime())?d.toISOString():null};
 const activeDate=s=>{const x=dateIso(s);return x&&new Date(x)>NOW?x:null};
@@ -25,7 +25,8 @@ async function bodyText(browser,url){
   try{
     const r=await page.goto(url,{waitUntil:'domcontentloaded',timeout:45000});
     if(!r?.ok()) return '';
-    await page.waitForTimeout(1800);
+    await page.waitForFunction(()=>/Status\s*Advertised|Status\s*Anticipated/i.test(document.body?.innerText||''),{timeout:7000}).catch(()=>{});
+    await page.waitForTimeout(1000);
     return clean(await page.locator('body').innerText().catch(()=>''));
   } catch {
     return '';
@@ -34,13 +35,21 @@ async function bodyText(browser,url){
 
 function parseLettings(text,url,label){
   const out=[];
-  const re=/(.{0,110}?)Status\s*(Advertised|Anticipated)\s*Let Date\s*((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{1,2},\s+20\d{2})\s*Type\s*(Central|Div\.\s*\d+)/gi;
+  // SharePoint division pages commonly render: 09-17-2026 StatusAdvertised Let DateSep 17, 2026 TypeDiv. 3
+  const divRe=/(\d{1,2}-\d{1,2}-20\d{2}).{0,100}?Status\s*(Advertised|Anticipated).{0,80}?Let Date\s*((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{1,2},\s+20\d{2})(?:.{0,60}?Type\s*(Central|Div\.\s*\d+))?/gi;
   let m;
-  while((m=re.exec(text))){
-    const due=activeDate(m[3]); if(!due) continue;
-    const status=m[2]; const letType=clean(m[4]);
+  while((m=divRe.exec(text))){
+    const due=activeDate(m[3]);if(!due)continue;
+    const status=m[2],letType=clean(m[4]||label||'NCDOT');
     const id=`NCDOT-${slug(letType)}-${due.slice(0,10).replace(/-/g,'')}`;
     out.push(rec({id,title:`NCDOT ${letType} Letting · ${status}`,due,url,type:`${letType} Letting`,status}));
+  }
+  // Central page commonly renders: 09-15-2026 Central Letting StatusAdvertised
+  const centralRe=/(\d{1,2}-\d{1,2}-20\d{2})\s+Central Letting\s+Status\s*(Advertised|Anticipated)/gi;
+  while((m=centralRe.exec(text))){
+    const due=activeDate(m[1]);if(!due)continue;
+    const status=m[2],id=`NCDOT-CENTRAL-${due.slice(0,10).replace(/-/g,'')}`;
+    out.push(rec({id,title:`NCDOT Central Letting · ${status}`,due,url,type:'Central Letting',status}));
   }
   return out;
 }
@@ -50,33 +59,27 @@ function parseDesignBuild(text,url){
   const re=/([A-Za-z0-9][A-Za-z0-9 .&/()-]{2,90}?)\s*Status\s*(Advertised|Anticipated)\s*Date\s*((?:(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{1,2},\s+20\d{2})?)\s*Type\s*Design/gi;
   let m;
   while((m=re.exec(text))){
-    let title=clean(m[1]);
-    title=title.replace(/^.*?(?:Projects|Projects​|Projects\s+)/i,'').trim();
-    if(!title || title.length>100) continue;
-    const due=m[3]?activeDate(m[3]):null;
-    if(m[3]&&!due) continue;
-    const status=m[2];
-    out.push(rec({id:`NCDOT-DB-${slug(title)}`,title:`${title} · ${status}`,due,url,type:'Alternative Delivery',status}));
+    let title=clean(m[1]).replace(/^.*?(?:Projects|Projects​|Projects\s+)/i,'').trim();
+    if(!title||title.length>100)continue;
+    const due=m[3]?activeDate(m[3]):null;if(m[3]&&!due)continue;
+    const status=m[2];out.push(rec({id:`NCDOT-DB-${slug(title)}`,title:`${title} · ${status}`,due,url,type:'Alternative Delivery',status}));
   }
   return out;
 }
 
 async function parseRoadside(browser,url){
-  const page=await browser.newPage({viewport:{width:1500,height:1000}}); const out=[];
+  const page=await browser.newPage({viewport:{width:1500,height:1000}});const out=[];
   try{
-    const r=await page.goto(url,{waitUntil:'domcontentloaded',timeout:45000}); if(!r?.ok()) return out;
-    await page.waitForTimeout(1600);
+    const r=await page.goto(url,{waitUntil:'domcontentloaded',timeout:45000});if(!r?.ok())return out;
+    await page.waitForTimeout(2200);
     const rows=await page.evaluate(()=>[...document.querySelectorAll('tr')].map(tr=>({text:(tr.innerText||'').replace(/\s+/g,' ').trim(),href:tr.querySelector('a[href]')?.href||''})).filter(x=>x.text));
     for(const row of rows){
-      const id=(row.text.match(/\b54-[A-Z0-9-]+\b/i)||[])[0];
-      if(!id||!/\bAdvertised\b/i.test(row.text)) continue;
-      const dm=row.text.match(/\b\d{1,2}\/\d{1,2}\/20\d{2}\b/); if(!dm) continue;
-      const due=activeDate(dm[0]); if(!due) continue;
+      const id=(row.text.match(/\b54-[A-Z0-9-]+\b/i)||[])[0];if(!id||!/\bAdvertised\b/i.test(row.text))continue;
+      const dm=row.text.match(/\b\d{1,2}\/\d{1,2}\/20\d{2}\b/);if(!dm)continue;
+      const due=activeDate(dm[0]);if(!due)continue;
       out.push(rec({id:id.toUpperCase(),title:row.text.slice(0,220),due,url:row.href||url,type:'Roadside Environmental',status:'Advertised'}));
     }
-  } catch {
-    return out;
-  } finally { await page.close(); }
+  } catch {return out} finally {await page.close()}
   return out;
 }
 
@@ -84,48 +87,34 @@ async function main(){
   const dotBefore=await readJson(DOT,{generatedAt:RUN,records:[]});
   const priorityBefore=await readJson(PRIORITY,{generatedAt:RUN,records:[]});
   const previousNC=dotBefore.records.filter(o=>o.source==='NCDOT'&&(!o.d||new Date(o.d)>NOW));
-
   const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
   let rows=[];
   try{
     const pages=[
-      ['https://connect.ncdot.gov/letting/pages/central.aspx','Central'],
-      ...Array.from({length:14},(_,i)=>[`https://connect.ncdot.gov/letting/pages/Division${i+1}Letting.aspx`,`Division ${i+1}`])
+      ['https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx','Central'],
+      ...Array.from({length:14},(_,i)=>[`https://connect.ncdot.gov/letting/Pages/Division${i+1}Letting.aspx`,`Division ${i+1}`])
     ];
     const texts=await Promise.all(pages.map(async([url,label])=>[url,label,await bodyText(browser,url)]));
-    for(const [url,label,text] of texts) rows.push(...parseLettings(text,url,label));
+    for(const [url,label,text] of texts)rows.push(...parseLettings(text,url,label));
     const dbUrl='https://connect.ncdot.gov/letting/pages/design-build.aspx';
     rows.push(...parseDesignBuild(await bodyText(browser,dbUrl),dbUrl));
     rows.push(...await parseRoadside(browser,'https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-List.aspx?let_status=Advertised'));
-  } finally { await browser.close(); }
+  } finally {await browser.close()}
 
-  const dedup=new Map(); for(const o of rows) dedup.set(key(o),o); rows=[...dedup.values()];
-  const prev=new Map(previousNC.map(o=>[key(o),o]));
-  const freshCount=rows.length;
-
-  if(rows.length){
-    rows=rows.map(o=>{const p=prev.get(key(o));o.firstSeen=p?.firstSeen||RUN;o.lastSeen=RUN;o.change=p?'ACTIVE':'NEW';return o});
-  } else {
-    rows=previousNC.map(o=>({...o,stale:true,change:'ACTIVE'}));
-  }
+  const dedup=new Map();for(const o of rows)dedup.set(key(o),o);rows=[...dedup.values()];
+  const prev=new Map(previousNC.map(o=>[key(o),o]));const freshCount=rows.length;
+  if(rows.length)rows=rows.map(o=>{const p=prev.get(key(o));o.firstSeen=p?.firstSeen||RUN;o.lastSeen=RUN;o.change=p?'ACTIVE':'NEW';return o});
+  else rows=previousNC.map(o=>({...o,stale:true,change:'ACTIVE'}));
 
   const dotRows=[...dotBefore.records.filter(o=>o.source!=='NCDOT'),...rows];
   await fs.writeFile(DOT,JSON.stringify({generatedAt:RUN,records:dotRows},null,2)+'\n');
-
   const merged=[...priorityBefore.records.filter(o=>o.source!=='NCDOT'),...rows];
   await fs.writeFile(PRIORITY,JSON.stringify({generatedAt:RUN,records:merged},null,2)+'\n');
   await fs.writeFile(PRIORITY_JS,`window.MC3_DIRECT=${JSON.stringify(merged)};\n`);
 
-  const health=await readJson(HEALTH,{generatedAt:RUN,total:0,sources:{}}); health.sources||={};
-  health.sources.NCDOT={
-    label:'NCDOT',
-    status:freshCount?'OK':'PARTIAL',
-    count:rows.length,
-    checkedAt:RUN,
-    message:freshCount?`Parsed ${freshCount} active/future NCDOT Central, Division, Alternative Delivery, and Roadside records from direct NCDOT letting pages.`:`NCDOT returned no usable records during this refresh. Preserved ${rows.length} last-good record(s).`,
-    stale:!freshCount
-  };
-  health.generatedAt=RUN; health.total=Object.values(health.sources).reduce((n,s)=>n+(Number(s.count)||0),0);
+  const health=await readJson(HEALTH,{generatedAt:RUN,total:0,sources:{}});health.sources||={};
+  health.sources.NCDOT={label:'NCDOT',status:freshCount?'OK':'PARTIAL',count:rows.length,checkedAt:RUN,message:freshCount?`Parsed ${freshCount} active/future NCDOT Central, Division, Alternative Delivery, and Roadside records from direct NCDOT letting pages.`:`NCDOT returned no usable records during this refresh. Preserved ${rows.length} last-good record(s).`,stale:!freshCount};
+  health.generatedAt=RUN;health.total=Object.values(health.sources).reduce((n,s)=>n+(Number(s.count)||0),0);
   await fs.writeFile(HEALTH,JSON.stringify(health,null,2)+'\n');
   await fs.writeFile(HEALTH_JS,`window.MC3_SOURCE_HEALTH=${JSON.stringify(health)};\n`);
   console.log(freshCount?`NCDOT repair parsed ${freshCount} active/future records.`:`NCDOT repair parsed 0 records; preserved ${rows.length} last-good record(s) and marked source PARTIAL.`);
