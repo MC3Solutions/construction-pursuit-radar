@@ -28,6 +28,7 @@ on:
       - 'scripts/update-index-current-sources.mjs'
       - 'scripts/fix-dashboard-ui.mjs'
       - 'data/govtribe-current.json'
+      - 'data/govtribe-refresh-patch.json'
       - 'package.json'
       - 'source-health-ui.js'
       - 'index.html'
