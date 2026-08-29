@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-28T12:30:00Z",
+  "generatedAt": "2026-08-29T12:32:22Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
-    "rawFederalMatches": 122,
-    "rawSledMatches": 444,
-    "curatedSledRecords": 52,
+    "rawFederalMatches": 116,
+    "rawSledMatches": 334,
+    "curatedSledRecords": 66,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only."
   },
   "federalEnrichment": [
@@ -132,6 +132,18 @@
     {
       "solicitation": "12445526Q0126",
       "rom": "Under $25K"
+    },
+    {
+      "solicitation": "W911SA26BA006",
+      "rom": "Over $10M"
+    },
+    {
+      "solicitation": "W91236-26-B-1AVX",
+      "rom": "$5M – $10M"
+    },
+    {
+      "solicitation": "DKGV-1137999",
+      "rom": "$1M – $5M"
     }
   ],
   "records": [
@@ -393,13 +405,13 @@
       "n": "SRF Water System Upgrades",
       "d": "2026-09-03T18:00:00Z",
       "p": "2026-08-21T20:41:44Z",
-      "l": "Green Cove Springs, FL",
-      "scope": "Water / Sewer Infrastructure",
-      "c": "Water / Sewer Infrastructure",
+      "l": "Florida",
+      "scope": "Water / Utility Construction",
+      "c": "Water / Utility Construction",
       "r": "https://procurement.opengov.com/portal/greencovesprings/projects/285754",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
+      "u": "2026-08-29T12:32:22Z",
       "x": 28.3,
       "y": -82.1,
       "approx": true,
@@ -435,7 +447,7 @@
       "r": "https://procurement.opengov.com/portal/greencovesprings/projects/273560",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
+      "u": "2026-08-29T12:32:22Z",
       "x": 28.3,
       "y": -82.1,
       "approx": true,
@@ -604,6 +616,24 @@
       "rom": ""
     },
     {
+      "state": "OH",
+      "s": "ITB21448",
+      "n": "Renovation at JFK High School - Welding Lab",
+      "d": "2026-09-09T18:00:00Z",
+      "p": "2026-08-19T15:02:08Z",
+      "l": "Cuyahoga County, OH",
+      "scope": "Educational Building Renovation",
+      "c": "Educational Building Renovation",
+      "r": "https://procurement.opengov.com/portal/clevelandmetroschools/projects/291000",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 40.4,
+      "y": -82.8,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
       "state": "GA",
       "s": "PE77129NONST2027000000070",
       "n": "New Water Lines at River Forks Park & Campground",
@@ -727,7 +757,7 @@
       "y": -85.5,
       "approx": true,
       "rom": "",
-      "u": "2026-08-28T12:30:00Z"
+      "u": "2026-08-29T12:32:22Z"
     },
     {
       "state": "FL",
@@ -748,18 +778,36 @@
       "rom": ""
     },
     {
+      "state": "MD",
+      "s": "27007",
+      "n": "Wheatley Dam Dredging Services",
+      "d": "2026-09-15T15:00:00Z",
+      "p": "2026-08-21T12:22:44Z",
+      "l": "Charles County, MD",
+      "scope": "Marine / Dredging Construction",
+      "c": "Marine / Dredging Construction",
+      "r": "https://procurement.opengov.com/portal/charlescountymd/projects/291063",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 39,
+      "y": -76.7,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
       "state": "GA",
       "s": "PE66061NONST2027000000098",
       "n": "Storm Pipe Rehabilitation",
       "d": "2026-09-15T19:00:00Z",
       "p": "2026-08-21T16:19:00Z",
       "l": "Fulton County, GA",
-      "scope": "Stormwater / Drainage",
-      "c": "Stormwater / Drainage",
+      "scope": "Stormwater / Pipe Rehabilitation",
+      "c": "Stormwater / Pipe Rehabilitation",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66061-NONST-2027-000000098&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
+      "u": "2026-08-29T12:32:22Z",
       "x": 32.7,
       "y": -83.3,
       "approx": true,
@@ -782,6 +830,24 @@
       "approx": true,
       "rom": "",
       "u": "2026-08-28T12:30:00Z"
+    },
+    {
+      "state": "IN",
+      "s": "IFB2026012",
+      "n": "CFD Stations Remodel Project",
+      "d": "2026-09-16T14:00:58Z",
+      "p": "2026-08-24T16:42:19Z",
+      "l": "Hamilton County, IN",
+      "scope": "Building Renovation",
+      "c": "Building Renovation",
+      "r": "https://procurement.opengov.com/portal/carmelin/projects/288621",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 40.3,
+      "y": -86.1,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
     },
     {
       "state": "FL",
@@ -874,6 +940,24 @@
       "rom": ""
     },
     {
+      "state": "CT",
+      "s": "202702CONL",
+      "n": "Intersection Improvement / Roundabout Installation - Williams Street and Broad Street",
+      "d": "2026-09-18T18:00:00Z",
+      "p": "2026-08-21T12:25:22Z",
+      "l": "New London County, CT",
+      "scope": "Road / Intersection Construction",
+      "c": "Road / Intersection Construction",
+      "r": "https://procurement.opengov.com/portal/newlondonct/projects/290502",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 41.6,
+      "y": -72.7,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
       "state": "GA",
       "s": "PE70800NONST2027000000046",
       "n": "Heritage Park Trails Rehabilitation & Improvement Project",
@@ -907,7 +991,79 @@
       "y": -80.84,
       "approx": true,
       "rom": "",
-      "u": "2026-08-28T12:30:00Z"
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
+      "state": "MA",
+      "s": "BD191212MWRADITP132487",
+      "n": "MWRA Contract OP-537 Phase 15 Sewer Manhole Rehabilitation",
+      "d": "2026-09-22T18:00:00Z",
+      "p": "2026-08-19T15:00:00Z",
+      "l": "Massachusetts",
+      "scope": "Sewer Rehabilitation",
+      "c": "Sewer Rehabilitation",
+      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-19-1212-MWRA-DITP-132487&external=true&parentUrl=close",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 42.3,
+      "y": -71.8,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE64800NONST2026000000083",
+      "n": "Public Health Building Renovation",
+      "d": "2026-09-22T18:00:00Z",
+      "p": "2026-08-19T14:38:00Z",
+      "l": "Douglas County, GA",
+      "scope": "Building Renovation",
+      "c": "Building Renovation",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-64800-NONST-2026-000000083&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 32.7,
+      "y": -83.3,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE40900RFQ2027000000238",
+      "n": "East Central Regional Hospital Treatment Hall",
+      "d": "2026-09-23T18:00:00Z",
+      "p": "2026-08-20T15:26:00Z",
+      "l": "Georgia",
+      "scope": "Medical Building Construction",
+      "c": "Medical Building Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-40900-RFQ-2027-000000238&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 32.7,
+      "y": -83.3,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
+      "state": "FL",
+      "s": "ITB16728",
+      "n": "Blake Avenue Water Main Improvements - Phase 1",
+      "d": "2026-09-24T14:00:00Z",
+      "p": "2026-08-20T17:56:38Z",
+      "l": "Clay County, FL",
+      "scope": "Water Main Construction",
+      "c": "Water Main Construction",
+      "r": "https://vendor.myfloridamarketplace.com/search/bids/detail/16728",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 28.3,
+      "y": -82.1,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
     },
     {
       "state": "GA",
@@ -926,6 +1082,24 @@
       "approx": true,
       "rom": "",
       "u": "2026-08-28T12:30:00Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE55396NONST2027000000007",
+      "n": "Monroe Area High School & WGHS Baseball Softball Field House Project",
+      "d": "2026-09-24T19:00:00Z",
+      "p": "2026-08-26T17:28:00Z",
+      "l": "Georgia",
+      "scope": "Educational Construction",
+      "c": "Educational Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-55396-NONST-2027-000000007&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 32.7,
+      "y": -83.3,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
     },
     {
       "state": "GA",
@@ -1020,7 +1194,7 @@
     {
       "state": "GA",
       "s": "PE77820NONST2027000000005",
-      "n": "Street & Drainage Improvements – Heritage Hills Road, Morris Road, Mancil Road",
+      "n": "Street & Drainage Improvements - Heritage Hills Road, Morris Road, Mancil Road",
       "d": "2026-10-01T18:00:00Z",
       "p": "2026-08-26T20:23:00Z",
       "l": "Atkinson County, GA",
@@ -1033,7 +1207,43 @@
       "y": -83.3,
       "approx": true,
       "rom": "",
-      "u": "2026-08-28T12:30:00Z"
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE66751NONST2027000000106",
+      "n": "SB010-27 Southlawn Pond Project",
+      "d": "2026-10-01T18:00:00Z",
+      "p": "2026-08-25T20:44:00Z",
+      "l": "Gwinnett County, GA",
+      "scope": "Water / Site Construction",
+      "c": "Water / Site Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66751-NONST-2027-000000106&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 32.7,
+      "y": -83.3,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE66086NONST2027000000012",
+      "n": "Service Line Replacement",
+      "d": "2026-10-01T18:00:00Z",
+      "p": "2026-08-24T13:17:00Z",
+      "l": "Georgia",
+      "scope": "Water / Utility Construction",
+      "c": "Water / Utility Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66086-NONST-2027-000000012&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 32.7,
+      "y": -83.3,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
     },
     {
       "state": "GA",
@@ -1054,6 +1264,42 @@
       "u": "2026-08-28T12:30:00Z"
     },
     {
+      "state": "MA",
+      "s": "BD2710300H1000H002132734",
+      "n": "Bernardston Bridge Replacement Route 10",
+      "d": "2026-10-06T18:00:00Z",
+      "p": "2026-08-24T14:00:10Z",
+      "l": "Bernardston, MA",
+      "scope": "Bridge Construction",
+      "c": "Bridge Construction",
+      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-27-1030-0H100-0H002-132734&external=true&parentUrl=close",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 42.3,
+      "y": -71.8,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE75700NONST2027000000015",
+      "n": "Wilkes County FY 2026 LRA and FY 2027 LMIG Projects",
+      "d": "2026-10-08T14:00:00Z",
+      "p": "2026-08-26T17:43:00Z",
+      "l": "Wilkes County, GA",
+      "scope": "Road / Paving Construction",
+      "c": "Road / Paving Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-75700-NONST-2027-000000015&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 32.7,
+      "y": -83.3,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
+    },
+    {
       "state": "GA",
       "s": "PE60899NONST2027000000083",
       "n": "Resurfacing of Various City Streets",
@@ -1070,6 +1316,24 @@
       "approx": true,
       "rom": "",
       "u": "2026-08-28T12:30:00Z"
+    },
+    {
+      "state": "MA",
+      "s": "BD2710300H1000H002132739",
+      "n": "Andover Bridge Preservation I-93 over Merrimack River",
+      "d": "2026-11-03T19:00:00Z",
+      "p": "2026-08-24T14:12:46Z",
+      "l": "Andover, MA",
+      "scope": "Bridge Construction",
+      "c": "Bridge Construction",
+      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-27-1030-0H100-0H002-132739&external=true&parentUrl=close",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 42.3,
+      "y": -71.8,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-29T12:32:22Z"
     }
   ]
 }

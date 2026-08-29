@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T09:20:56.464Z",
+  "generatedAt": "2026-08-29T12:39:14.992Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "08/30/2025",
@@ -6280,7 +6280,7 @@
       "237990",
       "https://sam.gov/opp/512decbb3da94bfb9ef55ef7c777706c/view",
       1,
-      ""
+      "$5M – $10M"
     ],
     [
       "1e344b8e461a417285633ad960e52ba2",
@@ -6326,12 +6326,12 @@
     "unresolved": 13,
     "locatedTotal": 358,
     "total": 371,
-    "generatedAt": "2026-08-29T09:17:27.417Z"
+    "generatedAt": "2026-08-29T12:36:00.218Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
-    "snapshotGeneratedAt": "2026-08-28T12:30:00Z",
-    "romAdded": 12,
+    "snapshotGeneratedAt": "2026-08-29T12:32:22Z",
+    "romAdded": 13,
     "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice."
   }
 }
