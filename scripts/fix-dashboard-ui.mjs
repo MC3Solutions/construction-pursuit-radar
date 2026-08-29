@@ -12,9 +12,9 @@ const searchBlock=`function searchMatch(o,term){var tokens=norm(term).split(' ')
 h=h.replace(/function filtered\(\)\{[\s\S]*?\}\nfunction render\(\)/,searchBlock+'\nfunction render()');
 
 // Visible Pursuits is a map KPI, so count only records that can actually render as map pins.
-// Cards may still include active records that lack usable coordinates, but they do not inflate the map count.
+// Explicit null checks matter because Number(null) is 0 in JavaScript.
 h=h.replace(/function render\(\)\{[\s\S]*?var activeSources=/,
-  "function render(){now=new Date();currentRows=filtered();var mappableRows=currentRows.filter(function(o){return Number.isFinite(Number(o.x))&&Number.isFinite(Number(o.y))});var vc=$('visibleCount');if(vc)vc.textContent=mappableRows.length;var activeSources=");
+  "function render(){now=new Date();currentRows=filtered();var mappableRows=currentRows.filter(function(o){return o.x!=null&&o.y!=null&&Number.isFinite(Number(o.x))&&Number.isFinite(Number(o.y))});var vc=$('visibleCount');if(vc)vc.textContent=mappableRows.length;var activeSources=");
 
 // Make event binding resilient and explicit; this prevents one missing control from killing keyword search.
 h=h.replace(/\[q,type,status,sort\]\.forEach\(function\(el\)\{el\.addEventListener\(el===q\?'input':'change',render\)\}\);render\(\);/,
