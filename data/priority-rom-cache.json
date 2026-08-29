@@ -226,9 +226,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-01T18:00:00.000Z|RFP-2526-536, Relocation of Single Family Dwelling",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-03T19:00:00.000Z|ITB-COVB-26-101677- Centerville Turnpike Phase II",
       "rom": "",
-      "checkedAt": "2026-08-29T12:44:04.327Z"
+      "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-02T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -236,14 +236,15 @@
       "checkedAt": "2026-08-27T13:43:21.940Z"
     },
     "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/october-2--2026-letting.html": {
-      "stamp": "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/october-2--2026-letting.html|2026-10-02T17:00:00.000Z|October 2, 2026 Letting",
+      "stamp": "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/october-2--2026-letting.html|2026-10-02T15:00:00.000Z|October 2, 2026 Letting",
       "rom": "",
-      "checkedAt": "2026-08-29T12:44:04.327Z"
+      "checkedAt": "2026-08-29T12:50:55.759Z",
+      "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-08-29T12:44:04.327Z",
+      "checkedAt": "2026-08-29T12:50:55.759Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -322,19 +323,19 @@
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-23T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-09T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-08-29T12:44:04.327Z"
+      "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-03T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-08-29T12:44:04.327Z"
+      "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx|2026-09-03T18:00:00.000Z|NCDOT Division 3 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 3 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-08-29T12:44:04.327Z"
+      "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx": {
       "stamp": "https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx|2026-09-15T18:00:00.000Z|NCDOT Central Letting · Advertised",
@@ -351,7 +352,247 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9|2026-09-11T18:00:00.000Z|Sheriff’s Training Center- Boiler & Pumps Replacement",
       "rom": "",
       "checkedAt": "2026-08-28T21:51:45.548Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=eb8ff4e1-be86-f111-ab0f-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=eb8ff4e1-be86-f111-ab0f-001dd80bcb64|2026-09-01T18:00:00.000Z|UNC-Chapel Hill",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=9edef1a8-c486-f111-ab0f-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=9edef1a8-c486-f111-ab0f-001dd80bcb64|2026-08-31T18:00:00.000Z|Project 3050 RTP Campus – RTP Campus Renovations",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=9c02993b-e5a2-f111-b8dc-001dd8084fd9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=9c02993b-e5a2-f111-b8dc-001dd8084fd9|2026-09-02T04:00:00.000Z|Neighborhood Park Redevelopment",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f05b93ba-3090-f111-ab0f-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f05b93ba-3090-f111-ab0f-001dd803db57|2026-09-03T18:00:00.000Z|NC Agricultural and Technical State University",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=4c25d5a2-858b-f111-ab10-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=4c25d5a2-858b-f111-ab10-001dd802e1e9|2026-09-02T18:00:00.000Z|North Carolina Department of Natural and Cultural Resources",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=1612a798-9a95-f111-ab0e-001dd812e0a9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=1612a798-9a95-f111-ab0e-001dd812e0a9|2026-09-02T18:00:00.000Z|NC State University",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=0c0fa966-0c97-f111-ab0f-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=0c0fa966-0c97-f111-ab0f-001dd803db57|2026-09-02T19:00:00.000Z|OWASA.ORG WEBSITE REBUILD",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=d0d9bebc-6996-f111-ab0f-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=d0d9bebc-6996-f111-ab0f-001dd802e1e9|2026-09-03T18:00:00.000Z|Street Rehabilitation Project",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=ef28a6eb-a48a-f111-ab10-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ef28a6eb-a48a-f111-ab10-001dd803db57|2026-09-03T18:00:00.000Z|North Carolina Department of Adult Correction",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=8f9de6a4-f289-f111-ab10-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=8f9de6a4-f289-f111-ab10-001dd80bcb64|2026-09-03T18:00:00.000Z|North Carolina Department of Adult Correction",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=5daa8215-eb9b-f111-8077-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=5daa8215-eb9b-f111-8077-001dd802e1e9|2026-09-04T21:00:00.000Z|UNC-Chapel Hill",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=a0bc89c6-3ea2-f111-b8db-001dd812e0a9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a0bc89c6-3ea2-f111-b8db-001dd812e0a9|2026-09-09T18:00:00.000Z|Department of Transportation Invitation for Bid #54-JB-1260005 Various Trailers",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=a7091f39-6b66-f111-a824-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a7091f39-6b66-f111-a824-001dd803db57|2026-09-04T18:00:00.000Z|RFP Sourcing Event - Provider Data Management_Credentialing Verification Office RFP",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=3f01998c-278c-f111-ab10-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=3f01998c-278c-f111-ab10-001dd80bcb64|2026-09-04T21:00:00.000Z|Section 108 Loan Guarantee Program – Affordable Housing & Economic Development Opportunities",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=69e536c0-eb94-f111-ab0f-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=69e536c0-eb94-f111-ab0f-001dd802e1e9|2026-09-03T19:00:00.000Z|Service Saddles",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=95fd468b-fd8c-f111-ab10-001dd800b811": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=95fd468b-fd8c-f111-ab10-001dd800b811|2026-09-03T19:00:00.000Z|North Carolina Department of Administration",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=e2a65247-468c-f111-ab10-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=e2a65247-468c-f111-ab10-001dd80db495|2026-09-09T18:00:00.000Z|Keihin Auditorium Audio Visual Upgrade",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f0b6e481-30a2-f111-b8dc-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f0b6e481-30a2-f111-b8dc-001dd80db495|2026-09-14T18:00:00.000Z|Stream Debris Removal Streamflow Rehabilitation Assistance Program",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=aa4bde4e-5992-f111-ab0f-001dd80bca2d": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=aa4bde4e-5992-f111-ab0f-001dd80bca2d|2026-09-14T17:00:00.000Z|UNC-Chapel Hill",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=48a41e45-b895-f111-ab0f-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=48a41e45-b895-f111-ab0f-001dd803db57|2026-09-11T18:00:00.000Z|Guilford County-Wide Mobility Blueprint Plan",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=e8036e94-049b-f111-8077-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=e8036e94-049b-f111-8077-001dd803db57|2026-09-10T21:00:00.000Z|NC State University",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=8759dece-4579-f111-ab0e-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=8759dece-4579-f111-ab0e-001dd80bcb64|2026-09-09T18:00:00.000Z|North Carolina Department of Adult Correction",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=2e96cf6b-dda2-f111-b8dc-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=2e96cf6b-dda2-f111-b8dc-001dd803db57|2026-09-14T18:00:00.000Z|19-IFB-2362342761-BJL Madison County ACQ Demo Group 2",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c0200206-cd89-f111-ab10-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c0200206-cd89-f111-ab10-001dd80bcb64|2026-09-09T18:00:00.000Z|4827-0026 Group 3 Batch 1 and 2 And 4827-0046 Buncombe County ACQ Demo Group 1",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=a3ca1da3-9b92-f111-ab0f-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a3ca1da3-9b92-f111-ab0f-001dd80db495|2026-09-14T18:00:00.000Z|Back-up Power Generation System Services and Repairs",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=df24a8b4-1ea2-f111-b8dc-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=df24a8b4-1ea2-f111-b8dc-001dd803db57|2026-09-15T04:00:00.000Z|Waste and Cardboard Compactors",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=4bde460e-c1a0-f111-b8dc-001dd800b811": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=4bde460e-c1a0-f111-b8dc-001dd800b811|2026-09-15T18:00:00.000Z|NC Department of Information Technology",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=666d9f4c-5c92-f111-ab0f-001dd800b811": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=666d9f4c-5c92-f111-ab0f-001dd800b811|2026-09-15T18:00:00.000Z|UNC Greensboro",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=a8e346d5-4996-f111-ab0f-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a8e346d5-4996-f111-ab0f-001dd802e1e9|2026-09-16T18:00:00.000Z|IFB 2026-040 UC EMS Revovation",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=65c2aa6b-0da3-f111-b8dc-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=65c2aa6b-0da3-f111-b8dc-001dd80bcb64|2026-09-17T18:00:00.000Z|Professional Architectural, Engineering Design Services for Track Upgrades for 5 Schools",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c492538a-d79c-f111-8077-001dd800b811": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c492538a-d79c-f111-8077-001dd800b811|2026-09-17T14:00:00.000Z|GoRaleigh Station Restroom Renovation",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c361532d-2098-f111-ab0f-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c361532d-2098-f111-ab0f-001dd80bcb64|2026-09-15T19:00:00.000Z|Pope House Landscape Improvements",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c7a829c6-cc9b-f111-8077-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c7a829c6-cc9b-f111-8077-001dd80bcb64|2026-09-17T17:00:00.000Z|Calcium Nitrate",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=5a40ae2b-3197-f111-ab0f-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=5a40ae2b-3197-f111-ab0f-001dd80db495|2026-09-17T19:00:00.000Z|UNC-Chapel Hill",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=d0deee71-3d8f-f111-ab0f-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=d0deee71-3d8f-f111-ab0f-001dd80bcb64|2026-09-17T19:00:00.000Z|John P. “Top” Greene African American Cultural Center",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=9466b6a2-c39f-f111-b8dc-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=9466b6a2-c39f-f111-b8dc-001dd803db57|2026-09-23T19:00:00.000Z|MASON INLET MAINTENANCE PROJECT",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=be9e3c35-c08a-f111-ab10-001dd800b811": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=be9e3c35-c08a-f111-ab10-001dd800b811|2026-09-17T19:00:00.000Z|NC Department of Natural and Cultural Resources- North Carolina Zoological Park",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f609ab9c-679a-f111-8077-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f609ab9c-679a-f111-8077-001dd802e1e9|2026-09-23T18:00:00.000Z|VIPER NEW BUTNER SITE BUILD",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=2d259ccc-4d9a-f111-8077-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=2d259ccc-4d9a-f111-8077-001dd802e1e9|2026-09-24T18:00:00.000Z|VIPER - NEW CEDAR CREEK SITE BUILD",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=330a04a1-729d-f111-8077-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=330a04a1-729d-f111-8077-001dd80bcb64|2026-09-17T21:00:00.000Z|NC State University",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f9753ef5-fb9f-f111-b8dc-001dd800b811": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f9753ef5-fb9f-f111-b8dc-001dd800b811|2026-09-21T21:00:00.000Z|Cary TV Equipment and Control Room Upgrades and Maintenance",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=463aeacd-5da1-f111-b8dc-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=463aeacd-5da1-f111-b8dc-001dd80db495|2026-09-23T17:00:00.000Z|North Carolina Department of Adult Correction",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=008a7985-7da1-f111-b8dc-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=008a7985-7da1-f111-b8dc-001dd803db57|2026-09-29T15:00:00.000Z|Appalachian State University",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=59083234-bf9f-f111-b8dc-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=59083234-bf9f-f111-b8dc-001dd802e1e9|2026-09-29T19:00:00.000Z|NC Department of Natural and Cultural Resources",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=7c3d4bf7-2aa2-f111-b8dc-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=7c3d4bf7-2aa2-f111-b8dc-001dd80bcb64|2026-10-07T20:00:00.000Z|NCDA&CS - Request for proposals for the operation and management of a 6,764-square-foot Modernized and renovated restaurant facility in Greensboro.",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=5e84d7a8-9696-f111-ab0f-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=5e84d7a8-9696-f111-ab0f-001dd803db57|2026-09-30T18:00:00.000Z|Offender Management System (OMS)",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=45f88098-60a1-f111-b8dc-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=45f88098-60a1-f111-b8dc-001dd80db495|2026-09-30T18:00:00.000Z|Wilkes Community College-RE-BID",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9|2026-10-19T17:00:00.000Z|GoRaleigh Operations and Maintenance Facility Expansion",
+      "rom": "",
+      "checkedAt": "2026-08-29T12:50:55.759Z"
     }
   },
-  "generatedAt": "2026-08-29T12:44:04.327Z"
+  "generatedAt": "2026-08-29T12:50:55.759Z"
 }
