@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-29T12:32:22Z",
+  "generatedAt": "2026-08-30T13:02:15Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
-    "rawFederalMatches": 116,
-    "rawSledMatches": 334,
-    "curatedSledRecords": 66,
+    "rawFederalMatches": 115,
+    "rawSledMatches": 311,
+    "curatedSledRecords": 68,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only."
   },
   "federalEnrichment": [
@@ -144,6 +144,26 @@
     {
       "solicitation": "DKGV-1137999",
       "rom": "$1M – $5M"
+    },
+    {
+      "solicitation": "36C78626B0005",
+      "rom": "$5M – $10M"
+    },
+    {
+      "solicitation": "W9123726BA014",
+      "rom": "$5M – $10M"
+    },
+    {
+      "solicitation": "36C24226B0074",
+      "rom": "$1M – $5M"
+    },
+    {
+      "solicitation": "36C24226B0081",
+      "rom": "$20M – $50M"
+    },
+    {
+      "solicitation": "W912DS26BA014",
+      "rom": "$25M – $100M"
     }
   ],
   "records": [
@@ -928,14 +948,14 @@
       "d": "2026-09-18T18:00:00Z",
       "p": "2026-08-06T23:30:00Z",
       "l": "Monroe County, PA",
-      "scope": "Water / Sewer Infrastructure",
-      "c": "Water / Sewer Infrastructure",
+      "scope": "Wastewater Treatment Construction",
+      "c": "Wastewater Treatment Construction",
       "r": "https://pennbid.bonfirehub.com/opportunities/247986",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
-      "x": 40.9,
-      "y": -77.8,
+      "u": "2026-08-30T13:02:15Z",
+      "x": 41,
+      "y": -75.3,
       "approx": true,
       "rom": ""
     },
@@ -1138,6 +1158,24 @@
       "rom": ""
     },
     {
+      "state": "MD",
+      "s": "113582",
+      "n": "Anacostia II Wastewater Pumping Station Surge Tanks Removal",
+      "d": "2026-09-30T18:00:00Z",
+      "p": "2026-08-19T16:50:04Z",
+      "l": "Prince George's County, MD",
+      "scope": "Wastewater / Pump Station Construction",
+      "c": "Wastewater / Pump Station Construction",
+      "r": "https://procurement.opengov.com/portal/wsscwater/projects/290330",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 38.8,
+      "y": -76.8,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-30T13:02:15Z"
+    },
+    {
       "state": "GA",
       "s": "PE77023NONST2027000000712",
       "n": "Gwinnett County Fire Station #3 Relocation",
@@ -1190,6 +1228,24 @@
       "approx": true,
       "rom": "",
       "u": "2026-08-28T12:30:00Z"
+    },
+    {
+      "state": "MD",
+      "s": "27002",
+      "n": "MWWTP Effluent FM Surge & Transient Design Build Services (UN 1282)",
+      "d": "2026-10-01T15:00:00Z",
+      "p": "2026-08-13T17:27:04Z",
+      "l": "Charles County, MD",
+      "scope": "Water / Sewer Design-Build",
+      "c": "Water / Sewer Design-Build",
+      "r": "https://procurement.opengov.com/portal/charlescountymd/projects/268896",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 38.5,
+      "y": -77,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-30T13:02:15Z"
     },
     {
       "state": "GA",
