@@ -13,14 +13,30 @@ h=h.replace(/<div><label for="type">Notice Type<\/label><select id="type">[\s\S]
 h=h.replace(/<div><label for="status">Status<\/label><select id="status">[\s\S]*?<\/select><\/div>/,
   '<div><label>Status</label><details class="multiFilter"><summary>All statuses</summary><div class="multiMenu" id="status"></div></details></div>');
 
-// Replace same-day "new" logic with a rolling seven-day release window.
+// Released is based only on the original posted/release timestamp.
 h=h.replace(/function isNew\(o\)\{return String\(o\.p\|\|''\)\.slice\(0,10\)===SNAP\}/,
   "function isReleased7(o){var p=new Date(o.p||0);if(Number.isNaN(p.getTime()))return false;var age=(now-p)/86400000;return age>=0&&age<=7}");
+h=h.replace(/function isReleased7\(o\)\{[^}]+\}/,
+  "function isReleased7(o){var p=new Date(o.p||0);if(Number.isNaN(p.getTime()))return false;var age=(now-p)/86400000;return age>=0&&age<=7}");
 h=h.replace(/isNew\(o\)/g,'isReleased7(o)');
+
+// Changed Today is a separate signal. An unchanged newly released record is NOT changed merely
+// because the source gives posted and updated timestamps on the same day. The update timestamp
+// must be later than the posted timestamp and must fall on today's calendar date.
+h=h.replace(/function isChanged\(o\)\{[^}]+\}/,
+  "function isChanged(o){var p=new Date(o.p||0),u=new Date(o.u||0);if(Number.isNaN(u.getTime())||Number.isNaN(p.getTime()))return false;if(u.getTime()<=p.getTime())return false;return String(o.u||'').slice(0,10)===SNAP}");
 
 // Keep dot and badge wording aligned with the rolling release state.
 h=h.replace(/<span class="badge new">New<\/span>/g,'<span class="badge new">Released ≤ 7 Days</span>');
 h=h.replace(/<span class="dot green"><\/span>New<\/div>/g,'<span class="dot green"></span>Released ≤ 7 Days</div>');
+
+// Updated projects take amber precedence over the green release window, except urgent due dates
+// remain red. A project may legitimately carry both Released and Changed badges if it was released
+// recently and then actually modified afterward.
+h=h.replace(/function color\(o\)\{return[^}]+\}/,
+  "function color(o){return dueSoon(o)?'#be123c':isChanged(o)?'#b45309':isReleased7(o)?'#047857':'#2563eb'}");
+h=h.replace(/function badges\(o\)\{[^}]+\}/,
+  "function badges(o){var s='<span class=\"badge source\">'+esc(o.sourceLabel)+'</span><span class=\"badge\">'+esc(o.state)+'</span><span class=\"badge\">'+esc(o.set)+'</span>';if(dueSoon(o))s+='<span class=\"badge due\">Due soon</span>';if(isReleased7(o))s+='<span class=\"badge new\">Released ≤ 7 Days</span>';if(isChanged(o))s+='<span class=\"badge changed\">Changed Today</span>';return s}");
 
 // Build Notice Type and Status multi-select choices. Selected statuses are OR'ed together.
 h=h.replace(/addOptions\(type,Array\.from\(new Set\(data\.map\(function\(o\)\{return o\.t\}\)\.filter\(Boolean\)\)\)\.sort\(\)\);/,
@@ -48,4 +64,4 @@ h=h.replace(/function card\(o\)\{[\s\S]*?\}\nfunction searchMatch/,
   "function card(o){var scopePrefix=/^\\d{6}$/.test(String(o.c||''))?'<b>NAICS:</b> ':'<b>Scope:</b> ',romLine=o.rom?'<br><b>ROM:</b> '+esc(o.rom):'';return'<article class=\"card\"><div class=\"project-name\">'+esc(o.n)+'</div><div class=\"badges\">'+badges(o)+'</div><div class=\"meta\">'+esc(o.l)+(o.approx?' <em>(map pin approximate)</em>':'')+'<br>'+scopePrefix+esc(o.c||'')+(o.scope&&o.scope!==o.c?' · '+esc(o.scope):'')+romLine+'<br><b>Due:</b> '+esc(fmtDate(o.d))+' · <b>Solicitation:</b> '+esc(o.s)+'<br><b>Posted:</b> '+esc(String(o.p||'').slice(0,10))+'</div><a class=\"open\" href=\"'+esc(o.r)+'\" target=\"_blank\" rel=\"noopener\">Open source ↗</a></article>'}\nfunction searchMatch");
 
 fs.writeFileSync(file,h);
-console.log('Dashboard UI repaired: Notice Type and Status are multi-select; Released ≤ 7 Days is rolling; green dots age to blue after seven days; one map-aligned KPI remains.');
+console.log('Dashboard UI repaired: released and changed states are independent; Notice Type and Status are multi-select; green ages to blue after seven days; actual later updates render amber; one map-aligned KPI remains.');
