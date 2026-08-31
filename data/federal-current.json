@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-08-30T13:06:42.326Z",
+  "generatedAt": "2026-08-31T09:20:24.795Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
-    "postedFrom": "08/31/2025",
-    "postedTo": "08/30/2026",
-    "rdlfrom": "08/30/2026",
-    "rdlto": "08/29/2027"
+    "postedFrom": "09/01/2025",
+    "postedTo": "08/31/2026",
+    "rdlfrom": "08/31/2026",
+    "rdlto": "08/30/2027"
   },
-  "total": 370,
+  "total": 367,
   "records": [
-    [
-      "937b3434cd974a758dec0ddcd2c36310",
-      "70Z03026QCLEV00530",
-      "70Z03026QCLEV0053- USCG STATION ST. IGNACE REPLACEMENT SHOWER STALL",
-      "Combined Synopsis/Solicitation",
-      "No Set aside used",
-      "2026-08-18T00:00:00.000Z",
-      "2026-08-30T19:00:00.000Z",
-      "2026-08-18T00:00:00.000Z",
-      "Saint Ignace, MI, 49781",
-      46.012584,
-      -84.724288,
-      "238220",
-      "https://sam.gov/opp/937b3434cd974a758dec0ddcd2c36310/view",
-      1,
-      ""
-    ],
     [
       "b7b6433f707543c9920e45a01cef3631",
       "36C24626Q0576",
@@ -159,23 +142,6 @@
       -76.915265,
       "236220",
       "https://sam.gov/opp/6b1d173fa83a4fa7996b64f31e2f464c/view",
-      1,
-      ""
-    ],
-    [
-      "7e449d681b0541b8841a39b91d30ea34",
-      "61320626Q0026",
-      "NETWORK CABLING INSTALLATION",
-      "Solicitation",
-      "No Set aside used",
-      "2026-08-28T00:00:00.000Z",
-      "2026-08-31T16:00:00.000Z",
-      "2026-08-28T00:00:00.000Z",
-      "Washington, DC, 20226",
-      38.878524,
-      -76.995688,
-      "238210",
-      "https://sam.gov/opp/7e449d681b0541b8841a39b91d30ea34/view",
       1,
       ""
     ],
@@ -5144,23 +5110,6 @@
       "$20,000,000.00 – $50,000,000.00"
     ],
     [
-      "47d38a60f13c41e1888d5c5b28042667",
-      "W912EK26BA017",
-      "88TH RD US ARMY RESERVE CENTER ARLINGTON HEIGHTS, IL WATER INFRASTRUCTURE IMPROVEMENTS- SOLICITATION",
-      "Solicitation",
-      "8(a) Set-Aside (FAR 19.8)",
-      "2026-08-18T00:00:00.000Z",
-      "2026-09-16T16:00:00.000Z",
-      "2026-08-18T00:00:00.000Z",
-      "Arlington Heights, IL, 60005",
-      42.045846,
-      -88.009559,
-      "237110",
-      "https://sam.gov/opp/47d38a60f13c41e1888d5c5b28042667/view",
-      1,
-      ""
-    ],
-    [
       "5a510b8140c645948fcb15d23ca5e8fd",
       "36C25226B0038",
       "Z1DA--550-27-111 B58 Roof Repair",
@@ -6304,12 +6253,12 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 319,
+    "zipLocated": 316,
     "cityLocated": 38,
     "unresolved": 13,
-    "locatedTotal": 357,
-    "total": 370,
-    "generatedAt": "2026-08-30T13:03:21.563Z"
+    "locatedTotal": 354,
+    "total": 367,
+    "generatedAt": "2026-08-31T09:17:20.812Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
