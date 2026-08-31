@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 107,
     "rawSledMatches": 33,
-    "curatedSledRecords": 73,
+    "curatedSledRecords": 72,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
   },
   "federalEnrichment": [
@@ -167,24 +167,6 @@
     }
   ],
   "records": [
-    {
-      "state": "GA",
-      "s": "PE76110NONST2027000000146",
-      "n": "Roof Replacement (Demolition, Rough Carpentry and Roofing)",
-      "d": "2026-08-31T16:00:00Z",
-      "p": "2026-08-14T17:50:00Z",
-      "l": "Atlanta, GA",
-      "scope": "Building / Renovation",
-      "c": "Building / Renovation",
-      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-76110-NONST-2027-000000146&sourceSystemType=gpr20",
-      "type": "State / Local",
-      "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
-      "x": 32.7,
-      "y": -83.3,
-      "approx": true,
-      "rom": ""
-    },
     {
       "state": "FL",
       "s": "26RFQ013",
