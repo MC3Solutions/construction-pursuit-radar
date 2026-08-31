@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T09:20:24.795Z",
+  "generatedAt": "2026-08-31T12:49:20.551Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "09/01/2025",
@@ -7,42 +7,8 @@
     "rdlfrom": "08/31/2026",
     "rdlto": "08/30/2027"
   },
-  "total": 367,
+  "total": 365,
   "records": [
-    [
-      "b7b6433f707543c9920e45a01cef3631",
-      "36C24626Q0576",
-      "J045--Terminate - Isolate 8-inch Steam  Pipeline",
-      "Solicitation",
-      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-24T00:00:00.000Z",
-      "2026-08-31T11:00:00.000Z",
-      "2026-08-24T00:00:00.000Z",
-      "Fayetteville, NC, 28301",
-      35.052048,
-      -78.892591,
-      "237110",
-      "https://sam.gov/opp/b7b6433f707543c9920e45a01cef3631/view",
-      1,
-      ""
-    ],
-    [
-      "042c870ef86b4b86864510032fb1da39",
-      "70Z03926QCGA00050",
-      "Temporary Sewer Line at Coast Guard Academy",
-      "Combined Synopsis/Solicitation",
-      "No Set aside used",
-      "2026-08-11T00:00:00.000Z",
-      "2026-08-31T12:00:00.000Z",
-      "2026-08-11T00:00:00.000Z",
-      "New London, CT, 06320",
-      41.379232,
-      -72.096929,
-      "237110",
-      "https://sam.gov/opp/042c870ef86b4b86864510032fb1da39/view",
-      1,
-      ""
-    ],
     [
       "09a1896ed83a4cf48889edff40151102",
       "N0018926QL342",
@@ -925,7 +891,7 @@
       "236220",
       "https://sam.gov/opp/6cc8d21a11bd4b5aae2e40c1a4d13aa8/view",
       1,
-      "$250K – $500K"
+      "$250K - $500K"
     ],
     [
       "ef398402f7724f289b7e552586ddf61d",
@@ -1622,7 +1588,7 @@
       "236220",
       "https://sam.gov/opp/a140f60a66b6441bbaf00abd60a5f19c/view",
       1,
-      "$100K – $250K"
+      "$100K - $250K"
     ],
     [
       "c1c6fd4f1e344e3a98d12129e88c54fe",
@@ -2744,7 +2710,7 @@
       "237310",
       "https://sam.gov/opp/eae7d9ac63d6455faea45d812b4a4198/view",
       1,
-      "$1M – $5M"
+      "$1M - $5M"
     ],
     [
       "ee7ebc3335b248af9a2b801ae4af4d73",
@@ -3169,7 +3135,7 @@
       "237310",
       "https://sam.gov/opp/4c734b75d4254f9199864e53f13f0aba/view",
       1,
-      "$1M – $5M"
+      "$1M - $5M"
     ],
     [
       "b3c68ae9b6604bbbaa785bc714bcdad5",
@@ -4087,7 +4053,7 @@
       "236220",
       "https://sam.gov/opp/0b44ff305a684387b1362bac8eda2dde/view",
       1,
-      "$1.25M – $1.75M"
+      "Published project budget: $1.25M - $1.75M"
     ],
     [
       "78eebc3b1ee24ba492ba19dd96cde41e",
@@ -4665,7 +4631,7 @@
       "237310",
       "https://sam.gov/opp/bcee43ef8e20479f9f92a4842bc2d348/view",
       1,
-      "$500K – $1M"
+      "$500K - $1M"
     ],
     [
       "4a74b881b8484186b1e818b53c8ab7e2",
@@ -4920,7 +4886,7 @@
       "237110",
       "https://sam.gov/opp/5215a05ca087427c97fc6d20f34bb0f5/view",
       1,
-      "$5M – $10M"
+      "$5M - $10M"
     ],
     [
       "29980196d4b3433a94875bcdff66f1cd",
@@ -5280,19 +5246,19 @@
       ""
     ],
     [
-      "c76f10dd93304d7baf3e1d04f6ebc71c",
+      "87d9fcb0585e449a9e64bf4f5f2dc0b2",
       "FA448426Q0017",
       "Joint Base MDL - Kitchen Exhaust Hood Maintenance",
       "Combined Synopsis/Solicitation",
       "8(a) Set-Aside (FAR 19.8)",
-      "2026-08-27T00:00:00.000Z",
+      "2026-08-31T00:00:00.000Z",
       "2026-09-17T16:00:00.000Z",
-      "2026-08-27T00:00:00.000Z",
+      "2026-08-31T00:00:00.000Z",
       "0, NJ, 08641",
-      40.240805,
-      -74.746654,
+      40.199431,
+      -74.746335,
       "238220",
-      "https://sam.gov/opp/c76f10dd93304d7baf3e1d04f6ebc71c/view",
+      "https://sam.gov/opp/87d9fcb0585e449a9e64bf4f5f2dc0b2/view",
       1,
       ""
     ],
@@ -5331,19 +5297,19 @@
       ""
     ],
     [
-      "f6819caa0d0f42879656f3ea88977cdf",
+      "1267d15b7c2f4ddb8b485c9619d7eeac",
       "36C78626B0005",
       "NAICS 237990 PSC Y1PZ--CONS: 909CM3030 Fort Custer NC - Cemetery Expansion and Site  Improvements (VA-26-00046764)",
       "Solicitation",
       "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-31T00:00:00.000Z",
       "2026-09-17T18:00:00.000Z",
-      "2026-08-19T00:00:00.000Z",
+      "2026-08-31T00:00:00.000Z",
       "MI, 49012",
-      42.383489,
-      -85.366679,
+      42.330319,
+      -85.339,
       "237990",
-      "https://sam.gov/opp/f6819caa0d0f42879656f3ea88977cdf/view",
+      "https://sam.gov/opp/1267d15b7c2f4ddb8b485c9619d7eeac/view",
       1,
       "$5M – $10M"
     ],
@@ -5518,19 +5484,19 @@
       ""
     ],
     [
-      "3b706c5ff3f347fca1bb4e2b0e768683",
+      "451ee1c784fc41758f2b63c90cdfbe76",
       "FA665626R0006",
       "REPAIR LIVE FIRE TRAINING FACILITY AIRCRAFT MOCK-UP",
       "Solicitation",
       "SBA Certified Women-Owned Small Business (WOSB) Program Set-Aside (FAR 19.15)",
-      "2026-08-27T00:00:00.000Z",
+      "2026-08-31T00:00:00.000Z",
       "2026-09-21T14:00:00.000Z",
-      "2026-08-27T00:00:00.000Z",
+      "2026-08-31T00:00:00.000Z",
       "Vienna, OH, 44473",
-      41.223499,
-      -80.654895,
+      41.210757,
+      -80.671689,
       "236220",
-      "https://sam.gov/opp/3b706c5ff3f347fca1bb4e2b0e768683/view",
+      "https://sam.gov/opp/451ee1c784fc41758f2b63c90cdfbe76/view",
       1,
       ""
     ],
@@ -5702,7 +5668,7 @@
       "236220",
       "https://sam.gov/opp/2eac3145169244a5a6370d628d487aa7/view",
       1,
-      "$5M – $10M"
+      "$5M - $10M"
     ],
     [
       "12ca925703334172a984e57b8618e7c4",
@@ -5940,7 +5906,7 @@
       "237110",
       "https://sam.gov/opp/92d69d10bebd4023854d6c6a70e3c506/view",
       1,
-      "$10M – $20M"
+      "$10M - $20M"
     ],
     [
       "f46186008fd74b78a4b34dda5272802e",
@@ -6093,7 +6059,7 @@
       "237990",
       "https://sam.gov/opp/b986eb6cb4774f609b3edf4c376a80c0/view",
       1,
-      "$5M – $10M"
+      "$5M - $10M"
     ],
     [
       "78254f27266a4bd98e6fe70e7545fed8",
@@ -6212,7 +6178,7 @@
       "237990",
       "https://sam.gov/opp/512decbb3da94bfb9ef55ef7c777706c/view",
       1,
-      "$5M – $10M"
+      "$5M - $10M"
     ],
     [
       "1e344b8e461a417285633ad960e52ba2",
@@ -6253,17 +6219,17 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 316,
+    "zipLocated": 314,
     "cityLocated": 38,
     "unresolved": 13,
-    "locatedTotal": 354,
-    "total": 367,
-    "generatedAt": "2026-08-31T09:17:20.812Z"
+    "locatedTotal": 352,
+    "total": 365,
+    "generatedAt": "2026-08-31T12:46:10.663Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
-    "snapshotGeneratedAt": "2026-08-30T13:02:15Z",
+    "snapshotGeneratedAt": "2026-08-31T20:00:00Z",
     "romAdded": 14,
-    "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice."
+    "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice. IDIQ/MACC ceilings and contract capacities are excluded."
   }
 }

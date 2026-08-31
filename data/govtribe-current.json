@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-30T13:02:15Z",
+  "generatedAt": "2026-08-31T20:00:00Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
-    "rawFederalMatches": 115,
-    "rawSledMatches": 311,
-    "curatedSledRecords": 68,
-    "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only."
+    "rawFederalMatches": 107,
+    "rawSledMatches": 33,
+    "curatedSledRecords": 73,
+    "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
   },
   "federalEnrichment": [
     {
@@ -19,11 +19,11 @@
     },
     {
       "solicitation": "12445226Q0033",
-      "rom": "$1M – $5M"
+      "rom": "$1M - $5M"
     },
     {
       "solicitation": "W912P626BA028",
-      "rom": "$1M – $5M"
+      "rom": "$1M - $5M"
     },
     {
       "solicitation": "W912DS26BA024",
@@ -35,19 +35,19 @@
     },
     {
       "solicitation": "12445226Q0042",
-      "rom": "$5M – $10M"
+      "rom": "$5M - $10M"
     },
     {
       "solicitation": "12445226Q0046",
-      "rom": "$1M – $5M"
+      "rom": "$1M - $5M"
     },
     {
       "solicitation": "N6660426R0163",
-      "rom": "$5M – $10M"
+      "rom": "$5M - $10M"
     },
     {
       "solicitation": "W912HN26BA005",
-      "rom": "$10M – $25M"
+      "rom": "$10M - $25M"
     },
     {
       "solicitation": "70Z0G126BSNNESW01",
@@ -71,11 +71,11 @@
     },
     {
       "solicitation": "W50S9B26BA003",
-      "rom": "$1M – $5M"
+      "rom": "$1M - $5M"
     },
     {
       "solicitation": "FA302226R0022",
-      "rom": "$250K – $500K"
+      "rom": "$250K - $500K"
     },
     {
       "solicitation": "FA301026R0010",
@@ -87,63 +87,59 @@
     },
     {
       "solicitation": "W911WN26BA011",
-      "rom": "$1M – $5M"
+      "rom": "$1M - $5M"
     },
     {
       "solicitation": "W912EE26BA006",
-      "rom": "$1M – $5M"
+      "rom": "$1M - $5M"
     },
     {
       "solicitation": "W50S9F26BA011",
-      "rom": "$1.25M – $1.75M"
+      "rom": "Published project budget: $1.25M - $1.75M"
     },
     {
       "solicitation": "W912HP26RA026",
-      "rom": "$5M – $10M"
+      "rom": "$5M - $10M"
     },
     {
       "solicitation": "W50S8V-26-Q-0025",
-      "rom": "$500K – $1M"
+      "rom": "$500K - $1M"
     },
     {
       "solicitation": "W911QY26RA025",
-      "rom": "$2.5M – $3M"
+      "rom": "$2.5M - $3M"
     },
     {
       "solicitation": "FA480326B0010",
-      "rom": "$5M – $10M"
+      "rom": "$5M - $10M"
     },
     {
       "solicitation": "W911SA26BA008",
-      "rom": "$1M – $5M"
+      "rom": "$1M - $5M"
     },
     {
       "solicitation": "36C24626B0031",
-      "rom": "$10M – $20M"
+      "rom": "$10M - $20M"
     },
     {
       "solicitation": "W912PM26RA04",
-      "rom": "$5M – $10M"
+      "rom": "$5M - $10M"
     },
     {
       "solicitation": "FA302226R00023",
-      "rom": "$100K – $250K"
+      "rom": "$100K - $250K"
     },
     {
       "solicitation": "12445526Q0126",
       "rom": "Under $25K"
     },
     {
-      "solicitation": "W911SA26BA006",
-      "rom": "Over $10M"
-    },
-    {
       "solicitation": "W91236-26-B-1AVX",
-      "rom": "$5M – $10M"
+      "rom": "$5M - $10M"
     },
     {
       "solicitation": "DKGV-1137999",
-      "rom": "$1M – $5M"
+      "rom": "$1M - $5M"
     },
     {
       "solicitation": "36C78626B0005",
@@ -164,6 +160,10 @@
     {
       "solicitation": "W912DS26BA014",
       "rom": "$25M – $100M"
+    },
+    {
+      "solicitation": "36C24226Q0853_0",
+      "rom": "$25K - $100K"
     }
   ],
   "records": [
@@ -346,6 +346,24 @@
       "y": -82.1,
       "approx": true,
       "rom": ""
+    },
+    {
+      "state": "FL",
+      "s": "CC727826NBM",
+      "n": "3500 Sanford Avenue Housing - Residential Grinder Lift Station",
+      "d": "2026-09-02T18:00:00Z",
+      "p": "2026-08-21T15:54:24Z",
+      "l": "Sanford, FL",
+      "scope": "Wastewater / Lift Station Construction",
+      "c": "Wastewater / Lift Station Construction",
+      "r": "https://procurement.opengov.com/portal/seminolefl/projects/277269",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 28.8,
+      "y": -81.27,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-31T20:00:00Z"
     },
     {
       "state": "FL",
@@ -690,6 +708,24 @@
       "u": "2026-08-28T12:30:00Z"
     },
     {
+      "state": "WV",
+      "s": "CRFQ0310DNR27000000031",
+      "n": "Cacapon State Park New Sewage Lift Station",
+      "d": "2026-09-10T22:30:00Z",
+      "p": "2026-07-31T04:00:00Z",
+      "l": "Cacapon State Park, WV",
+      "scope": "Wastewater / Lift Station Construction",
+      "c": "Wastewater / Lift Station Construction",
+      "r": "https://prd311.wvoasis.gov/PRDVSS1X1ERP/Advantage4",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 39.51,
+      "y": -78.3,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-31T20:00:00Z"
+    },
+    {
       "state": "GA",
       "s": "PE66249NONST2027000000115",
       "n": "Stallings Lift Station & Force Main Improvements",
@@ -713,13 +749,13 @@
       "n": "777 Pump Station Improvement Project",
       "d": "2026-09-11T15:00:00Z",
       "p": "2026-07-29T19:00:00Z",
-      "l": "Fairfield County, CT",
-      "scope": "Water / Sewer Infrastructure",
-      "c": "Water / Sewer Infrastructure",
+      "l": "Connecticut",
+      "scope": "Water / Wastewater Pump Station Construction",
+      "c": "Water / Wastewater Pump Station Construction",
       "r": "https://webprocure.proactiscloud.com/wp-web-public/en/#/bidboard/bid/144826?pagenumber=1&customerid=51&oid=149300&shorBy=r",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
+      "u": "2026-08-31T20:00:00Z",
       "x": 41.6,
       "y": -72.7,
       "approx": true,
@@ -924,6 +960,24 @@
       "rom": ""
     },
     {
+      "state": "IL",
+      "s": "261504070",
+      "n": "CMAR for Renovation and Repair of the Facade and Basement Levels of the County Building at 118 North Clark",
+      "d": "2026-09-16T20:00:00Z",
+      "p": "2026-08-04T02:00:00Z",
+      "l": "Chicago, IL",
+      "scope": "CMAR / Building Renovation",
+      "c": "CMAR / Building Renovation",
+      "r": "https://cookcountyil.bonfirehub.com/opportunities/230675",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 41.88,
+      "y": -87.63,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-31T20:00:00Z"
+    },
+    {
       "state": "GA",
       "s": "PE77129NONST2027000000075",
       "n": "Hall County Jail Roof Replacement",
@@ -942,9 +996,27 @@
       "u": "2026-08-28T12:30:00Z"
     },
     {
+      "state": "KY",
+      "s": "RFP78527000000521",
+      "n": "RFP-48-27 CM/GC KSU Health Sciences Center",
+      "d": "2026-09-17T22:30:00Z",
+      "p": "2026-08-17T04:00:00Z",
+      "l": "Kentucky",
+      "scope": "CM/GC / Educational Building Construction",
+      "c": "CM/GC / Educational Building Construction",
+      "r": "https://vss.ky.gov/vssprod-ext/Advantage4",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 38.2,
+      "y": -84.88,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-31T20:00:00Z"
+    },
+    {
       "state": "PA",
       "s": "SKYTOPLODGEINCMONROECOUNTY",
-      "n": "Skytop Lodge Sewage Treatment Plant Improvements Project – Contract 2026-01",
+      "n": "Skytop Lodge Sewage Treatment Plant Improvements Project - Contract 2026-01",
       "d": "2026-09-18T18:00:00Z",
       "p": "2026-08-06T23:30:00Z",
       "l": "Monroe County, PA",
@@ -953,7 +1025,7 @@
       "r": "https://pennbid.bonfirehub.com/opportunities/247986",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-30T13:02:15Z",
+      "u": "2026-08-31T20:00:00Z",
       "x": 41,
       "y": -75.3,
       "approx": true,
@@ -994,6 +1066,24 @@
       "approx": true,
       "rom": "",
       "u": "2026-08-28T12:30:00Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE55519NONST2027000000003",
+      "n": "Construction Manager at Risk (CMAR) Services",
+      "d": "2026-09-21T21:00:00Z",
+      "p": "2026-08-20T17:05:00Z",
+      "l": "Georgia",
+      "scope": "CMAR / Educational Building Construction",
+      "c": "CMAR / Educational Building Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-55519-NONST-2027-000000003&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "x": 33.75,
+      "y": -84.39,
+      "approx": true,
+      "rom": "",
+      "u": "2026-08-31T20:00:00Z"
     },
     {
       "state": "NC",
@@ -1145,15 +1235,15 @@
       "n": "Rehabilitation of Lift Station 13, 51, and 58",
       "d": "2026-09-30T18:00:00Z",
       "p": "2026-08-12T13:12:06Z",
-      "l": "Pinellas County, FL",
-      "scope": "Water / Sewer Infrastructure",
-      "c": "Water / Sewer Infrastructure",
+      "l": "Clearwater, FL",
+      "scope": "Wastewater / Lift Station Rehabilitation",
+      "c": "Wastewater / Lift Station Rehabilitation",
       "r": "https://procurement.opengov.com/portal/myclearwater/projects/288231",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
-      "x": 28.3,
-      "y": -82.1,
+      "u": "2026-08-31T20:00:00Z",
+      "x": 27.97,
+      "y": -82.8,
       "approx": true,
       "rom": ""
     },
@@ -1173,7 +1263,7 @@
       "y": -76.8,
       "approx": true,
       "rom": "",
-      "u": "2026-08-30T13:02:15Z"
+      "u": "2026-08-31T20:00:00Z"
     },
     {
       "state": "GA",
@@ -1245,7 +1335,7 @@
       "y": -77,
       "approx": true,
       "rom": "",
-      "u": "2026-08-30T13:02:15Z"
+      "u": "2026-08-31T20:00:00Z"
     },
     {
       "state": "GA",
