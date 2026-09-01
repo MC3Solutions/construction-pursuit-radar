@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T09:27:38.316Z",
+  "generatedAt": "2026-09-01T09:57:13.376Z",
   "total": 660,
   "sources": {
     "EVA": {
@@ -54,7 +54,7 @@
       "label": "VDOT CABB",
       "status": "OK",
       "count": 13,
-      "checkedAt": "2026-09-01T09:25:27.912Z",
+      "checkedAt": "2026-09-01T09:56:58.739Z",
       "message": "13 future VDOT CABB highway advertisements parsed.",
       "stale": false
     },
@@ -62,7 +62,7 @@
       "label": "NCDOT",
       "status": "PARTIAL",
       "count": 7,
-      "checkedAt": "2026-09-01T09:25:41.421Z",
+      "checkedAt": "2026-09-01T09:57:13.376Z",
       "message": "Direct browser extraction was blocked; loaded 7 currently advertised September NCDOT lettings from verified public NCDOT letting pages as a dated fallback.",
       "stale": false,
       "fallback": true
