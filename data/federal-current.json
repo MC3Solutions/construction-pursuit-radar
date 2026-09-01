@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T09:27:38.316Z",
+  "generatedAt": "2026-09-01T12:52:10.063Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "09/02/2025",
@@ -7,42 +7,8 @@
     "rdlfrom": "09/01/2026",
     "rdlto": "08/31/2027"
   },
-  "total": 349,
+  "total": 348,
   "records": [
-    [
-      "7878d51078f94d9e8104474be7d02479",
-      "70Z03926QCGA00032",
-      "Replace Garage Doors",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-20T00:00:00.000Z",
-      "2026-09-01T12:00:00.000Z",
-      "2026-08-20T00:00:00.000Z",
-      "CT, 06320",
-      41.356496,
-      -72.107753,
-      "238290",
-      "https://sam.gov/opp/7878d51078f94d9e8104474be7d02479/view",
-      1,
-      ""
-    ],
-    [
-      "6a960b298f744a8aadc3d2ecebb5aee5",
-      "70Z03926QCGA00033",
-      "In-Kind replacement Consolidated Club door",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-27T00:00:00.000Z",
-      "2026-09-01T12:00:00.000Z",
-      "2026-08-27T00:00:00.000Z",
-      "New London, CT, 06320",
-      41.343284,
-      -72.129025,
-      "238350",
-      "https://sam.gov/opp/6a960b298f744a8aadc3d2ecebb5aee5/view",
-      1,
-      ""
-    ],
     [
       "f1c05ff8675044eba84bc3628f7b6ee9",
       "W50S9B26BA003",
@@ -2713,6 +2679,23 @@
       ""
     ],
     [
+      "5f27f6aa1e8e4bd9bfde9af99afe83eb",
+      "36C24126Q0792",
+      "J041--Condensate Pump Replacements",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-01T00:00:00.000Z",
+      "2026-09-09T14:00:00.000Z",
+      "2026-09-01T00:00:00.000Z",
+      "West Haven, CT, 06516",
+      41.270519,
+      -72.975793,
+      "238220",
+      "https://sam.gov/opp/5f27f6aa1e8e4bd9bfde9af99afe83eb/view",
+      1,
+      ""
+    ],
+    [
       "d6f4c3c2ff934af58cfb2fa861c67d5a",
       "36C24626B0028",
       "Y1DA--Replace Air Handling Units in  Building 42",
@@ -2832,6 +2815,23 @@
       ""
     ],
     [
+      "f833507441e942d8aa4674b03963ca5a",
+      "N400857559998",
+      "Well #11 - Well, Rehabilitation, and Pump Building 1530 STAG4F FMD",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-01T00:00:00.000Z",
+      "2026-09-09T17:00:00.000Z",
+      "2026-09-01T00:00:00.000Z",
+      "Cherry Point, NC, 28533",
+      34.905852,
+      -76.894362,
+      "236220",
+      "https://sam.gov/opp/f833507441e942d8aa4674b03963ca5a/view",
+      1,
+      ""
+    ],
+    [
       "e6c1d83e7f0049aeb031708e3e6fc9e9",
       "36C77626B0026",
       "Y1DA--573-21-106 EHRM Infrastructure  Upgrades and Data Center Construction - Gainesville VAMC",
@@ -2845,23 +2845,6 @@
       -82.39048,
       "236220",
       "https://sam.gov/opp/e6c1d83e7f0049aeb031708e3e6fc9e9/view",
-      1,
-      ""
-    ],
-    [
-      "ed7fd672f1aa4073ac9e697d3b15fd54",
-      "N400857559998",
-      "Well #11 - Well, Rehabilitation, and Pump Building 1530 STAG4F FMD",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-21T00:00:00.000Z",
-      "2026-09-09T17:00:00.000Z",
-      "2026-08-21T00:00:00.000Z",
-      "Cherry Point, NC, 28533",
-      34.899272,
-      -76.903936,
-      "236220",
-      "https://sam.gov/opp/ed7fd672f1aa4073ac9e697d3b15fd54/view",
       1,
       ""
     ],
@@ -3304,23 +3287,6 @@
       -76.895421,
       "236220",
       "https://sam.gov/opp/a4c84e53428740cdaccae8ea954c4ff3/view",
-      1,
-      ""
-    ],
-    [
-      "f5106a6722f14c7b885b3bdf68aca091",
-      "36C24126Q0472",
-      "Z2NZ--631-19-002 Upgrade Steam Distribution System Phase II Solicitation",
-      "Solicitation",
-      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Sole Source (FAR 19.14)",
-      "2026-08-17T00:00:00.000Z",
-      "2026-09-10T17:00:00.000Z",
-      "2026-08-17T00:00:00.000Z",
-      "Leeds, MA, 01053",
-      42.368484,
-      -72.714482,
-      "236220",
-      "https://sam.gov/opp/f5106a6722f14c7b885b3bdf68aca091/view",
       1,
       ""
     ],
@@ -4937,7 +4903,7 @@
       "236220",
       "https://sam.gov/opp/761fc9841e2b4c9892890fdedd788c06/view",
       1,
-      "$1M – $5M"
+      "$1M - $5M"
     ],
     [
       "51b167d3698b4cd791351eb4af6ac16c",
@@ -5382,6 +5348,23 @@
       ""
     ],
     [
+      "6bd8a104a58b4156a57de994589eaee6",
+      "36C24126Q0472",
+      "Z2NZ--631-19-002 Upgrade Steam Distribution System Phase II Solicitation | Amendment 001",
+      "Solicitation",
+      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Sole Source (FAR 19.14)",
+      "2026-09-01T00:00:00.000Z",
+      "2026-09-22T17:00:00.000Z",
+      "2026-09-01T00:00:00.000Z",
+      "Leeds, MA, 01053",
+      42.358157,
+      -72.707996,
+      "236220",
+      "https://sam.gov/opp/6bd8a104a58b4156a57de994589eaee6/view",
+      1,
+      ""
+    ],
+    [
       "4b3a74a27dd3457383cc5a95151d7c32",
       "36C25226B0036",
       "Y1DZ--556-25-102 Green House Homes  Steam (VA-26-00036216)",
@@ -5756,19 +5739,19 @@
       ""
     ],
     [
-      "ad64a481fcd3426c8ba7841d74805691",
+      "a021651bd5c24d6fbb1fba2dbc6a6a75",
       "GROUP1-24-R-W001",
       "Atlantic Intracoastal Waterway Maintenance Dredging",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-28T00:00:00.000Z",
+      "2026-09-01T00:00:00.000Z",
       "2026-10-05T18:00:00.000Z",
-      "2026-08-28T00:00:00.000Z",
+      "2026-09-01T00:00:00.000Z",
       "NC",
       null,
       null,
       "237990",
-      "https://sam.gov/opp/ad64a481fcd3426c8ba7841d74805691/view",
+      "https://sam.gov/opp/a021651bd5c24d6fbb1fba2dbc6a6a75/view",
       null,
       ""
     ],
@@ -5947,16 +5930,16 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 299,
+    "zipLocated": 298,
     "cityLocated": 37,
     "unresolved": 13,
-    "locatedTotal": 336,
-    "total": 349,
-    "generatedAt": "2026-09-01T09:24:34.015Z"
+    "locatedTotal": 335,
+    "total": 348,
+    "generatedAt": "2026-09-01T12:48:48.271Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
-    "snapshotGeneratedAt": "2026-08-31T20:00:00Z",
+    "snapshotGeneratedAt": "2026-09-01T12:47:44Z",
     "romAdded": 14,
     "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice. IDIQ/MACC ceilings and contract capacities are excluded."
   }

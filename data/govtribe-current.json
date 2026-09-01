@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T20:00:00Z",
+  "generatedAt": "2026-09-01T12:47:44Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
-    "rawFederalMatches": 107,
-    "rawSledMatches": 33,
+    "rawFederalMatches": 117,
+    "rawSledMatches": 69,
     "curatedSledRecords": 68,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
   },
@@ -51,7 +51,7 @@
     },
     {
       "solicitation": "70Z0G126BSNNESW01",
-      "rom": "$1M – $5M"
+      "rom": "$1M - $5M"
     },
     {
       "solicitation": "W912QR26BA019",
@@ -164,6 +164,10 @@
     {
       "solicitation": "36C24226Q0853_0",
       "rom": "$25K - $100K"
+    },
+    {
+      "solicitation": "EQPXBD-26-0062",
+      "rom": "$250K - $500K"
     }
   ],
   "records": [
@@ -273,7 +277,7 @@
       "y": -81.27,
       "approx": true,
       "rom": "",
-      "u": "2026-08-31T20:00:00Z"
+      "u": "2026-09-01T12:47:44Z"
     },
     {
       "state": "FL",
@@ -633,7 +637,7 @@
       "y": -78.3,
       "approx": true,
       "rom": "",
-      "u": "2026-08-31T20:00:00Z"
+      "u": "2026-09-01T12:47:44Z"
     },
     {
       "state": "GA",
@@ -665,7 +669,7 @@
       "r": "https://webprocure.proactiscloud.com/wp-web-public/en/#/bidboard/bid/144826?pagenumber=1&customerid=51&oid=149300&shorBy=r",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-31T20:00:00Z",
+      "u": "2026-09-01T12:47:44Z",
       "x": 41.6,
       "y": -72.7,
       "approx": true,
@@ -885,7 +889,7 @@
       "y": -87.63,
       "approx": true,
       "rom": "",
-      "u": "2026-08-31T20:00:00Z"
+      "u": "2026-09-01T12:47:44Z"
     },
     {
       "state": "GA",
@@ -921,7 +925,7 @@
       "y": -84.88,
       "approx": true,
       "rom": "",
-      "u": "2026-08-31T20:00:00Z"
+      "u": "2026-09-01T12:47:44Z"
     },
     {
       "state": "PA",
@@ -935,7 +939,7 @@
       "r": "https://pennbid.bonfirehub.com/opportunities/247986",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-31T20:00:00Z",
+      "u": "2026-09-01T12:47:44Z",
       "x": 41,
       "y": -75.3,
       "approx": true,
@@ -993,7 +997,7 @@
       "y": -84.39,
       "approx": true,
       "rom": "",
-      "u": "2026-08-31T20:00:00Z"
+      "u": "2026-09-01T12:47:44Z"
     },
     {
       "state": "NC",
@@ -1151,7 +1155,7 @@
       "r": "https://procurement.opengov.com/portal/myclearwater/projects/288231",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-31T20:00:00Z",
+      "u": "2026-09-01T12:47:44Z",
       "x": 27.97,
       "y": -82.8,
       "approx": true,
@@ -1173,7 +1177,7 @@
       "y": -76.8,
       "approx": true,
       "rom": "",
-      "u": "2026-08-31T20:00:00Z"
+      "u": "2026-09-01T12:47:44Z"
     },
     {
       "state": "GA",
@@ -1245,7 +1249,7 @@
       "y": -77,
       "approx": true,
       "rom": "",
-      "u": "2026-08-31T20:00:00Z"
+      "u": "2026-09-01T12:47:44Z"
     },
     {
       "state": "GA",
