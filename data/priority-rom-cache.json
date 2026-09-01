@@ -1,16 +1,6 @@
 {
   "version": 1,
   "records": {
-    "https://evp.nc.gov/solicitations/details/?id=1ae3b76c-0a98-f111-ab0e-001dd812e0a9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=1ae3b76c-0a98-f111-ab0e-001dd812e0a9|2026-08-31T18:00:00.000Z|Performing Professional Architectural, Engineering Design Build Service",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=f9de0c90-ed94-f111-ab0f-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=f9de0c90-ed94-f111-ab0f-001dd80bcb64|2026-08-31T21:00:00.000Z|On Call Loop Repair",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=87e39e23-f98c-f111-ab0f-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=87e39e23-f98c-f111-ab0f-001dd812e0a9|2026-09-01T18:00:00.000Z|Optimist Farm Rd Water Main Extension and Interconnect",
       "rom": "",
@@ -226,9 +216,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-15T18:00:00.000Z|2710001 RFQu - Part 1 Boulders Road Extended and E...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-03T19:00:00.000Z|ITB-COVB-26-101677- Centerville Turnpike Phase II",
       "rom": "",
-      "checkedAt": "2026-08-31T16:36:43.930Z"
+      "checkedAt": "2026-09-01T09:27:35.733Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-02T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -242,9 +232,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-08-31T16:36:43.930Z",
+      "checkedAt": "2026-09-01T09:27:35.733Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -323,19 +313,19 @@
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-09T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-23T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-08-31T16:36:43.930Z"
+      "checkedAt": "2026-09-01T09:27:35.733Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-03T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-08-31T16:36:43.930Z"
+      "checkedAt": "2026-09-01T09:27:35.733Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 3 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx|2026-09-03T18:00:00.000Z|NCDOT Division 3 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-08-31T16:36:43.930Z"
+      "checkedAt": "2026-09-01T09:27:35.733Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx": {
       "stamp": "https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx|2026-09-15T18:00:00.000Z|NCDOT Central Letting · Advertised",
@@ -355,11 +345,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=eb8ff4e1-be86-f111-ab0f-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=eb8ff4e1-be86-f111-ab0f-001dd80bcb64|2026-09-01T18:00:00.000Z|UNC-Chapel Hill",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=9edef1a8-c486-f111-ab0f-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9edef1a8-c486-f111-ab0f-001dd80bcb64|2026-08-31T18:00:00.000Z|Project 3050 RTP Campus – RTP Campus Renovations",
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
@@ -602,7 +587,12 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7826a8ee-54a5-f111-b8de-001dd802e1e9|2026-10-08T18:00:00.000Z|North Carolina Department of Transportation",
       "rom": "",
       "checkedAt": "2026-08-31T16:36:43.930Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=62a9968b-6ba5-f111-b8de-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=62a9968b-6ba5-f111-b8de-001dd803db57|2026-09-29T18:00:00.000Z|Havens Building Classrooms Modifications - NCCCS 2939",
+      "rom": "",
+      "checkedAt": "2026-09-01T09:27:35.733Z"
     }
   },
-  "generatedAt": "2026-08-31T16:36:43.930Z"
+  "generatedAt": "2026-09-01T09:27:35.733Z"
 }
