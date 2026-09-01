@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-31T20:00:00Z",
-  "rawFederalMatches": 107,
-  "rawSledMatches": 33,
-  "searchProfile": "Target states east of the Mississippi; federal NAICS 236220/237110/237310/237990; future Solicitation/Pre-Solicitation records; four targeted SLED construction semantic searches.",
+  "generatedAt": "2026-09-01T12:47:44Z",
+  "rawFederalMatches": 117,
+  "rawSledMatches": 69,
+  "searchProfile": "Target states east of the Mississippi; federal NAICS 236220/237110/237310/237990; active future-due Solicitation/Pre-Solicitation records; four targeted SLED construction semantic searches covering water/sewer/wastewater, road/bridge/paving, building/renovation/demolition/sitework, and design-build/CMAR.",
   "excludeFederalEnrichment": [
     "W911SA26BA006",
     "FA252126Q0009",
@@ -35,7 +35,9 @@
     {"solicitation":"W912PM26RA04","rom":"$5M - $10M"},
     {"solicitation":"W912HN26BA005","rom":"$10M - $25M"},
     {"solicitation":"W91236-26-B-1AVX","rom":"$5M - $10M"},
-    {"solicitation":"DKGV-1137999","rom":"$1M - $5M"}
+    {"solicitation":"DKGV-1137999","rom":"$1M - $5M"},
+    {"solicitation":"70Z0G126BSNNESW01","rom":"$1M - $5M"},
+    {"solicitation":"EQPXBD-26-0062","rom":"$250K - $500K"}
   ],
   "records": [
     {"state":"FL","s":"CC727826NBM","n":"3500 Sanford Avenue Housing - Residential Grinder Lift Station","d":"2026-09-02T18:00:00Z","p":"2026-08-21T15:54:24Z","l":"Sanford, FL","scope":"Wastewater / Lift Station Construction","c":"Wastewater / Lift Station Construction","r":"https://procurement.opengov.com/portal/seminolefl/projects/277269","type":"State / Local","set":"State / Local","x":28.80,"y":-81.27,"approx":true,"rom":""},
