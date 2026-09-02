@@ -1,16 +1,6 @@
 {
   "version": 1,
   "records": {
-    "https://evp.nc.gov/solicitations/details/?id=87e39e23-f98c-f111-ab0f-001dd812e0a9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=87e39e23-f98c-f111-ab0f-001dd812e0a9|2026-09-01T18:00:00.000Z|Optimist Farm Rd Water Main Extension and Interconnect",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=5f6ac483-4884-f111-ab0f-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=5f6ac483-4884-f111-ab0f-001dd802e1e9|2026-09-01T18:00:00.000Z|College Park Sewer Rehab - CIPP Lining",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=005b3b54-7992-f111-ab0f-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=005b3b54-7992-f111-ab0f-001dd80bcb64|2026-09-02T18:00:00.000Z|Electrical Install Maint & Repairs Convenience Contract-27",
       "rom": "",
@@ -216,9 +206,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-15T18:00:00.000Z|2710001 RFQu - Part 1 Boulders Road Extended and E...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-03T19:00:00.000Z|ITB-COVB-26-101677- Centerville Turnpike Phase II",
       "rom": "",
-      "checkedAt": "2026-09-01T12:52:06.232Z"
+      "checkedAt": "2026-09-02T09:27:22.403Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-02T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -232,9 +222,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T14:00:00.000Z|NWCX Waste Water System Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-09-01T12:52:06.232Z",
+      "checkedAt": "2026-09-02T09:27:22.403Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -313,19 +303,19 @@
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-09T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-23T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-01T12:52:06.232Z"
+      "checkedAt": "2026-09-02T09:27:22.403Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-03T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-01T12:52:06.232Z"
+      "checkedAt": "2026-09-02T09:27:22.403Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 3 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx|2026-09-03T18:00:00.000Z|NCDOT Division 3 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-01T12:52:06.232Z"
+      "checkedAt": "2026-09-02T09:27:22.403Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx": {
       "stamp": "https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx|2026-09-15T18:00:00.000Z|NCDOT Central Letting · Advertised",
@@ -342,16 +332,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9|2026-09-11T18:00:00.000Z|Sheriff’s Training Center- Boiler & Pumps Replacement",
       "rom": "",
       "checkedAt": "2026-08-28T21:51:45.548Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=eb8ff4e1-be86-f111-ab0f-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=eb8ff4e1-be86-f111-ab0f-001dd80bcb64|2026-09-01T18:00:00.000Z|UNC-Chapel Hill",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=9c02993b-e5a2-f111-b8dc-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9c02993b-e5a2-f111-b8dc-001dd8084fd9|2026-09-02T04:00:00.000Z|Neighborhood Park Redevelopment",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=f05b93ba-3090-f111-ab0f-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f05b93ba-3090-f111-ab0f-001dd803db57|2026-09-03T18:00:00.000Z|NC Agricultural and Technical State University",
@@ -592,7 +572,42 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=62a9968b-6ba5-f111-b8de-001dd803db57|2026-09-29T18:00:00.000Z|Havens Building Classrooms Modifications - NCCCS 2939",
       "rom": "",
       "checkedAt": "2026-09-01T09:27:35.733Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=2b53e2b0-3da6-f111-b8de-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=2b53e2b0-3da6-f111-b8de-001dd80bcb64|2026-09-25T19:00:00.000Z|WWRWRF Pumps and Mixers",
+      "rom": "",
+      "checkedAt": "2026-09-02T09:27:22.403Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=7052b94a-08a6-f111-b8de-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=7052b94a-08a6-f111-b8de-001dd803db57|2026-09-21T21:00:00.000Z|Public Art On-Call Maintenance and Fabrication Services for City of Raleigh",
+      "rom": "",
+      "checkedAt": "2026-09-02T09:27:22.403Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c48c5e42-0fa6-f111-b8de-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c48c5e42-0fa6-f111-b8de-001dd802e1e9|2026-09-14T18:00:00.000Z|Conveyor System",
+      "rom": "",
+      "checkedAt": "2026-09-02T09:27:22.403Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f895548b-4da6-f111-b8dd-001dd812e0a9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f895548b-4da6-f111-b8dd-001dd812e0a9|2026-09-29T17:00:00.000Z|Safe Streets for All (SS4A) Phase 1",
+      "rom": "",
+      "checkedAt": "2026-09-02T09:27:22.403Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=5d3e496d-07a6-f111-b8de-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=5d3e496d-07a6-f111-b8de-001dd80bcb64|2026-09-29T20:00:00.000Z|Administration of the Limited Repair Program",
+      "rom": "",
+      "checkedAt": "2026-09-02T09:27:22.403Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=ac5c6288-1da6-f111-b8de-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ac5c6288-1da6-f111-b8de-001dd803db57|2026-09-17T19:00:00.000Z|Water Treatment Chemicals",
+      "rom": "",
+      "checkedAt": "2026-09-02T09:27:22.403Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f7fc606b-37a6-f111-b8de-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f7fc606b-37a6-f111-b8de-001dd80db495|2026-09-29T18:00:00.000Z|CBTC Annex Automotive Program Expansion",
+      "rom": "",
+      "checkedAt": "2026-09-02T09:27:22.403Z"
     }
   },
-  "generatedAt": "2026-09-01T12:52:06.232Z"
+  "generatedAt": "2026-09-02T09:27:22.403Z"
 }
