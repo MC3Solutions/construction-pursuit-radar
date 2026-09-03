@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 118,
     "rawSledMatches": 173,
-    "curatedSledRecords": 98,
+    "curatedSledRecords": 96,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
   },
   "federalEnrichment": [
@@ -171,42 +171,6 @@
     }
   ],
   "records": [
-    {
-      "state": "FL",
-      "s": "CC727826NBM",
-      "n": "3500 Sanford Avenue Housing - Residential Grinder Lift Station",
-      "d": "2026-09-02T18:00:00Z",
-      "p": "2026-08-21T15:54:24Z",
-      "l": "Sanford, FL",
-      "scope": "Wastewater / Lift Station Construction",
-      "c": "Wastewater / Lift Station Construction",
-      "r": "https://procurement.opengov.com/portal/seminolefl/projects/277269",
-      "type": "State / Local",
-      "set": "State / Local",
-      "x": 28.8,
-      "y": -81.27,
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-01T12:47:44Z"
-    },
-    {
-      "state": "FL",
-      "s": "2027017",
-      "n": "Construction Manager at Risk (CMAR) South Hillsborough Wellfield",
-      "d": "2026-09-02T22:00:00Z",
-      "p": "2026-07-16T01:00:00Z",
-      "l": "Hillsborough County, FL",
-      "scope": "Water / Sewer Infrastructure",
-      "c": "Water / Sewer Infrastructure",
-      "r": "https://tampabaywater.bonfirehub.com/opportunities/244631",
-      "type": "State / Local",
-      "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
-      "x": 28.3,
-      "y": -82.1,
-      "approx": true,
-      "rom": ""
-    },
     {
       "state": "GA",
       "s": "PE60995NONST2026000000002",

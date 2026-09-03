@@ -1,11 +1,6 @@
 {
   "version": 1,
   "records": {
-    "https://evp.nc.gov/solicitations/details/?id=005b3b54-7992-f111-ab0f-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=005b3b54-7992-f111-ab0f-001dd80bcb64|2026-09-02T18:00:00.000Z|Electrical Install Maint & Repairs Convenience Contract-27",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=10368556-6484-f111-ab0f-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=10368556-6484-f111-ab0f-001dd803db57|2026-09-03T17:00:00.000Z|Eastview School Off-Site Sewer Force Main Installation",
       "rom": "",
@@ -187,28 +182,16 @@
       "checkedAt": "2026-08-27T13:43:21.940Z",
       "error": "HTTP 403"
     },
-    "https://www.westernvawater.org/Home/Components/RFP/RFP/943/233": {
-      "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/943/233|2026-09-02T14:00:00.000Z|WCIP-419 HERSHBERGER, FRALIN & CURTIS WATERLINE PH1",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z",
-      "error": "HTTP 403"
-    },
     "https://www.westernvawater.org/Home/Components/RFP/RFP/945/233": {
       "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/945/233|2026-09-22T14:00:00.000Z|SPRING HOLLOW WTF SWITCHGEAR MODIFICATIONS PROCUREMENT",
       "rom": "",
       "checkedAt": "2026-09-01T12:52:06.232Z",
       "error": "HTTP 403"
     },
-    "https://www.westernvawater.org/Home/Components/RFP/RFP/935/233": {
-      "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/935/233|2026-09-02T14:00:00.000Z|CRYSTAL SPRING WATER TREATMENT FACILITY MEMBRANE AND DISINFECTION SYSTEM IMPROVEMENTS",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z",
-      "error": "HTTP 403"
-    },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-15T18:00:00.000Z|2710001 RFQu - Part 1 Boulders Road Extended and E...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-03T19:00:00.000Z|ITB-COVB-26-101677- Centerville Turnpike Phase II",
       "rom": "",
-      "checkedAt": "2026-09-02T12:35:48.339Z"
+      "checkedAt": "2026-09-03T09:27:34.384Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-02T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -222,9 +205,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-09-02T12:35:48.339Z",
+      "checkedAt": "2026-09-03T09:27:34.384Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -303,19 +286,19 @@
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-09T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-23T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-02T12:35:48.339Z"
+      "checkedAt": "2026-09-03T09:27:34.384Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-03T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-02T12:35:48.339Z"
+      "checkedAt": "2026-09-03T09:27:34.384Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 3 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx|2026-09-03T18:00:00.000Z|NCDOT Division 3 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-02T12:35:48.339Z"
+      "checkedAt": "2026-09-03T09:27:34.384Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx": {
       "stamp": "https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx|2026-09-15T18:00:00.000Z|NCDOT Central Letting · Advertised",
@@ -324,9 +307,9 @@
       "error": "This operation was aborted"
     },
     "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57|2026-09-07T17:00:00.000Z|46-DNCR-27-2180 IFB Fire Alarm Testing and Inspection for the NC Zoo",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57|2026-09-15T18:00:00.000Z|46-DNCR-27-2180 IFB Fire Alarm Testing and Inspection for the NC Zoo",
       "rom": "",
-      "checkedAt": "2026-08-28T21:51:45.548Z"
+      "checkedAt": "2026-09-03T09:27:34.384Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9|2026-09-11T18:00:00.000Z|Sheriff’s Training Center- Boiler & Pumps Replacement",
@@ -338,20 +321,10 @@
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=4c25d5a2-858b-f111-ab10-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=4c25d5a2-858b-f111-ab10-001dd802e1e9|2026-09-02T18:00:00.000Z|North Carolina Department of Natural and Cultural Resources",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=1612a798-9a95-f111-ab0e-001dd812e0a9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=1612a798-9a95-f111-ab0e-001dd812e0a9|2026-09-02T18:00:00.000Z|NC State University",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=0c0fa966-0c97-f111-ab0f-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=0c0fa966-0c97-f111-ab0f-001dd803db57|2026-09-02T19:00:00.000Z|OWASA.ORG WEBSITE REBUILD",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=0c0fa966-0c97-f111-ab0f-001dd803db57|2026-09-09T19:00:00.000Z|OWASA.ORG WEBSITE REBUILD",
       "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
+      "checkedAt": "2026-09-03T09:27:34.384Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=d0d9bebc-6996-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=d0d9bebc-6996-f111-ab0f-001dd802e1e9|2026-09-03T18:00:00.000Z|Street Rehabilitation Project",
@@ -379,9 +352,9 @@
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=a7091f39-6b66-f111-a824-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a7091f39-6b66-f111-a824-001dd803db57|2026-09-04T18:00:00.000Z|RFP Sourcing Event - Provider Data Management_Credentialing Verification Office RFP",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a7091f39-6b66-f111-a824-001dd803db57|2026-09-08T18:00:00.000Z|RFP Sourcing Event - Provider Data Management_Credentialing Verification Office RFP",
       "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
+      "checkedAt": "2026-09-03T09:27:34.384Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=3f01998c-278c-f111-ab10-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=3f01998c-278c-f111-ab10-001dd80bcb64|2026-09-04T21:00:00.000Z|Section 108 Loan Guarantee Program – Affordable Housing & Economic Development Opportunities",
@@ -400,11 +373,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=e2a65247-468c-f111-ab10-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e2a65247-468c-f111-ab10-001dd80db495|2026-09-09T18:00:00.000Z|Keihin Auditorium Audio Visual Upgrade",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=f0b6e481-30a2-f111-b8dc-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=f0b6e481-30a2-f111-b8dc-001dd80db495|2026-09-14T18:00:00.000Z|Stream Debris Removal Streamflow Rehabilitation Assistance Program",
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
@@ -470,11 +438,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=c492538a-d79c-f111-8077-001dd800b811": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c492538a-d79c-f111-8077-001dd800b811|2026-09-17T14:00:00.000Z|GoRaleigh Station Restroom Renovation",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=c361532d-2098-f111-ab0f-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c361532d-2098-f111-ab0f-001dd80bcb64|2026-09-15T19:00:00.000Z|Pope House Landscape Improvements",
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
@@ -607,7 +570,28 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f7fc606b-37a6-f111-b8de-001dd80db495|2026-09-29T18:00:00.000Z|CBTC Annex Automotive Program Expansion",
       "rom": "",
       "checkedAt": "2026-09-02T09:27:22.403Z"
+    },
+    "https://www.westernvawater.org/Home/Components/RFP/RFP/951/233": {
+      "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/951/233|2026-09-30T14:00:00.000Z|- COAGULATION BASIN GATE ACTUATOR PROJECT",
+      "rom": "",
+      "checkedAt": "2026-09-03T09:27:34.384Z",
+      "error": "HTTP 403"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=29413396-ffa6-f111-b8de-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=29413396-ffa6-f111-b8de-001dd80bcb64|2026-10-07T18:00:00.000Z|City of Havelock, 2026 Trenchless Gravity Sewer Line Repair",
+      "rom": "",
+      "checkedAt": "2026-09-03T09:27:34.384Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=7bc90f3f-f1a6-f111-b8de-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=7bc90f3f-f1a6-f111-b8de-001dd80bcb64|2026-09-21T18:00:00.000Z|Union Station Roof Replacement",
+      "rom": "",
+      "checkedAt": "2026-09-03T09:27:34.384Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=6d7a865d-f8a6-f111-b8de-001dd800b811": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=6d7a865d-f8a6-f111-b8de-001dd800b811|2026-10-01T18:00:00.000Z|Invitation to Bid: BL-0052 Main Street Sidewalk Connector (TOHS Project #22-007)",
+      "rom": "",
+      "checkedAt": "2026-09-03T09:27:34.384Z"
     }
   },
-  "generatedAt": "2026-09-02T12:35:48.339Z"
+  "generatedAt": "2026-09-03T09:27:34.384Z"
 }
