@@ -174,9 +174,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-15T18:00:00.000Z|2710001 RFQu - Part 1 Boulders Road Extended and E...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-22T18:00:00.000Z|IFB 27-032-2647 Construction of New Sidewalk with ...",
       "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
+      "checkedAt": "2026-09-04T12:50:44.098Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-02T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -190,9 +190,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T14:00:00.000Z|NWCX Waste Water System Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
       "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z",
+      "checkedAt": "2026-09-04T12:50:44.098Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -256,9 +256,9 @@
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-09T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-23T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
+      "checkedAt": "2026-09-04T12:50:44.098Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx": {
       "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
@@ -532,16 +532,6 @@
       "rom": "",
       "checkedAt": "2026-09-03T09:27:34.384Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=a869305a-cfa7-f111-b8de-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a869305a-cfa7-f111-b8de-001dd80bcb64|2026-09-22T18:00:00.000Z|NC Agricultural and Technical State University",
-      "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=07fd7b45-dca7-f111-b8de-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=07fd7b45-dca7-f111-b8de-001dd802e1e9|2026-09-10T19:00:00.000Z|North Carolina Department of Administration-RE-BID",
-      "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=cf921984-a9a7-f111-b8de-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=cf921984-a9a7-f111-b8de-001dd80bcb64|2026-09-29T17:00:00.000Z|UNC-Chapel Hill",
       "rom": "",
@@ -554,11 +544,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=85ee54df-9ea7-f111-b8de-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=85ee54df-9ea7-f111-b8de-001dd80bcb64|2026-09-23T18:00:00.000Z|Fluorosilicic Acid",
-      "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=94a7ca75-d8a7-f111-b8de-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=94a7ca75-d8a7-f111-b8de-001dd802e1e9|2026-10-01T19:00:00.000Z|NC Department of Transportation",
       "rom": "",
       "checkedAt": "2026-09-04T09:27:06.440Z"
     },
@@ -588,5 +573,5 @@
       "checkedAt": "2026-09-04T09:27:06.440Z"
     }
   },
-  "generatedAt": "2026-09-04T09:27:06.440Z"
+  "generatedAt": "2026-09-04T12:50:44.098Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T09:27:13.059Z",
+  "generatedAt": "2026-09-04T12:50:45.814Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "09/05/2025",
@@ -7,7 +7,7 @@
     "rdlfrom": "09/04/2026",
     "rdlto": "09/03/2027"
   },
-  "total": 338,
+  "total": 340,
   "records": [
     [
       "2121ac89f5c74c47866f8185142e2eee",
@@ -550,23 +550,6 @@
       -79.964844,
       "237990",
       "https://sam.gov/opp/e27df2bfc83249a5874a721f69ec352c/view",
-      1,
-      ""
-    ],
-    [
-      "3d6223187b214d9286d4e52c3b27a689",
-      "12FPC326Q0048",
-      "Greenhouse Repairs and Electrical Work at Norman A. Berg Plant Materials Center, Beltsville, Maryland",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-24T00:00:00.000Z",
-      "2026-09-06T18:00:00.000Z",
-      "2026-08-24T00:00:00.000Z",
-      "Beltsville, MD",
-      39.037645,
-      -76.933675,
-      "238990",
-      "https://sam.gov/opp/3d6223187b214d9286d4e52c3b27a689/view",
       1,
       ""
     ],
@@ -2628,19 +2611,19 @@
       "$25,000 – $100,000"
     ],
     [
-      "15336cfab9834fdb9c8c38b18bf816a1",
+      "01174a24415343f89ab96a6d1bc8c57a",
       "W50S8D26Q1CHE",
       "Bldg. 202 Chiller Replacement",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-28T00:00:00.000Z",
+      "2026-09-04T00:00:00.000Z",
       "2026-09-11T15:00:00.000Z",
-      "2026-08-28T00:00:00.000Z",
+      "2026-09-04T00:00:00.000Z",
       "Newburgh, NY, 12550",
-      41.535526,
-      -74.076542,
+      41.538242,
+      -74.058509,
       "238220",
-      "https://sam.gov/opp/15336cfab9834fdb9c8c38b18bf816a1/view",
+      "https://sam.gov/opp/01174a24415343f89ab96a6d1bc8c57a/view",
       1,
       ""
     ],
@@ -2713,19 +2696,19 @@
       ""
     ],
     [
-      "d76a3cdbbb41475c951cb6576178f986",
+      "9bcdb292c772433d95ee254ad901624c",
       "70LCHE26QPFB00004",
       "Boiler Inspection and Repairs",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-09-02T00:00:00.000Z",
+      "2026-09-04T00:00:00.000Z",
       "2026-09-11T16:00:00.000Z",
-      "2026-09-02T00:00:00.000Z",
+      "2026-09-04T00:00:00.000Z",
       "Cheltenham, MD, 20623",
-      38.770925,
-      -76.834395,
+      38.735144,
+      -76.835644,
       "238220",
-      "https://sam.gov/opp/d76a3cdbbb41475c951cb6576178f986/view",
+      "https://sam.gov/opp/9bcdb292c772433d95ee254ad901624c/view",
       1,
       ""
     ],
@@ -3801,6 +3784,23 @@
       "$25,000 and $100,000"
     ],
     [
+      "5fcba8af594548c8986982c9a97b42d6",
+      "FA465426Q0014",
+      "641 Replace Lighting",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-04T00:00:00.000Z",
+      "2026-09-15T20:00:00.000Z",
+      "2026-09-04T00:00:00.000Z",
+      "Grissom ARB, IN, 46971",
+      40.667777,
+      -86.143777,
+      "238210",
+      "https://sam.gov/opp/5fcba8af594548c8986982c9a97b42d6/view",
+      1,
+      ""
+    ],
+    [
       "3e40d65059514e5da3fee8ec123957bb",
       "68HERF26R0054",
       "Y--Design, installation and testing of a new fire spr",
@@ -4054,6 +4054,23 @@
       "https://sam.gov/opp/3563fa97654c4c938408785f9ad6be93/view",
       1,
       ""
+    ],
+    [
+      "44ecd12737544817887bccd603a80e86",
+      "12FPC326Q0048",
+      "Greenhouse Repairs and Electrical Work at Norman A. Berg Plant Materials Center, Beltsville, Maryland",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-04T00:00:00.000Z",
+      "2026-09-16T18:00:00.000Z",
+      "2026-09-04T00:00:00.000Z",
+      "Beltsville, MD",
+      39.028332,
+      -76.913766,
+      "238990",
+      "https://sam.gov/opp/44ecd12737544817887bccd603a80e86/view",
+      1,
+      "$25,000 and $100,000"
     ],
     [
       "f25ef9a00651405cbf65f5a70ad34dd0",
@@ -4481,6 +4498,23 @@
       ""
     ],
     [
+      "fb15d1288bff4a32b74cb6478756bc4d",
+      "W15QKN-26-Q-A114",
+      "CSS98822 - Extended MEP Lot Repair - Virginia Beach, VA",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-04T00:00:00.000Z",
+      "2026-09-18T15:00:00.000Z",
+      "2026-09-04T00:00:00.000Z",
+      "Virginia Beach, VA",
+      36.810535,
+      -76.04756,
+      "238990",
+      "https://sam.gov/opp/fb15d1288bff4a32b74cb6478756bc4d/view",
+      1,
+      ""
+    ],
+    [
       "45ec61c7ae59438f9e9b87d1edee9a6d",
       "N400857606105",
       "Paint All Exterior and Common Area Doors, Buildings 4166, 4167, 4168, 4169 & 3673",
@@ -4872,19 +4906,19 @@
       ""
     ],
     [
-      "16d0f87c7b0347d29c20307082aafe66",
+      "db2eb126c0174fb9b751f9d90909bdf3",
       "N400857190530",
       "N400857190530 Upgrade Life Health Safety Systems in Hangar 250",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-09-03T00:00:00.000Z",
+      "2026-09-04T00:00:00.000Z",
       "2026-09-21T19:00:00.000Z",
-      "2026-09-03T00:00:00.000Z",
+      "2026-09-04T00:00:00.000Z",
       "Cherry Point, NC",
-      34.921854,
-      -76.923959,
+      34.874456,
+      -76.906237,
       "236220",
-      "https://sam.gov/opp/16d0f87c7b0347d29c20307082aafe66/view",
+      "https://sam.gov/opp/db2eb126c0174fb9b751f9d90909bdf3/view",
       1,
       ""
     ],
@@ -5760,16 +5794,16 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 289,
-    "cityLocated": 34,
+    "zipLocated": 290,
+    "cityLocated": 35,
     "unresolved": 15,
-    "locatedTotal": 323,
-    "total": 338,
-    "generatedAt": "2026-09-04T09:24:22.956Z"
+    "locatedTotal": 325,
+    "total": 340,
+    "generatedAt": "2026-09-04T12:47:42.077Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
-    "snapshotGeneratedAt": "2026-09-02T12:29:38Z",
+    "snapshotGeneratedAt": "2026-09-04T12:52:00Z",
     "romAdded": 10,
     "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice. IDIQ/MACC ceilings and contract capacities are excluded."
   }

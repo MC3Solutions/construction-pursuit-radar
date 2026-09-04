@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-02T12:29:38Z",
+  "generatedAt": "2026-09-04T12:52:00Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
     "rawFederalMatches": 118,
-    "rawSledMatches": 173,
-    "curatedSledRecords": 90,
+    "rawSledMatches": 126,
+    "curatedSledRecords": 92,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
   },
   "federalEnrichment": [
@@ -1567,7 +1567,23 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-04T12:52:00Z"
+    },
+    {
+      "state": "FL",
+      "s": "IFB410P20240062692",
+      "n": "JPP Golf Learning Center Driving Range - Lighting Upgrade",
+      "d": "2026-10-01T23:00:00Z",
+      "p": "2026-08-20T04:00:00Z",
+      "l": "Palm Beach County, FL",
+      "scope": "Electrical / Lighting Construction",
+      "c": "Electrical / Lighting Construction",
+      "r": "https://pbcvssp.pbc.gov/vssprd/Advantage4",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-04T12:52:00Z"
     },
     {
       "state": "GA",
@@ -1583,23 +1599,39 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-04T12:52:00Z"
     },
     {
       "state": "GA",
       "s": "PE70750NONST2027000000078",
-      "n": "Pace Street Floodplain Restoration",
+      "n": "#2026-20 Pace Street Floodplain Restoration",
       "d": "2026-10-06T14:00:00Z",
       "p": "2026-08-17T17:10:00Z",
       "l": "Oconee County, GA",
-      "scope": "Floodplain / Site Construction",
-      "c": "Floodplain / Site Construction",
+      "scope": "Floodplain Restoration / Excavation / Sitework",
+      "c": "Floodplain Restoration / Excavation / Sitework",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-70750-NONST-2027-000000078&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-04T12:52:00Z"
+    },
+    {
+      "state": "CT",
+      "s": "B02703",
+      "n": "B027-03 Merimere Dike Seepage Control",
+      "d": "2026-10-06T15:00:00Z",
+      "p": "2026-08-21T11:10:39Z",
+      "l": "New Haven County, CT",
+      "scope": "Dike / Seepage Control / Heavy Civil",
+      "c": "Dike / Seepage Control / Heavy Civil",
+      "r": "https://procurement.opengov.com/portal/meridenct/projects/273349",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-04T12:52:00Z"
     },
     {
       "state": "MA",
@@ -1633,7 +1665,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-04T12:52:00Z"
     },
     {
       "state": "GA",
@@ -1642,14 +1674,14 @@
       "d": "2026-10-07T18:00:00Z",
       "p": "2026-08-28T19:57:00Z",
       "l": "Chatham County, GA",
-      "scope": "Road / Intersection Construction",
-      "c": "Road / Intersection Construction",
+      "scope": "Road / Intersection / Storm Drain Construction",
+      "c": "Road / Intersection / Storm Drain Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66418-NONST-2026-000000023&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-04T12:52:00Z"
     },
     {
       "state": "GA",
@@ -1672,18 +1704,18 @@
     {
       "state": "GA",
       "s": "PE64400NONST2027000000273",
-      "n": "Stewart Mill Road at Bermuda Road Roundabout",
+      "n": "2026-080-ITB Stewart Mill Road at Bermuda Road Roundabout",
       "d": "2026-10-08T19:00:00Z",
       "p": "2026-08-17T14:17:00Z",
-      "l": "Dekalb County, GA",
-      "scope": "Road / Roundabout Construction",
-      "c": "Road / Roundabout Construction",
+      "l": "DeKalb County, GA",
+      "scope": "Road / Roundabout / Utility Construction",
+      "c": "Road / Roundabout / Utility Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-64400-NONST-2027-000000273&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-04T12:52:00Z"
     },
     {
       "state": "GA",
