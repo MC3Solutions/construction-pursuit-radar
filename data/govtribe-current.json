@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-04T12:52:00Z",
+  "generatedAt": "2026-09-05T12:12:21Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
     "rawFederalMatches": 118,
-    "rawSledMatches": 126,
-    "curatedSledRecords": 89,
+    "rawSledMatches": 238,
+    "curatedSledRecords": 107,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
   },
   "federalEnrichment": [
@@ -171,6 +171,22 @@
     }
   ],
   "records": [
+    {
+      "state": "FL",
+      "s": "5526",
+      "n": "Construction Manager at Risk - Clearwater Baseball Campus Enhancements",
+      "d": "2026-09-08T14:00:00Z",
+      "p": "2026-08-17T12:07:30Z",
+      "l": "Pinellas County, FL",
+      "scope": "CMAR / Building and Site Construction",
+      "c": "CMAR / Building and Site Construction",
+      "r": "https://procurement.opengov.com/portal/myclearwater/projects/288382",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
     {
       "state": "GA",
       "s": "PE77004NONST2026000000002",
@@ -346,6 +362,38 @@
       "u": "2026-08-29T12:32:22Z"
     },
     {
+      "state": "VA",
+      "s": "IFB126375",
+      "n": "Mac Hill Training Site #122800",
+      "d": "2026-09-09T18:00:00Z",
+      "p": "2026-08-14T12:58:29Z",
+      "l": "New Kent County, VA",
+      "scope": "Construction",
+      "c": "Construction",
+      "r": "https://mvendor.cgieva.com/Vendor/public/IVDetails.jsp?PageTitle=SO%20Details&rfp_id_lot=126375&rfp_id_round=0",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
+      "state": "MI",
+      "s": "RFQ1712600000004393",
+      "n": "751/25246 RLO St Helen Bridge - Removal/New Culvert",
+      "d": "2026-09-09T23:00:00Z",
+      "p": "2026-08-28T04:00:00Z",
+      "l": "Michigan",
+      "scope": "Bridge / Culvert Construction",
+      "c": "Bridge / Culvert Construction",
+      "r": "https://sigma.michigan.gov/PRDVSS1X1/Advantage4",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
       "state": "GA",
       "s": "PE77050NONST2026000000104",
       "n": "Sewell Mill Heights Water Main Replacement",
@@ -394,6 +442,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-02T12:29:38Z"
+    },
+    {
+      "state": "NC",
+      "s": "121071426JA",
+      "n": "South Campus HVAC Upgrades",
+      "d": "2026-09-10T18:00:00Z",
+      "p": "2026-07-14T04:00:00Z",
+      "l": "Cabarrus County, NC",
+      "scope": "Building / HVAC Renovation",
+      "c": "Building / HVAC Renovation",
+      "r": "https://evp.nc.gov/solicitations/details/?id=65e507ef-b67f-f111-ab0f-001dd803db57",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
     },
     {
       "state": "KY",
@@ -504,6 +568,22 @@
       "rom": ""
     },
     {
+      "state": "NC",
+      "s": "1006BID130WTCC9227C",
+      "n": "Project 3051 Southern Wake Campus Renovations - Building SL",
+      "d": "2026-09-11T18:00:00Z",
+      "p": "2026-07-30T04:00:00Z",
+      "l": "Wake County, NC",
+      "scope": "Educational Building Renovation",
+      "c": "Educational Building Renovation",
+      "r": "https://evp.nc.gov/solicitations/details/?id=131e5d75-3e8c-f111-ab10-001dd80bcb64",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
       "state": "MI",
       "s": "RFPEUP2600000025382",
       "n": "New Storage Building",
@@ -536,6 +616,54 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-02T12:29:38Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE69955NONST2027000000029",
+      "n": "Pigeon Creek Road Culvert",
+      "d": "2026-09-14T18:00:00Z",
+      "p": "2026-08-13T12:57:00Z",
+      "l": "Mitchell County, GA",
+      "scope": "Culvert Construction",
+      "c": "Culvert Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-69955-NONST-2027-000000029&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE69955NONST2027000000028",
+      "n": "John Brown Road Culvert",
+      "d": "2026-09-14T18:00:00Z",
+      "p": "2026-08-13T12:53:00Z",
+      "l": "Mitchell County, GA",
+      "scope": "Culvert Construction",
+      "c": "Culvert Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-69955-NONST-2027-000000028&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
+      "state": "NC",
+      "s": "DOC2362342776",
+      "n": "Madison County Acquisition and Demolitions Group 2",
+      "d": "2026-09-14T18:00:00Z",
+      "p": "2026-08-28T04:00:00Z",
+      "l": "Madison County, NC",
+      "scope": "Demolition",
+      "c": "Demolition",
+      "r": "https://evp.nc.gov/solicitations/details/?id=2e96cf6b-dda2-f111-b8dc-001dd803db57",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
     },
     {
       "state": "FL",
@@ -624,6 +752,22 @@
       "u": "2026-09-02T12:29:38Z"
     },
     {
+      "state": "FL",
+      "s": "Y26813",
+      "n": "Construction Manager at Risk Services for Orange County Convention Center West Building BAS and HVAC Upgrades",
+      "d": "2026-09-15T20:00:00Z",
+      "p": "2026-08-19T19:20:46Z",
+      "l": "Orange County, FL",
+      "scope": "CMAR / Building HVAC Renovation",
+      "c": "CMAR / Building HVAC Renovation",
+      "r": "https://procurement.opengov.com/portal/orangecountyfl/projects/289505",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
       "state": "MA",
       "s": "BD231172PUR00PUR01132741",
       "n": "HVAC Upgrades – Hope Cemetery Building / DPRC",
@@ -657,7 +801,39 @@
       "y": -86.1,
       "approx": true,
       "rom": "",
-      "u": "2026-08-29T12:32:22Z"
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE76110NONST2027000000150",
+      "n": "Mary Lin Elementary School Building Systems Upgrades and Improvements",
+      "d": "2026-09-16T15:00:00Z",
+      "p": "2026-08-18T15:26:00Z",
+      "l": "Fulton County, GA",
+      "scope": "Educational Building Construction / Renovation",
+      "c": "Educational Building Construction / Renovation",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-76110-NONST-2027-000000150&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE76110NONST2027000000149",
+      "n": "Parkside, Heritage and Hollis Building Systems Upgrade Bundle",
+      "d": "2026-09-16T15:00:00Z",
+      "p": "2026-08-18T12:59:00Z",
+      "l": "Fulton County, GA",
+      "scope": "Building Systems Renovation",
+      "c": "Building Systems Renovation",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-76110-NONST-2027-000000149&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
     },
     {
       "state": "FL",
@@ -735,7 +911,7 @@
       "n": "CMAR for Renovation and Repair of the Facade and Basement Levels of the County Building at 118 North Clark",
       "d": "2026-09-16T20:00:00Z",
       "p": "2026-08-04T02:00:00Z",
-      "l": "Chicago, IL",
+      "l": "Cook County, IL",
       "scope": "CMAR / Building Renovation",
       "c": "CMAR / Building Renovation",
       "r": "https://cookcountyil.bonfirehub.com/opportunities/230675",
@@ -745,7 +921,7 @@
       "y": -87.63,
       "approx": true,
       "rom": "",
-      "u": "2026-09-01T12:47:44Z"
+      "u": "2026-09-05T12:12:21Z"
     },
     {
       "state": "GA",
@@ -780,6 +956,38 @@
       "u": "2026-09-02T12:29:38Z"
     },
     {
+      "state": "MD",
+      "s": "27104",
+      "n": "Abingdon Water Treatment Plant pH Control System Upgrade",
+      "d": "2026-09-16T21:00:00Z",
+      "p": "2026-08-05T20:30:00Z",
+      "l": "Harford County, MD",
+      "scope": "Water Treatment Plant Construction",
+      "c": "Water Treatment Plant Construction",
+      "r": "https://harfordcountymd.bonfirehub.com/opportunities/247750",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE66085NONST2027000000095",
+      "n": "FY27 Sidewalk Repair & Replacement",
+      "d": "2026-09-17T14:00:00Z",
+      "p": "2026-08-20T14:15:00Z",
+      "l": "Fulton County, GA",
+      "scope": "Sidewalk Construction",
+      "c": "Sidewalk Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66085-NONST-2027-000000095&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
       "state": "MA",
       "s": "BD271412LAW25LAW31132544",
       "n": "Lawrence Municipal Airport New Administration Building",
@@ -812,6 +1020,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-08-28T12:30:00Z"
+    },
+    {
+      "state": "VA",
+      "s": "IFB126085",
+      "n": "Greene County Community Park Improvements",
+      "d": "2026-09-17T18:00:00Z",
+      "p": "2026-09-02T13:41:47Z",
+      "l": "Greene County, VA",
+      "scope": "Park / Site Construction",
+      "c": "Park / Site Construction",
+      "r": "https://mvendor.cgieva.com/Vendor/public/IVDetails.jsp?PageTitle=SO%20Details&rfp_id_lot=126085&rfp_id_round=0",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
     },
     {
       "state": "KY",
@@ -1304,6 +1528,38 @@
       "u": "2026-09-02T12:29:38Z"
     },
     {
+      "state": "VA",
+      "s": "IFB127379",
+      "n": "161072 Montvale AHQ Phase III",
+      "d": "2026-09-28T18:00:00Z",
+      "p": "2026-08-28T17:40:54Z",
+      "l": "Bedford County, VA",
+      "scope": "Building / Site Construction",
+      "c": "Building / Site Construction",
+      "r": "https://mvendor.cgieva.com/Vendor/public/IVDetails.jsp?PageTitle=SO%20Details&rfp_id_lot=127379&rfp_id_round=0",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
+      "state": "FL",
+      "s": "268672",
+      "n": "Collier Senior Center Expansion Project",
+      "d": "2026-09-28T19:00:16Z",
+      "p": "2026-08-10T13:36:01Z",
+      "l": "Collier County, FL",
+      "scope": "Building Construction / Expansion",
+      "c": "Building Construction / Expansion",
+      "r": "https://procurement.opengov.com/portal/collier-county-fl/projects/282835",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
       "state": "FL",
       "s": "260047UT",
       "n": "Rehabilitation of Lift Station 13, 51, and 58",
@@ -1428,6 +1684,22 @@
       "u": "2026-09-01T12:47:44Z"
     },
     {
+      "state": "RI",
+      "s": "RFQ27006992",
+      "n": "RIC Murray Center Gym HVAC Improvements",
+      "d": "2026-10-01T15:00:00Z",
+      "p": "2026-09-04T19:00:00Z",
+      "l": "Providence County, RI",
+      "scope": "Building / HVAC Construction",
+      "c": "Building / HVAC Construction",
+      "r": "https://webprocure.proactiscloud.com/wp-web-public/en/#/bidboard/bid/145599?pagenumber=1&customerid=46&oid=120002&shorBy=r",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
+    },
+    {
       "state": "GA",
       "s": "PE77820NONST2027000000005",
       "n": "Street & Drainage Improvements - Heritage Hills Road, Morris Road, Mancil Road",
@@ -1480,6 +1752,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-08-29T12:32:22Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE66751NONST2027000000107",
+      "n": "SB011-27 822 Leonard Court Sinkhole Repair",
+      "d": "2026-10-01T18:00:00Z",
+      "p": "2026-08-27T18:50:00Z",
+      "l": "Gwinnett County, GA",
+      "scope": "Sitework / Paving / Sinkhole Repair",
+      "c": "Sitework / Paving / Sinkhole Repair",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66751-NONST-2027-000000107&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-05T12:12:21Z"
     },
     {
       "state": "GA",

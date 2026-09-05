@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:25:49.837Z",
+  "generatedAt": "2026-09-05T12:22:06.474Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "09/06/2025",
@@ -5510,11 +5510,11 @@
     "unresolved": 15,
     "locatedTotal": 308,
     "total": 323,
-    "generatedAt": "2026-09-05T09:22:43.950Z"
+    "generatedAt": "2026-09-05T12:19:13.318Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
-    "snapshotGeneratedAt": "2026-09-04T12:52:00Z",
+    "snapshotGeneratedAt": "2026-09-05T12:12:21Z",
     "romAdded": 9,
     "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice. IDIQ/MACC ceilings and contract capacities are excluded."
   }
