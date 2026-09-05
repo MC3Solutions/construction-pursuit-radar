@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 118,
     "rawSledMatches": 126,
-    "curatedSledRecords": 92,
+    "curatedSledRecords": 89,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
   },
   "federalEnrichment": [
@@ -171,60 +171,6 @@
     }
   ],
   "records": [
-    {
-      "state": "GA",
-      "s": "PE77023NONST2027000000670",
-      "n": "BL047-26 State Route 120 Water Main Replacement",
-      "d": "2026-09-04T18:50:00Z",
-      "p": "2026-07-15T13:16:00Z",
-      "l": "Gwinnett County, GA",
-      "scope": "Water / Sewer Infrastructure",
-      "c": "Water / Sewer Infrastructure",
-      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-77023-NONST-2027-000000670&sourceSystemType=gpr20",
-      "type": "State / Local",
-      "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
-      "x": 32.7,
-      "y": -83.3,
-      "approx": true,
-      "rom": ""
-    },
-    {
-      "state": "FL",
-      "s": "268701",
-      "n": "Naples Beach Renourishment",
-      "d": "2026-09-04T19:00:16Z",
-      "p": "2026-08-14T12:10:40Z",
-      "l": "Collier County, FL",
-      "scope": "Civil / Heavy",
-      "c": "Civil / Heavy",
-      "r": "https://procurement.opengov.com/portal/collier-county-fl/projects/291963",
-      "type": "State / Local",
-      "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
-      "x": 28.3,
-      "y": -82.1,
-      "approx": true,
-      "rom": ""
-    },
-    {
-      "state": "FL",
-      "s": "2027010",
-      "n": "Eldridge-Wilde Wellfield Water Quality Treatment Improvements Project",
-      "d": "2026-09-04T22:00:00Z",
-      "p": "2026-07-17T01:00:00Z",
-      "l": "Hillsborough County, FL",
-      "scope": "Water / Sewer Infrastructure",
-      "c": "Water / Sewer Infrastructure",
-      "r": "https://tampabaywater.bonfirehub.com/opportunities/243491",
-      "type": "State / Local",
-      "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
-      "x": 28.3,
-      "y": -82.1,
-      "approx": true,
-      "rom": ""
-    },
     {
       "state": "GA",
       "s": "PE77004NONST2026000000002",

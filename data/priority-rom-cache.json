@@ -2,19 +2,9 @@
   "version": 1,
   "records": {
     "https://evp.nc.gov/solicitations/details/?id=a1b6e795-668f-f111-ab0e-001dd812e0a9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a1b6e795-668f-f111-ab0e-001dd812e0a9|2026-09-10T18:00:00.000Z|19-IFB-2275374677-BJL 4827-0028-F Jackson County Generator Project",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a1b6e795-668f-f111-ab0e-001dd812e0a9|2026-09-17T18:00:00.000Z|19-IFB-2275374677-BJL 4827-0028-F Jackson County Generator Project",
       "rom": "",
-      "checkedAt": "2026-08-27T15:51:26.662Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=b49818a5-df97-f111-ab0f-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=b49818a5-df97-f111-ab0f-001dd802e1e9|2026-09-04T18:00:00.000Z|Built To Grow: Contractor Capacity Building Program",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=a959de9e-6784-f111-ab0f-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a959de9e-6784-f111-ab0f-001dd802e1e9|2026-09-04T20:00:00.000Z|Public Works Fencing Repair and Replacement",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
+      "checkedAt": "2026-09-05T09:25:45.082Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=596dae64-6f9d-f111-8076-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=596dae64-6f9d-f111-8076-001dd812e0a9|2026-09-08T14:00:00.000Z|IFB #27-9-IS JUSTICE SERVICES WATER/SEWER LINE REPLACEMENT",
@@ -174,9 +164,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-22T18:00:00.000Z|IFB 27-032-2647 Construction of New Sidewalk with ...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-15T18:00:00.000Z|2710001 RFQu - Part 1 Boulders Road Extended and E...",
       "rom": "",
-      "checkedAt": "2026-09-04T12:50:44.098Z"
+      "checkedAt": "2026-09-05T09:25:45.082Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-02T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -190,9 +180,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-09-04T12:50:44.098Z",
+      "checkedAt": "2026-09-05T09:25:45.082Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -256,9 +246,9 @@
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-23T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-09T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-04T12:50:44.098Z"
+      "checkedAt": "2026-09-05T09:25:45.082Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx": {
       "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
@@ -291,11 +281,6 @@
       "rom": "",
       "checkedAt": "2026-09-03T09:27:34.384Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=5daa8215-eb9b-f111-8077-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=5daa8215-eb9b-f111-8077-001dd802e1e9|2026-09-04T21:00:00.000Z|UNC-Chapel Hill",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=a0bc89c6-3ea2-f111-b8db-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a0bc89c6-3ea2-f111-b8db-001dd812e0a9|2026-09-11T18:00:00.000Z|Department of Transportation Invitation for Bid #54-JB-1260005 Various Trailers",
       "rom": "",
@@ -305,11 +290,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a7091f39-6b66-f111-a824-001dd803db57|2026-09-08T18:00:00.000Z|RFP Sourcing Event - Provider Data Management_Credentialing Verification Office RFP",
       "rom": "",
       "checkedAt": "2026-09-03T09:27:34.384Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=3f01998c-278c-f111-ab10-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=3f01998c-278c-f111-ab10-001dd80bcb64|2026-09-04T21:00:00.000Z|Section 108 Loan Guarantee Program – Affordable Housing & Economic Development Opportunities",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=e2a65247-468c-f111-ab10-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e2a65247-468c-f111-ab10-001dd80db495|2026-09-09T18:00:00.000Z|Keihin Auditorium Audio Visual Upgrade",
@@ -571,7 +551,57 @@
       "stamp": "https://cabb.virginiadot.org/upload/20260903120732AUG-B07.pdf|2026-09-23T17:00:00.000Z|ON - CALL BRIDGE REPAIR · BRISTOL DISTRICT WIDE",
       "rom": "",
       "checkedAt": "2026-09-04T09:27:06.440Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=a869305a-cfa7-f111-b8de-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a869305a-cfa7-f111-b8de-001dd80bcb64|2026-09-22T18:00:00.000Z|NC Agricultural and Technical State University",
+      "rom": "",
+      "checkedAt": "2026-09-05T09:25:45.082Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=94a7ca75-d8a7-f111-b8de-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=94a7ca75-d8a7-f111-b8de-001dd802e1e9|2026-10-01T19:00:00.000Z|NC Department of Transportation",
+      "rom": "",
+      "checkedAt": "2026-09-05T09:25:45.082Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=76094d5e-91a8-f111-b8dd-001dd8133234": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=76094d5e-91a8-f111-b8dd-001dd8133234|2026-09-25T14:00:00.000Z|Filter Media Retainers",
+      "rom": "",
+      "checkedAt": "2026-09-05T09:25:45.082Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=57ea94f8-58a8-f111-b8de-001dd8084fd9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=57ea94f8-58a8-f111-b8de-001dd8084fd9|2026-09-18T18:00:00.000Z|VIPER HVAC UNITS (BARD)",
+      "rom": "",
+      "checkedAt": "2026-09-05T09:25:45.082Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=07fd7b45-dca7-f111-b8de-001dd802e1e9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=07fd7b45-dca7-f111-b8de-001dd802e1e9|2026-09-10T19:00:00.000Z|North Carolina Department of Administration-RE-BID",
+      "rom": "",
+      "checkedAt": "2026-09-05T09:25:45.082Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=1a04b09a-74a8-f111-b8dd-001dd8133234": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=1a04b09a-74a8-f111-b8dd-001dd8133234|2026-09-29T21:00:00.000Z|UNC-Chapel Hill",
+      "rom": "",
+      "checkedAt": "2026-09-05T09:25:45.082Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=efa8064e-8aa8-f111-b8de-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=efa8064e-8aa8-f111-b8de-001dd803db57|2026-09-24T18:00:00.000Z|Curb Ramp and Crosswalk Package",
+      "rom": "",
+      "checkedAt": "2026-09-05T09:25:45.082Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=98b42af5-7aa8-f111-b8de-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=98b42af5-7aa8-f111-b8de-001dd803db57|2026-10-08T14:00:00.000Z|Sanford NC – Jackson Heights CDBG-NR - 21-C-4032",
+      "rom": "",
+      "checkedAt": "2026-09-05T09:25:45.082Z"
+    },
+    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5COctober_2_2026_Letting_Revisions": {
+      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5COctober_2_2026_Letting_Revisions|2026-10-02T15:00:00.000Z|October 2, 2026 Letting Revisions",
+      "rom": "",
+      "checkedAt": "2026-09-05T09:25:45.082Z"
+    },
+    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5COctober_2_2026_Letting_Plans": {
+      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5COctober_2_2026_Letting_Plans|2026-10-02T15:00:00.000Z|October 2, 2026 Letting Plans",
+      "rom": "",
+      "checkedAt": "2026-09-05T09:25:45.082Z"
     }
   },
-  "generatedAt": "2026-09-04T12:50:44.098Z"
+  "generatedAt": "2026-09-05T09:25:45.082Z"
 }
