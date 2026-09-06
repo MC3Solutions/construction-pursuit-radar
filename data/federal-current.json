@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-09-05T12:22:06.474Z",
+  "generatedAt": "2026-09-06T09:25:11.574Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
-    "postedFrom": "09/06/2025",
-    "postedTo": "09/05/2026",
-    "rdlfrom": "09/05/2026",
-    "rdlto": "09/04/2027"
+    "postedFrom": "09/07/2025",
+    "postedTo": "09/06/2026",
+    "rdlfrom": "09/06/2026",
+    "rdlto": "09/05/2027"
   },
-  "total": 323,
+  "total": 322,
   "records": [
-    [
-      "e27df2bfc83249a5874a721f69ec352c",
-      "W911WN26QA064",
-      "Borough of Etna, Pennsylvania, Local Protection Project (LPP) PL84-99 Rehabilitation",
-      "Pre-Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-21T00:00:00.000Z",
-      "2026-09-05T20:30:00.000Z",
-      "2026-08-21T00:00:00.000Z",
-      "Etna, PA, 15223",
-      40.518477,
-      -79.964844,
-      "237990",
-      "https://sam.gov/opp/e27df2bfc83249a5874a721f69ec352c/view",
-      1,
-      ""
-    ],
     [
       "286bde1bee724213afbfa2c3a5740622",
       "W912QR26QA092",
@@ -2067,6 +2050,23 @@
       "$25,000 – $100,000"
     ],
     [
+      "0f1500e16d1f4e8c977db406b79f2e59",
+      "70FBR226R00000018",
+      "FEMA Region 2 Naval Weapons Station Earle Building C-54 HVAC Rooftop Units Replacement and Mini Split Units for Server Room & Warehouse",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-05T00:00:00.000Z",
+      "2026-09-11T15:00:00.000Z",
+      "2026-09-05T00:00:00.000Z",
+      "Colts Neck, NJ, 07722",
+      40.279987,
+      -74.199213,
+      "238220",
+      "https://sam.gov/opp/0f1500e16d1f4e8c977db406b79f2e59/view",
+      1,
+      ""
+    ],
+    [
       "01174a24415343f89ab96a6d1bc8c57a",
       "W50S8D26Q1CHE",
       "Bldg. 202 Chiller Replacement",
@@ -2080,23 +2080,6 @@
       -74.058509,
       "238220",
       "https://sam.gov/opp/01174a24415343f89ab96a6d1bc8c57a/view",
-      1,
-      ""
-    ],
-    [
-      "04a1b48db000416bb149617713a938e0",
-      "70FBR226R00000018",
-      "FEMA Region 2 Naval Weapons Station Earle Building C-54 HVAC Rooftop Units Replacement and Mini Split Units for Server Room & Warehouse",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-25T00:00:00.000Z",
-      "2026-09-11T15:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
-      "Colts Neck, NJ, 07722",
-      40.305368,
-      -74.173684,
-      "238220",
-      "https://sam.gov/opp/04a1b48db000416bb149617713a938e0/view",
       1,
       ""
     ],
@@ -5505,12 +5488,12 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 275,
+    "zipLocated": 274,
     "cityLocated": 33,
     "unresolved": 15,
-    "locatedTotal": 308,
-    "total": 323,
-    "generatedAt": "2026-09-05T12:19:13.318Z"
+    "locatedTotal": 307,
+    "total": 322,
+    "generatedAt": "2026-09-06T09:22:17.172Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
