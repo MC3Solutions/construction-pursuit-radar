@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-05T12:12:21Z",
+  "generatedAt": "2026-09-06T13:15:00Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
-    "rawFederalMatches": 118,
-    "rawSledMatches": 238,
-    "curatedSledRecords": 107,
+    "rawFederalMatches": 115,
+    "rawSledMatches": 182,
+    "curatedSledRecords": 108,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
   },
   "federalEnrichment": [
@@ -306,6 +306,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-08-28T12:30:00Z"
+    },
+    {
+      "state": "IL",
+      "s": "BID202705",
+      "n": "Potable Water Distribution System Improvements - Contract D - Division Street Water Main Replacement",
+      "d": "2026-09-09T15:00:00Z",
+      "p": "2026-08-12T14:28:09Z",
+      "l": "McLean County, IL",
+      "scope": "Water Main Construction",
+      "c": "Water Main Construction",
+      "r": "https://procurement.opengov.com/portal/cityblm/projects/288003",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-06T13:15:00Z"
     },
     {
       "state": "FL",
@@ -1672,8 +1688,8 @@
       "d": "2026-10-01T15:00:00Z",
       "p": "2026-08-13T17:27:04Z",
       "l": "Charles County, MD",
-      "scope": "Water / Sewer Design-Build",
-      "c": "Water / Sewer Design-Build",
+      "scope": "Wastewater / Force Main Design-Build Construction",
+      "c": "Wastewater / Force Main Design-Build Construction",
       "r": "https://procurement.opengov.com/portal/charlescountymd/projects/268896",
       "type": "State / Local",
       "set": "State / Local",
@@ -1681,7 +1697,7 @@
       "y": -77,
       "approx": true,
       "rom": "",
-      "u": "2026-09-01T12:47:44Z"
+      "u": "2026-09-06T13:15:00Z"
     },
     {
       "state": "RI",
