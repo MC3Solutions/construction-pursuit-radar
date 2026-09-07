@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-06T13:15:00Z",
+  "generatedAt": "2026-09-07T12:43:07Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
     "rawFederalMatches": 115,
-    "rawSledMatches": 182,
-    "curatedSledRecords": 108,
+    "rawSledMatches": 62,
+    "curatedSledRecords": 114,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
   },
   "federalEnrichment": [
@@ -306,6 +306,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-08-28T12:30:00Z"
+    },
+    {
+      "state": "VA",
+      "s": "QQ127762",
+      "n": "Legion Hall Road Drainage Paving Project",
+      "d": "2026-09-09T14:00:00Z",
+      "p": "2026-09-02T19:14:08Z",
+      "l": "Virginia",
+      "scope": "Road Drainage / Paving Construction",
+      "c": "Road Drainage / Paving Construction",
+      "r": "https://mvendor.cgieva.com/Vendor/public/IVDetails.jsp?PageTitle=SO%20Details&rfp_id_lot=127762&rfp_id_round=0",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-07T12:43:07Z"
     },
     {
       "state": "IL",
@@ -1004,6 +1020,22 @@
       "u": "2026-09-05T12:12:21Z"
     },
     {
+      "state": "VT",
+      "s": "75102",
+      "n": "East Cobble Hill Road Culvert Replacement",
+      "d": "2026-09-17T14:30:00Z",
+      "p": "2026-08-28T15:56:57Z",
+      "l": "Vermont",
+      "scope": "Culvert Replacement",
+      "c": "Culvert Replacement",
+      "r": "https://www.vermontbusinessregistry.com/BidPreview.aspx?BidID=75102",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-07T12:43:07Z"
+    },
+    {
       "state": "MA",
       "s": "BD271412LAW25LAW31132544",
       "n": "Lawrence Municipal Airport New Administration Building",
@@ -1078,12 +1110,12 @@
       "d": "2026-09-18T18:00:00Z",
       "p": "2026-08-06T23:30:00Z",
       "l": "Monroe County, PA",
-      "scope": "Wastewater Treatment Construction",
-      "c": "Wastewater Treatment Construction",
+      "scope": "Sewage Treatment Plant Improvements",
+      "c": "Sewage Treatment Plant Improvements",
       "r": "https://pennbid.bonfirehub.com/opportunities/247986",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-09-01T12:47:44Z",
+      "u": "2026-09-07T12:43:07Z",
       "x": 41,
       "y": -75.3,
       "approx": true,
@@ -1599,9 +1631,9 @@
       "n": "Anacostia II Wastewater Pumping Station Surge Tanks Removal",
       "d": "2026-09-30T18:00:00Z",
       "p": "2026-08-19T16:50:04Z",
-      "l": "Prince George's County, MD",
-      "scope": "Wastewater / Pump Station Construction",
-      "c": "Wastewater / Pump Station Construction",
+      "l": "Maryland",
+      "scope": "Wastewater Pumping Station Construction",
+      "c": "Wastewater Pumping Station Construction",
       "r": "https://procurement.opengov.com/portal/wsscwater/projects/290330",
       "type": "State / Local",
       "set": "State / Local",
@@ -1609,7 +1641,7 @@
       "y": -76.8,
       "approx": true,
       "rom": "",
-      "u": "2026-09-01T12:47:44Z"
+      "u": "2026-09-07T12:43:07Z"
     },
     {
       "state": "GA",
@@ -1787,6 +1819,22 @@
     },
     {
       "state": "GA",
+      "s": "PE55463NONST2027000000027",
+      "n": "Facility Renovations and New Construction at Cartersville Middle School",
+      "d": "2026-10-01T18:00:00Z",
+      "p": "2026-09-01T12:54:00Z",
+      "l": "Georgia",
+      "scope": "Educational Building Renovation / New Construction",
+      "c": "Educational Building Renovation / New Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-55463-NONST-2027-000000027&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-07T12:43:07Z"
+    },
+    {
+      "state": "GA",
       "s": "PE77021NONST2027000000200",
       "n": "Hull MS – HVAC Modifications & Interior Renovations",
       "d": "2026-10-01T19:00:00Z",
@@ -1834,6 +1882,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-04T12:52:00Z"
+    },
+    {
+      "state": "FL",
+      "s": "145242",
+      "n": "Lift Station #46 Rehabilitation",
+      "d": "2026-10-05T18:00:00Z",
+      "p": "2026-09-03T04:00:00Z",
+      "l": "Florida",
+      "scope": "Lift Station Rehabilitation",
+      "c": "Lift Station Rehabilitation",
+      "r": "https://vendors.planetbids.com/portal/62171/bo/bo-detail/145242",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-07T12:43:07Z"
     },
     {
       "state": "GA",
@@ -1986,6 +2050,22 @@
       "u": "2026-08-28T12:30:00Z"
     },
     {
+      "state": "VA",
+      "s": "DBB127650",
+      "n": "408319 Dozier's Corner Pump Station Replacement (AT015400)",
+      "d": "2026-10-20T18:00:00Z",
+      "p": "2026-09-01T17:57:39Z",
+      "l": "Virginia",
+      "scope": "Pump Station Replacement",
+      "c": "Pump Station Replacement",
+      "r": "https://mvendor.cgieva.com/Vendor/public/IVDetails.jsp?PageTitle=SO%20Details&rfp_id_lot=127650&rfp_id_round=0",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-07T12:43:07Z"
+    },
+    {
       "state": "MA",
       "s": "BD2710300H1000H002132739",
       "n": "Andover Bridge Preservation I-93 over Merrimack River",
@@ -2002,6 +2082,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-08-29T12:32:22Z"
+    },
+    {
+      "state": "MD",
+      "s": "BPM058627",
+      "n": "University of Maryland, College Park Hagerstown Hall Renovation - Trade Contractor Bid Solicitation",
+      "d": "2026-11-09T05:00:00Z",
+      "p": "2026-08-27T17:42:59Z",
+      "l": "College Park, MD",
+      "scope": "Building Renovation / Trade Construction",
+      "c": "Building Renovation / Trade Construction",
+      "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/94488",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-07T12:43:07Z"
     }
   ]
 }
