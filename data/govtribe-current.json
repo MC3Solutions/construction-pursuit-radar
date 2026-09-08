@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-07T12:43:07Z",
+  "generatedAt": "2026-09-08T12:12:52Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
-    "rawFederalMatches": 115,
-    "rawSledMatches": 62,
-    "curatedSledRecords": 114,
+    "rawFederalMatches": 114,
+    "rawSledMatches": 183,
+    "curatedSledRecords": 119,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
   },
   "federalEnrichment": [
@@ -321,7 +321,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-07T12:43:07Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "IL",
@@ -410,20 +410,36 @@
       "u": "2026-09-05T12:12:21Z"
     },
     {
+      "state": "MA",
+      "s": "BD2710300H1000H002132023",
+      "n": "610544 PEABODY FAP No. CMQ/STP/TAP-0034(034)X Multi-Use Path Construction of Independence Greenway",
+      "d": "2026-09-09T18:00:00Z",
+      "p": "2026-08-03T14:00:00Z",
+      "l": "Essex County, MA",
+      "scope": "Highway / Multi-Use Path Construction",
+      "c": "Highway / Multi-Use Path Construction",
+      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-27-1030-0H100-0H002-132023&external=true&parentUrl=close",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-08T12:12:52Z"
+    },
+    {
       "state": "MI",
       "s": "RFQ1712600000004393",
-      "n": "751/25246 RLO St Helen Bridge - Removal/New Culvert",
+      "n": "751/25246. RLO; St Helen Bridge - Removal/New Culvert",
       "d": "2026-09-09T23:00:00Z",
       "p": "2026-08-28T04:00:00Z",
       "l": "Michigan",
-      "scope": "Bridge / Culvert Construction",
-      "c": "Bridge / Culvert Construction",
+      "scope": "Bridge Removal / Culvert Construction",
+      "c": "Bridge Removal / Culvert Construction",
       "r": "https://sigma.michigan.gov/PRDVSS1X1/Advantage4",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -613,7 +629,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "MI",
@@ -634,20 +650,36 @@
       "u": "2026-08-29T12:32:22Z"
     },
     {
+      "state": "GA",
+      "s": "PE77197NONST2026000000016",
+      "n": "Construction Management at Risk Services - New Aquatic Center and Improvements at Roper Park",
+      "d": "2026-09-11T20:30:00Z",
+      "p": "2026-08-10T20:08:00Z",
+      "l": "Georgia",
+      "scope": "Aquatic Center / Park Construction CMAR",
+      "c": "Aquatic Center / Park Construction CMAR",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-77197-NONST-2026-000000016&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-08T12:12:52Z"
+    },
+    {
       "state": "FL",
       "s": "PD2526084",
-      "n": "Alger Road Bridge Replacement and Jefferson Avenue Pipe Culvert Rehabilitation",
+      "n": "CDBG-DR HS019 Construction-Alger Rd Bridge Replacement and Jefferson Ave Pipe Culvert Rehab",
       "d": "2026-09-14T15:00:00Z",
       "p": "2026-08-14T20:18:51Z",
       "l": "Escambia County, FL",
-      "scope": "Bridge / Culvert Construction",
-      "c": "Bridge / Culvert Construction",
+      "scope": "Bridge Replacement / Culvert Rehabilitation",
+      "c": "Bridge Replacement / Culvert Rehabilitation",
       "r": "https://procurement.opengov.com/portal/escambiacountyfl/projects/274796",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -656,14 +688,14 @@
       "d": "2026-09-14T18:00:00Z",
       "p": "2026-08-13T12:57:00Z",
       "l": "Mitchell County, GA",
-      "scope": "Culvert Construction",
-      "c": "Culvert Construction",
+      "scope": "Pipe Culvert Construction",
+      "c": "Pipe Culvert Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-69955-NONST-2027-000000029&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -672,14 +704,14 @@
       "d": "2026-09-14T18:00:00Z",
       "p": "2026-08-13T12:53:00Z",
       "l": "Mitchell County, GA",
-      "scope": "Culvert Construction",
-      "c": "Culvert Construction",
+      "scope": "Pipe Culvert Construction",
+      "c": "Pipe Culvert Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-69955-NONST-2027-000000028&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "NC",
@@ -704,12 +736,12 @@
       "d": "2026-09-14T20:00:00Z",
       "p": "2026-08-14T20:00:50Z",
       "l": "Clay County, FL",
-      "scope": "Civil / Heavy",
-      "c": "Civil / Heavy",
+      "scope": "Box Culvert Restoration",
+      "c": "Box Culvert Restoration",
       "r": "https://procurement.opengov.com/portal/claycounty/projects/283588",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-08-27T15:59:03Z",
+      "u": "2026-09-08T12:12:52Z",
       "x": 28.3,
       "y": -82.1,
       "approx": true,
@@ -824,8 +856,8 @@
       "d": "2026-09-16T14:00:58Z",
       "p": "2026-08-24T16:42:19Z",
       "l": "Hamilton County, IN",
-      "scope": "Building Renovation",
-      "c": "Building Renovation",
+      "scope": "Fire Station Building Remodel",
+      "c": "Fire Station Building Remodel",
       "r": "https://procurement.opengov.com/portal/carmelin/projects/288621",
       "type": "State / Local",
       "set": "State / Local",
@@ -833,7 +865,7 @@
       "y": -86.1,
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -842,14 +874,14 @@
       "d": "2026-09-16T15:00:00Z",
       "p": "2026-08-18T15:26:00Z",
       "l": "Fulton County, GA",
-      "scope": "Educational Building Construction / Renovation",
-      "c": "Educational Building Construction / Renovation",
+      "scope": "Educational Building Systems Construction",
+      "c": "Educational Building Systems Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-76110-NONST-2027-000000150&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -858,14 +890,14 @@
       "d": "2026-09-16T15:00:00Z",
       "p": "2026-08-18T12:59:00Z",
       "l": "Fulton County, GA",
-      "scope": "Building Systems Renovation",
-      "c": "Building Systems Renovation",
+      "scope": "Educational Building Systems Upgrades",
+      "c": "Educational Building Systems Upgrades",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-76110-NONST-2027-000000149&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "FL",
@@ -940,12 +972,12 @@
     {
       "state": "IL",
       "s": "261504070",
-      "n": "CMAR for Renovation and Repair of the Facade and Basement Levels of the County Building at 118 North Clark",
+      "n": "CMAR for Renovation and Repair of the Façade and Basement Levels of the County Building at 118 North Clark",
       "d": "2026-09-16T20:00:00Z",
       "p": "2026-08-04T02:00:00Z",
       "l": "Cook County, IL",
-      "scope": "CMAR / Building Renovation",
-      "c": "CMAR / Building Renovation",
+      "scope": "CMAR Building Renovation / Repair",
+      "c": "CMAR Building Renovation / Repair",
       "r": "https://cookcountyil.bonfirehub.com/opportunities/230675",
       "type": "State / Local",
       "set": "State / Local",
@@ -953,7 +985,7 @@
       "y": -87.63,
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -994,14 +1026,14 @@
       "d": "2026-09-16T21:00:00Z",
       "p": "2026-08-05T20:30:00Z",
       "l": "Harford County, MD",
-      "scope": "Water Treatment Plant Construction",
-      "c": "Water Treatment Plant Construction",
+      "scope": "Water Treatment Plant Upgrade",
+      "c": "Water Treatment Plant Upgrade",
       "r": "https://harfordcountymd.bonfirehub.com/opportunities/247750",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -1033,7 +1065,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-07T12:43:07Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "MA",
@@ -1115,7 +1147,7 @@
       "r": "https://pennbid.bonfirehub.com/opportunities/247986",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-09-07T12:43:07Z",
+      "u": "2026-09-08T12:12:52Z",
       "x": 41,
       "y": -75.3,
       "approx": true,
@@ -1146,14 +1178,14 @@
       "d": "2026-09-18T19:00:00Z",
       "p": "2026-08-27T18:11:00Z",
       "l": "Brooks County, GA",
-      "scope": "Road / Drainage Construction",
-      "c": "Road / Drainage Construction",
+      "scope": "Road Drainage / Culvert / Paving Construction",
+      "c": "Road Drainage / Culvert / Paving Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-61600-NONST-2027-000000062&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -1195,9 +1227,9 @@
       "n": "Construction Manager at Risk (CMAR) Services",
       "d": "2026-09-21T21:00:00Z",
       "p": "2026-08-20T17:05:00Z",
-      "l": "Georgia",
-      "scope": "CMAR / Educational Building Construction",
-      "c": "CMAR / Educational Building Construction",
+      "l": "Dekalb County, GA",
+      "scope": "Educational Building Construction / CMAR",
+      "c": "Educational Building Construction / CMAR",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-55519-NONST-2027-000000003&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
@@ -1205,7 +1237,7 @@
       "y": -84.39,
       "approx": true,
       "rom": "",
-      "u": "2026-09-01T12:47:44Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "NC",
@@ -1228,18 +1260,18 @@
     {
       "state": "GA",
       "s": "PE62853NONST2027000000028",
-      "n": "Rope Mill Road Trail Connection",
+      "n": "RFB 2027 - 03 - Rope Mill Road Trail Connection",
       "d": "2026-09-22T14:00:00Z",
       "p": "2026-08-20T18:53:00Z",
       "l": "Cherokee County, GA",
-      "scope": "Trail / Site Construction",
-      "c": "Trail / Site Construction",
+      "scope": "Trail / Sidewalk / Storm Drain Construction",
+      "c": "Trail / Sidewalk / Storm Drain Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-62853-NONST-2027-000000028&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -1340,6 +1372,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-02T12:29:38Z"
+    },
+    {
+      "state": "NC",
+      "s": "SCO232608201B1",
+      "n": "CM@RISK-North Carolina Department of Administration",
+      "d": "2026-09-22T18:00:00Z",
+      "p": "2026-08-31T04:00:00Z",
+      "l": "North Carolina",
+      "scope": "Building Construction / CMAR",
+      "c": "Building Construction / CMAR",
+      "r": "https://evp.nc.gov/solicitations/details/?id=81902b47-5da5-f111-b8de-001dd802e1e9",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "FL",
@@ -1598,14 +1646,14 @@
       "d": "2026-09-28T19:00:16Z",
       "p": "2026-08-10T13:36:01Z",
       "l": "Collier County, FL",
-      "scope": "Building Construction / Expansion",
-      "c": "Building Construction / Expansion",
+      "scope": "Commercial / Institutional Building Expansion",
+      "c": "Commercial / Institutional Building Expansion",
       "r": "https://procurement.opengov.com/portal/collier-county-fl/projects/282835",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "FL",
@@ -1631,7 +1679,7 @@
       "n": "Anacostia II Wastewater Pumping Station Surge Tanks Removal",
       "d": "2026-09-30T18:00:00Z",
       "p": "2026-08-19T16:50:04Z",
-      "l": "Maryland",
+      "l": "Prince George's County, MD",
       "scope": "Wastewater Pumping Station Construction",
       "c": "Wastewater Pumping Station Construction",
       "r": "https://procurement.opengov.com/portal/wsscwater/projects/290330",
@@ -1641,7 +1689,7 @@
       "y": -76.8,
       "approx": true,
       "rom": "",
-      "u": "2026-09-07T12:43:07Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -1720,8 +1768,8 @@
       "d": "2026-10-01T15:00:00Z",
       "p": "2026-08-13T17:27:04Z",
       "l": "Charles County, MD",
-      "scope": "Wastewater / Force Main Design-Build Construction",
-      "c": "Wastewater / Force Main Design-Build Construction",
+      "scope": "Wastewater Force Main / Design-Build Construction",
+      "c": "Wastewater Force Main / Design-Build Construction",
       "r": "https://procurement.opengov.com/portal/charlescountymd/projects/268896",
       "type": "State / Local",
       "set": "State / Local",
@@ -1729,7 +1777,7 @@
       "y": -77,
       "approx": true,
       "rom": "",
-      "u": "2026-09-06T13:15:00Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "RI",
@@ -1738,14 +1786,14 @@
       "d": "2026-10-01T15:00:00Z",
       "p": "2026-09-04T19:00:00Z",
       "l": "Providence County, RI",
-      "scope": "Building / HVAC Construction",
-      "c": "Building / HVAC Construction",
+      "scope": "Building HVAC Improvements",
+      "c": "Building HVAC Improvements",
       "r": "https://webprocure.proactiscloud.com/wp-web-public/en/#/bidboard/bid/145599?pagenumber=1&customerid=46&oid=120002&shorBy=r",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -1772,8 +1820,8 @@
       "d": "2026-10-01T18:00:00Z",
       "p": "2026-08-25T20:44:00Z",
       "l": "Gwinnett County, GA",
-      "scope": "Water / Site Construction",
-      "c": "Water / Site Construction",
+      "scope": "Stormwater / Pond Construction",
+      "c": "Stormwater / Pond Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66751-NONST-2027-000000106&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
@@ -1781,7 +1829,7 @@
       "y": -83.3,
       "approx": true,
       "rom": "",
-      "u": "2026-08-29T12:32:22Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -1808,14 +1856,14 @@
       "d": "2026-10-01T18:00:00Z",
       "p": "2026-08-27T18:50:00Z",
       "l": "Gwinnett County, GA",
-      "scope": "Sitework / Paving / Sinkhole Repair",
-      "c": "Sitework / Paving / Sinkhole Repair",
+      "scope": "Site / Paving / Sinkhole Repair Construction",
+      "c": "Site / Paving / Sinkhole Repair Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66751-NONST-2027-000000107&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-05T12:12:21Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -1831,7 +1879,23 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-07T12:43:07Z"
+      "u": "2026-09-08T12:12:52Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE77030NONST2027000000029",
+      "n": "Construction of Troup County Fire Station #1",
+      "d": "2026-10-01T18:00:00Z",
+      "p": "2026-08-21T12:30:00Z",
+      "l": "Georgia",
+      "scope": "Fire Station Construction",
+      "c": "Fire Station Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-77030-NONST-2027-000000029&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -1897,7 +1961,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-07T12:43:07Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "GA",
@@ -1982,6 +2046,22 @@
       "u": "2026-09-04T12:52:00Z"
     },
     {
+      "state": "CT",
+      "s": "BIDNO2704",
+      "n": "Rebid - Great River Park Improvement Project",
+      "d": "2026-10-07T15:00:00Z",
+      "p": "2026-09-02T14:15:00Z",
+      "l": "Hartford County, CT",
+      "scope": "Park Improvement Construction",
+      "c": "Park Improvement Construction",
+      "r": "https://webprocure.proactiscloud.com/wp-web-public/en/#/bidboard/bid/145535?pagenumber=1&customerid=51&oid=149300&shorBy=r",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-08T12:12:52Z"
+    },
+    {
       "state": "GA",
       "s": "PE66418NONST2026000000023",
       "n": "Pooler Parkway at Benton Boulevard, Mill Creek Circle, and I-95 Southbound Ramps",
@@ -2063,7 +2143,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-07T12:43:07Z"
+      "u": "2026-09-08T12:12:52Z"
     },
     {
       "state": "MA",
@@ -2097,7 +2177,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-07T12:43:07Z"
+      "u": "2026-09-08T12:12:52Z"
     }
   ]
 }

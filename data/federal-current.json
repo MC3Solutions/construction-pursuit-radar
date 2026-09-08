@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T09:28:21.026Z",
+  "generatedAt": "2026-09-08T12:23:52.930Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "09/09/2025",
@@ -7,7 +7,7 @@
     "rdlfrom": "09/08/2026",
     "rdlto": "09/07/2027"
   },
-  "total": 319,
+  "total": 320,
   "records": [
     [
       "bfd6691144d74fffa3c0c938b9dcdfbb",
@@ -40,6 +40,23 @@
       -76.01478,
       "236220",
       "https://sam.gov/opp/28747384a6ea471a80fa0dfe40443073/view",
+      1,
+      ""
+    ],
+    [
+      "13fb6354f0134d7e9427a6319bd247b1",
+      "W912QR26QA092",
+      "COOP House Furnace Replacement at West Fork Lake",
+      "Solicitation",
+      "No Set-Aside Used",
+      "2026-09-08T00:00:00.000Z",
+      "2026-09-08T14:00:00.000Z",
+      "2026-09-08T00:00:00.000Z",
+      "Cincinnati, OH, 45240",
+      39.292488,
+      -84.538256,
+      "238220",
+      "https://sam.gov/opp/13fb6354f0134d7e9427a6319bd247b1/view",
       1,
       ""
     ],
@@ -5437,16 +5454,16 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 271,
+    "zipLocated": 272,
     "cityLocated": 33,
     "unresolved": 15,
-    "locatedTotal": 304,
-    "total": 319,
-    "generatedAt": "2026-09-08T09:25:08.144Z"
+    "locatedTotal": 305,
+    "total": 320,
+    "generatedAt": "2026-09-08T12:20:48.916Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
-    "snapshotGeneratedAt": "2026-09-07T12:43:07Z",
+    "snapshotGeneratedAt": "2026-09-08T12:12:52Z",
     "romAdded": 9,
     "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice. IDIQ/MACC ceilings and contract capacities are excluded."
   }
