@@ -8,6 +8,7 @@ on:
   push:
     branches: [main]
     paths:
+      - 'scripts/apply-govtribe-refresh.mjs'
       - 'scripts/scrape-priority-fast.mjs'
       - 'scripts/scrape-wvwa.mjs'
       - 'scripts/scrape-va-utility-authorities.mjs'
@@ -60,6 +61,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+
+      - name: Apply connected GovTribe refresh patch
+        run: node scripts/apply-govtribe-refresh.mjs
 
       - name: Refresh federal opportunities from SAM.gov API
         env:
