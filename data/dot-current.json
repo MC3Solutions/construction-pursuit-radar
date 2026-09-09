@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T09:26:50.534Z",
+  "generatedAt": "2026-09-09T09:57:03.461Z",
   "records": [
     {
       "source": "VDOT",
@@ -19,13 +19,13 @@
       "approx": true,
       "sourceLabel": "VDOT CABB",
       "set": "State / Local",
-      "p": "2026-09-09T09:26:35.196Z",
-      "u": "2026-09-09T09:26:35.196Z",
+      "p": "2026-09-09T09:56:48.532Z",
+      "u": "2026-09-09T09:56:48.532Z",
       "x": 38.7513714,
       "y": -77.8141221,
       "firstSeen": "2026-09-09T09:26:35.196Z",
-      "lastSeen": "2026-09-09T09:26:35.196Z",
-      "change": "NEW"
+      "lastSeen": "2026-09-09T09:56:48.532Z",
+      "change": "ACTIVE"
     },
     {
       "source": "VDOT",
@@ -45,13 +45,13 @@
       "approx": true,
       "sourceLabel": "VDOT CABB",
       "set": "State / Local",
-      "p": "2026-09-09T09:26:35.196Z",
-      "u": "2026-09-09T09:26:35.196Z",
+      "p": "2026-09-09T09:56:48.532Z",
+      "u": "2026-09-09T09:56:48.532Z",
       "x": 38.0686668,
       "y": -78.8893999,
       "firstSeen": "2026-09-09T09:26:35.196Z",
-      "lastSeen": "2026-09-09T09:26:35.196Z",
-      "change": "NEW"
+      "lastSeen": "2026-09-09T09:56:48.532Z",
+      "change": "ACTIVE"
     },
     {
       "source": "NCDOT",
@@ -66,14 +66,14 @@
       "type": "NCDOT Advertised Central Letting",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-09-09T09:26:50.534Z",
-      "u": "2026-09-09T09:26:50.534Z",
+      "p": "2026-09-09T09:57:03.461Z",
+      "u": "2026-09-09T09:57:03.461Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": true,
       "firstSeen": "2026-08-28T12:47:24.257Z",
-      "lastSeen": "2026-09-09T09:26:50.534Z",
+      "lastSeen": "2026-09-09T09:57:03.461Z",
       "change": "ACTIVE"
     },
     {
@@ -89,14 +89,14 @@
       "type": "NCDOT Advertised Division 2 Letting",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-09-09T09:26:50.534Z",
-      "u": "2026-09-09T09:26:50.534Z",
+      "p": "2026-09-09T09:57:03.461Z",
+      "u": "2026-09-09T09:57:03.461Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": true,
       "firstSeen": "2026-08-28T12:47:24.257Z",
-      "lastSeen": "2026-09-09T09:26:50.534Z",
+      "lastSeen": "2026-09-09T09:57:03.461Z",
       "change": "ACTIVE"
     },
     {
@@ -112,14 +112,14 @@
       "type": "NCDOT Advertised Division 2 Letting",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-09-09T09:26:50.534Z",
-      "u": "2026-09-09T09:26:50.534Z",
+      "p": "2026-09-09T09:57:03.461Z",
+      "u": "2026-09-09T09:57:03.461Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": true,
       "firstSeen": "2026-08-28T12:47:24.257Z",
-      "lastSeen": "2026-09-09T09:26:50.534Z",
+      "lastSeen": "2026-09-09T09:57:03.461Z",
       "change": "ACTIVE"
     },
     {
@@ -135,14 +135,14 @@
       "type": "NCDOT Advertised Division 3 Letting",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-09-09T09:26:50.534Z",
-      "u": "2026-09-09T09:26:50.534Z",
+      "p": "2026-09-09T09:57:03.461Z",
+      "u": "2026-09-09T09:57:03.461Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": true,
       "firstSeen": "2026-08-28T12:47:24.257Z",
-      "lastSeen": "2026-09-09T09:26:50.534Z",
+      "lastSeen": "2026-09-09T09:57:03.461Z",
       "change": "ACTIVE"
     },
     {
@@ -158,14 +158,14 @@
       "type": "NCDOT Advertised Division 7 Letting",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-09-09T09:26:50.534Z",
-      "u": "2026-09-09T09:26:50.534Z",
+      "p": "2026-09-09T09:57:03.461Z",
+      "u": "2026-09-09T09:57:03.461Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": true,
       "firstSeen": "2026-08-28T12:47:24.257Z",
-      "lastSeen": "2026-09-09T09:26:50.534Z",
+      "lastSeen": "2026-09-09T09:57:03.461Z",
       "change": "ACTIVE"
     }
   ]
