@@ -139,9 +139,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-22T18:00:00.000Z|IFB 27-032-2647 Construction of New Sidewalk with ...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-15T18:00:00.000Z|2710001 RFQu - Part 1 Boulders Road Extended and E...",
       "rom": "",
-      "checkedAt": "2026-09-09T09:28:38.130Z"
+      "checkedAt": "2026-09-09T12:20:33.149Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -155,9 +155,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
       "rom": "",
-      "checkedAt": "2026-09-09T09:28:38.130Z",
+      "checkedAt": "2026-09-09T12:20:33.149Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -171,9 +171,9 @@
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-09T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-23T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-09T09:28:38.130Z"
+      "checkedAt": "2026-09-09T12:20:33.149Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx": {
       "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
@@ -531,7 +531,12 @@
       "stamp": "https://cabb.virginiadot.org/upload/20260908025855SEP-A98.pdf|2026-11-18T17:00:00.000Z|BRIDGE REPLACEMENT · Route 66 · FAUQUIER",
       "rom": "",
       "checkedAt": "2026-09-09T09:28:38.130Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=dfc94623-43ac-f111-aaac-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=dfc94623-43ac-f111-aaac-001dd80db495|2026-10-13T18:00:00.000Z|Genoa Gravity Sewer Rehabilitation - Phase I",
+      "rom": "$2,100,000 – $3,150,000",
+      "checkedAt": "2026-09-09T12:20:33.149Z"
     }
   },
-  "generatedAt": "2026-09-09T09:28:38.130Z"
+  "generatedAt": "2026-09-09T12:20:33.149Z"
 }

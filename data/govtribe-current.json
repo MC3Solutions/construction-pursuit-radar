@@ -1,12 +1,20 @@
 {
-  "generatedAt": "2026-09-08T12:12:52Z",
+  "generatedAt": "2026-09-09T12:25:00Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
-    "rawFederalMatches": 114,
-    "rawSledMatches": 183,
-    "curatedSledRecords": 112,
-    "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded."
+    "rawFederalMatches": 103,
+    "rawSledMatches": 272,
+    "curatedSledRecords": 121,
+    "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
+    "rawSearchCounts": {
+      "federalTargetStatesNaics": 103,
+      "sledConstructionNigp": 241,
+      "sledBuildingRenovationDesignBuildCmar": 16,
+      "sledWaterSewerWastewaterPumpPipelineStormwater": 9,
+      "sledRoadPavingBridgeCulvertSiteworkDemolition": 6
+    },
+    "searchProfile": "2026-09-09 connected GovTribe refresh. Federal discovery searched active future-due Posted/Updated Solicitation and Pre-Solicitation records in AL, CT, DC, DE, FL, GA, IL, IN, KY, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, and WV for NAICS 236220, 237110, 237310, and 237990; Massachusetts, Michigan, Mississippi, and Vermont use resolved GovTribe state location identifiers. The target-state federal search returned 103 active future-due records. SLED discovery searched construction-focused NIGP categories for non-residential/educational/commercial building construction, general/site construction, highway/road, bridge, culvert, pipeline, sewer/storm drain, underground utility, viaduct and paving work (241 raw hits), plus strong building/renovation/design-build/CMAR (16), water/sewer/wastewater/pump/lift station/pipeline/stormwater (9), and road/paving/bridge/culvert/sitework/demolition (6) keyword groups. The 272 SLED figure is the sum of raw search hits and may contain overlap between search groups. Current hits are screened for real construction scope and usable public procurement source links; consulting/design-only, inspection/testing-only, staffing, goods-only, maintenance-only/on-call, prequalification-only, sale/property, printing, stale placeholders and obvious non-construction noise are excluded. Existing still-active vetted records are preserved for continuity and expired pursuits are pruned when the patch is applied. GovTribe remains supplemental to SAM.gov and priority direct state sources. IDIQ/MACC/SATOC ceilings and contract capacities are never used as project ROMs."
   },
   "federalEnrichment": [
     {
@@ -1000,6 +1008,70 @@
       "u": "2026-09-05T12:12:21Z"
     },
     {
+      "state": "GA",
+      "s": "PE77129NONST2027000000074",
+      "n": "024-47 Fire Stations 7, 13, & 14 Remodels",
+      "d": "2026-09-17T18:00:00Z",
+      "p": "2026-08-20T19:28:00Z",
+      "l": "Hall County, GA",
+      "scope": "Fire Station Building Remodels",
+      "c": "Fire Station Building Remodels",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-77129-NONST-2027-000000074&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-09T12:25:00Z"
+    },
+    {
+      "state": "MA",
+      "s": "BD2611600202132927",
+      "n": "IFB_ DPW_ 2026 Crack Seal",
+      "d": "2026-09-17T18:00:00Z",
+      "p": "2026-09-02T11:00:00Z",
+      "l": "Massachusetts",
+      "scope": "Road Crack Sealing Construction",
+      "c": "Road Crack Sealing Construction",
+      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-26-1160-02-02-132927&external=true&parentUrl=close",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-09T12:25:00Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE64800NONST2027000000082",
+      "n": "LRA Patching, Milling and Resurfacing Various Roads in Douglas County",
+      "d": "2026-09-17T18:00:00Z",
+      "p": "2026-08-17T21:22:00Z",
+      "l": "Douglas County, GA",
+      "scope": "Road Patching / Milling / Resurfacing",
+      "c": "Road Patching / Milling / Resurfacing",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-64800-NONST-2027-000000082&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-09T12:25:00Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE66276NONST2027000000027",
+      "n": "City of Social Circle Little River Water Pollution Control Plant",
+      "d": "2026-09-17T18:30:00Z",
+      "p": "2026-08-10T12:10:00Z",
+      "l": "Georgia",
+      "scope": "Wastewater Treatment Plant / Pipeline Construction",
+      "c": "Wastewater Treatment Plant / Pipeline Construction",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66276-NONST-2027-000000027&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-09T12:25:00Z"
+    },
+    {
       "state": "KY",
       "s": "RFP78527000000521",
       "n": "RFP-48-27 CM/GC KSU Health Sciences Center",
@@ -1089,19 +1161,35 @@
     },
     {
       "state": "FL",
+      "s": "ITB16541",
+      "n": "220016 & 220017 4800 Area Paving AVENUES & STREETS",
+      "d": "2026-09-21T14:00:00Z",
+      "p": "2026-07-24T14:24:09Z",
+      "l": "St. Johns County, FL",
+      "scope": "Road / Street Paving Construction",
+      "c": "Road / Street Paving Construction",
+      "r": "https://vendor.myfloridamarketplace.com/search/bids/detail/16541",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-09T12:25:00Z"
+    },
+    {
+      "state": "FL",
       "s": "268683R",
-      "n": "South County Regional Water Treatment Plant Lime Softening Improvements - Blend Tank",
+      "n": "South County Regional Water Treatment Plant (SCRWTP) Lime Softening Improvements - Blend Tank",
       "d": "2026-09-21T19:00:16Z",
       "p": "2026-08-20T12:59:17Z",
       "l": "Collier County, FL",
-      "scope": "Water Treatment Plant Construction",
-      "c": "Water Treatment Plant Construction",
+      "scope": "Water Treatment Plant Improvements",
+      "c": "Water Treatment Plant Improvements",
       "r": "https://procurement.opengov.com/portal/collier-county-fl/projects/294211",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
@@ -1157,19 +1245,35 @@
     },
     {
       "state": "GA",
+      "s": "PE62290NONST2026000000031",
+      "n": "Northeast Downtown Watermain Replacement Anderson/Cleghorn",
+      "d": "2026-09-22T14:00:00Z",
+      "p": "2026-08-17T21:22:00Z",
+      "l": "Douglas County, GA",
+      "scope": "Water Main / Pipeline Replacement",
+      "c": "Water Main / Pipeline Replacement",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-62290-NONST-2026-000000031&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-09T12:25:00Z"
+    },
+    {
+      "state": "GA",
       "s": "PE62853NONST2027000000029",
-      "n": "Noonday Creek Trail Connection at Dupree Road",
+      "n": "RFB 2027 - 04 - Noonday Creek Trail Connection at Dupree Road",
       "d": "2026-09-22T14:30:00Z",
       "p": "2026-08-20T21:06:00Z",
       "l": "Cherokee County, GA",
-      "scope": "Trail / Site Construction",
-      "c": "Trail / Site Construction",
+      "scope": "Trail / Sidewalk / Storm Drain Construction",
+      "c": "Trail / Sidewalk / Storm Drain Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-62853-NONST-2027-000000029&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
@@ -1190,12 +1294,12 @@
     {
       "state": "MA",
       "s": "BD191212MWRADITP132487",
-      "n": "MWRA Contract OP-537 Phase 15 Sewer Manhole Rehabilitation",
+      "n": "MWRA Contract No. OP-537 Phase 15 Sewer Manhole Rehabilitation",
       "d": "2026-09-22T18:00:00Z",
       "p": "2026-08-19T15:00:00Z",
       "l": "Massachusetts",
-      "scope": "Sewer Rehabilitation",
-      "c": "Sewer Rehabilitation",
+      "scope": "Sewer Manhole Rehabilitation",
+      "c": "Sewer Manhole Rehabilitation",
       "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-19-1212-MWRA-DITP-132487&external=true&parentUrl=close",
       "type": "State / Local",
       "set": "State / Local",
@@ -1203,7 +1307,7 @@
       "y": -71.8,
       "approx": true,
       "rom": "",
-      "u": "2026-08-29T12:32:22Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
@@ -1212,8 +1316,8 @@
       "d": "2026-09-22T18:00:00Z",
       "p": "2026-08-19T14:38:00Z",
       "l": "Douglas County, GA",
-      "scope": "Building Renovation",
-      "c": "Building Renovation",
+      "scope": "Public Building Renovation",
+      "c": "Public Building Renovation",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-64800-NONST-2026-000000083&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
@@ -1221,7 +1325,7 @@
       "y": -83.3,
       "approx": true,
       "rom": "",
-      "u": "2026-08-29T12:32:22Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "FL",
@@ -1230,14 +1334,14 @@
       "d": "2026-09-22T18:00:00Z",
       "p": "2026-08-21T20:28:31Z",
       "l": "Orlando, FL",
-      "scope": "Dredging / Heavy Civil",
-      "c": "Dredging / Heavy Civil",
+      "scope": "Hydraulic Dredging / Site Construction",
+      "c": "Hydraulic Dredging / Site Construction",
       "r": "https://procurement.opengov.com/portal/orlando/projects/283558",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "FL",
@@ -1270,6 +1374,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-08T12:12:52Z"
+    },
+    {
+      "state": "MA",
+      "s": "BD2710300H1000H002132729",
+      "n": "608197 BOSTON Bridge Rehabilitation, B-16-107, Canterbury Street over Amtrak Railroad",
+      "d": "2026-09-22T18:00:00Z",
+      "p": "2026-08-24T14:00:00Z",
+      "l": "Boston, MA",
+      "scope": "Bridge Rehabilitation",
+      "c": "Bridge Rehabilitation",
+      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-27-1030-0H100-0H002-132729&external=true&parentUrl=close",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "FL",
@@ -1310,14 +1430,14 @@
       "d": "2026-09-23T04:00:00Z",
       "p": "2026-08-28T13:53:30Z",
       "l": "Carroll County, MD",
-      "scope": "Culvert / Storm Drain Construction",
-      "c": "Culvert / Storm Drain Construction",
+      "scope": "Pipe Culvert / Storm Drain Rehabilitation",
+      "c": "Pipe Culvert / Storm Drain Rehabilitation",
       "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/94514",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
@@ -1340,28 +1460,28 @@
     {
       "state": "FL",
       "s": "262905MH",
-      "n": "Resurfacing South McCall Road & Other South County Roads",
+      "n": "Resurfacing South McCall Rd & Other South County Roads",
       "d": "2026-09-23T18:30:00Z",
       "p": "2026-08-21T19:58:31Z",
       "l": "Sarasota County, FL",
-      "scope": "Road / Paving Construction",
-      "c": "Road / Paving Construction",
+      "scope": "Road Resurfacing Construction",
+      "c": "Road Resurfacing Construction",
       "r": "https://procurement.opengov.com/portal/scgov/projects/292677",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "FL",
       "s": "ITB16728",
-      "n": "Blake Avenue Water Main Improvements - Phase 1",
+      "n": "Blake Avenue Water Main Improvements – Phase 1",
       "d": "2026-09-24T14:00:00Z",
       "p": "2026-08-20T17:56:38Z",
       "l": "Clay County, FL",
-      "scope": "Water Main Construction",
-      "c": "Water Main Construction",
+      "scope": "Water Main / Pipeline Construction",
+      "c": "Water Main / Pipeline Construction",
       "r": "https://vendor.myfloridamarketplace.com/search/bids/detail/16728",
       "type": "State / Local",
       "set": "State / Local",
@@ -1369,7 +1489,7 @@
       "y": -82.1,
       "approx": true,
       "rom": "",
-      "u": "2026-08-29T12:32:22Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
@@ -1386,6 +1506,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-02T12:29:38Z"
+    },
+    {
+      "state": "GA",
+      "s": "PE77067NONST2027000000006",
+      "n": "FY 2026 TIA Resurfacing & Widening Project",
+      "d": "2026-09-24T14:00:00Z",
+      "p": "2026-08-24T12:34:00Z",
+      "l": "Douglas County, GA",
+      "scope": "Road Resurfacing / Widening",
+      "c": "Road Resurfacing / Widening",
+      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-77067-NONST-2027-000000006&sourceSystemType=gpr20",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
@@ -1446,14 +1582,14 @@
       "d": "2026-09-24T19:00:00Z",
       "p": "2026-08-17T20:17:48Z",
       "l": "Volusia County, FL",
-      "scope": "Stormwater / Site Construction",
-      "c": "Stormwater / Site Construction",
+      "scope": "Stormwater Pond Construction",
+      "c": "Stormwater Pond Construction",
       "r": "https://procurement.opengov.com/portal/volusia/projects/285809",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
@@ -1594,12 +1730,12 @@
     {
       "state": "GA",
       "s": "PE67999NONST2027000000003",
-      "n": "Water Main Extensions – Hwy 129 Loop",
+      "n": "WATER MAIN EXTENSIONS - HWY 129 LOOP",
       "d": "2026-09-30T19:00:00Z",
       "p": "2026-08-25T17:25:00Z",
-      "l": "Georgia",
-      "scope": "Water Main Construction",
-      "c": "Water Main Construction",
+      "l": "Jefferson County, GA",
+      "scope": "Water Main Extension / Underground Utility Construction",
+      "c": "Water Main Extension / Underground Utility Construction",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-67999-NONST-2027-000000003&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
@@ -1607,7 +1743,7 @@
       "y": -83.3,
       "approx": true,
       "rom": "",
-      "u": "2026-08-28T12:30:00Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "FL",
@@ -1624,6 +1760,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-02T12:29:38Z"
+    },
+    {
+      "state": "MI",
+      "s": "REQ00010514",
+      "n": "Ashland Relief, Linwood, Second Avenue, and Shiawassee Sewer Rehabilitation",
+      "d": "2026-10-01T08:00:00Z",
+      "p": "2026-07-07T04:00:00Z",
+      "l": "Wayne County, MI",
+      "scope": "Sewer Rehabilitation",
+      "c": "Sewer Rehabilitation",
+      "r": "https://glwater.bonfirehub.com/opportunities/243167",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
@@ -1680,12 +1832,12 @@
     {
       "state": "GA",
       "s": "PE77820NONST2027000000005",
-      "n": "Street & Drainage Improvements - Heritage Hills Road, Morris Road, Mancil Road",
+      "n": "ADVERTISEMENT FOR BIDS-STREET & DRAINAGE IMPROVEMENTS HERITAGE HILLS ROAD, MORRIS ROAD, MANCIL ROAD",
       "d": "2026-10-01T18:00:00Z",
       "p": "2026-08-26T20:23:00Z",
       "l": "Atkinson County, GA",
-      "scope": "Road / Drainage Construction",
-      "c": "Road / Drainage Construction",
+      "scope": "Street / Drainage / Culvert Improvements",
+      "c": "Street / Drainage / Culvert Improvements",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-77820-NONST-2027-000000005&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
@@ -1693,7 +1845,7 @@
       "y": -83.3,
       "approx": true,
       "rom": "",
-      "u": "2026-08-29T12:32:22Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
@@ -1719,9 +1871,9 @@
       "n": "Service Line Replacement",
       "d": "2026-10-01T18:00:00Z",
       "p": "2026-08-24T13:17:00Z",
-      "l": "Georgia",
-      "scope": "Water / Utility Construction",
-      "c": "Water / Utility Construction",
+      "l": "Clayton County, GA",
+      "scope": "Water Service Line Replacement",
+      "c": "Water Service Line Replacement",
       "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66086-NONST-2027-000000012&sourceSystemType=gpr20",
       "type": "State / Local",
       "set": "State / Local",
@@ -1729,7 +1881,7 @@
       "y": -83.3,
       "approx": true,
       "rom": "",
-      "u": "2026-08-29T12:32:22Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
@@ -1761,7 +1913,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-08T12:12:52Z"
+      "u": "2026-09-09T12:25:00Z"
     },
     {
       "state": "GA",
