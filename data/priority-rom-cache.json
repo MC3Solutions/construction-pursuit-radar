@@ -139,9 +139,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-15T18:00:00.000Z|2710001 RFQu - Part 1 Boulders Road Extended and E...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-22T18:00:00.000Z|IFB 27-032-2647 Construction of New Sidewalk with ...",
       "rom": "",
-      "checkedAt": "2026-09-09T12:20:33.149Z"
+      "checkedAt": "2026-09-09T12:27:21.167Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -155,9 +155,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-09-09T12:20:33.149Z",
+      "checkedAt": "2026-09-09T12:27:21.167Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -171,9 +171,9 @@
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-23T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-09T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-09T12:20:33.149Z"
+      "checkedAt": "2026-09-09T12:27:21.167Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx": {
       "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
@@ -536,7 +536,72 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=dfc94623-43ac-f111-aaac-001dd80db495|2026-10-13T18:00:00.000Z|Genoa Gravity Sewer Rehabilitation - Phase I",
       "rom": "$2,100,000 – $3,150,000",
       "checkedAt": "2026-09-09T12:20:33.149Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260903122316AUG-A23.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260903122316AUG-A23.pdf|2026-09-23T17:00:00.000Z|SMART SCALE - SAFETY IMPROVEMENTS · Route 76 · CHESTERFIELD",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260825091138AUG-A61.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260825091138AUG-A61.pdf|2026-09-23T17:00:00.000Z|SMART SCALE - PEDESTRIAN IMPROVEMENTS · BUENA VISTA",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260811104215AUG-B08.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260811104215AUG-B08.pdf|2026-09-23T17:00:00.000Z|ROUNDABOUT · Route 617 · GOOCHLAND",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260724021118JUL-B10.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260724021118JUL-B10.pdf|2026-09-23T17:00:00.000Z|ON-CALL SIGNAL AND ITS IMPROVEMENTS · STAUNTON DISTRICT WIDE",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260811105214AUG-B13.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260811105214AUG-B13.pdf|2026-09-23T17:00:00.000Z|PEDESTRIAN AND ROAD IMPROVEMENTS · Route 9043 · HOPEWELL",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260811105804AUG-B01.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260811105804AUG-B01.pdf|2026-09-23T17:00:00.000Z|CLEAR ZONE IMPROVEMENTS - GUARDRAIL · Route 3 · SPOTSYLVANIA",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260826060115JUN-A99.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260826060115JUN-A99.pdf|2026-09-23T17:00:00.000Z|SMART SCALE - INTERSECTION IMPROVEMENTS · Route 211 · PAGE",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260825085648AUG-P84.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260825085648AUG-P84.pdf|2026-09-23T17:00:00.000Z|ON CALL - GUARDRAIL HITS REPAIR · BLAND",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260903115255AUG-B02.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260903115255AUG-B02.pdf|2026-09-23T17:00:00.000Z|SCENIC TRAIL CONSTRUCTION · Route 9999 · BOTETOURT, CRAIG",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260811105157AUG-B04.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260811105157AUG-B04.pdf|2026-09-23T17:00:00.000Z|ON CALL ADA CURB RAMP IMPROVEMENTS ....... VSBEP · NORTHERN VIRGINIA DISTRICT WIDE",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260811111023AUG-B06.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260811111023AUG-B06.pdf|2026-09-23T17:00:00.000Z|BRIDGE REHAB - ZONE COATING · WYTHE",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260903120732AUG-B07.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260903120732AUG-B07.pdf|2026-09-23T17:00:00.000Z|ON - CALL BRIDGE REPAIR · BRISTOL DISTRICT WIDE",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://cabb.virginiadot.org/upload/20260811030428AUG-B05.pdf": {
+      "stamp": "https://cabb.virginiadot.org/upload/20260811030428AUG-B05.pdf|2026-09-23T17:00:00.000Z|BRIDGE REHAB · Route 713 · FRANKLIN",
+      "rom": "",
+      "checkedAt": "2026-09-09T12:27:21.167Z"
     }
   },
-  "generatedAt": "2026-09-09T12:20:33.149Z"
+  "generatedAt": "2026-09-09T12:27:21.167Z"
 }
