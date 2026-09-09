@@ -1,6 +1,7 @@
 import { chromium } from 'playwright';
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 
 const ROOT=process.cwd();
 const DATA=path.join(ROOT,'data');
@@ -26,6 +27,35 @@ function futureDate(text){const d=parseUsDate(text)||parseNamedDate(text);return
 function iso(d){return d?.toISOString?.()||null}
 function normalize(o){o.sourceLabel=LABEL[o.source];o.type=o.type||'DOT Construction';o.set=o.set||'State / Local';o.scope=o.scope||'Highway / Bridge Construction';o.c=o.c||'237310';o.p=o.p||RUN;o.u=RUN;o.l=o.l||({VA:'Virginia',NC:'North Carolina'}[o.state]);o.x=Number.isFinite(Number(o.x))?Number(o.x):CENT[o.state][0];o.y=Number.isFinite(Number(o.y))?Number(o.y):CENT[o.state][1];o.approx=o.approx!==false;return o}
 function uniq(rows){const m=new Map();for(const o of rows){const k=recKey(o);if(!m.has(k))m.set(k,o)}return [...m.values()]}
+function historicalRows(source){
+  try{
+    const commits=execFileSync('git',['log','--format=%H','-n','14','--','data/dot-current.json'],{encoding:'utf8'}).trim().split(/\s+/).filter(Boolean);
+    let best=[];
+    for(const sha of commits){
+      try{
+        const raw=execFileSync('git',['show',`${sha}:data/dot-current.json`],{encoding:'utf8',maxBuffer:8*1024*1024});
+        const j=JSON.parse(raw);
+        const rows=(j.records||[]).filter(o=>o.source===source&&o.d&&new Date(o.d)>NOW);
+        if(rows.length>best.length)best=rows;
+        if(rows.length>=10)return rows;
+      }catch{}
+    }
+    return best;
+  }catch{return []}
+}
+function protectFromCollapse(result,source,oldRows){
+  const fresh=result.records||[];
+  const historical=historicalRows(source);
+  const baseline=historical.length>oldRows.length?historical:oldRows;
+  const threshold=Math.max(3,Math.ceil(baseline.length*0.5));
+  if(baseline.length>=5&&fresh.length<threshold){
+    const protectedRows=uniq([...fresh,...baseline.map(o=>({...o,stale:true,u:RUN,lastSeen:o.lastSeen||o.u||RUN}))]).filter(o=>o.d&&new Date(o.d)>NOW);
+    return {records:protectedRows,collapsed:true,message:`${result.message} Source-count collapse detected (${fresh.length} fresh vs ${baseline.length} last-good future records); preserved ${protectedRows.length} records pending a healthy scrape.`};
+  }
+  if(fresh.length)return {records:fresh,collapsed:false,message:result.message};
+  const fallback=oldRows.length?oldRows:historical;
+  return {records:fallback.map(o=>({...o,stale:true})).filter(o=>o.d&&new Date(o.d)>NOW),collapsed:!!fallback.length,message:`${result.message} Preserved ${fallback.length} last-good records.`};
+}
 function ncCounty(text){const t=clean(text).toLowerCase();return NC_COUNTIES.find(c=>t.includes(c.toLowerCase()))||null}
 async function geocode(location,state,cache){const key=`${location}|${state}`;if(cache.has(key))return cache.get(key);const q=encodeURIComponent(`${location}, ${state==='VA'?'Virginia':'North Carolina'}, USA`);try{const r=await fetch(`https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=us&q=${q}`,{headers:{'User-Agent':'MC3-Construction-Pursuit-Radar/1.0 (procurement mapping)'}});if(r.ok){const j=await r.json();if(j[0]){const v=[Number(j[0].lat),Number(j[0].lon)];cache.set(key,v);await sleep(1050);return v}}}catch{}const v=CENT[state];cache.set(key,v);return v}
 async function scrapeVDOT(browser){const out=[];const page=await browser.newPage({viewport:{width:1600,height:1000}});try{const url='https://cabb.virginiadot.org/';const r=await page.goto(url,{waitUntil:'domcontentloaded',timeout:45000});if(!r?.ok())throw new Error(`VDOT CABB HTTP ${r?.status()}`);await page.waitForTimeout(800);const rows=await page.evaluate(()=>[...document.querySelectorAll('table tr')].map(tr=>({cells:[...tr.querySelectorAll('td,th')].map(td=>(td.innerText||'').replace(/\s+/g,' ').trim()),links:[...tr.querySelectorAll('a[href]')].map(a=>({text:(a.innerText||'').replace(/\s+/g,' ').trim(),href:a.href}))})).filter(x=>x.cells.length));for(const row of rows){const di=row.cells.findIndex(c=>/^\d{1,2}\/\d{1,2}\/20\d{2}$/.test(c));if(di<0)continue;const due=futureDate(row.cells[di]);if(!due)continue;const orderLink=row.links.find(a=>/^[A-Z]\d{1,3}$/i.test(a.text));const order=orderLink?.text||row.cells.find(c=>/^[A-Z]\d{1,3}$/i.test(c));if(!order)continue;const stateProject=clean(row.cells[di+1]);const route=clean(row.cells[di+2]);const county=clean(row.cells[di+3])||'Virginia';const value=clean(row.cells[di+4]);const desc=clean(row.cells[di+5])||`VDOT Highway Construction Order ${order}`;const title=[desc,route&&route!=='Various'?`Route ${route}`:'',county].filter(Boolean).join(' · ');out.push(normalize({source:'VDOT',state:'VA',s:`VDOT-${order}`,n:title,d:iso(due),l:`${county}, VA`,scope:'Highway / Bridge Construction',c:'237310',r:orderLink?.href||url,type:'VDOT Highway Advertisement',value,stateProject,route,county,approx:true}));}return {status:out.length?'OK':'PARTIAL',records:uniq(out),message:`${out.length} future VDOT CABB highway advertisements parsed.`};}catch(e){return {status:'ERROR',records:[],message:e.message};}finally{await page.close()}}
@@ -35,6 +65,29 @@ async function ncdotLetCards(page){return page.evaluate(()=>{const els=[...docum
 async function parseNcdotDetail(browser,card,due,type,status,baseUrl){const page=await browser.newPage({viewport:{width:1500,height:1000}});const out=[];let detail=card.links.find(a=>/letting|detail|show files/i.test(`${a.text} ${a.href}`))?.href||baseUrl;try{await page.goto(detail,{waitUntil:'domcontentloaded',timeout:45000});await page.waitForTimeout(2200);const candidates=await page.evaluate(()=>[...document.querySelectorAll('li,tr,p,div')].map(el=>({text:(el.innerText||'').replace(/\s+/g,' ').trim(),links:[...el.querySelectorAll('a[href]')].map(a=>({text:(a.innerText||'').replace(/\s+/g,' ').trim(),href:a.href}))})).filter(x=>x.text.length>10&&x.text.length<650&&(/\bC\d{6}\b/.test(x.text)||/\b20\d{2}CPT[. A-Z0-9-]+/i.test(x.text)||/\b[A-Z]{1,4}-\d{3,}\b/.test(x.text))));const seen=new Set();for(const c of candidates){const contract=(c.text.match(/\bC\d{6}\b/i)||c.text.match(/\b[A-Z]{1,4}-\d{3,}\b/i)||[])[0];if(!contract||seen.has(contract.toUpperCase()))continue;seen.add(contract.toUpperCase());const county=ncCounty(c.text);const link=c.links.find(a=>/proposal|plans|contract|letting|bid/i.test(`${a.text} ${a.href}`))?.href||c.links[0]?.href||detail;out.push(normalize({source:'NCDOT',state:'NC',s:contract.toUpperCase(),n:clean(c.text).slice(0,220),d:iso(due),l:county?`${county} County, NC`:'North Carolina',scope:'Highway / Bridge Construction',c:'237310',r:link,type:`NCDOT ${status} ${type} Letting`,approx:true}));}}catch{}finally{await page.close()}return out}
 async function scrapeNCDOT(browser){const out=[];const page=await browser.newPage({viewport:{width:1600,height:1100}});const url='https://connect.ncdot.gov/letting/Pages/letting-roll-up.aspx';try{const r=await page.goto(url,{waitUntil:'domcontentloaded',timeout:45000});if(!r?.ok())throw new Error(`NCDOT HTTP ${r?.status()}`);await page.waitForTimeout(5000);let cards=await ncdotLetCards(page);if(!cards.length){await page.goto('https://connect.ncdot.gov/letting/Pages/default.aspx',{waitUntil:'domcontentloaded',timeout:45000});await page.waitForTimeout(5000);cards=await ncdotLetCards(page)}for(const card of cards){const status=letStatus(card.text);if(!status)continue;const dateMatch=card.text.match(/\b\d{1,2}[-/]\d{1,2}[-/]20\d{2}\b/)||card.text.match(/\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{1,2},\s+20\d{2}\b/i);const due=futureDate(dateMatch?.[0]);if(!due)continue;const type=letType(card.text);let detail=card.links.find(a=>/letting|detail|show files/i.test(`${a.text} ${a.href}`))?.href;if(!detail&&/Central/i.test(type))detail=`https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx?let_date=${due.toISOString().slice(0,10)}+00%3A00%3A00&let_type=Central`;const projects=await parseNcdotDetail(browser,card,due,type,status,detail||url);if(projects.length){out.push(...projects);continue}const slug=type.toUpperCase().replace(/[^A-Z0-9]+/g,'-').replace(/^-|-$/g,'');out.push(normalize({source:'NCDOT',state:'NC',s:`NCDOT-${slug}-${due.toISOString().slice(0,10).replace(/-/g,'')}`,n:`NCDOT ${type} Letting · ${status}`,d:iso(due),l:'North Carolina',scope:'Highway / Bridge Construction',c:'237310',r:detail||url,type:`NCDOT ${status} Letting`,approx:true}));}return {status:out.length?'OK':'PARTIAL',records:uniq(out),message:`${out.length} future NCDOT advertised/anticipated contract or letting records parsed.`};}catch(e){return {status:'ERROR',records:[],message:e.message};}finally{await page.close()}}
 function annotate(rows,old){const prev=new Map(old.map(o=>[recKey(o),o]));return rows.map(o=>{const p=prev.get(recKey(o));o.firstSeen=p?.firstSeen||RUN;o.lastSeen=RUN;o.change=!p?'NEW':([o.n,o.d,o.r,o.l].join('|')!==[p.n,p.d,p.r,p.l].join('|')?'CHANGED':'ACTIVE');if(p&&Number.isFinite(Number(p.x))&&Number.isFinite(Number(p.y))){o.x=Number(p.x);o.y=Number(p.y);o.approx=p.approx!==false}return o})}
-async function main(){await fs.mkdir(DATA,{recursive:true});const priority=await readJson(PRIORITY,{generatedAt:RUN,records:[]});const oldDot=await readJson(DOT_JSON,{generatedAt:RUN,records:[]});const browser=await chromium.launch({headless:true,args:['--no-sandbox','--disable-blink-features=AutomationControlled']});let vd,nc;try{[vd,nc]=await Promise.all([scrapeVDOT(browser),scrapeNCDOT(browser)])}finally{await browser.close()}const oldBySource=s=>oldDot.records.filter(o=>o.source===s);const choose=(result,source)=>result.records.length?result.records:oldBySource(source).map(o=>({...o,stale:true}));let dot=annotate(uniq([...choose(vd,'VDOT'),...choose(nc,'NCDOT')]).filter(o=>new Date(o.d)>NOW),oldDot.records);const geoCache=new Map();for(const o of dot){const old=oldDot.records.find(x=>recKey(x)===recKey(o));if(old&&Number.isFinite(Number(old.x))&&Number.isFinite(Number(old.y))&&!(old.x===CENT[o.state][0]&&old.y===CENT[o.state][1])){o.x=Number(old.x);o.y=Number(old.y);continue}const loc=o.l.replace(/,\s*(VA|NC)$/i,'');if(loc&&loc!=='Virginia'&&loc!=='North Carolina'){const [lat,lng]=await geocode(loc,o.state,geoCache);o.x=lat;o.y=lng;o.approx=true}}
-const nonDot=priority.records.filter(o=>!['VDOT','NCDOT'].includes(o.source));const merged=uniq([...nonDot,...dot]).filter(o=>!o.d||new Date(o.d)>NOW);await fs.writeFile(DOT_JSON,JSON.stringify({generatedAt:RUN,records:dot},null,2)+'\n');await fs.writeFile(PRIORITY,JSON.stringify({generatedAt:RUN,records:merged},null,2)+'\n');await fs.writeFile(PRIORITY_JS,`window.MC3_DIRECT=${JSON.stringify(merged)};\n`);const health=await readJson(HEALTH_JSON,{generatedAt:RUN,total:0,sources:{}});health.sources||={};for(const [key,res] of [['VDOT',vd],['NCDOT',nc]]){const current=dot.filter(o=>o.source===key);health.sources[key]={label:LABEL[key],status:res.records.length?'OK':(current.length?'PARTIAL':res.status),count:current.length,checkedAt:RUN,message:res.records.length?res.message:`${res.message} Preserved ${current.length} last-good records.`,stale:!res.records.length}}health.generatedAt=RUN;health.total=Object.values(health.sources).reduce((n,s)=>n+(Number(s.count)||0),0);await fs.writeFile(HEALTH_JSON,JSON.stringify(health,null,2)+'\n');await fs.writeFile(HEALTH_JS,`window.MC3_HEALTH=${JSON.stringify(health)};\n`);console.log(JSON.stringify({VDOT:health.sources.VDOT,NCDOT:health.sources.NCDOT,totalPriority:merged.length},null,2))}
+async function main(){
+  await fs.mkdir(DATA,{recursive:true});
+  const priority=await readJson(PRIORITY,{generatedAt:RUN,records:[]});
+  const oldDot=await readJson(DOT_JSON,{generatedAt:RUN,records:[]});
+  const browser=await chromium.launch({headless:true,args:['--no-sandbox','--disable-blink-features=AutomationControlled']});
+  let vd,nc;
+  try{[vd,nc]=await Promise.all([scrapeVDOT(browser),scrapeNCDOT(browser)])}finally{await browser.close()}
+  const oldBySource=s=>oldDot.records.filter(o=>o.source===s&&o.d&&new Date(o.d)>NOW);
+  const vdProtected=protectFromCollapse(vd,'VDOT',oldBySource('VDOT'));
+  const ncProtected=protectFromCollapse(nc,'NCDOT',oldBySource('NCDOT'));
+  let dot=annotate(uniq([...vdProtected.records,...ncProtected.records]).filter(o=>new Date(o.d)>NOW),oldDot.records);
+  const geoCache=new Map();
+  for(const o of dot){const old=oldDot.records.find(x=>recKey(x)===recKey(o));if(old&&Number.isFinite(Number(old.x))&&Number.isFinite(Number(old.y))&&!(old.x===CENT[o.state][0]&&old.y===CENT[o.state][1])){o.x=Number(old.x);o.y=Number(old.y);o.approx=old.approx!==false;continue}const loc=o.l.replace(/,\s*(VA|NC)$/i,'');if(loc&&loc!=='Virginia'&&loc!=='North Carolina'){const [lat,lng]=await geocode(loc,o.state,geoCache);o.x=lat;o.y=lng;o.approx=true}}
+  const nonDot=priority.records.filter(o=>!['VDOT','NCDOT'].includes(o.source));
+  const merged=uniq([...nonDot,...dot]).filter(o=>!o.d||new Date(o.d)>NOW);
+  await fs.writeFile(DOT_JSON,JSON.stringify({generatedAt:RUN,records:dot},null,2)+'\n');
+  await fs.writeFile(PRIORITY,JSON.stringify({generatedAt:RUN,records:merged},null,2)+'\n');
+  await fs.writeFile(PRIORITY_JS,`window.MC3_DIRECT=${JSON.stringify(merged)};\n`);
+  const health=await readJson(HEALTH_JSON,{generatedAt:RUN,total:0,sources:{}});health.sources||={};
+  for(const [key,res,protectedResult] of [['VDOT',vd,vdProtected],['NCDOT',nc,ncProtected]]){const current=dot.filter(o=>o.source===key);health.sources[key]={label:LABEL[key],status:protectedResult.collapsed?'PARTIAL':(res.records.length?'OK':(current.length?'PARTIAL':res.status)),count:current.length,checkedAt:RUN,message:protectedResult.message,stale:protectedResult.collapsed||!res.records.length,fallback:protectedResult.collapsed||undefined}}
+  health.generatedAt=RUN;health.total=Object.values(health.sources).reduce((n,s)=>n+(Number(s.count)||0),0);
+  await fs.writeFile(HEALTH_JSON,JSON.stringify(health,null,2)+'\n');
+  await fs.writeFile(HEALTH_JS,`window.MC3_HEALTH=${JSON.stringify(health)};\n`);
+  console.log(JSON.stringify({VDOT:health.sources.VDOT,NCDOT:health.sources.NCDOT,totalPriority:merged.length},null,2));
+}
 await main();
