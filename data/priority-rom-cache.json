@@ -128,9 +128,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-15T18:00:00.000Z|2710001 RFQu - Part 1 Boulders Road Extended and E...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-22T18:00:00.000Z|IFB 27-032-2647 Construction of New Sidewalk with ...",
       "rom": "",
-      "checkedAt": "2026-09-10T09:27:51.816Z"
+      "checkedAt": "2026-09-10T12:54:23.101Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -144,9 +144,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-09-10T09:27:51.816Z",
+      "checkedAt": "2026-09-10T12:54:23.101Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -570,7 +570,32 @@
       "stamp": "https://cabb.virginiadot.org/upload/20260811030428AUG-B05.pdf|2026-09-23T17:00:00.000Z|BRIDGE REHAB · Route 713 · FRANKLIN",
       "rom": "",
       "checkedAt": "2026-09-09T12:27:21.167Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=3e77bad4-13ad-f111-aaac-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=3e77bad4-13ad-f111-aaac-001dd80bcb64|2026-09-24T21:00:00.000Z|Fire Extinguisher Purchases / Services / Inspections",
+      "rom": "",
+      "checkedAt": "2026-09-10T12:54:23.101Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=44a7c331-abac-f111-aaab-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=44a7c331-abac-f111-aaab-001dd80d92a5|2026-09-24T18:00:00.000Z|Ford Police Interceptor Utility Vehicles Sheriff’s Office",
+      "rom": "",
+      "checkedAt": "2026-09-10T12:54:23.101Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=93f88714-88ac-f111-aaab-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=93f88714-88ac-f111-aaab-001dd80d92a5|2026-09-25T15:00:00.000Z|Asphalt Concrete Plant Mix",
+      "rom": "",
+      "checkedAt": "2026-09-10T12:54:23.101Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f4823dc9-6cac-f111-aaac-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f4823dc9-6cac-f111-aaac-001dd80bcb64|2026-10-08T18:00:00.000Z|Design Services for HVAC Renovation Projects",
+      "rom": "",
+      "checkedAt": "2026-09-10T12:54:23.101Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=beeeea24-5dac-f111-aaac-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=beeeea24-5dac-f111-aaac-001dd80bcb64|2026-10-13T18:00:00.000Z|179-2627-740-BOIL_REP_NMS_SHS",
+      "rom": "",
+      "checkedAt": "2026-09-10T12:54:23.101Z"
     }
   },
-  "generatedAt": "2026-09-10T09:27:51.816Z"
+  "generatedAt": "2026-09-10T12:54:23.101Z"
 }
