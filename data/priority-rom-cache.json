@@ -11,11 +11,6 @@
       "rom": "",
       "checkedAt": "2026-09-04T09:27:06.440Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=1c572658-c094-f111-ab0f-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=1c572658-c094-f111-ab0f-001dd800b811|2026-09-09T18:00:00.000Z|Design-Build of Construction of Kitchen Annex for the High Point Detention Center",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:39:10.064Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=4041c44b-dc90-f111-ab0f-001dd800b811": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=4041c44b-dc90-f111-ab0f-001dd800b811|2026-09-24T15:00:00.000Z|Buffalo Road Aquatic Center Stair Tower Repainting and Tread Replacement",
       "rom": "",
@@ -42,9 +37,9 @@
       "checkedAt": "2026-08-27T13:43:21.940Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=0fb5a8e6-9e91-f111-ab0f-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=0fb5a8e6-9e91-f111-ab0f-001dd800b811|2026-09-11T21:00:00.000Z|Design Build Services Forest Ridge Park Mountain Bike Trail",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=0fb5a8e6-9e91-f111-ab0f-001dd800b811|2026-09-17T19:00:00.000Z|Design Build Services Forest Ridge Park Mountain Bike Trail",
       "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
+      "checkedAt": "2026-09-10T09:27:51.816Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=ee90c9f3-7487-f111-ab0f-001dd800b811": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=ee90c9f3-7487-f111-ab0f-001dd800b811|2026-09-14T18:00:00.000Z|Parking Facilities Management",
@@ -126,12 +121,6 @@
       "rom": "",
       "checkedAt": "2026-08-27T13:43:21.940Z"
     },
-    "https://www.westernvawater.org/Home/Components/RFP/RFP/947/233": {
-      "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/947/233|2026-09-09T14:00:00.000Z|MASON MILL WATERLINE EXTENSION",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z",
-      "error": "HTTP 403"
-    },
     "https://www.westernvawater.org/Home/Components/RFP/RFP/945/233": {
       "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/945/233|2026-09-22T14:00:00.000Z|SPRING HOLLOW WTF SWITCHGEAR MODIFICATIONS PROCUREMENT",
       "rom": "",
@@ -139,9 +128,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-22T18:00:00.000Z|IFB 27-032-2647 Construction of New Sidewalk with ...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-15T18:00:00.000Z|2710001 RFQu - Part 1 Boulders Road Extended and E...",
       "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
+      "checkedAt": "2026-09-10T09:27:51.816Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -155,9 +144,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
       "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z",
+      "checkedAt": "2026-09-10T09:27:51.816Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -171,9 +160,9 @@
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-09T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-23T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
       "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
+      "checkedAt": "2026-09-10T09:27:51.816Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx": {
       "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
@@ -201,20 +190,10 @@
       "rom": "",
       "checkedAt": "2026-08-28T21:51:45.548Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=0c0fa966-0c97-f111-ab0f-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=0c0fa966-0c97-f111-ab0f-001dd803db57|2026-09-09T19:00:00.000Z|OWASA.ORG WEBSITE REBUILD",
-      "rom": "",
-      "checkedAt": "2026-09-03T09:27:34.384Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=a0bc89c6-3ea2-f111-b8db-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a0bc89c6-3ea2-f111-b8db-001dd812e0a9|2026-09-11T18:00:00.000Z|Department of Transportation Invitation for Bid #54-JB-1260005 Various Trailers",
       "rom": "",
       "checkedAt": "2026-09-04T09:27:06.440Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=e2a65247-468c-f111-ab10-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=e2a65247-468c-f111-ab10-001dd80db495|2026-09-09T18:00:00.000Z|Keihin Auditorium Audio Visual Upgrade",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=aa4bde4e-5992-f111-ab0f-001dd80bca2d": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=aa4bde4e-5992-f111-ab0f-001dd80bca2d|2026-09-14T17:00:00.000Z|UNC-Chapel Hill",
@@ -231,18 +210,8 @@
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=8759dece-4579-f111-ab0e-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=8759dece-4579-f111-ab0e-001dd80bcb64|2026-09-09T18:00:00.000Z|North Carolina Department of Adult Correction",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=2e96cf6b-dda2-f111-b8dc-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=2e96cf6b-dda2-f111-b8dc-001dd803db57|2026-09-14T18:00:00.000Z|19-IFB-2362342761-BJL Madison County ACQ Demo Group 2",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=c0200206-cd89-f111-ab10-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c0200206-cd89-f111-ab10-001dd80bcb64|2026-09-09T18:00:00.000Z|4827-0026 Group 3 Batch 1 and 2 And 4827-0046 Buncombe County ACQ Demo Group 1",
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
@@ -252,9 +221,9 @@
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=df24a8b4-1ea2-f111-b8dc-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=df24a8b4-1ea2-f111-b8dc-001dd803db57|2026-09-15T04:00:00.000Z|Waste and Cardboard Compactors",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=df24a8b4-1ea2-f111-b8dc-001dd803db57|2026-09-25T18:00:00.000Z|Waste and Cardboard Compactors",
       "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
+      "checkedAt": "2026-09-10T09:27:51.816Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=4bde460e-c1a0-f111-b8dc-001dd800b811": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=4bde460e-c1a0-f111-b8dc-001dd800b811|2026-09-15T18:00:00.000Z|NC Department of Information Technology",
@@ -603,5 +572,5 @@
       "checkedAt": "2026-09-09T12:27:21.167Z"
     }
   },
-  "generatedAt": "2026-09-09T12:27:21.167Z"
+  "generatedAt": "2026-09-10T09:27:51.816Z"
 }
