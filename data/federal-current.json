@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T09:26:53.479Z",
+  "generatedAt": "2026-09-11T12:29:08.176Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "09/12/2025",
@@ -7,7 +7,7 @@
     "rdlfrom": "09/11/2026",
     "rdlto": "09/10/2027"
   },
-  "total": 271,
+  "total": 274,
   "records": [
     [
       "72462adec25c420990d12f1e96a25d50",
@@ -2560,20 +2560,54 @@
       ""
     ],
     [
-      "abba84d7575e4245953b9bcd69431bfd",
+      "f41df9ef8a674ef4b8df534cf1a784c4",
       "12445126B0042",
       "USDA-ARS Mississippi Roofing Repairs - Multi Locations",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-09-08T00:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
       "2026-09-18T14:00:00.000Z",
-      "2026-09-08T00:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
       "MS",
       null,
       null,
       "238160",
-      "https://sam.gov/opp/abba84d7575e4245953b9bcd69431bfd/view",
+      "https://sam.gov/opp/f41df9ef8a674ef4b8df534cf1a784c4/view",
       null,
+      ""
+    ],
+    [
+      "9aa8c0251a52433ca0cfbf7a9d3e59b7",
+      "36C24226Q0942",
+      "Urgent Chiller Plant PRV Valve 2 Repair  Samuel S. Stratton (Albany) VAMC",
+      "Pre-Solicitation",
+      "No Set aside used",
+      "2026-09-11T00:00:00.000Z",
+      "2026-09-18T14:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
+      "Albany, NY, 12208",
+      42.636584,
+      -73.782293,
+      "238220",
+      "https://sam.gov/opp/9aa8c0251a52433ca0cfbf7a9d3e59b7/view",
+      1,
+      ""
+    ],
+    [
+      "6482e08bbaa34ccfb84baee48843b6fe",
+      "36C24227Q0018",
+      "Boiler Rental - VA Hudson Valley HCS Montrose  Campus",
+      "Sources Sought",
+      "No Set aside used",
+      "2026-09-11T00:00:00.000Z",
+      "2026-09-18T14:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
+      "Montrose, NY, 10548",
+      41.253127,
+      -73.949454,
+      "238220",
+      "https://sam.gov/opp/6482e08bbaa34ccfb84baee48843b6fe/view",
+      1,
       ""
     ],
     [
@@ -3767,6 +3801,23 @@
       ""
     ],
     [
+      "4915e49c9f5e4def9c5d19229eca4f5b",
+      "15B10727Q00000015",
+      "Refurbish Lift Station - FCI Cumberland",
+      "Combined Synopsis/Solicitation",
+      "No Set aside used",
+      "2026-09-11T00:00:00.000Z",
+      "2026-09-25T14:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
+      "Cumberland, MD, 21502",
+      39.574329,
+      -78.827624,
+      "237110",
+      "https://sam.gov/opp/4915e49c9f5e4def9c5d19229eca4f5b/view",
+      1,
+      ""
+    ],
+    [
       "d4ec02c5501144b68b6fec18adec27c9",
       "15B41825PR000085",
       "FCC Terre Haute FPC HVAC PLUM ROOF REPAIR",
@@ -3886,19 +3937,19 @@
       ""
     ],
     [
-      "8cacf8202f6d4296ab61d346199ab6b9",
+      "72031485e0e240baa10c869828f66fea",
       "FA465426R0011",
       "Repair Fire Protection Systems - Project  27-5000: Grissom ARB, IN",
       "Combined Synopsis/Solicitation",
       "No Set aside used",
-      "2026-09-10T00:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
       "2026-09-25T20:00:00.000Z",
-      "2026-09-10T00:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
       "Grissom ARB, IN, 46971",
-      40.683888,
-      -86.1288,
+      40.653756,
+      -86.164039,
       "238220",
-      "https://sam.gov/opp/8cacf8202f6d4296ab61d346199ab6b9/view",
+      "https://sam.gov/opp/72031485e0e240baa10c869828f66fea/view",
       1,
       ""
     ],
@@ -4621,16 +4672,16 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 228,
+    "zipLocated": 231,
     "cityLocated": 27,
     "unresolved": 16,
-    "locatedTotal": 255,
-    "total": 271,
-    "generatedAt": "2026-09-11T09:24:09.506Z"
+    "locatedTotal": 258,
+    "total": 274,
+    "generatedAt": "2026-09-11T12:26:16.515Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
-    "snapshotGeneratedAt": "2026-09-10T12:36:15Z",
+    "snapshotGeneratedAt": "2026-09-11T12:18:00Z",
     "romAdded": 7,
     "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice. IDIQ/MACC ceilings and contract capacities are excluded."
   }
