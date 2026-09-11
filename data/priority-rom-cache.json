@@ -16,21 +16,6 @@
       "rom": "",
       "checkedAt": "2026-08-28T21:51:45.548Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=a763d226-2795-f111-ab0f-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a763d226-2795-f111-ab0f-001dd800b811|2026-09-10T18:00:00.000Z|Elevator Modernization at the High Point Detention Center",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:39:10.064Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=cc59639a-2794-f111-ab0f-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=cc59639a-2794-f111-ab0f-001dd80bcb64|2026-09-10T15:30:00.000Z|Campuswide Utility Infrastructure Package",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=2f6beb18-f097-f111-ab0f-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=2f6beb18-f097-f111-ab0f-001dd800b811|2026-09-10T21:30:00.000Z|RFI 92-27-002 Market Research for Emergency Notification System Replacement",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=bf0c4c1f-fe9f-f111-b8db-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=bf0c4c1f-fe9f-f111-b8db-001dd812e0a9|2026-09-11T21:00:00.000Z|Gipson Play Plaza and Moore Square Holiday Lighting",
       "rom": "",
@@ -128,9 +113,10 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-22T18:00:00.000Z|IFB 27-032-2647 Construction of New Sidewalk with ...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-22T18:00:00.000Z|UOSA IFB 27-02 P2NR+ Construction",
       "rom": "",
-      "checkedAt": "2026-09-10T12:54:23.101Z"
+      "checkedAt": "2026-09-11T09:26:52.290Z",
+      "error": "HTTP 503"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -144,9 +130,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T14:00:00.000Z|NWCX Waste Water System Repairs",
       "rom": "",
-      "checkedAt": "2026-09-10T12:54:23.101Z",
+      "checkedAt": "2026-09-11T09:26:52.290Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -186,9 +172,9 @@
       "checkedAt": "2026-09-03T09:27:34.384Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9|2026-09-11T18:00:00.000Z|Sheriff’s Training Center- Boiler & Pumps Replacement",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9|2026-09-16T18:30:00.000Z|Sheriff’s Training Center- Boiler & Pumps Replacement",
       "rom": "",
-      "checkedAt": "2026-08-28T21:51:45.548Z"
+      "checkedAt": "2026-09-11T09:26:52.290Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=a0bc89c6-3ea2-f111-b8db-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a0bc89c6-3ea2-f111-b8db-001dd812e0a9|2026-09-11T18:00:00.000Z|Department of Transportation Invitation for Bid #54-JB-1260005 Various Trailers",
@@ -202,11 +188,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=48a41e45-b895-f111-ab0f-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=48a41e45-b895-f111-ab0f-001dd803db57|2026-09-11T18:00:00.000Z|Guilford County-Wide Mobility Blueprint Plan",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=e8036e94-049b-f111-8077-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=e8036e94-049b-f111-8077-001dd803db57|2026-09-10T21:00:00.000Z|NC State University",
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
@@ -446,11 +427,6 @@
       "rom": "",
       "checkedAt": "2026-09-05T09:25:45.082Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=07fd7b45-dca7-f111-b8de-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=07fd7b45-dca7-f111-b8de-001dd802e1e9|2026-09-10T19:00:00.000Z|North Carolina Department of Administration-RE-BID",
-      "rom": "",
-      "checkedAt": "2026-09-05T09:25:45.082Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=1a04b09a-74a8-f111-b8dd-001dd8133234": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=1a04b09a-74a8-f111-b8dd-001dd8133234|2026-09-29T21:00:00.000Z|UNC-Chapel Hill",
       "rom": "",
@@ -595,7 +571,22 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=beeeea24-5dac-f111-aaac-001dd80bcb64|2026-10-13T18:00:00.000Z|179-2627-740-BOIL_REP_NMS_SHS",
       "rom": "",
       "checkedAt": "2026-09-10T12:54:23.101Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=ddcebae7-21ad-f111-aaac-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ddcebae7-21ad-f111-aaac-001dd803db57|2026-10-05T18:00:00.000Z|Project 3050 RTP Campus – RTP Campus Renovations",
+      "rom": "",
+      "checkedAt": "2026-09-11T09:26:52.290Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c739897f-36ad-f111-aaab-001dd80c0247": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c739897f-36ad-f111-aaab-001dd80c0247|2026-09-28T21:00:00.000Z|UNC Wilmington",
+      "rom": "",
+      "checkedAt": "2026-09-11T09:26:52.290Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=80f5f953-34ad-f111-aaab-001dd80c0247": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=80f5f953-34ad-f111-aaab-001dd80c0247|2026-09-28T21:00:00.000Z|UNC Wilmington",
+      "rom": "",
+      "checkedAt": "2026-09-11T09:26:52.290Z"
     }
   },
-  "generatedAt": "2026-09-10T12:54:23.101Z"
+  "generatedAt": "2026-09-11T09:26:52.290Z"
 }
