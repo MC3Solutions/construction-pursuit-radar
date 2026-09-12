@@ -16,11 +16,6 @@
       "rom": "",
       "checkedAt": "2026-08-28T21:51:45.548Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=bf0c4c1f-fe9f-f111-b8db-001dd812e0a9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=bf0c4c1f-fe9f-f111-b8db-001dd812e0a9|2026-09-11T21:00:00.000Z|Gipson Play Plaza and Moore Square Holiday Lighting",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=0fb5a8e6-9e91-f111-ab0f-001dd800b811": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=0fb5a8e6-9e91-f111-ab0f-001dd800b811|2026-09-17T19:00:00.000Z|Design Build Services Forest Ridge Park Mountain Bike Trail",
       "rom": "",
@@ -113,10 +108,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-20T18:00:00.000Z|408319 Dozier's Corner Pump Station Repl (AT015400...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-15T18:00:00.000Z|2710001 RFQu - Part 1 Boulders Road Extended and E...",
       "rom": "",
-      "checkedAt": "2026-09-11T12:29:07.732Z",
-      "error": "HTTP 503"
+      "checkedAt": "2026-09-12T09:24:59.027Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -130,9 +124,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-17T15:00:00.000Z|Alvin C. York Campus Roof Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-09-11T12:29:07.732Z",
+      "checkedAt": "2026-09-12T09:24:59.027Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -176,18 +170,8 @@
       "rom": "",
       "checkedAt": "2026-09-11T09:26:52.290Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=a0bc89c6-3ea2-f111-b8db-001dd812e0a9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a0bc89c6-3ea2-f111-b8db-001dd812e0a9|2026-09-11T18:00:00.000Z|Department of Transportation Invitation for Bid #54-JB-1260005 Various Trailers",
-      "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=aa4bde4e-5992-f111-ab0f-001dd80bca2d": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=aa4bde4e-5992-f111-ab0f-001dd80bca2d|2026-09-14T17:00:00.000Z|UNC-Chapel Hill",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=48a41e45-b895-f111-ab0f-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=48a41e45-b895-f111-ab0f-001dd803db57|2026-09-11T18:00:00.000Z|Guilford County-Wide Mobility Blueprint Plan",
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
@@ -352,9 +336,9 @@
       "checkedAt": "2026-09-02T09:27:22.403Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=ac5c6288-1da6-f111-b8de-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=ac5c6288-1da6-f111-b8de-001dd803db57|2026-09-17T19:00:00.000Z|Water Treatment Chemicals",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ac5c6288-1da6-f111-b8de-001dd803db57|2026-09-24T19:00:00.000Z|Water Treatment Chemicals",
       "rom": "",
-      "checkedAt": "2026-09-02T09:27:22.403Z"
+      "checkedAt": "2026-09-12T09:24:59.027Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=f7fc606b-37a6-f111-b8de-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f7fc606b-37a6-f111-b8de-001dd80db495|2026-09-29T18:00:00.000Z|CBTC Annex Automotive Program Expansion",
@@ -586,7 +570,12 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=80f5f953-34ad-f111-aaab-001dd80c0247|2026-09-28T21:00:00.000Z|UNC Wilmington",
       "rom": "",
       "checkedAt": "2026-09-11T09:26:52.290Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=460622d9-f6ad-f111-aaab-001dd812d8f4": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=460622d9-f6ad-f111-aaab-001dd812d8f4|2026-09-25T15:30:00.000Z|Campuswide Utility Infrastructure Package",
+      "rom": "",
+      "checkedAt": "2026-09-12T09:24:59.027Z"
     }
   },
-  "generatedAt": "2026-09-11T12:29:07.732Z"
+  "generatedAt": "2026-09-12T09:24:59.027Z"
 }
