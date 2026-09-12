@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-11T12:18:00Z",
+  "generatedAt": "2026-09-12T12:09:04Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
-    "rawFederalMatches": 98,
-    "rawSledMatches": 232,
-    "curatedSledRecords": 139,
+    "rawFederalMatches": 132,
+    "rawSledMatches": 165,
+    "curatedSledRecords": 152,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
-      "federalTargetStatesNaics": 98,
-      "sledConstructionNigp": 228,
-      "sledBuildingRenovationDesignBuildCmar": 1,
-      "sledWaterSewerWastewaterPumpPipelineStormwater": 2,
-      "sledRoadPavingBridgeCulvertSiteworkDemolition": 1
+      "federalTargetStatesNaics": 132,
+      "sledConstructionNigp": 137,
+      "sledBuildingRenovationDesignBuildCmar": 13,
+      "sledWaterSewerWastewaterPumpPipelineStormwater": 9,
+      "sledRoadPavingBridgeCulvertSiteworkDemolition": 6
     },
     "searchProfile": {
       "states": [
@@ -399,6 +399,22 @@
       "u": "2026-09-10T12:36:15Z"
     },
     {
+      "state": "KY",
+      "s": "RFP78527000000693",
+      "n": "RFP-73-27 Design-Build DMA - WHFRTC - Construct New Barracks",
+      "d": "2026-09-14T22:30:00Z",
+      "p": "2026-09-08T04:00:00Z",
+      "l": "Metcalfe County, KY",
+      "scope": "Design-Build / New Barracks Construction",
+      "c": "Building Construction",
+      "r": "https://vss.ky.gov/vssprod-ext/Advantage4",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
+    },
+    {
       "state": "MD",
       "s": "BPM058215",
       "n": "26021 PO0 Towson Library Interior Renovations, 320 York Road, Towson, Maryland 21204",
@@ -451,18 +467,18 @@
     {
       "state": "NJ",
       "s": "OCDOC91526",
-      "n": "Jail 4th Floor Recreation Area Renovations for Ocean County",
+      "n": "JAIL 4TH FLOOR RECREATION AREA RENOVATIONS FOR OCEAN COUNTY",
       "d": "2026-09-15T15:00:00Z",
       "p": "2026-08-12T04:10:26Z",
       "l": "Ocean County, NJ",
-      "scope": "Correctional Facility Renovation",
-      "c": "Correctional Facility Renovation",
+      "scope": "Institutional Building Renovation",
+      "c": "Building Renovation",
       "r": "https://procurement.opengov.com/portal/oceancounty/projects/291699",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-10T12:36:15Z"
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "MA",
@@ -471,14 +487,14 @@
       "d": "2026-09-15T15:00:00Z",
       "p": "2026-08-19T13:00:00Z",
       "l": "Massachusetts",
-      "scope": "Street Paving Construction",
-      "c": "Street Paving Construction",
+      "scope": "Street Paving",
+      "c": "Road / Paving",
       "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-26-1322-DPW08-DPW08-132258&external=true&parentUrl=close",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-10T12:36:15Z"
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "GA",
@@ -731,8 +747,8 @@
       "d": "2026-09-16T14:00:58Z",
       "p": "2026-08-24T16:42:19Z",
       "l": "Hamilton County, IN",
-      "scope": "Fire Station Building Remodel",
-      "c": "Fire Station Building Remodel",
+      "scope": "Fire Station Remodeling",
+      "c": "Building Renovation",
       "r": "https://procurement.opengov.com/portal/carmelin/projects/288621",
       "type": "State / Local",
       "set": "State / Local",
@@ -740,7 +756,7 @@
       "y": -86.1,
       "approx": true,
       "rom": "",
-      "u": "2026-09-10T12:36:15Z"
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "GA",
@@ -843,6 +859,22 @@
       "u": "2026-09-02T12:29:38Z"
     },
     {
+      "state": "MA",
+      "s": "BD2611600202132646",
+      "n": "IFB_ Sewer and Water Services – Evergreen Road",
+      "d": "2026-09-16T18:00:00Z",
+      "p": "2026-08-26T11:00:00Z",
+      "l": "Massachusetts",
+      "scope": "Sewer and Water Construction",
+      "c": "Water / Sewer",
+      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-26-1160-02-02-132646&external=true&parentUrl=close",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
+    },
+    {
       "state": "GA",
       "s": "PE63100NONST2027000000103",
       "n": "Lake Jodeco Road Bridge Rehabilitation and Dam Repair",
@@ -901,14 +933,14 @@
       "d": "2026-09-16T20:00:00Z",
       "p": "2026-08-18T11:10:33Z",
       "l": "Okaloosa County, FL",
-      "scope": "Building Renovation",
+      "scope": "Building Facade Modification",
       "c": "Building Renovation",
       "r": "https://procurement.opengov.com/portal/myokaloosa/projects/287943",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "MD",
@@ -941,6 +973,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-05T12:12:21Z"
+    },
+    {
+      "state": "MA",
+      "s": "BD191131BWSC1BWSC1132543",
+      "n": "Separation of Sanitary House Laterals Connected to Storm Drains Citywide",
+      "d": "2026-09-17T14:00:00Z",
+      "p": "2026-08-26T04:00:00Z",
+      "l": "Massachusetts",
+      "scope": "Sanitary Sewer / Storm Drain Separation",
+      "c": "Sewer / Stormwater",
+      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-19-1131-BWSC1-BWSC1-132543&external=true&parentUrl=close",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "VT",
@@ -1073,6 +1121,38 @@
       "u": "2026-09-09T12:25:00Z"
     },
     {
+      "state": "FL",
+      "s": "091726",
+      "n": "Water Management Renovations at Pocotaligo Preserve - Phase II",
+      "d": "2026-09-17T19:00:00Z",
+      "p": "2026-08-20T14:01:15Z",
+      "l": "Beaufort County, SC",
+      "scope": "Water Management Renovations",
+      "c": "Water / Sitework",
+      "r": "https://procurement.opengov.com/portal/bcgov/projects/290826",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
+    },
+    {
+      "state": "FL",
+      "s": "Y25726MB",
+      "n": "Orange County Traffic Signal Upgrade Phase I and Phase II",
+      "d": "2026-09-17T20:00:00Z",
+      "p": "2026-08-17T20:40:55Z",
+      "l": "Orange County, FL",
+      "scope": "Traffic Signal Upgrade / Installation",
+      "c": "Road / Electrical Construction",
+      "r": "https://procurement.opengov.com/portal/orangecountyfl/projects/294282",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
+    },
+    {
       "state": "KY",
       "s": "RFP78527000000521",
       "n": "RFP-48-27 CM/GC KSU Health Sciences Center",
@@ -1111,12 +1191,12 @@
     {
       "state": "CT",
       "s": "202702CONL",
-      "n": "Intersection Improvement / Roundabout Installation - Williams Street and Broad Street",
+      "n": "Intersection Improvement/Roundabout Installation Williams Street and Broad Street State Project L094-0003",
       "d": "2026-09-18T18:00:00Z",
       "p": "2026-08-21T12:25:22Z",
       "l": "New London County, CT",
-      "scope": "Road / Intersection Construction",
-      "c": "Road / Intersection Construction",
+      "scope": "Intersection Improvement / Roundabout Construction",
+      "c": "Road / Civil Construction",
       "r": "https://procurement.opengov.com/portal/newlondonct/projects/290502",
       "type": "State / Local",
       "set": "State / Local",
@@ -1124,7 +1204,23 @@
       "y": -72.7,
       "approx": true,
       "rom": "",
-      "u": "2026-08-29T12:32:22Z"
+      "u": "2026-09-12T12:09:04Z"
+    },
+    {
+      "state": "MA",
+      "s": "BD271755THA00THA01132482",
+      "n": "King Corner Culvert Replacement",
+      "d": "2026-09-18T18:00:00Z",
+      "p": "2026-08-19T13:00:00Z",
+      "l": "Massachusetts",
+      "scope": "Culvert Replacement",
+      "c": "Culvert / Civil Construction",
+      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-27-1755-THA00-THA01-132482&external=true&parentUrl=close",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "GA",
@@ -1183,14 +1279,14 @@
       "d": "2026-09-21T19:00:16Z",
       "p": "2026-08-20T12:59:17Z",
       "l": "Collier County, FL",
-      "scope": "Water Treatment Plant Improvements",
-      "c": "Water Treatment Plant Improvements",
+      "scope": "Water Treatment Plant Improvements / Blend Tank",
+      "c": "Water / Treatment Plant",
       "r": "https://procurement.opengov.com/portal/collier-county-fl/projects/294211",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-09T12:25:00Z"
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "GA",
@@ -1347,18 +1443,18 @@
     {
       "state": "FL",
       "s": "2659RFQ",
-      "n": "Ralph Brennan WTP Storm Hardening & Resiliency Project",
+      "n": "2659RFQ - Ralph Brennan WTP Storm Hardening & Resiliency Project",
       "d": "2026-09-22T18:00:00Z",
       "p": "2026-08-18T13:10:21Z",
       "l": "Volusia County, FL",
-      "scope": "Water Treatment Plant Design-Build",
-      "c": "Water Treatment Plant Design-Build",
+      "scope": "Water Treatment Plant Storm Hardening / Resiliency",
+      "c": "Design-Build / Water",
       "r": "https://procurement.opengov.com/portal/codb/projects/282087",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-02T12:29:38Z"
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "NC",
@@ -1398,7 +1494,7 @@
       "n": "Storm Water Pipe Slip Lining Rehabilitation",
       "d": "2026-09-22T20:00:00Z",
       "p": "2026-08-20T20:45:18Z",
-      "l": "Florida",
+      "l": "Orange County, FL",
       "scope": "Stormwater Pipe Rehabilitation",
       "c": "Stormwater / Pipeline",
       "r": "https://procurement.opengov.com/portal/orangecountyfl/projects/293620",
@@ -1406,7 +1502,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-11T12:18:00Z"
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "FL",
@@ -1423,6 +1519,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-02T12:29:38Z"
+    },
+    {
+      "state": "MI",
+      "s": "RFPDCS2600000025271",
+      "n": "Gates parking lot expansion",
+      "d": "2026-09-22T23:00:00Z",
+      "p": "2026-08-25T04:00:00Z",
+      "l": "Genesee County, MI",
+      "scope": "Parking Lot Expansion",
+      "c": "Sitework / Paving",
+      "r": "https://sigma.michigan.gov/PRDVSS1X1/Advantage4",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "MD",
@@ -1694,7 +1806,7 @@
       "n": "CDBG-DR Lantern Park Stormwater Pond Construction",
       "d": "2026-09-24T19:00:00Z",
       "p": "2026-08-17T20:17:48Z",
-      "l": "Florida",
+      "l": "Volusia County, FL",
       "scope": "Stormwater Pond Construction",
       "c": "Stormwater / Sitework",
       "r": "https://procurement.opengov.com/portal/volusia/projects/285809",
@@ -1702,7 +1814,23 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-11T12:18:00Z"
+      "u": "2026-09-12T12:09:04Z"
+    },
+    {
+      "state": "FL",
+      "s": "26B120KW",
+      "n": "CDBG-DR SMA Healthcare Ridgewood Flood Mitigation Construction",
+      "d": "2026-09-24T19:00:00Z",
+      "p": "2026-08-14T18:13:45Z",
+      "l": "Volusia County, FL",
+      "scope": "Flood Mitigation Construction",
+      "c": "Stormwater / Sitework",
+      "r": "https://procurement.opengov.com/portal/volusia/projects/285810",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "GA",
@@ -1808,7 +1936,7 @@
       "n": "Collier Senior Center Expansion Project",
       "d": "2026-09-28T19:00:16Z",
       "p": "2026-08-10T13:36:01Z",
-      "l": "Florida",
+      "l": "Collier County, FL",
       "scope": "Senior Center Expansion",
       "c": "Building Construction",
       "r": "https://procurement.opengov.com/portal/collier-county-fl/projects/282835",
@@ -1816,7 +1944,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-11T12:18:00Z"
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "MD",
@@ -1824,7 +1952,7 @@
       "n": "Design Build Deerfield Run Community Center",
       "d": "2026-09-30T04:00:00Z",
       "p": "2026-08-07T21:56:50Z",
-      "l": "Maryland",
+      "l": "Prince George's County, MD",
       "scope": "Design-Build Community Center",
       "c": "Design-Build / Building",
       "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/93944",
@@ -1832,7 +1960,39 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-11T12:18:00Z"
+      "u": "2026-09-12T12:09:04Z"
+    },
+    {
+      "state": "MD",
+      "s": "BPM058608",
+      "n": "MD 249 from Thomas Road to Stark Drive Drainage Improvement Design-Build Project",
+      "d": "2026-09-30T04:00:00Z",
+      "p": "2026-08-26T19:13:30Z",
+      "l": "St. Mary's County, MD",
+      "scope": "Drainage Improvement Design-Build",
+      "c": "Design-Build / Stormwater",
+      "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/94463",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
+    },
+    {
+      "state": "MA",
+      "s": "BD271142181PFD132791",
+      "n": "IFB - PFD - CENTRAL MAINTENANCE FACILITY CURTAINWALL REPLACEMENT",
+      "d": "2026-09-30T16:00:00Z",
+      "p": "2026-08-31T13:00:00Z",
+      "l": "Massachusetts",
+      "scope": "Curtainwall Replacement",
+      "c": "Building Renovation",
+      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-27-1142-181-PFD-132791&external=true&parentUrl=close",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "FL",
@@ -1921,6 +2081,38 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-02T12:29:38Z"
+    },
+    {
+      "state": "FL",
+      "s": "26B19KW",
+      "n": "CDBG-DR City of Edgewater Canal Armoring Construction",
+      "d": "2026-09-30T19:00:15Z",
+      "p": "2026-08-10T20:52:34Z",
+      "l": "Volusia County, FL",
+      "scope": "Canal Armoring Construction",
+      "c": "Civil / Waterway Construction",
+      "r": "https://procurement.opengov.com/portal/volusia/projects/212060",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
+    },
+    {
+      "state": "KY",
+      "s": "RFB78527000001151",
+      "n": "RFB-77-27 KYTC Loadometer Station Renovation Boone County",
+      "d": "2026-09-30T22:30:00Z",
+      "p": "2026-09-04T04:00:00Z",
+      "l": "Boone County, KY",
+      "scope": "Transportation Facility Renovation",
+      "c": "Building Renovation",
+      "r": "https://vss.ky.gov/vssprod-ext/Advantage4",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "MI",
@@ -2241,18 +2433,18 @@
     {
       "state": "CT",
       "s": "B02703",
-      "n": "Merimere Dike Seepage Control",
+      "n": "B027-03 Merimere Dike Seepage Control",
       "d": "2026-10-06T15:00:00Z",
       "p": "2026-08-21T11:10:39Z",
-      "l": "Connecticut",
-      "scope": "Dike / Seepage Control Construction",
-      "c": "Heavy Civil / Water",
+      "l": "New Haven County, CT",
+      "scope": "Dike Seepage Control / Civil Construction",
+      "c": "Water / Civil Construction",
       "r": "https://procurement.opengov.com/portal/meridenct/projects/273349",
       "type": "State / Local",
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-11T12:18:00Z"
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "MA",
@@ -2385,6 +2577,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-11T12:18:00Z"
+    },
+    {
+      "state": "MD",
+      "s": "BPM058766",
+      "n": "XB1635H80 - Cleaning, Painting & Minor Rehab. of Existing Bridges on Various Rt in Baltimore County",
+      "d": "2026-10-15T04:00:00Z",
+      "p": "2026-09-08T14:18:43Z",
+      "l": "Baltimore County, MD",
+      "scope": "Bridge Rehabilitation",
+      "c": "Bridge / Civil Construction",
+      "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/94764",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-12T12:09:04Z"
     },
     {
       "state": "GA",

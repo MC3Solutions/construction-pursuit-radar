@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T09:25:01.382Z",
+  "generatedAt": "2026-09-12T12:17:56.480Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "09/13/2025",
@@ -66,9 +66,9 @@
       "Y1DA--556-26-2-6953-0001 - 556-24-108 Double  Block and Bleed Construction  (VA-26-00035322)",
       "Solicitation",
       "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-08-18T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "2026-09-14T14:00:00.000Z",
-      "2026-08-18T00:00:00.000Z",
+      "2026-08-19T00:00:00.000Z",
       "North Chicago, IL, 60064",
       42.329359,
       -87.839013,
@@ -168,9 +168,9 @@
       "FEMA Region 2 Naval Weapons Station Earle Building C-54 HVAC Rooftop Units Replacement and Mini Split Units for Server Room & Warehouse",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-09-10T00:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
       "2026-09-14T15:00:00.000Z",
-      "2026-09-10T00:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
       "Colts Neck, NJ, 07722",
       40.317644,
       -74.170679,
@@ -287,9 +287,9 @@
       "FEMA Region 2 Naval Weapons Station Earle Building C-54 Comprehensive Facility Upgrades",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-09-10T00:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
       "2026-09-14T20:00:00.000Z",
-      "2026-09-10T00:00:00.000Z",
+      "2026-09-11T00:00:00.000Z",
       "Colts Neck, NJ, 07722",
       40.324835,
       -74.182168,
@@ -3347,9 +3347,9 @@
       "Elevator Maintenance, Testing, Inspection, and Repair Services at Naval Air Station Meridian, MS",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "2026-09-25T15:00:00.000Z",
-      "2026-08-25T00:00:00.000Z",
+      "2026-08-26T00:00:00.000Z",
       "Meridian, MS, 39309",
       32.560677,
       -88.619559,
@@ -4269,11 +4269,11 @@
     "unresolved": 15,
     "locatedTotal": 235,
     "total": 250,
-    "generatedAt": "2026-09-12T09:22:01.059Z"
+    "generatedAt": "2026-09-12T12:14:53.068Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
-    "snapshotGeneratedAt": "2026-09-11T12:18:00Z",
+    "snapshotGeneratedAt": "2026-09-12T12:09:04Z",
     "romAdded": 6,
     "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice. IDIQ/MACC ceilings and contract capacities are excluded."
   }
