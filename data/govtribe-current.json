@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-12T12:09:04Z",
+  "generatedAt": "2026-09-13T12:44:34Z",
   "source": "GovTribe connected search snapshot",
   "scope": "Supplemental construction discovery east of the Mississippi; matched federal notices enrich SAM.gov rather than duplicate it.",
   "meta": {
-    "rawFederalMatches": 132,
-    "rawSledMatches": 165,
-    "curatedSledRecords": 152,
+    "rawFederalMatches": 88,
+    "rawSledMatches": 272,
+    "curatedSledRecords": 154,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
-      "federalTargetStatesNaics": 132,
-      "sledConstructionNigp": 137,
-      "sledBuildingRenovationDesignBuildCmar": 13,
-      "sledWaterSewerWastewaterPumpPipelineStormwater": 9,
-      "sledRoadPavingBridgeCulvertSiteworkDemolition": 6
+      "federalTargetStatesNaics": 88,
+      "sledConstructionNigp": 264,
+      "sledBuildingRenovationDesignBuildCmar": 1,
+      "sledWaterSewerWastewaterPumpPipelineStormwater": 4,
+      "sledRoadPavingBridgeCulvertSiteworkDemolition": 3
     },
     "searchProfile": {
       "states": [
@@ -738,7 +738,7 @@
       "set": "State / Local",
       "approx": true,
       "rom": "",
-      "u": "2026-09-11T12:18:00Z"
+      "u": "2026-09-13T12:44:34Z"
     },
     {
       "state": "IN",
@@ -898,9 +898,9 @@
       "n": "CMAR for Renovation and Repair of the Façade and Basement Levels of the County Building at 118 North Clark (CCL Leakage)",
       "d": "2026-09-16T20:00:00Z",
       "p": "2026-08-04T02:00:00Z",
-      "l": "Illinois",
-      "scope": "CMAR / Building Renovation",
-      "c": "CMAR / Building Renovation",
+      "l": "Cook County, IL",
+      "scope": "CMAR / Building Façade and Basement Renovation",
+      "c": "Building Renovation / CMAR",
       "r": "https://cookcountyil.bonfirehub.com/opportunities/230675",
       "type": "State / Local",
       "set": "State / Local",
@@ -908,7 +908,7 @@
       "y": -87.63,
       "approx": true,
       "rom": "",
-      "u": "2026-09-11T12:18:00Z"
+      "u": "2026-09-13T12:44:34Z"
     },
     {
       "state": "GA",
@@ -1171,18 +1171,34 @@
       "u": "2026-09-01T12:47:44Z"
     },
     {
+      "state": "VA",
+      "s": "IFB127679",
+      "n": "Asphalt Paving – High Bridge Station, High Bridge Trail State Park",
+      "d": "2026-09-18T04:00:00Z",
+      "p": "2026-09-01T20:59:35Z",
+      "l": "Virginia",
+      "scope": "Asphalt Paving",
+      "c": "Road / Paving",
+      "r": "https://mvendor.cgieva.com/Vendor/public/IVDetails.jsp?PageTitle=SO%20Details&rfp_id_lot=127679&rfp_id_round=0",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-13T12:44:34Z"
+    },
+    {
       "state": "PA",
       "s": "SKYTOPLODGEINCMONROECOUNTY",
       "n": "Skytop Lodge Sewage Treatment Plant Improvements Project – Contract 2026-01",
       "d": "2026-09-18T18:00:00Z",
       "p": "2026-08-06T23:30:00Z",
-      "l": "Pennsylvania",
-      "scope": "Wastewater Treatment Plant Improvements",
-      "c": "Wastewater / Sewer",
+      "l": "Monroe County, PA",
+      "scope": "Sewage Treatment Plant Improvements",
+      "c": "Wastewater / Treatment Plant",
       "r": "https://pennbid.bonfirehub.com/opportunities/247986",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-09-11T12:18:00Z",
+      "u": "2026-09-13T12:44:34Z",
       "x": 41,
       "y": -75.3,
       "approx": true,
@@ -1237,6 +1253,22 @@
       "approx": true,
       "rom": "",
       "u": "2026-09-08T12:12:52Z"
+    },
+    {
+      "state": "VA",
+      "s": "IFB127681",
+      "n": "Concrete Install – High Bridge Station, High Bridge Trail State Park",
+      "d": "2026-09-18T21:00:00Z",
+      "p": "2026-09-01T21:17:28Z",
+      "l": "Virginia",
+      "scope": "Concrete Installation",
+      "c": "Sitework / Concrete",
+      "r": "https://mvendor.cgieva.com/Vendor/public/IVDetails.jsp?PageTitle=SO%20Details&rfp_id_lot=127681&rfp_id_round=0",
+      "type": "State / Local",
+      "set": "State / Local",
+      "approx": true,
+      "rom": "",
+      "u": "2026-09-13T12:44:34Z"
     },
     {
       "state": "GA",
@@ -2000,13 +2032,13 @@
       "n": "Rehabilitation of Lift Station 13, 51, and 58",
       "d": "2026-09-30T18:00:00Z",
       "p": "2026-08-12T13:12:06Z",
-      "l": "Florida",
+      "l": "Clearwater, FL",
       "scope": "Lift Station Rehabilitation",
-      "c": "Wastewater / Pump Station",
+      "c": "Wastewater / Lift Station",
       "r": "https://procurement.opengov.com/portal/myclearwater/projects/288231",
       "type": "State / Local",
       "set": "State / Local",
-      "u": "2026-09-11T12:18:00Z",
+      "u": "2026-09-13T12:44:34Z",
       "x": 27.97,
       "y": -82.8,
       "approx": true,
