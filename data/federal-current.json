@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T09:30:24.735Z",
+  "generatedAt": "2026-09-14T12:19:09.094Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "09/15/2025",
@@ -669,23 +669,6 @@
       -84.706158,
       "238990",
       "https://sam.gov/opp/e334ef53edcf4379bb45076cd11bc428/view",
-      1,
-      ""
-    ],
-    [
-      "271acd937c2748a0949db80a891e71fb",
-      "FA667026Q0015",
-      "2026 SABER IDIQ - (Simplified Acquisition of Base Engineering Requirements)",
-      "Combined Synopsis/Solicitation",
-      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-09-09T00:00:00.000Z",
-      "2026-09-15T18:00:00.000Z",
-      "2026-09-09T00:00:00.000Z",
-      "Niagara Falls, NY, 14304",
-      43.111153,
-      -78.977118,
-      "236220",
-      "https://sam.gov/opp/271acd937c2748a0949db80a891e71fb/view",
       1,
       ""
     ],
@@ -1638,6 +1621,23 @@
       -74.746335,
       "238220",
       "https://sam.gov/opp/87d9fcb0585e449a9e64bf4f5f2dc0b2/view",
+      1,
+      ""
+    ],
+    [
+      "4871181e002742f6b12fda70c8892518",
+      "FA667026Q0015",
+      "2026 SABER IDIQ - (Simplified Acquisition of Base Engineering Requirements)",
+      "Combined Synopsis/Solicitation",
+      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+      "2026-09-14T00:00:00.000Z",
+      "2026-09-17T17:00:00.000Z",
+      "2026-09-14T00:00:00.000Z",
+      "Niagara Falls, NY, 14304",
+      43.095328,
+      -78.968336,
+      "236220",
+      "https://sam.gov/opp/4871181e002742f6b12fda70c8892518/view",
       1,
       ""
     ],
@@ -4303,11 +4303,11 @@
     "unresolved": 15,
     "locatedTotal": 237,
     "total": 252,
-    "generatedAt": "2026-09-14T09:27:29.388Z"
+    "generatedAt": "2026-09-14T12:15:42.425Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
-    "snapshotGeneratedAt": "2026-09-13T12:44:34Z",
+    "snapshotGeneratedAt": "2026-09-14T12:09:50Z",
     "romAdded": 6,
     "method": "Explicit published estimate/magnitude from GovTribe opportunity history; SAM remains authoritative for the federal notice. IDIQ/MACC ceilings and contract capacities are excluded."
   }
