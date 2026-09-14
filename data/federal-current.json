@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-13T12:58:00.983Z",
+  "generatedAt": "2026-09-14T09:30:24.735Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
-    "postedFrom": "09/14/2025",
-    "postedTo": "09/13/2026",
-    "rdlfrom": "09/13/2026",
-    "rdlto": "09/12/2027"
+    "postedFrom": "09/15/2025",
+    "postedTo": "09/14/2026",
+    "rdlfrom": "09/14/2026",
+    "rdlto": "09/13/2027"
   },
   "total": 252,
   "records": [
@@ -890,23 +890,6 @@
       -68.769057,
       "238110",
       "https://sam.gov/opp/8079d9f8007d4846afcf9773d89ec558/view",
-      1,
-      ""
-    ],
-    [
-      "dddae8ec11e94a8c96b4163d798c03f4",
-      "W50S8226QA009",
-      "175th Wing MDANG Epoxy Floor Bldg. 3010 Warehouse",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-09-11T00:00:00.000Z",
-      "2026-09-15T19:00:00.000Z",
-      "2026-09-11T00:00:00.000Z",
-      "Middle River, MD, 21220",
-      39.346337,
-      -76.385956,
-      "238330",
-      "https://sam.gov/opp/dddae8ec11e94a8c96b4163d798c03f4/view",
       1,
       ""
     ],
@@ -2285,6 +2268,23 @@
       "238390",
       "https://sam.gov/opp/20b1f9dd7b26419281c7c2807a0c164b/view",
       null,
+      ""
+    ],
+    [
+      "0631e09d4e5b470da94c918e9f0cb1e9",
+      "W50S8226QA009",
+      "175th Wing MDANG Epoxy Floor Bldg. 3010 Warehouse",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-13T00:00:00.000Z",
+      "2026-09-19T03:00:00.000Z",
+      "2026-09-13T00:00:00.000Z",
+      "Middle River, MD, 21220",
+      39.337401,
+      -76.403608,
+      "238330",
+      "https://sam.gov/opp/0631e09d4e5b470da94c918e9f0cb1e9/view",
+      1,
       ""
     ],
     [
@@ -4303,7 +4303,7 @@
     "unresolved": 15,
     "locatedTotal": 237,
     "total": 252,
-    "generatedAt": "2026-09-13T12:55:08.278Z"
+    "generatedAt": "2026-09-14T09:27:29.388Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
