@@ -103,9 +103,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-07T19:00:00.000Z|Annual Renewable Indefinite Quantity Construction ...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-16T18:00:00.000Z|ITB # SOL1346, Aviation Drive/Valley View Boulevar...",
       "rom": "",
-      "checkedAt": "2026-09-15T09:33:21.242Z"
+      "checkedAt": "2026-09-15T13:00:41.592Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -121,7 +121,7 @@
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
       "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T14:00:00.000Z|NWCX Waste Water System Repairs",
       "rom": "",
-      "checkedAt": "2026-09-15T09:33:21.242Z",
+      "checkedAt": "2026-09-15T13:00:41.592Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -158,7 +158,7 @@
     "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57|2026-09-21T18:00:00.000Z|46-DNCR-27-2180 IFB Fire Alarm Testing and Inspection for the NC Zoo",
       "rom": "",
-      "checkedAt": "2026-09-15T09:33:21.242Z"
+      "checkedAt": "2026-09-15T13:00:41.592Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9|2026-09-16T18:30:00.000Z|Sheriff’s Training Center- Boiler & Pumps Replacement",
@@ -551,31 +551,41 @@
       "rom": "",
       "checkedAt": "2026-09-12T09:24:59.027Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=1d40660a-68b0-f111-aaac-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=1d40660a-68b0-f111-aaac-001dd80d92a5|2026-10-09T14:00:00.000Z|UNC-Chapel Hill",
+    "https://evp.nc.gov/solicitations/details/?id=ce02b005-4bb0-f111-aaac-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ce02b005-4bb0-f111-aaac-001dd803db57|2026-10-06T18:00:00.000Z|Hal Marshall Center Roof Replacement",
       "rom": "",
-      "checkedAt": "2026-09-15T09:33:21.242Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=141f70a9-77b0-f111-aaab-001dd80e4bf7": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=141f70a9-77b0-f111-aaab-001dd80e4bf7|2026-10-09T21:00:00.000Z|Dix Park Gipson Play Plaza Splashpad Filter Replacement",
-      "rom": "",
-      "checkedAt": "2026-09-15T09:33:21.242Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=82c0de5d-6fb0-f111-aaab-001dd8041e99": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=82c0de5d-6fb0-f111-aaab-001dd8041e99|2026-10-15T18:00:00.000Z|North Carolina Department of Adult Correction",
-      "rom": "",
-      "checkedAt": "2026-09-15T09:33:21.242Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=c6a357e7-54b0-f111-aaac-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c6a357e7-54b0-f111-aaac-001dd80bcb64|2026-10-19T14:00:00.000Z|ITB Cub Creek Phase 3 Stream Restoration",
-      "rom": "",
-      "checkedAt": "2026-09-15T09:33:21.242Z"
+      "checkedAt": "2026-09-15T13:00:41.592Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=d43d6ec7-78b0-f111-aaab-001dd80e4bf7": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=d43d6ec7-78b0-f111-aaab-001dd80e4bf7|2026-10-02T21:00:00.000Z|Dix Park Portable Toilet 2026",
       "rom": "",
-      "checkedAt": "2026-09-15T09:33:21.242Z"
+      "checkedAt": "2026-09-15T13:00:41.592Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=1d40660a-68b0-f111-aaac-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=1d40660a-68b0-f111-aaac-001dd80d92a5|2026-10-09T14:00:00.000Z|UNC-Chapel Hill",
+      "rom": "",
+      "checkedAt": "2026-09-15T13:00:41.592Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=82c0de5d-6fb0-f111-aaab-001dd8041e99": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=82c0de5d-6fb0-f111-aaab-001dd8041e99|2026-10-15T18:00:00.000Z|North Carolina Department of Adult Correction",
+      "rom": "",
+      "checkedAt": "2026-09-15T13:00:41.592Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=0180534d-01b1-f111-aaac-001dd8084fd9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=0180534d-01b1-f111-aaac-001dd8084fd9|2026-10-20T18:00:00.000Z|Brigham Road Water and Sewer Replacements",
+      "rom": "",
+      "checkedAt": "2026-09-15T13:00:41.592Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=141f70a9-77b0-f111-aaab-001dd80e4bf7": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=141f70a9-77b0-f111-aaab-001dd80e4bf7|2026-10-09T21:00:00.000Z|Dix Park Gipson Play Plaza Splashpad Filter Replacement",
+      "rom": "",
+      "checkedAt": "2026-09-15T13:00:41.592Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c6a357e7-54b0-f111-aaac-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c6a357e7-54b0-f111-aaac-001dd80bcb64|2026-10-19T14:00:00.000Z|ITB Cub Creek Phase 3 Stream Restoration",
+      "rom": "",
+      "checkedAt": "2026-09-15T13:00:41.592Z"
     }
   },
-  "generatedAt": "2026-09-15T09:33:21.242Z"
+  "generatedAt": "2026-09-15T13:00:41.592Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T09:33:25.393Z",
+  "generatedAt": "2026-09-15T13:00:44.722Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
     "postedFrom": "09/16/2025",
@@ -7,7 +7,7 @@
     "rdlfrom": "09/15/2026",
     "rdlto": "09/14/2027"
   },
-  "total": 247,
+  "total": 248,
   "records": [
     [
       "cd986c188dd24028a272e439d5f34bb8",
@@ -350,19 +350,19 @@
       ""
     ],
     [
-      "337695ef25364fc893f39b58ecb41cba",
+      "fb8fc6a3f25f477c868ff34dfcc966b4",
       "W50S6N26QA022",
       "Solicitation for B1502 Renovation",
       "Combined Synopsis/Solicitation",
       "Small Business Set Aside - Total",
-      "2026-09-11T00:00:00.000Z",
+      "2026-09-15T00:00:00.000Z",
       "2026-09-15T19:00:00.000Z",
-      "2026-09-11T00:00:00.000Z",
+      "2026-09-15T00:00:00.000Z",
       "AL, 36108",
-      32.353684,
-      -86.352272,
+      32.341491,
+      -86.340902,
       "236220",
-      "https://sam.gov/opp/337695ef25364fc893f39b58ecb41cba/view",
+      "https://sam.gov/opp/fb8fc6a3f25f477c868ff34dfcc966b4/view",
       1,
       ""
     ],
@@ -843,6 +843,23 @@
       ""
     ],
     [
+      "440daff640494a9182ef006d6bf59d0b",
+      "N400857415686",
+      "N400857415686 Provide Swing Gates Station BEQ's",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-15T00:00:00.000Z",
+      "2026-09-16T19:00:00.000Z",
+      "2026-09-15T00:00:00.000Z",
+      "Cherry Point, NC",
+      34.898919,
+      -76.910963,
+      "236220",
+      "https://sam.gov/opp/440daff640494a9182ef006d6bf59d0b/view",
+      1,
+      ""
+    ],
+    [
       "0a6fbf5a752b47a39f3668fb72ef4af0",
       "N400857375939",
       "REPAIR AND UPGRADE BUILDING 4034",
@@ -856,23 +873,6 @@
       -76.905248,
       "236220",
       "https://sam.gov/opp/0a6fbf5a752b47a39f3668fb72ef4af0/view",
-      1,
-      ""
-    ],
-    [
-      "37d0fdc2598a4b5989a0bb884c446026",
-      "N400857415686",
-      "N400857415686 Provide Swing Gates Station BEQ's",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-08-20T00:00:00.000Z",
-      "2026-09-16T19:00:00.000Z",
-      "2026-08-20T00:00:00.000Z",
-      "Cherry Point, NC",
-      34.921013,
-      -76.894737,
-      "236220",
-      "https://sam.gov/opp/37d0fdc2598a4b5989a0bb884c446026/view",
       1,
       ""
     ],
@@ -2934,6 +2934,23 @@
       ""
     ],
     [
+      "b7b2d99108aa461ea43f95835d1b4b71",
+      "N400857504546",
+      "Replace Fire Alarm System, B4213",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-15T00:00:00.000Z",
+      "2026-09-24T16:00:00.000Z",
+      "2026-09-15T00:00:00.000Z",
+      "Cherry Point, NC, 28533",
+      34.919859,
+      -76.882165,
+      "236220",
+      "https://sam.gov/opp/b7b2d99108aa461ea43f95835d1b4b71/view",
+      1,
+      ""
+    ],
+    [
       "a5fac428d9d04c2cb088daf0234b6a4c",
       "N400857584741",
       "N400857584741, Repair Wash Rack B4248",
@@ -4213,12 +4230,12 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 203,
+    "zipLocated": 204,
     "cityLocated": 29,
     "unresolved": 15,
-    "locatedTotal": 232,
-    "total": 247,
-    "generatedAt": "2026-09-15T09:29:13.418Z"
+    "locatedTotal": 233,
+    "total": 248,
+    "generatedAt": "2026-09-15T12:57:40.470Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
