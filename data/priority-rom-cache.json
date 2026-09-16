@@ -6,11 +6,6 @@
       "rom": "",
       "checkedAt": "2026-09-05T09:25:45.082Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=66895e9b-b891-f111-ab0f-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=66895e9b-b891-f111-ab0f-001dd80bcb64|2026-09-15T15:00:00.000Z|Northside Wastewater Treatment Plant Wastewater Treatment Plant Blower Replacement",
-      "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=4041c44b-dc90-f111-ab0f-001dd800b811": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=4041c44b-dc90-f111-ab0f-001dd800b811|2026-09-24T15:00:00.000Z|Buffalo Road Aquatic Center Stair Tower Repainting and Tread Replacement",
       "rom": "",
@@ -20,16 +15,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=0fb5a8e6-9e91-f111-ab0f-001dd800b811|2026-09-17T19:00:00.000Z|Design Build Services Forest Ridge Park Mountain Bike Trail",
       "rom": "",
       "checkedAt": "2026-09-10T09:27:51.816Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=7641698e-b8a0-f111-b8dc-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=7641698e-b8a0-f111-b8dc-001dd80bcb64|2026-09-15T20:00:00.000Z|North Carolina Department of Public Safety – NC National Guard (NCNG) - Construction Facilities Management Office (CFMO)",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:39:10.064Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=90283a2b-be9c-f111-8077-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=90283a2b-be9c-f111-8077-001dd800b811|2026-09-15T18:00:00.000Z|North Main Pump Station Renovation",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=d1ced711-c29f-f111-b8dc-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=d1ced711-c29f-f111-b8dc-001dd80bcb64|2026-09-17T18:00:00.000Z|Beam Administration Building AHU Redesign",
@@ -103,9 +88,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-16T18:00:00.000Z|ITB # SOL1346, Aviation Drive/Valley View Boulevar...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-17T18:00:00.000Z|US ROUTE 460/258 TURN LANE IMPROVEMENTS PROJECT",
       "rom": "",
-      "checkedAt": "2026-09-15T13:00:41.592Z"
+      "checkedAt": "2026-09-16T09:27:30.920Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -119,9 +104,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T14:00:00.000Z|NWCX Waste Water System Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-09-15T13:00:41.592Z",
+      "checkedAt": "2026-09-16T09:27:30.920Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -149,12 +134,6 @@
       "rom": "",
       "checkedAt": "2026-09-04T09:27:06.440Z"
     },
-    "https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Central-Letting-Details.aspx|2026-09-15T18:00:00.000Z|NCDOT Central Letting · Advertised",
-      "rom": "",
-      "checkedAt": "2026-08-28T14:02:50.580Z",
-      "error": "This operation was aborted"
-    },
     "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57|2026-09-21T18:00:00.000Z|46-DNCR-27-2180 IFB Fire Alarm Testing and Inspection for the NC Zoo",
       "rom": "",
@@ -169,16 +148,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=df24a8b4-1ea2-f111-b8dc-001dd803db57|2026-09-25T18:00:00.000Z|Waste and Cardboard Compactors",
       "rom": "",
       "checkedAt": "2026-09-10T09:27:51.816Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=4bde460e-c1a0-f111-b8dc-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=4bde460e-c1a0-f111-b8dc-001dd800b811|2026-09-15T18:00:00.000Z|NC Department of Information Technology",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=666d9f4c-5c92-f111-ab0f-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=666d9f4c-5c92-f111-ab0f-001dd800b811|2026-09-15T18:00:00.000Z|UNC Greensboro",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=a8e346d5-4996-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a8e346d5-4996-f111-ab0f-001dd802e1e9|2026-09-16T18:00:00.000Z|IFB 2026-040 UC EMS Revovation",
@@ -562,9 +531,9 @@
       "checkedAt": "2026-09-15T13:00:41.592Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=1d40660a-68b0-f111-aaac-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=1d40660a-68b0-f111-aaac-001dd80d92a5|2026-10-09T14:00:00.000Z|UNC-Chapel Hill",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=1d40660a-68b0-f111-aaac-001dd80d92a5|2026-10-09T17:00:00.000Z|UNC-Chapel Hill",
       "rom": "",
-      "checkedAt": "2026-09-15T13:00:41.592Z"
+      "checkedAt": "2026-09-16T09:27:30.920Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=82c0de5d-6fb0-f111-aaab-001dd8041e99": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=82c0de5d-6fb0-f111-aaab-001dd8041e99|2026-10-15T18:00:00.000Z|North Carolina Department of Adult Correction",
@@ -585,7 +554,27 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c6a357e7-54b0-f111-aaac-001dd80bcb64|2026-10-19T14:00:00.000Z|ITB Cub Creek Phase 3 Stream Restoration",
       "rom": "",
       "checkedAt": "2026-09-15T13:00:41.592Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=0728a97e-48b1-f111-aaab-001dd80842c4": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=0728a97e-48b1-f111-aaab-001dd80842c4|2026-10-08T18:00:00.000Z|Records Management and Jail Management System - Journey Partner",
+      "rom": "",
+      "checkedAt": "2026-09-16T09:27:30.920Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=cd0c5a6b-08b1-f111-aaac-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=cd0c5a6b-08b1-f111-aaac-001dd80bcb64|2026-09-30T21:00:00.000Z|1,000-Gal Stainless Steel Vacuum Tanks",
+      "rom": "",
+      "checkedAt": "2026-09-16T09:27:30.920Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=ca21c555-42b1-f111-aaac-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ca21c555-42b1-f111-aaac-001dd803db57|2026-10-16T21:00:00.000Z|NC State University",
+      "rom": "",
+      "checkedAt": "2026-09-16T09:27:30.920Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=02f0d6eb-10b1-f111-aaac-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=02f0d6eb-10b1-f111-aaac-001dd803db57|2026-10-09T21:00:00.000Z|NC State University",
+      "rom": "",
+      "checkedAt": "2026-09-16T09:27:30.920Z"
     }
   },
-  "generatedAt": "2026-09-15T13:00:41.592Z"
+  "generatedAt": "2026-09-16T09:27:30.920Z"
 }
