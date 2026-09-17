@@ -42,9 +42,9 @@
       "checkedAt": "2026-08-27T13:43:21.940Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=616b7348-2e9b-f111-8076-001dd812e0a9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=616b7348-2e9b-f111-8076-001dd812e0a9|2026-09-18T18:00:00.000Z|North Street Storm Sewer Replacement",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=616b7348-2e9b-f111-8076-001dd812e0a9|2026-09-23T18:00:00.000Z|North Street Storm Sewer Replacement",
       "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
+      "checkedAt": "2026-09-17T09:28:02.514Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=a08c4ea3-c39c-f111-8077-001dd8084fd9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a08c4ea3-c39c-f111-8077-001dd8084fd9|2026-09-22T18:00:00.000Z|Buffaloe Road Athletic Park Track and Field Improvements",
@@ -52,9 +52,9 @@
       "checkedAt": "2026-08-27T13:43:21.940Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=9d3148f9-8d9d-f111-8077-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9d3148f9-8d9d-f111-8077-001dd800b811|2026-09-22T18:00:00.000Z|IFB 2026-081 Judicial Center Cooling Tower Project",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=9d3148f9-8d9d-f111-8077-001dd800b811|2026-10-02T18:00:00.000Z|IFB 2026-081 Judicial Center Cooling Tower Project",
       "rom": "",
-      "checkedAt": "2026-08-29T12:39:10.064Z"
+      "checkedAt": "2026-09-17T09:28:02.514Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=45f8661b-989d-f111-8077-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=45f8661b-989d-f111-8077-001dd803db57|2026-09-22T17:00:00.000Z|Green Road Community Center HVAC Renovations",
@@ -88,9 +88,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-17T18:00:00.000Z|US ROUTE 460/258 TURN LANE IMPROVEMENTS PROJECT",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-08T19:00:00.000Z|COVB-27-101709 ITB for five Town Center parking ga...",
       "rom": "",
-      "checkedAt": "2026-09-16T09:27:30.920Z"
+      "checkedAt": "2026-09-17T09:28:02.514Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -104,9 +104,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T14:00:00.000Z|NWCX Waste Water System Repairs",
       "rom": "",
-      "checkedAt": "2026-09-16T09:27:30.920Z",
+      "checkedAt": "2026-09-17T09:28:02.514Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -119,40 +119,15 @@
       "rom": "",
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
-    "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division2Letting.aspx|2026-09-23T18:00:00.000Z|NCDOT Division 2 Letting · Advertised",
-      "rom": "",
-      "checkedAt": "2026-09-10T09:27:51.816Z"
-    },
-    "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division7Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 7 Letting · Advertised",
-      "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
-    },
-    "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Division3Letting.aspx|2026-09-17T18:00:00.000Z|NCDOT Division 3 Letting · Advertised",
-      "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57|2026-09-21T18:00:00.000Z|46-DNCR-27-2180 IFB Fire Alarm Testing and Inspection for the NC Zoo",
       "rom": "",
       "checkedAt": "2026-09-15T13:00:41.592Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=e7005c85-53a2-f111-b8db-001dd812e0a9|2026-09-16T18:30:00.000Z|Sheriff’s Training Center- Boiler & Pumps Replacement",
-      "rom": "",
-      "checkedAt": "2026-09-11T09:26:52.290Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=df24a8b4-1ea2-f111-b8dc-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=df24a8b4-1ea2-f111-b8dc-001dd803db57|2026-09-25T18:00:00.000Z|Waste and Cardboard Compactors",
       "rom": "",
       "checkedAt": "2026-09-10T09:27:51.816Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=a8e346d5-4996-f111-ab0f-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a8e346d5-4996-f111-ab0f-001dd802e1e9|2026-09-16T18:00:00.000Z|IFB 2026-040 UC EMS Revovation",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=65c2aa6b-0da3-f111-b8dc-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=65c2aa6b-0da3-f111-b8dc-001dd80bcb64|2026-09-17T18:00:00.000Z|Professional Architectural, Engineering Design Services for Track Upgrades for 5 Schools",
@@ -170,9 +145,9 @@
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=5a40ae2b-3197-f111-ab0f-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=5a40ae2b-3197-f111-ab0f-001dd80db495|2026-09-17T19:00:00.000Z|UNC-Chapel Hill",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=5a40ae2b-3197-f111-ab0f-001dd80db495|2026-09-24T15:00:00.000Z|UNC-Chapel Hill",
       "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
+      "checkedAt": "2026-09-17T09:28:02.514Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=d0deee71-3d8f-f111-ab0f-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=d0deee71-3d8f-f111-ab0f-001dd80bcb64|2026-09-17T19:00:00.000Z|John P. “Top” Greene African American Cultural Center",
@@ -245,9 +220,9 @@
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=56095fe1-4ba5-f111-b8de-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=56095fe1-4ba5-f111-b8de-001dd803db57|2026-09-16T18:00:00.000Z|Lumber for WISe Facility",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=56095fe1-4ba5-f111-b8de-001dd803db57|2026-09-18T18:00:00.000Z|Lumber for WISe Facility",
       "rom": "",
-      "checkedAt": "2026-08-31T15:43:11.627Z"
+      "checkedAt": "2026-09-17T09:28:02.514Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7826a8ee-54a5-f111-b8de-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7826a8ee-54a5-f111-b8de-001dd802e1e9|2026-10-08T18:00:00.000Z|North Carolina Department of Transportation",
@@ -574,7 +549,32 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=02f0d6eb-10b1-f111-aaac-001dd803db57|2026-10-09T21:00:00.000Z|NC State University",
       "rom": "",
       "checkedAt": "2026-09-16T09:27:30.920Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=e4f7ae3a-d0b1-f111-aaac-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=e4f7ae3a-d0b1-f111-aaac-001dd80db495|2026-10-21T18:00:00.000Z|Neuse River Resource Recovery Facility BNR Basins MCC Replacement",
+      "rom": "",
+      "checkedAt": "2026-09-17T09:28:02.514Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57|2026-10-29T18:00:00.000Z|Enterprise Meat Processing Plant Boiler Preventative Maintenance",
+      "rom": "",
+      "checkedAt": "2026-09-17T09:28:02.514Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=87b20751-cfb1-f111-aaac-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=87b20751-cfb1-f111-aaac-001dd80db495|2026-10-19T18:00:00.000Z|5230-604-Instrumentation Maintenance-R",
+      "rom": "",
+      "checkedAt": "2026-09-17T09:28:02.514Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=ba121f95-fbb1-f111-aaab-001dd80b4a30": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ba121f95-fbb1-f111-aaab-001dd80b4a30|2027-09-20T18:00:00.000Z|CHRY Building Management System",
+      "rom": "",
+      "checkedAt": "2026-09-17T09:28:02.514Z"
+    },
+    "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-08-PR39943": {
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-08-PR39943|2026-10-07T18:00:00.000Z|54-TJK-08-PR39943 10/7/2026 2:00 PM Advertised Rest Areas CUSTODIAL OPERATIONS AND MAINTENANCE OF REST AREAS/VISITOR INFORMATION CENTERS 8 Randolph No",
+      "rom": "",
+      "checkedAt": "2026-09-17T09:28:02.514Z"
     }
   },
-  "generatedAt": "2026-09-16T09:27:30.920Z"
+  "generatedAt": "2026-09-17T09:28:02.514Z"
 }
