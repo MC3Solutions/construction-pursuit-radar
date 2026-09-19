@@ -6,11 +6,6 @@
       "rom": "",
       "checkedAt": "2026-08-28T21:51:45.548Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=0636a3fb-dd97-f111-ab0f-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=0636a3fb-dd97-f111-ab0f-001dd8084fd9|2026-09-18T21:00:00.000Z|Galvanized Main Replacement Phase 2",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=616b7348-2e9b-f111-8076-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=616b7348-2e9b-f111-8076-001dd812e0a9|2026-09-23T18:00:00.000Z|North Street Storm Sewer Replacement",
       "rom": "",
@@ -58,9 +53,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-22T18:00:00.000Z|IFB 27-032-2647 Construction of New Sidewalk with ...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-30T19:30:00.000Z|Demolition and Removal of Louisa County Broadband ...",
       "rom": "",
-      "checkedAt": "2026-09-18T09:26:43.837Z"
+      "checkedAt": "2026-09-19T09:25:35.361Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -74,9 +69,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-10-08T14:00:00.000Z|East Tennessee Intermediate Care Facility Renovation",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
       "rom": "",
-      "checkedAt": "2026-09-18T09:26:43.837Z",
+      "checkedAt": "2026-09-19T09:25:35.361Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -90,9 +85,9 @@
       "checkedAt": "2026-08-28T12:39:39.575Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57|2026-09-21T18:00:00.000Z|46-DNCR-27-2180 IFB Fire Alarm Testing and Inspection for the NC Zoo",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f341904c-05a3-f111-b8dc-001dd803db57|2026-09-30T18:00:00.000Z|46-DNCR-27-2180 IFB Fire Alarm Testing and Inspection for the NC Zoo",
       "rom": "",
-      "checkedAt": "2026-09-15T13:00:41.592Z"
+      "checkedAt": "2026-09-19T09:25:35.361Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=df24a8b4-1ea2-f111-b8dc-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=df24a8b4-1ea2-f111-b8dc-001dd803db57|2026-09-25T18:00:00.000Z|Waste and Cardboard Compactors",
@@ -158,11 +153,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9|2026-10-19T17:00:00.000Z|GoRaleigh Operations and Maintenance Facility Expansion",
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=56095fe1-4ba5-f111-b8de-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=56095fe1-4ba5-f111-b8de-001dd803db57|2026-09-18T18:00:00.000Z|Lumber for WISe Facility",
-      "rom": "",
-      "checkedAt": "2026-09-17T09:28:02.514Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7826a8ee-54a5-f111-b8de-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7826a8ee-54a5-f111-b8de-001dd802e1e9|2026-10-08T18:00:00.000Z|North Carolina Department of Transportation",
@@ -262,11 +252,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=76094d5e-91a8-f111-b8dd-001dd8133234": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=76094d5e-91a8-f111-b8dd-001dd8133234|2026-09-25T14:00:00.000Z|Filter Media Retainers",
-      "rom": "",
-      "checkedAt": "2026-09-05T09:25:45.082Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=57ea94f8-58a8-f111-b8de-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=57ea94f8-58a8-f111-b8de-001dd8084fd9|2026-09-18T18:00:00.000Z|VIPER HVAC UNITS (BARD)",
       "rom": "",
       "checkedAt": "2026-09-05T09:25:45.082Z"
     },
@@ -559,7 +544,38 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=27999623-b5b2-f111-aaac-001dd80db495|2026-10-19T14:00:00.000Z|IFB 2026-042 Government Center Exterior Envelope Repair",
       "rom": "",
       "checkedAt": "2026-09-18T09:26:43.837Z"
+    },
+    "https://www.westernvawater.org/Home/Components/RFP/RFP/953/233": {
+      "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/953/233|2026-10-13T13:59:00.000Z|- FY27 Pipe Lining",
+      "rom": "",
+      "checkedAt": "2026-09-19T09:25:35.361Z",
+      "error": "HTTP 403"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=06da8bb9-74b3-f111-aaac-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=06da8bb9-74b3-f111-aaac-001dd80bcb64|2026-10-06T17:00:00.000Z|Public Services Building",
+      "rom": "",
+      "checkedAt": "2026-09-19T09:25:35.361Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=a657fe33-74b3-f111-aaab-001dd80747ec": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a657fe33-74b3-f111-aaab-001dd80747ec|2026-10-06T13:00:00.000Z|IFB 2026-078 IFB Sodium Hypochlorite 12.5%:",
+      "rom": "",
+      "checkedAt": "2026-09-19T09:25:35.361Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=45674be2-58b3-f111-aaac-001dd80a6183": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=45674be2-58b3-f111-aaac-001dd80a6183|2026-10-01T17:00:00.000Z|HVAC and Life-Cycle Replacement Assessment",
+      "rom": "",
+      "checkedAt": "2026-09-19T09:25:35.361Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c51fbf95-75b3-f111-aaab-001dd807457b": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c51fbf95-75b3-f111-aaab-001dd807457b|2026-11-03T17:00:00.000Z|Old Knight Road Sidewalk Improvement Project",
+      "rom": "",
+      "checkedAt": "2026-09-19T09:25:35.361Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=50785fdd-62b3-f111-aaac-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=50785fdd-62b3-f111-aaac-001dd80db495|2026-10-29T18:00:00.000Z|Digester Gas System – Operational Assistance and Maintenance Services",
+      "rom": "",
+      "checkedAt": "2026-09-19T09:25:35.361Z"
     }
   },
-  "generatedAt": "2026-09-18T09:26:43.837Z"
+  "generatedAt": "2026-09-19T09:25:35.361Z"
 }
