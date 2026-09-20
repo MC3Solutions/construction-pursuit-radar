@@ -53,9 +53,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-30T19:30:00.000Z|Demolition and Removal of Louisa County Broadband ...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-07T19:00:00.000Z|Annual Renewable Indefinite Quantity Construction ...",
       "rom": "",
-      "checkedAt": "2026-09-19T09:25:35.361Z"
+      "checkedAt": "2026-09-20T09:25:04.007Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -69,9 +69,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-10-08T14:00:00.000Z|East Tennessee Intermediate Care Facility Renovation",
       "rom": "",
-      "checkedAt": "2026-09-19T09:25:35.361Z",
+      "checkedAt": "2026-09-20T09:25:04.007Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -577,5 +577,5 @@
       "checkedAt": "2026-09-19T09:25:35.361Z"
     }
   },
-  "generatedAt": "2026-09-19T09:25:35.361Z"
+  "generatedAt": "2026-09-20T09:25:04.007Z"
 }
