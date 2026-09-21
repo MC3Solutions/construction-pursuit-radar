@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-20T09:25:05.642Z",
+  "generatedAt": "2026-09-21T09:27:32.804Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
-    "postedFrom": "09/21/2025",
-    "postedTo": "09/20/2026",
-    "rdlfrom": "09/20/2026",
-    "rdlto": "09/19/2027"
+    "postedFrom": "09/22/2025",
+    "postedTo": "09/21/2026",
+    "rdlfrom": "09/21/2026",
+    "rdlto": "09/20/2027"
   },
-  "total": 188,
+  "total": 191,
   "records": [
     [
       "5f784dfd0b854ddb848e7fa51a66af0a",
@@ -401,6 +401,23 @@
       "$5M - $10M"
     ],
     [
+      "313550655dcd4916a7700cb5c8f0ab68",
+      "FA670326Q0015",
+      "Cable Fiber Install ATC Tower Dobbins ARB",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-20T00:00:00.000Z",
+      "2026-09-21T18:00:00.000Z",
+      "2026-09-20T00:00:00.000Z",
+      "Marietta, GA, 30069",
+      33.918173,
+      -84.555247,
+      "238210",
+      "https://sam.gov/opp/313550655dcd4916a7700cb5c8f0ab68/view",
+      1,
+      ""
+    ],
+    [
       "6566621a50ef46078883c12547211f3a",
       "W50S7K26QA010",
       "MSANG CRTC 125kW Generator and ATS",
@@ -414,23 +431,6 @@
       -89.051744,
       "238210",
       "https://sam.gov/opp/6566621a50ef46078883c12547211f3a/view",
-      1,
-      ""
-    ],
-    [
-      "79e17e4214404138888be1ed19bf71e5",
-      "FA670326Q0015",
-      "Cable Fiber Install ATC Tower Dobbins ARB",
-      "Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-09-17T00:00:00.000Z",
-      "2026-09-21T18:00:00.000Z",
-      "2026-09-17T00:00:00.000Z",
-      "Marietta, GA, 30069",
-      33.882573,
-      -84.559293,
-      "238210",
-      "https://sam.gov/opp/79e17e4214404138888be1ed19bf71e5/view",
       1,
       ""
     ],
@@ -1676,6 +1676,23 @@
       ""
     ],
     [
+      "fdbba23f33024fbb8b77dd0a6956b3af",
+      "52000RFQ260028451",
+      "OEM SALWICO CONSILIUM FIRE ALARM PANEL INSTALLATION",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-21T00:00:00.000Z",
+      "2026-09-25T16:00:00.000Z",
+      "2026-09-21T00:00:00.000Z",
+      "Miami Beach, FL, 33139",
+      25.772856,
+      -80.137233,
+      "238210",
+      "https://sam.gov/opp/fdbba23f33024fbb8b77dd0a6956b3af/view",
+      1,
+      ""
+    ],
+    [
       "8ffff86860d44001bb1e89ca94c1add1",
       "N69450_26_R_MRDN_ROICC0011",
       "FSC Meridian Fire Reporting & Control Systems, NAS Meridian",
@@ -1706,6 +1723,23 @@
       -77.331756,
       "238290",
       "https://sam.gov/opp/7fa76d0acfff442b853371e718de5090/view",
+      1,
+      ""
+    ],
+    [
+      "b4c9db69a92e42d3b8bb6dff4fc7ea43",
+      "6923TrackUSMMA",
+      "RFQ6923G226Q000036 Track resurfacing USMMA",
+      "Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-09-20T00:00:00.000Z",
+      "2026-09-25T17:00:00.000Z",
+      "2026-09-20T00:00:00.000Z",
+      "Kings Point, NY, 11024",
+      40.833876,
+      -73.716729,
+      "238990",
+      "https://sam.gov/opp/b4c9db69a92e42d3b8bb6dff4fc7ea43/view",
       1,
       ""
     ],
@@ -2968,6 +3002,23 @@
       "$250,000 – $500,000"
     ],
     [
+      "e8848c6e51634b4aac78a2931a5459f3",
+      "36C25227R0001",
+      "Z2DA--Danville Construction MATOC (FY27)  SEED PROJECT NO: 550-25-108  Renovate Bathrooms in B103 PRRTP & B64/7 at  the VA Illiana Health Care System (VIHCS), Danville IL.",
+      "Combined Synopsis/Solicitation",
+      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+      "2026-09-21T00:00:00.000Z",
+      "2026-10-21T21:00:00.000Z",
+      "2026-09-21T00:00:00.000Z",
+      "Danville, IL, 61832",
+      40.141528,
+      -87.625636,
+      "236220",
+      "https://sam.gov/opp/e8848c6e51634b4aac78a2931a5459f3/view",
+      1,
+      "$1,000,000 – $1,500,000"
+    ],
+    [
       "9bbb57e142194631ba71c473a377014d",
       "36C24226B0059",
       "Y1DA--REPLACE ROOFS AND REPAIR FACADES BUILDING 6 AND 7 AT THE  NORTHPORT VA MEDICAL CENTER PROJECT NUMBER: 632-23-112",
@@ -3210,12 +3261,12 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 150,
+    "zipLocated": 153,
     "cityLocated": 27,
     "unresolved": 11,
-    "locatedTotal": 177,
-    "total": 188,
-    "generatedAt": "2026-09-20T09:22:09.180Z"
+    "locatedTotal": 180,
+    "total": 191,
+    "generatedAt": "2026-09-21T09:24:39.284Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
