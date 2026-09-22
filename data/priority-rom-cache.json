@@ -53,9 +53,9 @@
       "error": "HTTP 403"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-08T19:00:00.000Z|COVB-27-101709 ITB for five Town Center parking ga...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-07T19:00:00.000Z|Annual Renewable Indefinite Quantity Construction ...",
       "rom": "",
-      "checkedAt": "2026-09-21T09:27:32.232Z"
+      "checkedAt": "2026-09-22T09:25:46.311Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -69,9 +69,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-10-08T14:00:00.000Z|East Tennessee Intermediate Care Facility Renovation",
       "rom": "",
-      "checkedAt": "2026-09-21T09:27:32.232Z",
+      "checkedAt": "2026-09-22T09:25:46.311Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -169,11 +169,6 @@
       "rom": "",
       "checkedAt": "2026-09-02T09:27:22.403Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=7052b94a-08a6-f111-b8de-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=7052b94a-08a6-f111-b8de-001dd803db57|2026-09-21T21:00:00.000Z|Public Art On-Call Maintenance and Fabrication Services for City of Raleigh",
-      "rom": "",
-      "checkedAt": "2026-09-02T09:27:22.403Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=f895548b-4da6-f111-b8dd-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f895548b-4da6-f111-b8dd-001dd812e0a9|2026-09-29T17:00:00.000Z|Safe Streets for All (SS4A) Phase 1",
       "rom": "",
@@ -202,11 +197,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=29413396-ffa6-f111-b8de-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=29413396-ffa6-f111-b8de-001dd80bcb64|2026-10-07T18:00:00.000Z|City of Havelock, 2026 Trenchless Gravity Sewer Line Repair",
-      "rom": "",
-      "checkedAt": "2026-09-03T09:27:34.384Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=7bc90f3f-f1a6-f111-b8de-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=7bc90f3f-f1a6-f111-b8de-001dd80bcb64|2026-09-21T18:00:00.000Z|Union Station Roof Replacement",
       "rom": "",
       "checkedAt": "2026-09-03T09:27:34.384Z"
     },
@@ -575,7 +565,17 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=50785fdd-62b3-f111-aaac-001dd80db495|2026-10-29T18:00:00.000Z|Digester Gas System – Operational Assistance and Maintenance Services",
       "rom": "",
       "checkedAt": "2026-09-19T09:25:35.361Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=fac99d0e-f2b5-f111-aaab-001dd806795b": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=fac99d0e-f2b5-f111-aaab-001dd806795b|2026-11-10T18:00:00.000Z|Gravity Sewer Creek Crossing Upgrades",
+      "rom": "",
+      "checkedAt": "2026-09-22T09:25:46.311Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=9d3268b0-cab5-f111-aaac-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=9d3268b0-cab5-f111-aaac-001dd803db57|2026-10-01T19:00:00.000Z|John P. “Top” Greene African American Cultural Center",
+      "rom": "",
+      "checkedAt": "2026-09-22T09:25:46.311Z"
     }
   },
-  "generatedAt": "2026-09-21T09:27:32.232Z"
+  "generatedAt": "2026-09-22T09:25:46.311Z"
 }
