@@ -2,24 +2,14 @@
   "version": 1,
   "records": {
     "https://evp.nc.gov/solicitations/details/?id=4041c44b-dc90-f111-ab0f-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=4041c44b-dc90-f111-ab0f-001dd800b811|2026-09-24T15:00:00.000Z|Buffalo Road Aquatic Center Stair Tower Repainting and Tread Replacement",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=4041c44b-dc90-f111-ab0f-001dd800b811|2026-10-13T15:00:00.000Z|Buffalo Road Aquatic Center Stair Tower Repainting and Tread Replacement",
       "rom": "",
-      "checkedAt": "2026-08-28T21:51:45.548Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=616b7348-2e9b-f111-8076-001dd812e0a9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=616b7348-2e9b-f111-8076-001dd812e0a9|2026-09-23T18:00:00.000Z|North Street Storm Sewer Replacement",
-      "rom": "",
-      "checkedAt": "2026-09-17T09:28:02.514Z"
+      "checkedAt": "2026-09-24T09:27:59.637Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=9d3148f9-8d9d-f111-8077-001dd800b811": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=9d3148f9-8d9d-f111-8077-001dd800b811|2026-10-02T18:00:00.000Z|IFB 2026-081 Judicial Center Cooling Tower Project",
       "rom": "",
       "checkedAt": "2026-09-17T09:28:02.514Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=c4779661-689a-f111-8077-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c4779661-689a-f111-8077-001dd803db57|2026-09-23T20:00:00.000Z|Heavy Equipment Shop Overhead Door Replacement",
-      "rom": "",
-      "checkedAt": "2026-08-27T13:43:21.940Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=a27028df-09a0-f111-b8dc-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a27028df-09a0-f111-b8dc-001dd802e1e9|2026-09-28T19:00:00.000Z|210-RFP-HCHS- Stair Removal and Replacement",
@@ -37,9 +27,9 @@
       "checkedAt": "2026-08-27T13:43:21.940Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-09-23T19:00:00.000Z|IFB 2027-019 HARRISON STREET INTERSECTION IMPROVEM...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-01T19:00:00.000Z|IFB 2027-017 OAK LANE AND HILLVIEW DRIVE WATER LIN...",
       "rom": "",
-      "checkedAt": "2026-09-23T09:27:51.978Z"
+      "checkedAt": "2026-09-24T09:27:59.637Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
@@ -53,9 +43,9 @@
       "error": "fetch failed"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T15:00:00.000Z|State Steam Tunnel Waterproofing and Repairs",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-09-24T14:00:00.000Z|NWCX Waste Water System Repairs",
       "rom": "",
-      "checkedAt": "2026-09-23T09:27:51.978Z",
+      "checkedAt": "2026-09-24T09:27:59.637Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
@@ -83,28 +73,8 @@
       "rom": "",
       "checkedAt": "2026-09-23T09:27:51.978Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=9466b6a2-c39f-f111-b8dc-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9466b6a2-c39f-f111-b8dc-001dd803db57|2026-09-23T19:00:00.000Z|MASON INLET MAINTENANCE PROJECT",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=f609ab9c-679a-f111-8077-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=f609ab9c-679a-f111-8077-001dd802e1e9|2026-09-23T18:00:00.000Z|VIPER NEW BUTNER SITE BUILD",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=2d259ccc-4d9a-f111-8077-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=2d259ccc-4d9a-f111-8077-001dd802e1e9|2026-09-24T18:00:00.000Z|VIPER - NEW CEDAR CREEK SITE BUILD",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=f9753ef5-fb9f-f111-b8dc-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=f9753ef5-fb9f-f111-b8dc-001dd800b811|2026-09-23T21:00:00.000Z|Cary TV Equipment and Control Room Upgrades and Maintenance",
-      "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=463aeacd-5da1-f111-b8dc-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=463aeacd-5da1-f111-b8dc-001dd80db495|2026-09-23T17:00:00.000Z|North Carolina Department of Adult Correction",
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
     },
@@ -174,9 +144,9 @@
       "checkedAt": "2026-09-02T09:27:22.403Z"
     },
     "https://www.westernvawater.org/Home/Components/RFP/RFP/951/233": {
-      "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/951/233|2026-09-30T14:00:00.000Z|- COAGULATION BASIN GATE ACTUATOR PROJECT",
+      "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/951/233|2026-10-07T14:00:00.000Z|- COAGULATION BASIN GATE ACTUATOR PROJECT",
       "rom": "",
-      "checkedAt": "2026-09-03T09:27:34.384Z",
+      "checkedAt": "2026-09-24T09:27:59.637Z",
       "error": "HTTP 403"
     },
     "https://evp.nc.gov/solicitations/details/?id=29413396-ffa6-f111-b8de-001dd80bcb64": {
@@ -196,11 +166,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=496dab73-a7a7-f111-b8de-001dd800b811": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=496dab73-a7a7-f111-b8de-001dd800b811|2026-09-29T18:00:00.000Z|INVITATION FOR BIDS",
-      "rom": "",
-      "checkedAt": "2026-09-04T09:27:06.440Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=85ee54df-9ea7-f111-b8de-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=85ee54df-9ea7-f111-b8de-001dd80bcb64|2026-09-23T18:00:00.000Z|Fluorosilicic Acid",
       "rom": "",
       "checkedAt": "2026-09-04T09:27:06.440Z"
     },
@@ -259,11 +224,6 @@
       "rom": "",
       "checkedAt": "2026-09-09T09:28:38.130Z"
     },
-    "https://cabb.virginiadot.org/upload/20260908030845SEP-A47.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260908030845SEP-A47.pdf|2026-10-28T17:00:00.000Z|SMART SCALE - OFF-RAMP IMPROVEMENTS · Route 64 · WAYNESBORO",
-      "rom": "",
-      "checkedAt": "2026-09-09T09:28:38.130Z"
-    },
     "https://cabb.virginiadot.org/upload/20260908025855SEP-A98.pdf": {
       "stamp": "https://cabb.virginiadot.org/upload/20260908025855SEP-A98.pdf|2026-11-18T17:00:00.000Z|BRIDGE REPLACEMENT · Route 66 · FAUQUIER",
       "rom": "",
@@ -273,71 +233,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=dfc94623-43ac-f111-aaac-001dd80db495|2026-10-13T18:00:00.000Z|Genoa Gravity Sewer Rehabilitation - Phase I",
       "rom": "$2,100,000 – $3,150,000",
       "checkedAt": "2026-09-09T12:20:33.149Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260903122316AUG-A23.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260903122316AUG-A23.pdf|2026-09-23T17:00:00.000Z|SMART SCALE - SAFETY IMPROVEMENTS · Route 76 · CHESTERFIELD",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260825091138AUG-A61.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260825091138AUG-A61.pdf|2026-09-23T17:00:00.000Z|SMART SCALE - PEDESTRIAN IMPROVEMENTS · BUENA VISTA",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260811104215AUG-B08.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260811104215AUG-B08.pdf|2026-09-23T17:00:00.000Z|ROUNDABOUT · Route 617 · GOOCHLAND",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260724021118JUL-B10.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260724021118JUL-B10.pdf|2026-09-23T17:00:00.000Z|ON-CALL SIGNAL AND ITS IMPROVEMENTS · STAUNTON DISTRICT WIDE",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260811105214AUG-B13.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260811105214AUG-B13.pdf|2026-09-23T17:00:00.000Z|PEDESTRIAN AND ROAD IMPROVEMENTS · Route 9043 · HOPEWELL",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260811105804AUG-B01.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260811105804AUG-B01.pdf|2026-09-23T17:00:00.000Z|CLEAR ZONE IMPROVEMENTS - GUARDRAIL · Route 3 · SPOTSYLVANIA",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260826060115JUN-A99.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260826060115JUN-A99.pdf|2026-09-23T17:00:00.000Z|SMART SCALE - INTERSECTION IMPROVEMENTS · Route 211 · PAGE",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260825085648AUG-P84.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260825085648AUG-P84.pdf|2026-09-23T17:00:00.000Z|ON CALL - GUARDRAIL HITS REPAIR · BLAND",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260903115255AUG-B02.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260903115255AUG-B02.pdf|2026-09-23T17:00:00.000Z|SCENIC TRAIL CONSTRUCTION · Route 9999 · BOTETOURT, CRAIG",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260811105157AUG-B04.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260811105157AUG-B04.pdf|2026-09-23T17:00:00.000Z|ON CALL ADA CURB RAMP IMPROVEMENTS ....... VSBEP · NORTHERN VIRGINIA DISTRICT WIDE",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260811111023AUG-B06.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260811111023AUG-B06.pdf|2026-09-23T17:00:00.000Z|BRIDGE REHAB - ZONE COATING · WYTHE",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260903120732AUG-B07.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260903120732AUG-B07.pdf|2026-09-23T17:00:00.000Z|ON - CALL BRIDGE REPAIR · BRISTOL DISTRICT WIDE",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
-    },
-    "https://cabb.virginiadot.org/upload/20260811030428AUG-B05.pdf": {
-      "stamp": "https://cabb.virginiadot.org/upload/20260811030428AUG-B05.pdf|2026-09-23T17:00:00.000Z|BRIDGE REHAB · Route 713 · FRANKLIN",
-      "rom": "",
-      "checkedAt": "2026-09-09T12:27:21.167Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=3e77bad4-13ad-f111-aaac-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=3e77bad4-13ad-f111-aaac-001dd80bcb64|2026-09-24T21:00:00.000Z|Fire Extinguisher Purchases / Services / Inspections",
@@ -599,7 +494,37 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=5f534c33-8cb6-f111-aaac-001dd803db57|2026-11-05T14:00:00.000Z|North Carolina Department of Adult Correction",
       "rom": "",
       "checkedAt": "2026-09-23T09:27:51.978Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=0fb0b1ab-8cb7-f111-aaab-001dd80f9cbf": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=0fb0b1ab-8cb7-f111-aaab-001dd80f9cbf|2026-10-22T19:00:00.000Z|North Carolina Department of Public Safety-RE-BID",
+      "rom": "",
+      "checkedAt": "2026-09-24T09:27:59.637Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=977a890e-64b7-f111-aaac-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=977a890e-64b7-f111-aaac-001dd80db495|2026-10-27T18:00:00.000Z|ELEVATOR PREVENTATIVE MAINTENANCE - COPY",
+      "rom": "",
+      "checkedAt": "2026-09-24T09:27:59.637Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=3ea488a5-76b7-f111-aaac-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=3ea488a5-76b7-f111-aaac-001dd80db495|2026-10-22T18:00:00.000Z|RFP No 367-OC5489 Orange County Solar Installation for Orange County Solid Waste Admin, Whitted Human Services, and Sportsplex Fieldhouse",
+      "rom": "",
+      "checkedAt": "2026-09-24T09:27:59.637Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=d15196ec-86b7-f111-aaac-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=d15196ec-86b7-f111-aaac-001dd803db57|2026-10-27T15:00:00.000Z|Wrightsboro Elevated Water Tank Rehabilitation",
+      "rom": "",
+      "checkedAt": "2026-09-24T09:27:59.637Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=b7a78637-8ab7-f111-aaac-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=b7a78637-8ab7-f111-aaac-001dd80db495|2026-10-09T14:00:00.000Z|Student Services Remodel",
+      "rom": "",
+      "checkedAt": "2026-09-24T09:27:59.637Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=fbcbc204-47b7-f111-aaac-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=fbcbc204-47b7-f111-aaac-001dd803db57|2026-10-28T19:30:00.000Z|Fleet Maintenance Operations Vehicle Maintenance and Repair Services",
+      "rom": "",
+      "checkedAt": "2026-09-24T09:27:59.637Z"
     }
   },
-  "generatedAt": "2026-09-23T09:27:51.978Z"
+  "generatedAt": "2026-09-24T09:27:59.637Z"
 }
