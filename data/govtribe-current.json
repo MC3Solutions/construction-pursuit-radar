@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 55,
+    "curatedSledRecords": 52,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,56 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "GA",
-      "s": "PE77342NONST2026000000004",
-      "n": "Phase 2 Construction of the One Toombs Industrial Park",
-      "d": "2026-09-25T16:00:00Z",
-      "p": "2026-08-21T16:59:00Z",
-      "l": "Georgia",
-      "scope": "Sitework / Utility Construction",
-      "c": "Sitework / Utility Construction",
-      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-77342-NONST-2026-000000004&sourceSystemType=gpr20",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-02T12:29:38Z"
-    },
-    {
-      "state": "GA",
-      "s": "PE66098NONST2027000000145",
-      "n": "Abernathy Greenway Southside Improvements",
-      "d": "2026-09-25T18:00:00Z",
-      "p": "2026-08-19T19:22:00Z",
-      "l": "Georgia",
-      "scope": "Greenway / Utility / Site Improvements",
-      "c": "Sitework / Civil",
-      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66098-NONST-2027-000000145&sourceSystemType=gpr20",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-11T12:18:00Z"
-    },
-    {
-      "state": "GA",
-      "s": "PE64750NONST2027000000219",
-      "n": "#6 Copper Primary Re-Conduct / Replacement Phase 5",
-      "d": "2026-09-25T18:30:00Z",
-      "p": "2026-08-26T18:39:00Z",
-      "l": "Dade County, GA",
-      "scope": "Electrical Construction",
-      "c": "Electrical Construction",
-      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-64750-NONST-2027-000000219&sourceSystemType=gpr20",
-      "type": "State / Local",
-      "set": "State / Local",
-      "x": 32.7,
-      "y": -83.3,
-      "approx": true,
-      "rom": "",
-      "u": "2026-08-28T12:30:00Z"
-    },
     {
       "state": "GA",
       "s": "PE66780NONST2027000000047",
