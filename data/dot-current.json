@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:41:39.732Z",
+  "generatedAt": "2026-09-27T14:50:43.072Z",
   "records": [
     {
       "source": "VDOT",
@@ -19,12 +19,12 @@
       "approx": true,
       "sourceLabel": "VDOT CABB",
       "set": "State / Local",
-      "p": "2026-09-27T14:41:27.716Z",
-      "u": "2026-09-27T14:41:27.716Z",
+      "p": "2026-09-27T14:50:30.692Z",
+      "u": "2026-09-27T14:50:30.692Z",
       "x": 38.7513714,
       "y": -77.8141221,
       "firstSeen": "2026-09-09T09:26:35.196Z",
-      "lastSeen": "2026-09-27T14:41:27.716Z",
+      "lastSeen": "2026-09-27T14:50:30.692Z",
       "change": "ACTIVE"
     },
     {
@@ -40,14 +40,14 @@
       "type": "NCDOT Advertised Roadside Environmental",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-09-27T14:41:39.732Z",
-      "u": "2026-09-27T14:41:39.732Z",
+      "p": "2026-09-27T14:50:43.072Z",
+      "u": "2026-09-27T14:50:43.072Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": false,
       "firstSeen": "2026-09-17T09:26:14.513Z",
-      "lastSeen": "2026-09-27T14:41:39.732Z",
+      "lastSeen": "2026-09-27T14:50:43.072Z",
       "change": "ACTIVE"
     }
   ]
