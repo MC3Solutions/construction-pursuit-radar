@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-09-26T13:47:13.195Z",
+  "generatedAt": "2026-09-27T14:43:34.836Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
-    "postedFrom": "09/27/2025",
-    "postedTo": "09/26/2026",
-    "rdlfrom": "09/26/2026",
-    "rdlto": "09/25/2027"
+    "postedFrom": "09/28/2025",
+    "postedTo": "09/27/2026",
+    "rdlfrom": "09/27/2026",
+    "rdlto": "09/26/2027"
   },
-  "total": 125,
+  "total": 124,
   "records": [
-    [
-      "869189d209a0439eac85747d14e6c080",
-      "W912HQ26S0077",
-      "Full Start-Up Commissioning of Data Center Cooling Infrastructure and UPS battery",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-09-25T00:00:00.000Z",
-      "2026-09-26T22:00:00.000Z",
-      "2026-09-25T00:00:00.000Z",
-      "VA, 22315",
-      38.770838,
-      -77.120684,
-      "238210",
-      "https://sam.gov/opp/869189d209a0439eac85747d14e6c080/view",
-      1,
-      ""
-    ],
     [
       "b8ae85c9c74549a5b37767da0b7311a9",
       "12C0BA26Q0011",
@@ -338,9 +321,9 @@
       "RFQ 70Z03026CCLEV0117; USCG LORAIN EZ-SUPPLY FLOORING RENEWAL, USCG STA LORAIN, 110 ALABAMA AVE, LORAIN, OH 44052.",
       "Solicitation",
       "Small Business Set Aside - Total",
-      "2026-09-23T00:00:00.000Z",
+      "2026-09-24T00:00:00.000Z",
       "2026-09-29T16:00:00.000Z",
-      "2026-09-23T00:00:00.000Z",
+      "2026-09-24T00:00:00.000Z",
       "Lorain, OH, 44052",
       41.452401,
       -82.194385,
@@ -2139,12 +2122,12 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 93,
+    "zipLocated": 92,
     "cityLocated": 22,
     "unresolved": 10,
-    "locatedTotal": 115,
-    "total": 125,
-    "generatedAt": "2026-09-26T13:43:57.826Z"
+    "locatedTotal": 114,
+    "total": 124,
+    "generatedAt": "2026-09-27T14:40:31.733Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
