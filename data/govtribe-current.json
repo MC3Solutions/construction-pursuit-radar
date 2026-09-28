@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 52,
+    "curatedSledRecords": 50,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,38 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "GA",
-      "s": "PE66780NONST2027000000047",
-      "n": "Downtown Norcross Parking Improvements",
-      "d": "2026-09-28T15:00:00Z",
-      "p": "2026-08-17T20:12:00Z",
-      "l": "Gwinnett County, GA",
-      "scope": "Paving / Parking Construction",
-      "c": "Paving / Parking Construction",
-      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-66780-NONST-2027-000000047&sourceSystemType=gpr20",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-02T12:29:38Z"
-    },
-    {
-      "state": "MA",
-      "s": "BD271317TWDPWTWDPW132810",
-      "n": "Phase 14 Sewer System Rehabilitation",
-      "d": "2026-09-28T17:00:00Z",
-      "p": "2026-08-26T13:37:46Z",
-      "l": "Massachusetts",
-      "scope": "Sewer System Rehabilitation",
-      "c": "Sewer / Pipeline",
-      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-27-1317-TWDPW-TWDPW-132810&external=true&parentUrl=close",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-11T12:18:00Z"
-    },
     {
       "state": "VA",
       "s": "IFB127379",
