@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T15:48:54.919Z",
+  "generatedAt": "2026-09-29T16:09:54.720Z",
   "total": 403,
   "sources": {
     "EVA": {
@@ -54,7 +54,7 @@
       "label": "VDOT CABB",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-09-29T15:46:42.946Z",
+      "checkedAt": "2026-09-29T16:09:41.833Z",
       "message": "1 future VDOT CABB highway advertisements parsed.",
       "stale": false
     },
@@ -62,7 +62,7 @@
       "label": "NCDOT",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-09-29T15:46:55.925Z",
+      "checkedAt": "2026-09-29T16:09:54.720Z",
       "message": "Parsed 1 active/future NCDOT Central, Division, Alternative Delivery, and Roadside records from direct NCDOT letting pages.",
       "stale": false,
       "fallback": false
