@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 50,
+    "curatedSledRecords": 48,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,38 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "VA",
-      "s": "IFB127379",
-      "n": "161072 Montvale AHQ Phase III",
-      "d": "2026-09-28T18:00:00Z",
-      "p": "2026-08-28T17:40:54Z",
-      "l": "Bedford County, VA",
-      "scope": "Building / Site Construction",
-      "c": "Building / Site Construction",
-      "r": "https://mvendor.cgieva.com/Vendor/public/IVDetails.jsp?PageTitle=SO%20Details&rfp_id_lot=127379&rfp_id_round=0",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-05T12:12:21Z"
-    },
-    {
-      "state": "FL",
-      "s": "268672",
-      "n": "Collier Senior Center Expansion Project",
-      "d": "2026-09-28T19:00:16Z",
-      "p": "2026-08-10T13:36:01Z",
-      "l": "Collier County, FL",
-      "scope": "Senior Center Expansion",
-      "c": "Building Construction",
-      "r": "https://procurement.opengov.com/portal/collier-county-fl/projects/282835",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-12T12:09:04Z"
-    },
     {
       "state": "MD",
       "s": "BPM058331",
