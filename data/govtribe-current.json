@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 48,
+    "curatedSledRecords": 46,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,38 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "MD",
-      "s": "BPM058331",
-      "n": "Design Build Deerfield Run Community Center",
-      "d": "2026-09-30T04:00:00Z",
-      "p": "2026-08-07T21:56:50Z",
-      "l": "Prince George's County, MD",
-      "scope": "Design-Build Community Center",
-      "c": "Design-Build / Building",
-      "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/93944",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-12T12:09:04Z"
-    },
-    {
-      "state": "MD",
-      "s": "BPM058608",
-      "n": "MD 249 from Thomas Road to Stark Drive Drainage Improvement Design-Build Project",
-      "d": "2026-09-30T04:00:00Z",
-      "p": "2026-08-26T19:13:30Z",
-      "l": "St. Mary's County, MD",
-      "scope": "Drainage Improvement Design-Build",
-      "c": "Design-Build / Stormwater",
-      "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/94463",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-12T12:09:04Z"
-    },
     {
       "state": "MA",
       "s": "BD271142181PFD132791",
