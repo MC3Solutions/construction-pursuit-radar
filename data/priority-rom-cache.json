@@ -12,36 +12,25 @@
       "checkedAt": "2026-09-17T09:28:02.514Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-07T19:00:00.000Z|ITB No. 26-2965-5EAR - Williamsburg Road and Chapm...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-22T18:00:00.000Z|UOSA IFB 27-02 P2NR+ Construction",
       "rom": "",
-      "checkedAt": "2026-10-01T16:26:41.945Z"
+      "checkedAt": "2026-10-02T15:50:22.117Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=90deb14e-d894-f111-ab0f-001dd802e1e9|2026-10-09T18:00:00.000Z|Computer Aided Dispatch (CAD) System Replacement Project",
       "rom": "",
       "checkedAt": "2026-09-09T09:28:38.130Z"
     },
-    "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/october-2--2026-letting.html": {
-      "stamp": "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/october-2--2026-letting.html|2026-10-02T15:00:00.000Z|October 2, 2026 Letting",
-      "rom": "",
-      "checkedAt": "2026-08-29T12:50:55.759Z",
-      "error": "fetch failed"
-    },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-10-08T14:00:00.000Z|East Tennessee Intermediate Care Facility Renovation",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T14:00:00.000Z|TSD Schools Against Violence in Education (SAVE) Act Compliance Upgrades",
       "rom": "",
-      "checkedAt": "2026-10-01T16:26:41.945Z",
+      "checkedAt": "2026-10-02T15:50:22.117Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=83cf62b4-e694-f111-ab0f-001dd803db57|2026-10-07T18:00:00.000Z|Design-Build for Transit Facility Upfit Projects",
       "rom": "",
       "checkedAt": "2026-08-27T13:43:21.940Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=5a40ae2b-3197-f111-ab0f-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=5a40ae2b-3197-f111-ab0f-001dd80db495|2026-10-01T17:00:00.000Z|UNC-Chapel Hill",
-      "rom": "",
-      "checkedAt": "2026-09-23T09:27:51.978Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7c3d4bf7-2aa2-f111-b8dc-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7c3d4bf7-2aa2-f111-b8dc-001dd80bcb64|2026-10-07T20:00:00.000Z|NCDA&CS - Request for proposals for the operation and management of a 6,764-square-foot Modernized and renovated restaurant facility in Greensboro.",
@@ -58,11 +47,6 @@
       "rom": "",
       "checkedAt": "2026-08-31T16:36:43.930Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=62a9968b-6ba5-f111-b8de-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=62a9968b-6ba5-f111-b8de-001dd803db57|2026-10-01T18:00:00.000Z|Havens Building Classrooms Modifications - NCCCS 2939",
-      "rom": "",
-      "checkedAt": "2026-09-25T09:28:15.069Z"
-    },
     "https://www.westernvawater.org/Home/Components/RFP/RFP/951/233": {
       "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/951/233|2026-10-07T14:00:00.000Z|- COAGULATION BASIN GATE ACTUATOR PROJECT",
       "rom": "",
@@ -74,33 +58,13 @@
       "rom": "",
       "checkedAt": "2026-09-03T09:27:34.384Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=6d7a865d-f8a6-f111-b8de-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=6d7a865d-f8a6-f111-b8de-001dd800b811|2026-10-01T18:00:00.000Z|Invitation to Bid: BL-0052 Main Street Sidewalk Connector (TOHS Project #22-007)",
-      "rom": "",
-      "checkedAt": "2026-09-03T09:27:34.384Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=a78a4acf-b2a7-f111-b8de-001dd800b811": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a78a4acf-b2a7-f111-b8de-001dd800b811|2026-10-06T18:00:00.000Z|RFB Northeast District Park Dam Rehabilitation",
       "rom": "",
       "checkedAt": "2026-09-04T09:27:06.440Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=94a7ca75-d8a7-f111-b8de-001dd802e1e9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=94a7ca75-d8a7-f111-b8de-001dd802e1e9|2026-10-01T19:00:00.000Z|NC Department of Transportation",
-      "rom": "",
-      "checkedAt": "2026-09-05T09:25:45.082Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=98b42af5-7aa8-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=98b42af5-7aa8-f111-b8de-001dd803db57|2026-10-08T14:00:00.000Z|Sanford NC – Jackson Heights CDBG-NR - 21-C-4032",
-      "rom": "",
-      "checkedAt": "2026-09-05T09:25:45.082Z"
-    },
-    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5COctober_2_2026_Letting_Revisions": {
-      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5COctober_2_2026_Letting_Revisions|2026-10-02T15:00:00.000Z|October 2, 2026 Letting Revisions",
-      "rom": "",
-      "checkedAt": "2026-09-05T09:25:45.082Z"
-    },
-    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5COctober_2_2026_Letting_Plans": {
-      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5COctober_2_2026_Letting_Plans|2026-10-02T15:00:00.000Z|October 2, 2026 Letting Plans",
       "rom": "",
       "checkedAt": "2026-09-05T09:25:45.082Z"
     },
@@ -234,11 +198,6 @@
       "rom": "",
       "checkedAt": "2026-09-18T09:26:43.837Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=75602aeb-a1b2-f111-aaac-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=75602aeb-a1b2-f111-aaac-001dd80bcb64|2026-10-01T19:00:00.000Z|Elevator Service and Repair Contract",
-      "rom": "",
-      "checkedAt": "2026-09-18T09:26:43.837Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=92006563-ddb2-f111-aaab-001dd80e9b7f": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=92006563-ddb2-f111-aaab-001dd80e9b7f|2026-12-10T18:00:00.000Z|Replacement X-RAY System (High-Freq. Digital X-Ray System with AEC & Wireless Det.)",
       "rom": "",
@@ -277,11 +236,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=fac99d0e-f2b5-f111-aaab-001dd806795b": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=fac99d0e-f2b5-f111-aaab-001dd806795b|2026-11-10T18:00:00.000Z|Gravity Sewer Creek Crossing Upgrades",
-      "rom": "",
-      "checkedAt": "2026-09-22T09:25:46.311Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=9d3268b0-cab5-f111-aaac-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9d3268b0-cab5-f111-aaac-001dd803db57|2026-10-01T19:00:00.000Z|John P. “Top” Greene African American Cultural Center",
       "rom": "",
       "checkedAt": "2026-09-22T09:25:46.311Z"
     },
@@ -354,11 +308,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=fbcbc204-47b7-f111-aaac-001dd803db57|2026-10-28T19:30:00.000Z|Fleet Maintenance Operations Vehicle Maintenance and Repair Services",
       "rom": "",
       "checkedAt": "2026-09-24T09:27:59.637Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=a4829314-55b8-f111-aaac-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a4829314-55b8-f111-aaac-001dd80d92a5|2026-10-01T19:00:00.000Z|REBID: Historic Parks Recovery Construction (Federally Funded)",
-      "rom": "",
-      "checkedAt": "2026-09-25T09:28:15.069Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=2055bfde-4fb8-f111-aaac-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=2055bfde-4fb8-f111-aaac-001dd803db57|2026-10-15T19:00:00.000Z|Re-advertisement Design Build Services Forest Ridge Park Mountain Bike Trail",
@@ -551,7 +500,27 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=2df98865-edbc-f111-aaae-001dd80bcb64|2026-10-22T18:00:00.000Z|FTCC - Cumberland Hall Building Replacement",
       "rom": "",
       "checkedAt": "2026-10-01T16:26:41.945Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c5917f03-77be-f111-aaae-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c5917f03-77be-f111-aaae-001dd803db57|2026-10-29T18:00:00.000Z|McLeansville HVAC Systems Preventative Maintenance Services",
+      "rom": "",
+      "checkedAt": "2026-10-02T15:50:22.117Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=b07103fb-5ebe-f111-aaae-001dd80a6183": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=b07103fb-5ebe-f111-aaae-001dd80a6183|2026-10-12T18:00:00.000Z|54-ML-PR39948 DIV2 Pitt Co. Bridge Aluminum Pipe and Bands",
+      "rom": "",
+      "checkedAt": "2026-10-02T15:50:22.117Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=449e884f-d0bd-f111-aaae-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=449e884f-d0bd-f111-aaae-001dd80d92a5|2026-11-05T19:00:00.000Z|Water Line Repair for Wood Ave and Misc. Insulation Replacement",
+      "rom": "",
+      "checkedAt": "2026-10-02T15:50:22.117Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=fe725c7e-d3bd-f111-aaae-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=fe725c7e-d3bd-f111-aaae-001dd803db57|2026-10-29T17:30:00.000Z|W Johnson St & Nottingham Dr Sidewalk Projects",
+      "rom": "",
+      "checkedAt": "2026-10-02T15:50:22.117Z"
     }
   },
-  "generatedAt": "2026-10-01T16:26:41.945Z"
+  "generatedAt": "2026-10-02T15:50:22.117Z"
 }
