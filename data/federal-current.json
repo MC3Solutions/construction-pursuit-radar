@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-10-03T14:21:44.303Z",
+  "generatedAt": "2026-10-04T14:49:08.915Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
-    "postedFrom": "10/04/2025",
-    "postedTo": "10/03/2026",
-    "rdlfrom": "10/03/2026",
-    "rdlto": "10/02/2027"
+    "postedFrom": "10/05/2025",
+    "postedTo": "10/04/2026",
+    "rdlfrom": "10/04/2026",
+    "rdlto": "10/03/2027"
   },
-  "total": 112,
+  "total": 111,
   "records": [
-    [
-      "31831eec49ad41548d8c6451d2fe5f71",
-      "W9123627BA003",
-      "Norfolk Harbor Inner Channel to Newport News Maintenance Dredging located in Hampton Roads, Virginia",
-      "Pre-Solicitation",
-      "No Set-Aside Used",
-      "2026-09-18T00:00:00.000Z",
-      "2026-10-03T18:00:00.000Z",
-      "2026-09-18T00:00:00.000Z",
-      "VA",
-      null,
-      null,
-      "237990",
-      "https://sam.gov/opp/31831eec49ad41548d8c6451d2fe5f71/view",
-      null,
-      "$10,000,000 and $25,000,000"
-    ],
     [
       "de6f165e39cf4002a1405eef143fd63c",
       "36C24226Q0853_0",
@@ -1920,10 +1903,10 @@
     "alreadyLocated": 0,
     "zipLocated": 82,
     "cityLocated": 19,
-    "unresolved": 11,
+    "unresolved": 10,
     "locatedTotal": 101,
-    "total": 112,
-    "generatedAt": "2026-10-03T14:18:19.922Z"
+    "total": 111,
+    "generatedAt": "2026-10-04T14:45:59.778Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
