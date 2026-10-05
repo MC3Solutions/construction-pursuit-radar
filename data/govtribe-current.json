@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 23,
+    "curatedSledRecords": 22,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,22 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "FL",
-      "s": "145242",
-      "n": "Lift Station #46 Rehabilitation",
-      "d": "2026-10-05T18:00:00Z",
-      "p": "2026-09-03T04:00:00Z",
-      "l": "Florida",
-      "scope": "Lift Station Rehabilitation",
-      "c": "Lift Station Rehabilitation",
-      "r": "https://vendors.planetbids.com/portal/62171/bo/bo-detail/145242",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-08T12:12:52Z"
-    },
     {
       "state": "MA",
       "s": "BD261745ADM11TH111132969",
