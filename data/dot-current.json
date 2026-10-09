@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T16:59:09.376Z",
+  "generatedAt": "2026-10-09T16:11:10.160Z",
   "records": [
     {
       "source": "VDOT",
@@ -10,7 +10,7 @@
       "l": "FAUQUIER, VA",
       "scope": "Highway / Bridge Construction",
       "c": "237310",
-      "r": "https://cabb.virginiadot.org/upload/20260908025855SEP-A98.pdf",
+      "r": "https://cabb.virginiadot.org/upload/20261009111338SEP-A98.pdf",
       "type": "VDOT Highway Advertisement",
       "value": "$44,539,000.00",
       "stateProject": "0066-030-543, B632",
@@ -19,13 +19,13 @@
       "approx": true,
       "sourceLabel": "VDOT CABB",
       "set": "State / Local",
-      "p": "2026-10-08T16:58:56.649Z",
-      "u": "2026-10-08T16:58:56.649Z",
+      "p": "2026-10-09T16:10:56.500Z",
+      "u": "2026-10-09T16:10:56.500Z",
       "x": 38.7513714,
       "y": -77.8141221,
       "firstSeen": "2026-09-09T09:26:35.196Z",
-      "lastSeen": "2026-10-08T16:58:56.649Z",
-      "change": "ACTIVE"
+      "lastSeen": "2026-10-09T16:10:56.500Z",
+      "change": "CHANGED"
     }
   ]
 }

@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 11,
+    "curatedSledRecords": 10,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,22 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "GA",
-      "s": "PE64400NONST2027000000273",
-      "n": "Stewart Mill Road at Bermuda Road Roundabout",
-      "d": "2026-10-08T19:00:00Z",
-      "p": "2026-08-17T14:17:00Z",
-      "l": "Georgia",
-      "scope": "Roundabout / Road Construction",
-      "c": "Road / Civil Construction",
-      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-64400-NONST-2027-000000273&sourceSystemType=gpr20",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-11T12:18:00Z"
-    },
     {
       "state": "MD",
       "s": "BPM058766",
