@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:23:18.953Z",
+  "generatedAt": "2026-10-10T15:35:35.450Z",
   "records": [
     {
       "source": "NCEVP",
@@ -5370,32 +5370,6 @@
       "change": "ACTIVE"
     },
     {
-      "source": "VDOT",
-      "state": "VA",
-      "s": "VDOT-A98",
-      "n": "BRIDGE REPLACEMENT · Route 66 · FAUQUIER",
-      "d": "2026-11-18T17:00:00.000Z",
-      "l": "FAUQUIER, VA",
-      "scope": "Highway / Bridge Construction",
-      "c": "237310",
-      "r": "https://cabb.virginiadot.org/upload/20261009111338SEP-A98.pdf",
-      "type": "VDOT Highway Advertisement",
-      "value": "$44,539,000.00",
-      "stateProject": "0066-030-543, B632",
-      "route": "66",
-      "county": "FAUQUIER",
-      "approx": true,
-      "sourceLabel": "VDOT CABB",
-      "set": "State / Local",
-      "p": "2026-10-10T15:21:17.710Z",
-      "u": "2026-10-10T15:21:17.710Z",
-      "x": 38.7513714,
-      "y": -77.8141221,
-      "firstSeen": "2026-09-09T09:26:35.196Z",
-      "lastSeen": "2026-10-10T15:21:17.710Z",
-      "change": "ACTIVE"
-    },
-    {
       "source": "EVA",
       "sourceLabel": "Virginia eVA",
       "s": "IFB 129520",
@@ -5746,6 +5720,32 @@
       "description": "HVAC integrated control system maintenance. This is for documentation purposes, this solicitation was posted in Ariba Sourcing.",
       "rom": "",
       "stale": false
+    },
+    {
+      "source": "VDOT",
+      "state": "VA",
+      "s": "VDOT-A98",
+      "n": "BRIDGE REPLACEMENT · Route 66 · FAUQUIER",
+      "d": "2026-11-18T17:00:00.000Z",
+      "l": "FAUQUIER, VA",
+      "scope": "Highway / Bridge Construction",
+      "c": "237310",
+      "r": "https://cabb.virginiadot.org/upload/20261009111338SEP-A98.pdf",
+      "type": "VDOT Highway Advertisement",
+      "value": "$44,539,000.00",
+      "stateProject": "0066-030-543, B632",
+      "route": "66",
+      "county": "FAUQUIER",
+      "approx": true,
+      "sourceLabel": "VDOT CABB",
+      "set": "State / Local",
+      "p": "2026-10-10T15:35:21.952Z",
+      "u": "2026-10-10T15:35:21.952Z",
+      "x": 38.7513714,
+      "y": -77.8141221,
+      "firstSeen": "2026-09-09T09:26:35.196Z",
+      "lastSeen": "2026-10-10T15:35:21.952Z",
+      "change": "ACTIVE"
     }
   ]
 }

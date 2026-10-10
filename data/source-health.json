@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:23:18.953Z",
+  "generatedAt": "2026-10-10T15:35:35.450Z",
   "total": 358,
   "sources": {
     "EVA": {
@@ -54,7 +54,7 @@
       "label": "VDOT CABB",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-10-10T15:21:17.710Z",
+      "checkedAt": "2026-10-10T15:35:21.952Z",
       "message": "1 future VDOT CABB highway advertisements parsed.",
       "stale": false
     },
@@ -62,7 +62,7 @@
       "label": "NCDOT",
       "status": "PARTIAL",
       "count": 0,
-      "checkedAt": "2026-10-10T15:21:30.181Z",
+      "checkedAt": "2026-10-10T15:35:35.450Z",
       "message": "NCDOT returned no usable records during this refresh. Preserved 0 last-good record(s).",
       "stale": true,
       "fallback": false
