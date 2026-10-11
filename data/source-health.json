@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-10T15:35:35.450Z",
-  "total": 358,
+  "generatedAt": "2026-10-11T15:40:11.290Z",
+  "total": 357,
   "sources": {
     "EVA": {
       "label": "Virginia eVA",
       "status": "OK",
       "count": 117,
-      "checkedAt": "2026-10-10T15:21:05.643Z",
+      "checkedAt": "2026-10-11T15:37:54.574Z",
       "message": "eVA reported 117 open Construction results; loaded 117 cards and parsed 117 future pursuits.",
       "stale": false
     },
@@ -14,23 +14,23 @@
       "label": "NC eVP",
       "status": "OK",
       "count": 96,
-      "checkedAt": "2026-10-10T15:22:44.821Z",
+      "checkedAt": "2026-10-11T15:39:35.642Z",
       "message": "NC eVP pagination repair visited 26/26 page(s) and parsed 96 active construction pursuit(s).",
       "stale": false
     },
     "TNEDISON": {
       "label": "TN Edison",
-      "status": "OK",
+      "status": "PARTIAL",
       "count": 3,
-      "checkedAt": "2026-10-10T15:20:40.221Z",
-      "message": "3 future construction rows parsed from public result pages.",
-      "stale": false
+      "checkedAt": "2026-10-11T15:37:26.303Z",
+      "message": "0 future construction rows parsed from public result pages. Preserved 3 last-good records.",
+      "stale": true
     },
     "TNSTREAM": {
       "label": "TN STREAM",
       "status": "OK",
       "count": 4,
-      "checkedAt": "2026-10-10T15:21:15.951Z",
+      "checkedAt": "2026-10-11T15:38:06.026Z",
       "message": "Parsed 4 future projects from the live STREAM Construction Bid List.",
       "stale": false
     },
@@ -38,7 +38,7 @@
       "label": "TN TDOT",
       "status": "OK",
       "count": 3,
-      "checkedAt": "2026-10-10T15:21:05.643Z",
+      "checkedAt": "2026-10-11T15:37:54.574Z",
       "message": "TDOT bidding page reachable (https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/e-plans-room.html); 3 future advertised letting link(s) found.",
       "stale": false
     },
@@ -46,7 +46,7 @@
       "label": "Western Virginia Water Authority",
       "status": "OK",
       "count": 5,
-      "checkedAt": "2026-10-10T15:21:01.846Z",
+      "checkedAt": "2026-10-11T15:37:50.983Z",
       "message": "5 active construction invitations parsed from the WVWA public bid portal.",
       "stale": false
     },
@@ -54,7 +54,7 @@
       "label": "VDOT CABB",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-10-10T15:35:21.952Z",
+      "checkedAt": "2026-10-11T15:38:09.502Z",
       "message": "1 future VDOT CABB highway advertisements parsed.",
       "stale": false
     },
@@ -62,7 +62,7 @@
       "label": "NCDOT",
       "status": "PARTIAL",
       "count": 0,
-      "checkedAt": "2026-10-10T15:35:35.450Z",
+      "checkedAt": "2026-10-11T15:38:21.533Z",
       "message": "NCDOT returned no usable records during this refresh. Preserved 0 last-good record(s).",
       "stale": true,
       "fallback": false
@@ -71,7 +71,7 @@
       "label": "Washington County Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-10-10T15:23:05.590Z",
+      "checkedAt": "2026-10-11T15:39:59.567Z",
       "message": "eVA utility-owner scan loaded 117 open construction cards; 0 active Washington County Service Authority pursuit(s) matched.",
       "stale": false
     },
@@ -79,7 +79,7 @@
       "label": "Bristol Virginia Utilities Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-10-10T15:23:05.590Z",
+      "checkedAt": "2026-10-11T15:39:59.567Z",
       "message": "eVA utility-owner scan loaded 117 open construction cards; 0 active Bristol Virginia Utilities Authority pursuit(s) matched.",
       "stale": false
     },
@@ -87,7 +87,7 @@
       "label": "Bedford Regional Water Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-10-10T15:23:05.590Z",
+      "checkedAt": "2026-10-11T15:39:59.567Z",
       "message": "eVA utility-owner scan loaded 117 open construction cards; 0 active Bedford Regional Water Authority pursuit(s) matched. Bedford Regional Water Authority direct bidding page checked; 0 active construction pursuit(s) found.",
       "stale": false
     },
@@ -95,7 +95,7 @@
       "label": "Henry County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-10-10T15:23:05.590Z",
+      "checkedAt": "2026-10-11T15:39:59.567Z",
       "message": "eVA utility-owner scan loaded 117 open construction cards; 0 active Henry County Public Service Authority pursuit(s) matched. Henry County procurement board checked for PSA water/sewer construction; 0 active pursuit(s) found. Bid-tabulation-only entries are excluded.",
       "stale": false
     },
@@ -103,7 +103,7 @@
       "label": "Montgomery County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-10-10T15:23:05.590Z",
+      "checkedAt": "2026-10-11T15:39:59.567Z",
       "message": "eVA utility-owner scan loaded 117 open construction cards; 0 active Montgomery County Public Service Authority pursuit(s) matched. Montgomery County purchasing page checked for Public Service Authority construction; 0 active pursuit(s) found.",
       "stale": false
     },
@@ -111,7 +111,7 @@
       "label": "Wise County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-10-10T15:23:05.590Z",
+      "checkedAt": "2026-10-11T15:39:59.567Z",
       "message": "eVA utility-owner scan loaded 117 open construction cards; 0 active Wise County Public Service Authority pursuit(s) matched.",
       "stale": false
     },
@@ -119,7 +119,7 @@
       "label": "Buchanan County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-10-10T15:23:05.590Z",
+      "checkedAt": "2026-10-11T15:39:59.567Z",
       "message": "eVA utility-owner scan loaded 117 open construction cards; 0 active Buchanan County Public Service Authority pursuit(s) matched.",
       "stale": false
     },
@@ -127,7 +127,7 @@
       "label": "Scott County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-10-10T15:23:05.590Z",
+      "checkedAt": "2026-10-11T15:39:59.567Z",
       "message": "eVA utility-owner scan loaded 117 open construction cards; 0 active Scott County Public Service Authority pursuit(s) matched.",
       "stale": false
     },
@@ -135,7 +135,7 @@
       "label": "Russell County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-10-10T15:23:05.590Z",
+      "checkedAt": "2026-10-11T15:39:59.567Z",
       "message": "eVA utility-owner scan loaded 117 open construction cards; 0 active Russell County Public Service Authority pursuit(s) matched.",
       "stale": false
     },
@@ -143,29 +143,29 @@
       "label": "Tazewell County Public Service Authority",
       "status": "OK",
       "count": 0,
-      "checkedAt": "2026-10-10T15:23:05.590Z",
+      "checkedAt": "2026-10-11T15:39:59.567Z",
       "message": "eVA utility-owner scan loaded 117 open construction cards; 0 active Tazewell County Public Service Authority pursuit(s) matched. Tazewell County procurement page checked for PSA water/wastewater construction; 0 active dated pursuit(s) found.",
       "stale": false
     },
     "FED": {
       "label": "Federal / SAM.gov",
       "status": "OK",
-      "count": 120,
-      "checkedAt": "2026-10-10T15:23:18.953Z",
-      "message": "Live SAM.gov Opportunities API snapshot: 120 active deduplicated construction pursuits. 112/120 federal pins have ZIP/city or source coordinates. Published ROMs: 31.",
+      "count": 119,
+      "checkedAt": "2026-10-11T15:40:11.290Z",
+      "message": "Live SAM.gov Opportunities API snapshot: 119 active deduplicated construction pursuits. 111/119 federal pins have ZIP/city or source coordinates. Published ROMs: 31.",
       "stale": false
     },
     "GOVTRIBE": {
       "label": "GovTribe Supplemental",
       "status": "OK",
       "count": 9,
-      "checkedAt": "2026-10-10T15:23:18.953Z",
+      "checkedAt": "2026-10-11T15:40:11.290Z",
       "stale": false,
       "message": "GovTribe snapshot contributed 9 net-new construction pursuit(s), skipped 1 duplicate(s), and filled 1 missing federal ROM(s). SAM.gov remains authoritative for matched federal notices."
     }
   },
   "priorityRom": {
-    "checkedAt": "2026-10-10T15:23:18.953Z",
+    "checkedAt": "2026-10-11T15:40:11.290Z",
     "populated": 1,
     "message": "1 active state/local or GovTribe supplemental pursuit(s) currently contain a published ROM/estimate."
   },

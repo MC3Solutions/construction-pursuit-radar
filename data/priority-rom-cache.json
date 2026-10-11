@@ -7,14 +7,14 @@
       "checkedAt": "2026-09-24T09:27:59.637Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-13T04:00:00.000Z|COVB-27-101714 - Independence - Baxter Pedestrian ...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-22T18:00:00.000Z|UOSA IFB 27-02 P2NR+ Construction",
       "rom": "",
-      "checkedAt": "2026-10-10T15:23:16.253Z"
+      "checkedAt": "2026-10-11T15:40:10.834Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T15:00:00.000Z|Rachel Jackson Building Roof Replacement",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T16:00:00.000Z|Montgomery Bell State Park Bathhouse and Restroom Replacements",
       "rom": "",
-      "checkedAt": "2026-10-10T15:23:16.253Z",
+      "checkedAt": "2026-10-11T15:40:10.834Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9": {
@@ -544,5 +544,5 @@
       "checkedAt": "2026-10-10T15:23:16.253Z"
     }
   },
-  "generatedAt": "2026-10-10T15:23:16.253Z"
+  "generatedAt": "2026-10-11T15:40:10.834Z"
 }

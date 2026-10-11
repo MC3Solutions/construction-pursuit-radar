@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-10-10T15:23:18.953Z",
+  "generatedAt": "2026-10-11T15:40:11.290Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
-    "postedFrom": "10/11/2025",
-    "postedTo": "10/10/2026",
-    "rdlfrom": "10/10/2026",
-    "rdlto": "10/09/2027"
+    "postedFrom": "10/12/2025",
+    "postedTo": "10/11/2026",
+    "rdlfrom": "10/11/2026",
+    "rdlto": "10/10/2027"
   },
-  "total": 120,
+  "total": 119,
   "records": [
-    [
-      "7240292764b7485ea1fa8d927997d5a5",
-      "W911WN26QA072",
-      "Canonsburg-Houston, Pennsylvania, Local Protection Project (LPP) PL84-99 Rehabilitation",
-      "Pre-Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-09-24T00:00:00.000Z",
-      "2026-10-10T16:00:00.000Z",
-      "2026-09-24T00:00:00.000Z",
-      "Houston, PA, 15342",
-      40.265192,
-      -80.213086,
-      "237990",
-      "https://sam.gov/opp/7240292764b7485ea1fa8d927997d5a5/view",
-      1,
-      ""
-    ],
     [
       "6409b3ce7f93443b86e524ae3c52f754",
       "36C24726R0134",
@@ -2054,12 +2037,12 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 94,
+    "zipLocated": 93,
     "cityLocated": 18,
     "unresolved": 8,
-    "locatedTotal": 112,
-    "total": 120,
-    "generatedAt": "2026-10-10T15:20:10.411Z"
+    "locatedTotal": 111,
+    "total": 119,
+    "generatedAt": "2026-10-11T15:37:07.268Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
