@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-10-11T15:40:11.290Z",
+  "generatedAt": "2026-10-12T19:01:50.699Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
-    "postedFrom": "10/12/2025",
-    "postedTo": "10/11/2026",
-    "rdlfrom": "10/11/2026",
-    "rdlto": "10/10/2027"
+    "postedFrom": "10/13/2025",
+    "postedTo": "10/12/2026",
+    "rdlfrom": "10/12/2026",
+    "rdlto": "10/11/2027"
   },
   "total": 119,
   "records": [
-    [
-      "6409b3ce7f93443b86e524ae3c52f754",
-      "36C24726R0134",
-      "Y1DA | 521-24-102 | Renovate Wards 2K and 2B for Optometry/Ophthalmology Clinical Use",
-      "Pre-Solicitation",
-      "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "2026-09-25T00:00:00.000Z",
-      "2026-10-12T17:00:00.000Z",
-      "2026-09-25T00:00:00.000Z",
-      "AL, 35233",
-      33.507447,
-      -86.806169,
-      "236220",
-      "https://sam.gov/opp/6409b3ce7f93443b86e524ae3c52f754/view",
-      1,
-      ""
-    ],
-    [
-      "b53116a0dd74446382bb96d262069e20",
-      "12445526Q0132",
-      "Loleta Water System Upgrades",
-      "Combined Synopsis/Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-10-02T00:00:00.000Z",
-      "2026-10-12T17:00:00.000Z",
-      "2026-10-02T00:00:00.000Z",
-      "Marienville, PA, 16239",
-      41.48893,
-      -79.11698,
-      "237110",
-      "https://sam.gov/opp/b53116a0dd74446382bb96d262069e20/view",
-      1,
-      ""
-    ],
     [
       "5c44ed815b754ebf95dae998455bc376",
       "36C24627Q0067",
@@ -741,6 +707,23 @@
       ""
     ],
     [
+      "22826e1a29a44e2cb205896fe9881cca",
+      "12445526Q0132",
+      "Loleta Water System Upgrades",
+      "Combined Synopsis/Solicitation",
+      "Small Business Set Aside - Total",
+      "2026-10-12T00:00:00.000Z",
+      "2026-10-19T17:00:00.000Z",
+      "2026-10-12T00:00:00.000Z",
+      "Marienville, PA, 16239",
+      41.434384,
+      -79.141838,
+      "237110",
+      "https://sam.gov/opp/22826e1a29a44e2cb205896fe9881cca/view",
+      1,
+      ""
+    ],
+    [
       "42480e8e10ef48889842a06f15a7f8a6",
       "N4008527R0005",
       "P-1577, Combat Water Survival Training Facility, Marine Corps Base (MCB), Camp Lejeune, NC",
@@ -1145,6 +1128,23 @@
       -82.022818,
       "238320",
       "https://sam.gov/opp/59415cdd1c88424ea9e5d230cf8caa52/view",
+      1,
+      ""
+    ],
+    [
+      "c59f6b8179ec49cc937da49033f9dd0b",
+      "MH484019",
+      "Building 510 Substation Upgrade - Phase I",
+      "Sources Sought",
+      "Small Business Set Aside - Total",
+      "2026-10-12T00:00:00.000Z",
+      "2026-10-23T20:00:00.000Z",
+      "2026-10-12T00:00:00.000Z",
+      "NY, 11973",
+      40.877865,
+      -72.897123,
+      "238210",
+      "https://sam.gov/opp/c59f6b8179ec49cc937da49033f9dd0b/view",
       1,
       ""
     ],
@@ -2042,7 +2042,7 @@
     "unresolved": 8,
     "locatedTotal": 111,
     "total": 119,
-    "generatedAt": "2026-10-11T15:37:07.268Z"
+    "generatedAt": "2026-10-12T18:58:51.036Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {

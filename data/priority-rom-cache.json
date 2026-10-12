@@ -7,14 +7,14 @@
       "checkedAt": "2026-09-24T09:27:59.637Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-22T18:00:00.000Z|UOSA IFB 27-02 P2NR+ Construction",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-13T19:00:00.000Z|Construction Manager at Risk Services - City of Fa...",
       "rom": "",
-      "checkedAt": "2026-10-11T15:40:10.834Z"
+      "checkedAt": "2026-10-12T19:01:48.979Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T16:00:00.000Z|Montgomery Bell State Park Bathhouse and Restroom Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T15:00:00.000Z|Rachel Jackson Building Roof Replacement",
       "rom": "",
-      "checkedAt": "2026-10-11T15:40:10.834Z",
+      "checkedAt": "2026-10-12T19:01:48.979Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9": {
@@ -321,11 +321,6 @@
       "rom": "",
       "checkedAt": "2026-10-02T15:50:22.117Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=b07103fb-5ebe-f111-aaae-001dd80a6183": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=b07103fb-5ebe-f111-aaae-001dd80a6183|2026-10-12T18:00:00.000Z|54-ML-PR39948 DIV2 Pitt Co. Bridge Aluminum Pipe and Bands",
-      "rom": "",
-      "checkedAt": "2026-10-02T15:50:22.117Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=449e884f-d0bd-f111-aaae-001dd80d92a5": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=449e884f-d0bd-f111-aaae-001dd80d92a5|2026-11-05T19:00:00.000Z|Water Line Repair for Wood Ave and Misc. Insulation Replacement",
       "rom": "",
@@ -542,7 +537,22 @@
       "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Plans|2026-11-06T15:00:00.000Z|November 6, 2026 Letting Plans",
       "rom": "",
       "checkedAt": "2026-10-10T15:23:16.253Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=0ce52fa5-92c2-f111-aaae-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=0ce52fa5-92c2-f111-aaae-001dd80db495|2026-11-05T18:00:00.000Z|Greensboro Courthouse Facade Repairs",
+      "rom": "",
+      "checkedAt": "2026-10-12T19:01:48.979Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=50f338e4-52c6-f111-aaae-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=50f338e4-52c6-f111-aaae-001dd80bcb64|2026-10-27T19:00:00.000Z|Southwestern Community College HVAC Renovation Project – Founders Building",
+      "rom": "",
+      "checkedAt": "2026-10-12T19:01:48.979Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=cb30c482-36c6-f111-aaae-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=cb30c482-36c6-f111-aaae-001dd803db57|2026-11-17T18:00:00.000Z|NC Department of Natural and Cultural Resources",
+      "rom": "",
+      "checkedAt": "2026-10-12T19:01:48.979Z"
     }
   },
-  "generatedAt": "2026-10-11T15:40:10.834Z"
+  "generatedAt": "2026-10-12T19:01:48.979Z"
 }
