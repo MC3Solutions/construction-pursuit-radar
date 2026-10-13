@@ -1,20 +1,15 @@
 {
   "version": 1,
   "records": {
-    "https://evp.nc.gov/solicitations/details/?id=4041c44b-dc90-f111-ab0f-001dd800b811": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=4041c44b-dc90-f111-ab0f-001dd800b811|2026-10-13T15:00:00.000Z|Buffalo Road Aquatic Center Stair Tower Repainting and Tread Replacement",
-      "rom": "",
-      "checkedAt": "2026-09-24T09:27:59.637Z"
-    },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-13T19:00:00.000Z|Construction Manager at Risk Services - City of Fa...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-22T18:00:00.000Z|UOSA IFB 27-02 P2NR+ Construction",
       "rom": "",
-      "checkedAt": "2026-10-12T19:01:48.979Z"
+      "checkedAt": "2026-10-13T16:58:39.978Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T15:00:00.000Z|Rachel Jackson Building Roof Replacement",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T16:00:00.000Z|Montgomery Bell State Park Bathhouse and Restroom Replacements",
       "rom": "",
-      "checkedAt": "2026-10-12T19:01:48.979Z",
+      "checkedAt": "2026-10-13T16:58:39.978Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9": {
@@ -52,11 +47,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c6a357e7-54b0-f111-aaac-001dd80bcb64|2026-10-19T14:00:00.000Z|ITB Cub Creek Phase 3 Stream Restoration",
       "rom": "",
       "checkedAt": "2026-09-15T13:00:41.592Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=0728a97e-48b1-f111-aaab-001dd80842c4": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=0728a97e-48b1-f111-aaab-001dd80842c4|2026-10-14T18:00:00.000Z|Records Management and Jail Management System - Journey Partner",
-      "rom": "",
-      "checkedAt": "2026-09-30T15:56:38.896Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=ca21c555-42b1-f111-aaac-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=ca21c555-42b1-f111-aaac-001dd803db57|2026-10-16T21:00:00.000Z|NC State University",
@@ -97,12 +87,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=27999623-b5b2-f111-aaac-001dd80db495|2026-10-19T14:00:00.000Z|IFB 2026-042 Government Center Exterior Envelope Repair",
       "rom": "",
       "checkedAt": "2026-09-18T09:26:43.837Z"
-    },
-    "https://www.westernvawater.org/Home/Components/RFP/RFP/953/233": {
-      "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/953/233|2026-10-13T13:59:00.000Z|- FY27 Pipe Lining",
-      "rom": "",
-      "checkedAt": "2026-09-19T09:25:35.361Z",
-      "error": "HTTP 403"
     },
     "https://evp.nc.gov/solicitations/details/?id=c51fbf95-75b3-f111-aaab-001dd807457b": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c51fbf95-75b3-f111-aaab-001dd807457b|2026-11-03T17:00:00.000Z|Old Knight Road Sidewalk Improvement Project",
@@ -159,11 +143,6 @@
       "rom": "",
       "checkedAt": "2026-09-24T09:27:59.637Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=d15196ec-86b7-f111-aaac-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=d15196ec-86b7-f111-aaac-001dd803db57|2026-10-27T15:00:00.000Z|Wrightsboro Elevated Water Tank Rehabilitation",
-      "rom": "",
-      "checkedAt": "2026-09-24T09:27:59.637Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=fbcbc204-47b7-f111-aaac-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=fbcbc204-47b7-f111-aaac-001dd803db57|2026-10-28T19:30:00.000Z|Fleet Maintenance Operations Vehicle Maintenance and Repair Services",
       "rom": "",
@@ -191,11 +170,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=9077fbf6-06b9-f111-aaac-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=9077fbf6-06b9-f111-aaac-001dd80bcb64|2026-10-16T18:00:00.000Z|Engineering and Design for Direct Digital Control Interface",
-      "rom": "",
-      "checkedAt": "2026-09-26T13:47:09.437Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=a2de85e4-1ab9-f111-aaac-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a2de85e4-1ab9-f111-aaac-001dd80bcb64|2026-10-20T18:00:00.000Z|IFB 2026-068 IFB Detention Center Boilers Replacement",
       "rom": "",
       "checkedAt": "2026-09-26T13:47:09.437Z"
     },
@@ -552,7 +526,42 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=cb30c482-36c6-f111-aaae-001dd803db57|2026-11-17T18:00:00.000Z|NC Department of Natural and Cultural Resources",
       "rom": "",
       "checkedAt": "2026-10-12T19:01:48.979Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=89d61ced-0ec7-f111-aaae-001dd8084fd9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=89d61ced-0ec7-f111-aaae-001dd8084fd9|2026-10-21T15:30:00.000Z|NC Central University",
+      "rom": "",
+      "checkedAt": "2026-10-13T16:58:39.978Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=7645c346-25c7-f111-aaae-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=7645c346-25c7-f111-aaae-001dd80bcb64|2026-10-28T19:00:00.000Z|Full Depth Asphalt Patching on Multiple City Streets",
+      "rom": "",
+      "checkedAt": "2026-10-13T16:58:39.978Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=2cf5e098-77c6-f111-aaae-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=2cf5e098-77c6-f111-aaae-001dd803db57|2026-10-20T18:00:00.000Z|City of Raleigh, John Chavis Memorial Park – Phase 2 Aquatic Center",
+      "rom": "",
+      "checkedAt": "2026-10-13T16:58:39.978Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=ed029903-0cc7-f111-aaae-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ed029903-0cc7-f111-aaae-001dd803db57|2026-10-30T14:00:00.000Z|RFB for EDGECOMBE COUNTY SCALE COMPUTING HYPERCONVERGE REPLACEMENT AT EDGECOMBE COUNTY ADMIN BLDG AND ECSO",
+      "rom": "",
+      "checkedAt": "2026-10-13T16:58:39.978Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=650c79ee-0fc7-f111-aaad-001dd803271d": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=650c79ee-0fc7-f111-aaad-001dd803271d|2026-11-12T18:00:00.000Z|NC Central University",
+      "rom": "",
+      "checkedAt": "2026-10-13T16:58:39.978Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=cc4a32ea-10c7-f111-aaae-001dd80bca2d": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=cc4a32ea-10c7-f111-aaae-001dd80bca2d|2026-10-27T18:00:00.000Z|Steel Beams",
+      "rom": "",
+      "checkedAt": "2026-10-13T16:58:39.978Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=e56adb45-7ac6-f111-aaae-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=e56adb45-7ac6-f111-aaae-001dd80bcb64|2026-11-10T20:00:00.000Z|Public Works Fleet Maintenance HVAC Addition",
+      "rom": "",
+      "checkedAt": "2026-10-13T16:58:39.978Z"
     }
   },
-  "generatedAt": "2026-10-12T19:01:48.979Z"
+  "generatedAt": "2026-10-13T16:58:39.978Z"
 }
