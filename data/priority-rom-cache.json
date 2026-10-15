@@ -2,26 +2,20 @@
   "version": 1,
   "records": {
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-20T18:00:00.000Z|408319 Dozier's Corner Pump Station Repl (AT015400...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-22T18:00:00.000Z|UOSA IFB 27-02 P2NR+ Construction",
       "rom": "",
-      "checkedAt": "2026-10-14T14:32:39.511Z"
+      "checkedAt": "2026-10-15T14:11:54.971Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T15:00:00.000Z|Rachel Jackson Building Roof Replacement",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T14:00:00.000Z|TSD Schools Against Violence in Education (SAVE) Act Compliance Upgrades",
       "rom": "",
-      "checkedAt": "2026-10-14T14:32:39.511Z",
+      "checkedAt": "2026-10-15T14:11:54.971Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9|2026-10-19T17:00:00.000Z|GoRaleigh Operations and Maintenance Facility Expansion",
       "rom": "",
       "checkedAt": "2026-08-29T12:50:55.759Z"
-    },
-    "https://www.westernvawater.org/Home/Components/RFP/RFP/951/233": {
-      "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/951/233|2026-10-15T14:00:00.000Z|- COAGULATION BASIN GATE ACTUATOR PROJECT",
-      "rom": "",
-      "checkedAt": "2026-10-06T15:57:39.416Z",
-      "error": "HTTP 403"
     },
     "https://evp.nc.gov/solicitations/details/?id=82c0de5d-6fb0-f111-aaab-001dd8041e99": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=82c0de5d-6fb0-f111-aaab-001dd8041e99|2026-10-15T18:00:00.000Z|North Carolina Department of Adult Correction",
@@ -62,11 +56,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=ba121f95-fbb1-f111-aaab-001dd80b4a30|2027-09-20T18:00:00.000Z|CHRY Building Management System",
       "rom": "",
       "checkedAt": "2026-09-17T09:28:02.514Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=574d5d47-9eb2-f111-aaac-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=574d5d47-9eb2-f111-aaac-001dd80db495|2026-10-14T20:00:00.000Z|North Carolina Department of Public Safety – NC National Guard (NCNG) - Construction Facilities Management Office (CFMO)",
-      "rom": "",
-      "checkedAt": "2026-09-18T09:26:43.837Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=92006563-ddb2-f111-aaab-001dd80e9b7f": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=92006563-ddb2-f111-aaab-001dd80e9b7f|2026-12-10T18:00:00.000Z|Replacement X-RAY System (High-Freq. Digital X-Ray System with AEC & Wireless Det.)",
@@ -134,9 +123,9 @@
       "checkedAt": "2026-09-24T09:27:59.637Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=fbcbc204-47b7-f111-aaac-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=fbcbc204-47b7-f111-aaac-001dd803db57|2026-10-28T19:30:00.000Z|Fleet Maintenance Operations Vehicle Maintenance and Repair Services",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=fbcbc204-47b7-f111-aaac-001dd803db57|2026-11-04T19:30:00.000Z|Fleet Maintenance Operations Vehicle Maintenance and Repair Services",
       "rom": "",
-      "checkedAt": "2026-09-24T09:27:59.637Z"
+      "checkedAt": "2026-10-15T14:11:54.971Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=2055bfde-4fb8-f111-aaac-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=2055bfde-4fb8-f111-aaac-001dd803db57|2026-10-15T19:00:00.000Z|Re-advertisement Design Build Services Forest Ridge Park Mountain Bike Trail",
@@ -235,11 +224,6 @@
       "rom": "",
       "checkedAt": "2026-09-29T15:48:52.527Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=de817b47-0bbc-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=de817b47-0bbc-f111-aaae-001dd80bcb64|2026-10-14T18:00:00.000Z|Horizontal Shafted Screw Conveyor",
-      "rom": "",
-      "checkedAt": "2026-09-29T15:48:52.527Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=13265c2b-69bb-f111-aaae-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=13265c2b-69bb-f111-aaae-001dd803db57|2026-10-27T18:00:00.000Z|USA Baseball Field II Renovation",
       "rom": "",
@@ -260,18 +244,8 @@
       "rom": "",
       "checkedAt": "2026-09-30T15:56:38.896Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=12ae9cd2-08bd-f111-aaad-001dd80ad4e6": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=12ae9cd2-08bd-f111-aaad-001dd80ad4e6|2026-10-14T17:00:00.000Z|UNC-Chapel Hill",
-      "rom": "",
-      "checkedAt": "2026-10-01T16:26:41.945Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=e9d3bcba-07bd-f111-aaae-001dd8084fd9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e9d3bcba-07bd-f111-aaae-001dd8084fd9|2026-11-04T18:00:00.000Z|RFQ 27-0928 Carolina Springs Park Master Plan",
-      "rom": "",
-      "checkedAt": "2026-10-01T16:26:41.945Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=e425b13c-febc-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=e425b13c-febc-f111-aaae-001dd80bcb64|2026-10-14T20:00:00.000Z|Cake Feed Pump Parts & Dosing Pump Parts",
       "rom": "",
       "checkedAt": "2026-10-01T16:26:41.945Z"
     },
@@ -322,11 +296,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=1d559743-98c1-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=1d559743-98c1-f111-aaae-001dd80bcb64|2026-10-22T18:30:00.000Z|East Carolina University",
-      "rom": "",
-      "checkedAt": "2026-10-06T15:57:39.416Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=7b806f11-fec0-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=7b806f11-fec0-f111-aaae-001dd803db57|2026-10-14T18:00:00.000Z|Substation 10 Transformer Upgrade Re-Bid",
       "rom": "",
       "checkedAt": "2026-10-06T15:57:39.416Z"
     },
@@ -562,11 +531,6 @@
       "rom": "",
       "checkedAt": "2026-10-14T14:32:39.511Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=0728a97e-48b1-f111-aaab-001dd80842c4": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=0728a97e-48b1-f111-aaab-001dd80842c4|2026-10-14T18:00:00.000Z|Records Management and Jail Management System - Journey Partner",
-      "rom": "",
-      "checkedAt": "2026-10-14T14:32:39.511Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=c5f9c5d5-7ac6-f111-aaae-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c5f9c5d5-7ac6-f111-aaae-001dd80db495|2026-11-05T18:00:00.000Z|DUDLEY SHOALS ACCESS ROAD PROJECT",
       "rom": "",
@@ -576,7 +540,72 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=d15196ec-86b7-f111-aaac-001dd803db57|2026-10-27T15:00:00.000Z|Wrightsboro Elevated Water Tank Rehabilitation",
       "rom": "",
       "checkedAt": "2026-10-14T14:32:39.511Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=ebb8b4f2-bcc7-f111-aaae-001dd8084fd9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ebb8b4f2-bcc7-f111-aaae-001dd8084fd9|2026-10-21T16:00:00.000Z|Half Ton Regular Cab 2WD Long Bed Pickups (17)",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=db56dba4-cac7-f111-aaad-001dd803271d": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=db56dba4-cac7-f111-aaad-001dd803271d|2026-11-02T19:00:00.000Z|RFQ - Storage Building Restoration and Field Access Improvements",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=cd992fdc-9dc8-f111-aaae-001dd80bca2d": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=cd992fdc-9dc8-f111-aaae-001dd80bca2d|2026-11-04T14:00:00.000Z|NC Department of Adult Correction - Rebid",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=93b2d7da-99c8-f111-aaad-001dd803271d": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=93b2d7da-99c8-f111-aaad-001dd803271d|2026-11-05T19:00:00.000Z|Boiler Inspections and Testing",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f0888f14-e8c7-f111-aaae-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f0888f14-e8c7-f111-aaae-001dd803db57|2026-11-06T16:00:00.000Z|Request for Proposals (RFP) Community Project Funding (CPF) Grant Administration and Construction Management Services",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f6cbc2db-03c8-f111-aaad-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f6cbc2db-03c8-f111-aaad-001dd80072e8|2026-11-10T18:00:00.000Z|19-IFB-2427897885-BJL Mecklenburg Co ACQ Demo",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=76154e82-0cc8-f111-aaad-001dd803271d": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=76154e82-0cc8-f111-aaad-001dd803271d|2026-10-30T19:00:00.000Z|On Call Roof Repair",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c280e8ea-0cc8-f111-aaae-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c280e8ea-0cc8-f111-aaae-001dd80bcb64|2026-10-28T18:00:00.000Z|HVAC Filters and Preventive Maintenance Services",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=66f17049-d5c7-f111-aaae-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=66f17049-d5c7-f111-aaae-001dd80db495|2026-11-12T18:00:00.000Z|Title: On-Call Stormwater Injection Grouting",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=b03e0569-e6c7-f111-aaae-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=b03e0569-e6c7-f111-aaae-001dd80d92a5|2026-11-12T18:00:00.000Z|Automotive Building Design Commissioning Services",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=171facd8-e1c7-f111-aaae-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=171facd8-e1c7-f111-aaae-001dd80bcb64|2026-11-06T18:00:00.000Z|RFP 92-27-001",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=2ccf3f33-8dc8-f111-aaad-001dd803e502": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=2ccf3f33-8dc8-f111-aaad-001dd803e502|2026-11-18T15:00:00.000Z|RFQ 2027-016 Construction Manager at Risk Services, Union County Historic Post Office/West Franklin Street Renovations",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f750aa00-0ac8-f111-aaad-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f750aa00-0ac8-f111-aaad-001dd80072e8|2026-11-12T18:00:00.000Z|4610-0005 Carteret County Elevations",
+      "rom": "",
+      "checkedAt": "2026-10-15T14:11:54.971Z"
     }
   },
-  "generatedAt": "2026-10-14T14:32:39.511Z"
+  "generatedAt": "2026-10-15T14:11:54.971Z"
 }

@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 10,
+    "curatedSledRecords": 9,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,22 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "MD",
-      "s": "BPM058766",
-      "n": "XB1635H80 - Cleaning, Painting & Minor Rehab. of Existing Bridges on Various Rt in Baltimore County",
-      "d": "2026-10-15T04:00:00Z",
-      "p": "2026-09-08T14:18:43Z",
-      "l": "Baltimore County, MD",
-      "scope": "Bridge Rehabilitation",
-      "c": "Bridge / Civil Construction",
-      "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/94764",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-12T12:09:04Z"
-    },
     {
       "state": "GA",
       "s": "PE60899NONST2027000000083",
