@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:59:27.455Z",
+  "generatedAt": "2026-10-17T13:16:17.978Z",
   "records": [
     {
       "source": "NCEVP",
@@ -5565,33 +5565,6 @@
       "stale": false
     },
     {
-      "source": "VDOT",
-      "state": "VA",
-      "s": "VDOT-A98",
-      "n": "BRIDGE REPLACEMENT · Route 66 · FAUQUIER",
-      "d": "2026-11-18T17:00:00.000Z",
-      "l": "FAUQUIER, VA",
-      "scope": "Highway / Bridge Construction",
-      "c": "237310",
-      "r": "https://cabb.virginiadot.org/upload/20261009111338SEP-A98.pdf",
-      "type": "VDOT Highway Advertisement",
-      "value": "$44,539,000.00",
-      "stateProject": "0066-030-543, B632",
-      "route": "66",
-      "county": "FAUQUIER",
-      "approx": true,
-      "sourceLabel": "VDOT CABB",
-      "set": "State / Local",
-      "p": "2026-10-13T16:56:34.955Z",
-      "u": "2026-10-13T16:56:34.955Z",
-      "x": 38.7513714,
-      "y": -77.8141221,
-      "firstSeen": "2026-09-09T09:26:35.196Z",
-      "lastSeen": "2026-10-17T12:57:22.364Z",
-      "change": "ACTIVE",
-      "stale": true
-    },
-    {
       "source": "EVA",
       "sourceLabel": "Virginia eVA",
       "s": "RFP 130019",
@@ -6040,6 +6013,33 @@
       "description": "HVAC integrated control system maintenance. This is for documentation purposes, this solicitation was posted in Ariba Sourcing.",
       "rom": "",
       "stale": false
+    },
+    {
+      "source": "VDOT",
+      "state": "VA",
+      "s": "VDOT-A98",
+      "n": "BRIDGE REPLACEMENT · Route 66 · FAUQUIER",
+      "d": "2026-11-18T17:00:00.000Z",
+      "l": "FAUQUIER, VA",
+      "scope": "Highway / Bridge Construction",
+      "c": "237310",
+      "r": "https://cabb.virginiadot.org/upload/20261009111338SEP-A98.pdf",
+      "type": "VDOT Highway Advertisement",
+      "value": "$44,539,000.00",
+      "stateProject": "0066-030-543, B632",
+      "route": "66",
+      "county": "FAUQUIER",
+      "approx": true,
+      "sourceLabel": "VDOT CABB",
+      "set": "State / Local",
+      "p": "2026-10-13T16:56:34.955Z",
+      "u": "2026-10-13T16:56:34.955Z",
+      "x": 38.7513714,
+      "y": -77.8141221,
+      "firstSeen": "2026-09-09T09:26:35.196Z",
+      "lastSeen": "2026-10-17T13:16:05.983Z",
+      "change": "ACTIVE",
+      "stale": true
     }
   ]
 }
