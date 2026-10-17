@@ -2,14 +2,14 @@
   "version": 1,
   "records": {
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-20T18:00:00.000Z|408319 Dozier's Corner Pump Station Repl (AT015400...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-12-16T18:00:00.000Z|PROPOSED BRIDGE SUPERSTRUCTURE REPLACEMENT WEST CO...",
       "rom": "",
-      "checkedAt": "2026-10-16T13:59:46.299Z"
+      "checkedAt": "2026-10-17T12:59:24.463Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T16:00:00.000Z|Montgomery Bell State Park Bathhouse and Restroom Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T15:00:00.000Z|Rachel Jackson Building Roof Replacement",
       "rom": "",
-      "checkedAt": "2026-10-16T13:59:46.299Z",
+      "checkedAt": "2026-10-17T12:59:24.463Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9": {
@@ -26,11 +26,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c6a357e7-54b0-f111-aaac-001dd80bcb64|2026-10-19T14:00:00.000Z|ITB Cub Creek Phase 3 Stream Restoration",
       "rom": "",
       "checkedAt": "2026-09-15T13:00:41.592Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=ca21c555-42b1-f111-aaac-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=ca21c555-42b1-f111-aaac-001dd803db57|2026-10-16T21:00:00.000Z|NC State University",
-      "rom": "",
-      "checkedAt": "2026-09-16T09:27:30.920Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=e4f7ae3a-d0b1-f111-aaac-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e4f7ae3a-d0b1-f111-aaac-001dd80db495|2026-10-21T18:00:00.000Z|Neuse River Resource Recovery Facility BNR Basins MCC Replacement",
@@ -131,16 +126,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=50f4be87-36b8-f111-aaac-001dd80db495|2026-10-22T18:00:00.000Z|North Street Storm Sewer Replacement - Rebid",
       "rom": "",
       "checkedAt": "2026-09-25T09:28:15.069Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=9a28110b-08b9-f111-aaac-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9a28110b-08b9-f111-aaac-001dd803db57|2026-10-16T20:00:00.000Z|Engineering & Design Services for Dam Decommission Project",
-      "rom": "",
-      "checkedAt": "2026-09-26T13:47:09.437Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=9077fbf6-06b9-f111-aaac-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9077fbf6-06b9-f111-aaac-001dd80bcb64|2026-10-16T18:00:00.000Z|Engineering and Design for Direct Digital Control Interface",
-      "rom": "",
-      "checkedAt": "2026-09-26T13:47:09.437Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=44512d25-efb8-f111-aaac-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=44512d25-efb8-f111-aaac-001dd803db57|2026-10-20T18:00:00.000Z|ROOF REPLACEMENT FOR C BUILDING",
@@ -253,11 +238,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=fe725c7e-d3bd-f111-aaae-001dd803db57|2026-10-29T17:30:00.000Z|W Johnson St & Nottingham Dr Sidewalk Projects",
       "rom": "",
       "checkedAt": "2026-10-02T15:50:22.117Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=a50875f1-a0be-f111-aaad-001dd801b57d": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a50875f1-a0be-f111-aaad-001dd801b57d|2026-10-16T21:00:00.000Z|NC State University",
-      "rom": "",
-      "checkedAt": "2026-10-04T14:49:06.560Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=937170a9-9cbe-f111-aaad-001dd801b57d": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=937170a9-9cbe-f111-aaad-001dd801b57d|2026-10-19T18:00:00.000Z|FTCC - Safety Driving Pad & Storage Building",
@@ -616,7 +596,48 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f8f850b5-bfc8-f111-aaae-001dd80db495|2026-11-19T18:00:00.000Z|North Carolina National Guard",
       "rom": "",
       "checkedAt": "2026-10-16T13:59:46.299Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=62d77db3-70c9-f111-aaad-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=62d77db3-70c9-f111-aaad-001dd80072e8|2026-11-03T18:30:00.000Z|East Carolina University",
+      "rom": "",
+      "checkedAt": "2026-10-17T12:59:24.463Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=ce30a1c5-96c9-f111-aaae-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ce30a1c5-96c9-f111-aaae-001dd80d92a5|2026-10-29T18:30:00.000Z|46-DNCR-27-2180 IFB REPOST Fire Alarm Testing and Inspection for the NC Zoo Project",
+      "rom": "",
+      "checkedAt": "2026-10-17T12:59:24.463Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=34e58d3f-8ac9-f111-aaad-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=34e58d3f-8ac9-f111-aaad-001dd80072e8|2026-11-17T18:00:00.000Z|NC State University",
+      "rom": "",
+      "checkedAt": "2026-10-17T12:59:24.463Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=f5cf8df7-69c9-f111-aaae-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f5cf8df7-69c9-f111-aaae-001dd803db57|2026-10-30T18:00:00.000Z|Fine and Coarse Aggregates -State Truck Pickup 2027-28",
+      "rom": "",
+      "checkedAt": "2026-10-17T12:59:24.463Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=45a0a8da-6ac9-f111-aaad-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=45a0a8da-6ac9-f111-aaad-001dd80072e8|2026-11-18T19:00:00.000Z|East Carolina University",
+      "rom": "",
+      "checkedAt": "2026-10-17T12:59:24.463Z"
+    },
+    "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/november-6--2026-letting.html": {
+      "stamp": "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/november-6--2026-letting.html|2026-11-06T15:00:00.000Z|November 6, 2026 Letting",
+      "rom": "",
+      "checkedAt": "2026-10-17T12:59:24.463Z",
+      "error": "HTTP 403"
+    },
+    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Plans": {
+      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Plans|2026-11-06T15:00:00.000Z|November 6, 2026 Letting Plans",
+      "rom": "",
+      "checkedAt": "2026-10-17T12:59:24.463Z"
+    },
+    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Revisions": {
+      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Revisions|2026-11-06T15:00:00.000Z|November 6, 2026 Letting Revisions",
+      "rom": "",
+      "checkedAt": "2026-10-17T12:59:24.463Z"
     }
   },
-  "generatedAt": "2026-10-16T13:59:46.299Z"
+  "generatedAt": "2026-10-17T12:59:24.463Z"
 }
