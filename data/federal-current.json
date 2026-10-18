@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-10-17T12:59:27.455Z",
+  "generatedAt": "2026-10-18T13:17:05.053Z",
   "source": "SAM.gov Opportunities Public API v2",
   "query": {
-    "postedFrom": "10/18/2025",
-    "postedTo": "10/17/2026",
-    "rdlfrom": "10/17/2026",
-    "rdlto": "10/16/2027"
+    "postedFrom": "10/19/2025",
+    "postedTo": "10/18/2026",
+    "rdlfrom": "10/18/2026",
+    "rdlto": "10/17/2027"
   },
-  "total": 109,
+  "total": 108,
   "records": [
-    [
-      "a33c3c3d22014dbeb9430a1592f79521",
-      "W50S8A27BA001",
-      "Construct Small Arms Range - Presolicitation Notice",
-      "Pre-Solicitation",
-      "Small Business Set Aside - Total",
-      "2026-10-08T00:00:00.000Z",
-      "2026-10-17T21:00:00.000Z",
-      "2026-10-08T00:00:00.000Z",
-      "Portsmouth, NH, 03803",
-      43.052633,
-      -70.748156,
-      "236220",
-      "https://sam.gov/opp/a33c3c3d22014dbeb9430a1592f79521/view",
-      1,
-      "$10,000,000 and $25,000,000"
-    ],
-    [
-      "f651dc9976a24324a02b706099118902",
-      "W912QR-27-McCoy-MPAF-SS",
-      "Fort McCoy Multipurpose Athletic Field Design-Build-to-Budget",
-      "Sources Sought",
-      "No Set-Aside Used",
-      "2026-10-07T00:00:00.000Z",
-      "2026-10-18T03:59:00.000Z",
-      "2026-10-07T00:00:00.000Z",
-      "Fort McCoy, WI, 54656",
-      43.926184,
-      -90.803362,
-      "236220",
-      "https://sam.gov/opp/f651dc9976a24324a02b706099118902/view",
-      1,
-      ""
-    ],
     [
       "01e97f0605f6407cbd835ef7b4593231",
       "W9123627X1CO1",
@@ -1642,6 +1608,23 @@
       ""
     ],
     [
+      "37224971d4f5481abdc93fb43ab0c2c8",
+      "FA9101269TS2",
+      "RWP - Test Site 2 (TS2) Improvements & Modernization, Aerospace Vehicle Survivability Facility (AVSF)",
+      "Solicitation",
+      "No Set-Aside Used",
+      "2026-10-17T00:00:00.000Z",
+      "2026-11-16T20:00:00.000Z",
+      "2026-10-17T00:00:00.000Z",
+      "Wright Patterson AFB, OH",
+      null,
+      null,
+      "236220",
+      "https://sam.gov/opp/37224971d4f5481abdc93fb43ab0c2c8/view",
+      null,
+      ""
+    ],
+    [
       "14034cd5817d49c38056351ef936d097",
       "RFP-376508-CD",
       "Central Utility Building Addition and Renovation Construction, UIP Subproject 1-CUB",
@@ -1867,12 +1850,12 @@
   "geocoding": {
     "method": "offline ZIP/city centroid lookup",
     "alreadyLocated": 0,
-    "zipLocated": 88,
+    "zipLocated": 86,
     "cityLocated": 13,
-    "unresolved": 8,
-    "locatedTotal": 101,
-    "total": 109,
-    "generatedAt": "2026-10-17T12:56:17.109Z"
+    "unresolved": 9,
+    "locatedTotal": 99,
+    "total": 108,
+    "generatedAt": "2026-10-18T13:14:01.658Z"
   },
   "romEnrichment": "SAM.gov notice-description parser; displayed only when an estimate/magnitude is explicitly published.",
   "govTribeEnrichment": {
