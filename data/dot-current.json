@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T16:39:34.671Z",
+  "generatedAt": "2026-10-19T16:43:01.152Z",
   "records": [
     {
       "source": "VDOT",
@@ -24,7 +24,7 @@
       "x": 38.7513714,
       "y": -77.8141221,
       "firstSeen": "2026-09-09T09:26:35.196Z",
-      "lastSeen": "2026-10-19T16:39:22.163Z",
+      "lastSeen": "2026-10-19T16:42:48.650Z",
       "change": "ACTIVE",
       "stale": true
     }
