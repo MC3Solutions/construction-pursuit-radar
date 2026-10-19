@@ -2,15 +2,9 @@
   "version": 1,
   "records": {
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-20T18:00:00.000Z|408319 Dozier's Corner Pump Station Repl (AT015400...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-22T18:00:00.000Z|UOSA IFB 27-02 P2NR+ Construction",
       "rom": "",
-      "checkedAt": "2026-10-18T13:17:03.456Z"
-    },
-    "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T16:00:00.000Z|Montgomery Bell State Park Bathhouse and Restroom Replacements",
-      "rom": "",
-      "checkedAt": "2026-10-18T13:17:03.456Z",
-      "error": "fetch failed"
+      "checkedAt": "2026-10-19T16:42:07.084Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9|2026-10-22T17:00:00.000Z|GoRaleigh Operations and Maintenance Facility Expansion",
@@ -19,11 +13,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=0180534d-01b1-f111-aaac-001dd8084fd9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=0180534d-01b1-f111-aaac-001dd8084fd9|2026-10-20T18:00:00.000Z|Brigham Road Water and Sewer Replacements",
-      "rom": "",
-      "checkedAt": "2026-09-15T13:00:41.592Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=c6a357e7-54b0-f111-aaac-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c6a357e7-54b0-f111-aaac-001dd80bcb64|2026-10-19T14:00:00.000Z|ITB Cub Creek Phase 3 Stream Restoration",
       "rom": "",
       "checkedAt": "2026-09-15T13:00:41.592Z"
     },
@@ -49,11 +38,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=92006563-ddb2-f111-aaab-001dd80e9b7f": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=92006563-ddb2-f111-aaab-001dd80e9b7f|2026-12-10T18:00:00.000Z|Replacement X-RAY System (High-Freq. Digital X-Ray System with AEC & Wireless Det.)",
-      "rom": "",
-      "checkedAt": "2026-09-18T09:26:43.837Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=27999623-b5b2-f111-aaac-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=27999623-b5b2-f111-aaac-001dd80db495|2026-10-19T14:00:00.000Z|IFB 2026-042 Government Center Exterior Envelope Repair",
       "rom": "",
       "checkedAt": "2026-09-18T09:26:43.837Z"
     },
@@ -602,16 +586,6 @@
       "rom": "",
       "checkedAt": "2026-10-17T12:59:24.463Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=ce30a1c5-96c9-f111-aaae-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=ce30a1c5-96c9-f111-aaae-001dd80d92a5|2026-10-29T18:30:00.000Z|46-DNCR-27-2180 IFB REPOST Fire Alarm Testing and Inspection for the NC Zoo Project",
-      "rom": "",
-      "checkedAt": "2026-10-17T12:59:24.463Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=34e58d3f-8ac9-f111-aaad-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=34e58d3f-8ac9-f111-aaad-001dd80072e8|2026-11-17T18:00:00.000Z|NC State University",
-      "rom": "",
-      "checkedAt": "2026-10-17T12:59:24.463Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=f5cf8df7-69c9-f111-aaae-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f5cf8df7-69c9-f111-aaae-001dd803db57|2026-10-30T18:00:00.000Z|Fine and Coarse Aggregates -State Truck Pickup 2027-28",
       "rom": "",
@@ -639,5 +613,5 @@
       "checkedAt": "2026-10-17T12:59:24.463Z"
     }
   },
-  "generatedAt": "2026-10-18T13:17:03.456Z"
+  "generatedAt": "2026-10-19T16:42:07.084Z"
 }
