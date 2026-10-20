@@ -2,9 +2,9 @@
   "version": 1,
   "records": {
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-22T18:00:00.000Z|UOSA IFB 27-02 P2NR+ Construction",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-20T18:00:00.000Z|408319 Dozier's Corner Pump Station Repl (AT015400...",
       "rom": "",
-      "checkedAt": "2026-10-19T16:42:07.084Z"
+      "checkedAt": "2026-10-20T14:19:48.688Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9|2026-10-22T17:00:00.000Z|GoRaleigh Operations and Maintenance Facility Expansion",
@@ -23,11 +23,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57|2026-10-29T18:00:00.000Z|Enterprise Meat Processing Plant Boiler Preventative Maintenance",
-      "rom": "",
-      "checkedAt": "2026-09-17T09:28:02.514Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=87b20751-cfb1-f111-aaac-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=87b20751-cfb1-f111-aaac-001dd80db495|2026-10-19T18:00:00.000Z|5230-604-Instrumentation Maintenance-R",
       "rom": "",
       "checkedAt": "2026-09-17T09:28:02.514Z"
     },
@@ -223,11 +218,6 @@
       "rom": "",
       "checkedAt": "2026-10-02T15:50:22.117Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=937170a9-9cbe-f111-aaad-001dd801b57d": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=937170a9-9cbe-f111-aaad-001dd801b57d|2026-10-19T18:00:00.000Z|FTCC - Safety Driving Pad & Storage Building",
-      "rom": "",
-      "checkedAt": "2026-10-04T14:49:06.560Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=789cfd22-dfc0-f111-aaae-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=789cfd22-dfc0-f111-aaae-001dd80db495|2026-10-22T17:00:00.000Z|HVAC Maintenance & Repair",
       "rom": "",
@@ -260,11 +250,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=12610f12-97c1-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=12610f12-97c1-f111-aaae-001dd80bcb64|2026-10-27T17:00:00.000Z|UNC-Chapel Hill",
-      "rom": "",
-      "checkedAt": "2026-10-06T15:57:39.416Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=2fed4c32-f5c0-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=2fed4c32-f5c0-f111-aaae-001dd803db57|2026-10-19T19:00:00.000Z|North Bascule Gate Hydraulic Cylinder Installation",
       "rom": "",
       "checkedAt": "2026-10-06T15:57:39.416Z"
     },
@@ -596,22 +581,32 @@
       "rom": "",
       "checkedAt": "2026-10-17T12:59:24.463Z"
     },
-    "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/november-6--2026-letting.html": {
-      "stamp": "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/november-6--2026-letting.html|2026-11-06T15:00:00.000Z|November 6, 2026 Letting",
+    "https://evp.nc.gov/solicitations/details/?id=ce30a1c5-96c9-f111-aaae-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ce30a1c5-96c9-f111-aaae-001dd80d92a5|2026-10-29T18:30:00.000Z|46-DNCR-27-2180 IFB REPOST Fire Alarm Testing and Inspection for the NC Zoo Project",
       "rom": "",
-      "checkedAt": "2026-10-17T12:59:24.463Z",
-      "error": "HTTP 403"
+      "checkedAt": "2026-10-20T14:19:48.688Z"
     },
-    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Plans": {
-      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Plans|2026-11-06T15:00:00.000Z|November 6, 2026 Letting Plans",
+    "https://evp.nc.gov/solicitations/details/?id=34e58d3f-8ac9-f111-aaad-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=34e58d3f-8ac9-f111-aaad-001dd80072e8|2026-11-17T18:00:00.000Z|NC State University",
       "rom": "",
-      "checkedAt": "2026-10-17T12:59:24.463Z"
+      "checkedAt": "2026-10-20T14:19:48.688Z"
     },
-    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Revisions": {
-      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Revisions|2026-11-06T15:00:00.000Z|November 6, 2026 Letting Revisions",
+    "https://evp.nc.gov/solicitations/details/?id=f45d2ab3-cbcb-f111-a05a-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=f45d2ab3-cbcb-f111-a05a-001dd80072e8|2026-11-19T18:00:00.000Z|North Carolina Department of Adult Correction",
       "rom": "",
-      "checkedAt": "2026-10-17T12:59:24.463Z"
+      "checkedAt": "2026-10-20T14:19:48.688Z"
+    },
+    "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T16:00:00.000Z|Montgomery Bell State Park Bathhouse and Restroom Replacements",
+      "rom": "",
+      "checkedAt": "2026-10-20T14:19:48.688Z",
+      "error": "fetch failed"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=fc4db7aa-b8cb-f111-a05c-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=fc4db7aa-b8cb-f111-a05c-001dd803db57|2026-11-13T18:00:00.000Z|RFQ for Materials Testing and Special Inspection",
+      "rom": "",
+      "checkedAt": "2026-10-20T14:19:48.688Z"
     }
   },
-  "generatedAt": "2026-10-19T16:42:07.084Z"
+  "generatedAt": "2026-10-20T14:19:48.688Z"
 }

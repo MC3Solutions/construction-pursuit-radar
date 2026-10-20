@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 9,
+    "curatedSledRecords": 8,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,24 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "GA",
-      "s": "PE60899NONST2027000000083",
-      "n": "Resurfacing of Various City Streets",
-      "d": "2026-10-19T18:00:00Z",
-      "p": "2026-08-26T18:15:00Z",
-      "l": "Barrow County, GA",
-      "scope": "Paving / Resurfacing",
-      "c": "Paving / Resurfacing",
-      "r": "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-60899-NONST-2027-000000083&sourceSystemType=gpr20",
-      "type": "State / Local",
-      "set": "State / Local",
-      "x": 32.7,
-      "y": -83.3,
-      "approx": true,
-      "rom": "",
-      "u": "2026-08-28T12:30:00Z"
-    },
     {
       "state": "VA",
       "s": "DBB127650",
