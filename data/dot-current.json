@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:41:40.613Z",
+  "generatedAt": "2026-10-22T14:45:08.164Z",
   "records": [
     {
       "source": "VDOT",
@@ -24,7 +24,7 @@
       "x": 38.7513714,
       "y": -77.8141221,
       "firstSeen": "2026-09-09T09:26:35.196Z",
-      "lastSeen": "2026-10-22T14:41:27.869Z",
+      "lastSeen": "2026-10-22T14:44:54.316Z",
       "change": "ACTIVE",
       "stale": true
     },
@@ -41,14 +41,14 @@
       "type": "NCDOT Advertised Roadside Environmental",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-10-22T14:41:40.613Z",
-      "u": "2026-10-22T14:41:40.613Z",
+      "p": "2026-10-22T14:45:08.164Z",
+      "u": "2026-10-22T14:45:08.164Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": false,
       "firstSeen": "2026-10-21T14:33:30.782Z",
-      "lastSeen": "2026-10-22T14:41:40.613Z",
+      "lastSeen": "2026-10-22T14:45:08.164Z",
       "change": "ACTIVE"
     },
     {
@@ -64,14 +64,14 @@
       "type": "NCDOT Advertised Roadside Environmental",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-10-22T14:41:40.613Z",
-      "u": "2026-10-22T14:41:40.613Z",
+      "p": "2026-10-22T14:45:08.164Z",
+      "u": "2026-10-22T14:45:08.164Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": false,
       "firstSeen": "2026-10-21T14:33:30.782Z",
-      "lastSeen": "2026-10-22T14:41:40.613Z",
+      "lastSeen": "2026-10-22T14:45:08.164Z",
       "change": "ACTIVE"
     },
     {
@@ -87,14 +87,14 @@
       "type": "NCDOT Advertised Roadside Environmental",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-10-22T14:41:40.613Z",
-      "u": "2026-10-22T14:41:40.613Z",
+      "p": "2026-10-22T14:45:08.164Z",
+      "u": "2026-10-22T14:45:08.164Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": false,
       "firstSeen": "2026-10-21T14:33:30.782Z",
-      "lastSeen": "2026-10-22T14:41:40.613Z",
+      "lastSeen": "2026-10-22T14:45:08.164Z",
       "change": "ACTIVE"
     },
     {
@@ -110,14 +110,14 @@
       "type": "NCDOT Advertised Roadside Environmental",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-10-22T14:41:40.613Z",
-      "u": "2026-10-22T14:41:40.613Z",
+      "p": "2026-10-22T14:45:08.164Z",
+      "u": "2026-10-22T14:45:08.164Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": false,
       "firstSeen": "2026-10-21T14:33:30.782Z",
-      "lastSeen": "2026-10-22T14:41:40.613Z",
+      "lastSeen": "2026-10-22T14:45:08.164Z",
       "change": "ACTIVE"
     },
     {
@@ -133,14 +133,14 @@
       "type": "NCDOT Advertised Roadside Environmental",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-10-22T14:41:40.613Z",
-      "u": "2026-10-22T14:41:40.613Z",
+      "p": "2026-10-22T14:45:08.164Z",
+      "u": "2026-10-22T14:45:08.164Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": false,
       "firstSeen": "2026-10-21T14:33:30.782Z",
-      "lastSeen": "2026-10-22T14:41:40.613Z",
+      "lastSeen": "2026-10-22T14:45:08.164Z",
       "change": "ACTIVE"
     },
     {
@@ -156,14 +156,14 @@
       "type": "NCDOT Advertised Roadside Environmental",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-10-22T14:41:40.613Z",
-      "u": "2026-10-22T14:41:40.613Z",
+      "p": "2026-10-22T14:45:08.164Z",
+      "u": "2026-10-22T14:45:08.164Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": false,
       "firstSeen": "2026-10-21T14:33:30.782Z",
-      "lastSeen": "2026-10-22T14:41:40.613Z",
+      "lastSeen": "2026-10-22T14:45:08.164Z",
       "change": "ACTIVE"
     },
     {
@@ -179,14 +179,14 @@
       "type": "NCDOT Advertised Roadside Environmental",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-10-22T14:41:40.613Z",
-      "u": "2026-10-22T14:41:40.613Z",
+      "p": "2026-10-22T14:45:08.164Z",
+      "u": "2026-10-22T14:45:08.164Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": false,
       "firstSeen": "2026-10-21T14:33:30.782Z",
-      "lastSeen": "2026-10-22T14:41:40.613Z",
+      "lastSeen": "2026-10-22T14:45:08.164Z",
       "change": "ACTIVE"
     },
     {
@@ -202,15 +202,15 @@
       "type": "NCDOT Advertised Roadside Environmental",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-10-22T14:41:40.613Z",
-      "u": "2026-10-22T14:41:40.613Z",
+      "p": "2026-10-22T14:45:08.164Z",
+      "u": "2026-10-22T14:45:08.164Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": false,
       "firstSeen": "2026-10-22T14:41:40.613Z",
-      "lastSeen": "2026-10-22T14:41:40.613Z",
-      "change": "NEW"
+      "lastSeen": "2026-10-22T14:45:08.164Z",
+      "change": "ACTIVE"
     },
     {
       "source": "NCDOT",
@@ -225,15 +225,15 @@
       "type": "NCDOT Advertised Roadside Environmental",
       "sourceLabel": "NCDOT",
       "set": "State / Local",
-      "p": "2026-10-22T14:41:40.613Z",
-      "u": "2026-10-22T14:41:40.613Z",
+      "p": "2026-10-22T14:45:08.164Z",
+      "u": "2026-10-22T14:45:08.164Z",
       "x": 35.5,
       "y": -79.4,
       "approx": true,
       "fallback": false,
       "firstSeen": "2026-10-22T14:41:40.613Z",
-      "lastSeen": "2026-10-22T14:41:40.613Z",
-      "change": "NEW"
+      "lastSeen": "2026-10-22T14:45:08.164Z",
+      "change": "ACTIVE"
     }
   ]
 }
