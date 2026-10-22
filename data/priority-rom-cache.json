@@ -2,19 +2,14 @@
   "version": 1,
   "records": {
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2026-10-22T19:00:00.000Z|Service Arena - 242 S Harton Circle Pump Station F...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction|2027-01-14T18:00:00.000Z|2026-068-BRW.00049 BRWRF Phase lll - Package ll",
       "rom": "",
-      "checkedAt": "2026-10-21T14:35:43.311Z"
+      "checkedAt": "2026-10-22T14:43:53.941Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a4d73f52-28a2-f111-b8db-001dd812e0a9|2026-10-22T17:00:00.000Z|GoRaleigh Operations and Maintenance Facility Expansion",
       "rom": "",
       "checkedAt": "2026-10-16T13:59:46.299Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=e4f7ae3a-d0b1-f111-aaac-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=e4f7ae3a-d0b1-f111-aaac-001dd80db495|2026-10-21T18:00:00.000Z|Neuse River Resource Recovery Facility BNR Basins MCC Replacement",
-      "rom": "",
-      "checkedAt": "2026-09-17T09:28:02.514Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57|2026-10-29T18:00:00.000Z|Enterprise Meat Processing Plant Boiler Preventative Maintenance",
@@ -77,9 +72,9 @@
       "checkedAt": "2026-09-24T09:27:59.637Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=977a890e-64b7-f111-aaac-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=977a890e-64b7-f111-aaac-001dd80db495|2026-10-27T18:00:00.000Z|ELEVATOR PREVENTATIVE MAINTENANCE - COPY",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=977a890e-64b7-f111-aaac-001dd80db495|2026-11-05T18:00:00.000Z|ELEVATOR PREVENTATIVE MAINTENANCE - COPY",
       "rom": "",
-      "checkedAt": "2026-09-24T09:27:59.637Z"
+      "checkedAt": "2026-10-22T14:43:53.941Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=3ea488a5-76b7-f111-aaac-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=3ea488a5-76b7-f111-aaac-001dd80db495|2026-10-22T18:00:00.000Z|RFP No 367-OC5489 Orange County Solar Installation for Orange County Solid Waste Admin, Whitted Human Services, and Sportsplex Fieldhouse",
@@ -111,23 +106,8 @@
       "rom": "",
       "checkedAt": "2026-09-28T17:41:10.353Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=bbbd9a81-51bb-f111-aaae-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=bbbd9a81-51bb-f111-aaae-001dd80d92a5|2026-10-21T20:00:00.000Z|Atlantic Union Bank Convention Center Roof Repair",
-      "rom": "",
-      "checkedAt": "2026-09-28T17:41:10.353Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=81d76475-61bb-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=81d76475-61bb-f111-aaae-001dd80bcb64|2026-10-22T18:00:00.000Z|179-2627-741-FIRE_ALARM_REP_PES",
-      "rom": "",
-      "checkedAt": "2026-09-28T17:41:10.353Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=6a61b736-a6ba-f111-aaae-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=6a61b736-a6ba-f111-aaae-001dd8084fd9|2026-10-21T18:00:00.000Z|Golf Instructional Services and Youth Summer Enrichment Camp",
-      "rom": "",
-      "checkedAt": "2026-09-28T17:41:10.353Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=c56cc705-56bb-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c56cc705-56bb-f111-aaae-001dd803db57|2026-10-21T18:00:00.000Z|Chiller Tower 2 Restoration – Central Prison",
       "rom": "",
       "checkedAt": "2026-09-28T17:41:10.353Z"
     },
@@ -153,20 +133,10 @@
       "rom": "",
       "checkedAt": "2026-09-28T17:41:10.353Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=054425df-0cbc-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=054425df-0cbc-f111-aaae-001dd80bcb64|2026-10-21T18:00:00.000Z|Gravity Belt Thickener Componenets",
-      "rom": "",
-      "checkedAt": "2026-09-29T15:48:52.527Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=13265c2b-69bb-f111-aaae-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=13265c2b-69bb-f111-aaae-001dd803db57|2026-10-27T18:00:00.000Z|USA Baseball Field II Renovation",
       "rom": "",
       "checkedAt": "2026-09-29T15:48:52.527Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=18d2a9d6-32bc-f111-aaae-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=18d2a9d6-32bc-f111-aaae-001dd80d92a5|2026-10-21T18:00:00.000Z|NC Department of Information Technology",
-      "rom": "",
-      "checkedAt": "2026-09-30T15:56:38.896Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=1fc21405-47bc-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=1fc21405-47bc-f111-aaae-001dd80bcb64|2026-10-27T17:00:00.000Z|Belk Greenway Connector, Phase 1",
@@ -285,10 +255,9 @@
       "checkedAt": "2026-10-07T16:27:53.763Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=8aa52c37-c1c1-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=8aa52c37-c1c1-f111-aaae-001dd80bcb64|2026-11-12T19:00:00.000Z|NC Central University",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=8aa52c37-c1c1-f111-aaae-001dd80bcb64|2026-11-19T19:00:00.000Z|NC Central University",
       "rom": "",
-      "checkedAt": "2026-10-07T16:27:53.763Z",
-      "error": "This operation was aborted"
+      "checkedAt": "2026-10-22T14:43:53.941Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=afe872b6-14c3-f111-aaae-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=afe872b6-14c3-f111-aaae-001dd803db57|2026-10-28T18:00:00.000Z|Real Property & Right-of-Way Acquisition Services",
@@ -317,11 +286,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=a32c1069-29c3-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a32c1069-29c3-f111-aaae-001dd80bcb64|2026-11-03T21:00:00.000Z|UNC-Chapel Hill",
-      "rom": "",
-      "checkedAt": "2026-10-08T16:29:19.209Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=2fb4ae4b-13c3-f111-aaae-001dd80bca2d": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=2fb4ae4b-13c3-f111-aaae-001dd80bca2d|2026-10-21T17:30:00.000Z|NC Central University",
       "rom": "",
       "checkedAt": "2026-10-08T16:29:19.209Z"
     },
@@ -390,11 +354,6 @@
       "rom": "",
       "checkedAt": "2026-10-12T19:01:48.979Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=89d61ced-0ec7-f111-aaae-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=89d61ced-0ec7-f111-aaae-001dd8084fd9|2026-10-21T15:30:00.000Z|NC Central University",
-      "rom": "",
-      "checkedAt": "2026-10-13T16:58:39.978Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=7645c346-25c7-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7645c346-25c7-f111-aaae-001dd80bcb64|2026-10-28T19:00:00.000Z|Full Depth Asphalt Patching on Multiple City Streets",
       "rom": "",
@@ -434,11 +393,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=d15196ec-86b7-f111-aaac-001dd803db57|2026-10-27T15:00:00.000Z|Wrightsboro Elevated Water Tank Rehabilitation",
       "rom": "",
       "checkedAt": "2026-10-14T14:32:39.511Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=ebb8b4f2-bcc7-f111-aaae-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=ebb8b4f2-bcc7-f111-aaae-001dd8084fd9|2026-10-21T16:00:00.000Z|Half Ton Regular Cab 2WD Long Bed Pickups (17)",
-      "rom": "",
-      "checkedAt": "2026-10-15T14:11:54.971Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=db56dba4-cac7-f111-aaad-001dd803271d": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=db56dba4-cac7-f111-aaad-001dd803271d|2026-11-02T19:00:00.000Z|RFQ - Storage Building Restoration and Field Access Improvements",
@@ -602,14 +556,14 @@
       "checkedAt": "2026-10-21T14:35:43.311Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-11-PR39595": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-11-PR39595|2026-11-18T18:00:00.000Z|STATE ROUTE SHOULDER AND MEDIAN MOWING, 54-TJK-11-PR39595, STATE ROUTE SHOULDER AND MEDIAN MOWING 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING 11 Alleghany No",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-11-PR39595|2026-11-18T18:00:00.000Z|54-TJK-11-PR39595 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING 11 Alleghany No",
       "rom": "",
-      "checkedAt": "2026-10-21T14:35:43.311Z"
+      "checkedAt": "2026-10-22T14:43:53.941Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-11-PR39591": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-11-PR39591|2026-11-18T18:00:00.000Z|STATE ROUTE SHOULDER AND MEDIAN MOWING, 54-TJK-11-PR39591, STATE ROUTE SHOULDER AND MEDIAN MOWING 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING 11 Surry, Yadkin No",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-11-PR39591|2026-11-18T18:00:00.000Z|54-TJK-11-PR39591 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING 11 Surry, Yadkin No",
       "rom": "",
-      "checkedAt": "2026-10-21T14:35:43.311Z"
+      "checkedAt": "2026-10-22T14:43:53.941Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-07-PR40776": {
       "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-07-PR40776|2026-11-18T18:00:00.000Z|54-TJK-07-PR40776 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING 7 Alamance, Caswell, Guilford, Orange, Rockingham No",
@@ -622,30 +576,65 @@
       "checkedAt": "2026-10-21T14:35:43.311Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-13-PR39740": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-13-PR39740|2026-11-18T18:00:00.000Z|STATE ROUTE SHOULDER AND MEDIAN MOWING INCLUDING VEGETATION TRIMMING AND LITTER-DEBRIS REMOVAL, 54-TJK-13-PR39740, STATE ROUTE SHOULDER AND MEDIAN MOWING INCLUDING VEGETATION TRIMMING AND LITTER-DEBRIS REMOVAL 11/18/2026",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-13-PR39740|2026-11-18T18:00:00.000Z|54-TJK-13-PR39740 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING INCLUDING VEGETATION TRIMMING AND LITTER/DEBRIS REMOVAL 13 Buncombe, Madison, Yancey No",
       "rom": "",
-      "checkedAt": "2026-10-21T14:35:43.311Z"
+      "checkedAt": "2026-10-22T14:43:53.941Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-11-PR39598": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-11-PR39598|2026-11-18T18:00:00.000Z|STATE ROUTE SHOULDER AND MEDIAN MOWING, 54-TJK-11-PR39598, STATE ROUTE SHOULDER AND MEDIAN MOWING 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING 11 Wilkes No",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-11-PR39598|2026-11-18T18:00:00.000Z|54-TJK-11-PR39598 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING 11 Wilkes No",
       "rom": "",
-      "checkedAt": "2026-10-21T14:35:43.311Z"
+      "checkedAt": "2026-10-22T14:43:53.941Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-09-PR39695": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-09-PR39695|2026-11-18T18:00:00.000Z|STATE ROUTE SHOULDER AND MEDIAN MOWING AND LITTER-DEBRIS REMOVAL, 54-TJK-09-PR39695, STATE ROUTE SHOULDER AND MEDIAN MOWING AND LITTER-DEBRIS REMOVAL 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULD",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-09-PR39695|2026-11-18T18:00:00.000Z|54-TJK-09-PR39695 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING AND LITTER/DEBRIS REMOVAL 9 Davie, Forsyth, Stokes No",
       "rom": "",
-      "checkedAt": "2026-10-21T14:35:43.311Z"
+      "checkedAt": "2026-10-22T14:43:53.941Z"
     },
     "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-09-PR39689": {
-      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-09-PR39689|2026-11-18T18:00:00.000Z|STATE ROUTE SHOULDER AND MEDIAN MOWING AND LITTER-DEBRIS REMOVAL, 54-TJK-09-PR39689, STATE ROUTE SHOULDER AND MEDIAN MOWING AND LITTER-DEBRIS REMOVAL 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULD",
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-09-PR39689|2026-11-18T18:00:00.000Z|54-TJK-09-PR39689 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING AND LITTER/DEBRIS REMOVAL 9 Davidson No",
       "rom": "",
-      "checkedAt": "2026-10-21T14:35:43.311Z"
+      "checkedAt": "2026-10-22T14:43:53.941Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=32de232a-bbcc-f111-a05c-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=32de232a-bbcc-f111-a05c-001dd80db495|2026-11-04T18:00:00.000Z|IFB 2026-068 Rebid IFB Detention Center Boilers Replacement",
       "rom": "",
       "checkedAt": "2026-10-21T14:35:43.311Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=582eef93-b8cc-f111-a05c-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=582eef93-b8cc-f111-a05c-001dd80d92a5|2026-11-03T18:00:00.000Z|NOTICE TO BIDDERS: REBID ALLEGRA WESTBROOKS REGIONAL LIBRARY PARTIAL HVAC REPLACEMENTS",
+      "rom": "",
+      "checkedAt": "2026-10-22T14:43:53.941Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=355567ed-0cce-f111-a05a-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=355567ed-0cce-f111-a05a-001dd80072e8|2026-11-06T18:00:00.000Z|Vehicle Lifts & Garage Associated Equipment",
+      "rom": "",
+      "checkedAt": "2026-10-22T14:43:53.941Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=8b86ca13-78cd-f111-a05c-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=8b86ca13-78cd-f111-a05c-001dd80db495|2026-11-20T14:00:00.000Z|Town of Benson -RFQ 05-2026 – LEAD SERVICE LINE INVENTORY COMPLETION",
+      "rom": "",
+      "checkedAt": "2026-10-22T14:43:53.941Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=9eb53ebe-65cd-f111-a05c-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=9eb53ebe-65cd-f111-a05c-001dd80bcb64|2026-11-12T18:00:00.000Z|Founders Building Hot Water system rennovation",
+      "rom": "",
+      "checkedAt": "2026-10-22T14:43:53.941Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=b71fdbb4-80cd-f111-a05c-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=b71fdbb4-80cd-f111-a05c-001dd80d92a5|2026-11-19T18:00:00.000Z|Assessment, Design, and Administration Services for HVAC System Replacement for Public Works and Transit Campuses",
+      "rom": "",
+      "checkedAt": "2026-10-22T14:43:53.941Z"
+    },
+    "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-09-PR39702": {
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-09-PR39702|2026-11-18T18:00:00.000Z|54-TJK-09-PR39702 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING INCLUDING VEGETATION TRIMMING AND LITTER/DEBRIS REMOVAL 9 Davidson, Davie, Forsyth, Rowan, Stokes No",
+      "rom": "",
+      "checkedAt": "2026-10-22T14:43:53.941Z"
+    },
+    "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-13-PR39748": {
+      "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-13-PR39748|2026-11-18T18:00:00.000Z|54-TJK-13-PR39748 11/18/2026 2:00 PM Advertised Vegetation Management STATE ROUTE SHOULDER AND MEDIAN MOWING INCLUDING VEGETATION TRIMMING AND LITTER/DEBRIS REMOVAL 13 Burke, McDowell, Mitchell, Rutherford No",
+      "rom": "",
+      "checkedAt": "2026-10-22T14:43:53.941Z"
     }
   },
-  "generatedAt": "2026-10-21T14:35:43.311Z"
+  "generatedAt": "2026-10-22T14:43:53.941Z"
 }
