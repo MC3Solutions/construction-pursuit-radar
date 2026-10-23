@@ -1426,11 +1426,6 @@
       "rom": "",
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=02bcb9c9-f7ce-f111-a05a-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=02bcb9c9-f7ce-f111-a05a-001dd80072e8|2026-11-19T19:00:00.000Z|SIGN BLANKS, ETC.",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=0a54384c-73be-f111-aaae-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=0a54384c-73be-f111-aaae-001dd803db57|2026-11-23T19:00:00.000Z|FY 2027-2028 Community Enhancement Grant",
       "rom": "",
@@ -1452,9 +1447,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2026-10-30T04:00:00.000Z|RFI - Solid Waste innovative ideas",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2027-07-14T20:30:00.000Z|Real Property For Sale - Richmond",
       "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
+      "checkedAt": "2026-10-23T17:45:51.327Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -1492,11 +1487,16 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T16:00:00.000Z|Montgomery Bell State Park Bathhouse and Restroom Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-19T14:00:00.000Z|TSB Lobby Security Upgrades",
       "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z",
+      "checkedAt": "2026-10-23T17:45:51.327Z",
       "error": "fetch failed"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=e1f7643a-03cf-f111-a05c-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=e1f7643a-03cf-f111-a05c-001dd80d92a5|2026-11-20T19:00:00.000Z|Facility Use and Needs Assessment RFP",
+      "rom": "",
+      "checkedAt": "2026-10-23T17:45:51.327Z"
     }
   },
-  "generatedAt": "2026-10-23T16:21:01.834Z"
+  "generatedAt": "2026-10-23T17:45:51.327Z"
 }
