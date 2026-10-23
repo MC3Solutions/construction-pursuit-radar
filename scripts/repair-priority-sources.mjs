@@ -31,7 +31,7 @@ async function makeContext(browser){const c=await browser.newContext({ignoreHTTP
 
 async function scrapeEva(browser){
   const c=await makeContext(browser), p=await c.newPage();p.setDefaultTimeout(12000);
-  const url='https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=Construction';
+  const url='https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open&category=All';
   try{
     const r=await p.goto(url,{waitUntil:'domcontentloaded',timeout:35000});await p.waitForTimeout(1600);
     const body=clean(await p.locator('body').innerText());
