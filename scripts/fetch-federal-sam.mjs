@@ -46,7 +46,13 @@ async function main(){
     const all=await fetchNaics(null,dates);
     const mapped=all.map(transform).filter(Boolean),byKey=new Map();for(const r of mapped)byKey.set(r.key,byKey.has(r.key)?prefer(byKey.get(r.key),r):r);
     const dedup=[...byKey.values()].sort((a,b)=>new Date(a.due)-new Date(b.due));
-    const arrays=dedup.map(r=>[r.noticeId,r.sol,r.title,r.type,r.setAside,r.posted,r.due,r.updated,r.loc,r.lat,r.lng,r.naics,r.source,null,r.rom||'',r.office||'']);
+    const fresh=dedup.map(r=>[r.noticeId,r.sol,r.title,r.type,r.setAside,r.posted,r.due,r.updated,r.loc,r.lat,r.lng,r.naics,r.source,null,r.rom||'',r.office||'']);
+    // Retain previously collected opportunities through their response deadline when broad SAM.gov queries omit them.
+    const byNotice=new Map(previous.records.filter(a=>a&&a[0]&&safeDate(a[6])>now).map(a=>[a[0],a]));
+    for(const a of fresh)byNotice.set(a[0],a);
+    const arrays=[...byNotice.values()].sort((a,b)=>new Date(a[6])-new Date(b[6]));
+    const retained=arrays.length-fresh.length;
+    console.log(`[SAM] Continuity: ${fresh.length} fresh + ${retained} still-active previously captured notices.`);
     const payload={generatedAt:new Date().toISOString(),source:'SAM.gov Opportunities Public API v2',query:dates,total:arrays.length,records:arrays};
     fs.writeFileSync(JSON_PATH,JSON.stringify(payload,null,2)+'\n');fs.writeFileSync(JS_PATH,'window.MC3_FED_RAW='+JSON.stringify(arrays)+';\n');writeLegacy(arrays);
     writeHealth('OK',arrays.length,`Live SAM.gov API: ${all.length} raw federal notices reduced to ${arrays.length} active deduplicated pursuits.`,false);
