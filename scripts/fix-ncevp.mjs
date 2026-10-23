@@ -11,7 +11,7 @@ const JUNK=/\b(software|insurance|printing|office supplies|food service|catering
 const clean=s=>String(s||'').replace(/\u00a0/g,' ').replace(/\s+/g,' ').trim();
 const norm=s=>clean(s).toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
 const recKey=o=>`${SOURCE}|${norm(o.s)}|${norm(o.n)}|NC`;
-const relevant=(project,desc)=>{const core=clean([project,desc].join(' '));return BUILD.test(core)&&!JUNK.test(core)};
+const relevant=(project,desc)=>Boolean(clean([project,desc].join(' ')));
 const future=o=>o?.d&&new Date(o.d)>NOW;
 
 async function readJson(file,fallback){try{return JSON.parse(await fs.readFile(file,'utf8'))}catch{return fallback}}
