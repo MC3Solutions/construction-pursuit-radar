@@ -29,7 +29,7 @@ function load(file,fallback){try{return JSON.parse(fs.readFileSync(file,'utf8'))
 
 const payload=load(JSON_PATH,null);
 if(!payload?.records?.length){console.log('[FED-HARDEN] No federal records to process.');process.exit(0)}
-const rows=payload.records.filter(a=>{const d=safeDate(a[6]);if(!d||d<=NOW)return false;const st=stateOf(a[8]);return !st||EAST.has(st)});
+const rows=payload.records.filter(a=>{const d=safeDate(a[6]);if(!d||d<=NOW)return false;const st=stateOf(a[8]);return true});
 const groups=[];
 for(const row of rows){let g=groups.find(g=>related(g.best,row));if(!g){groups.push({best:row,members:[row]});continue}g.members.push(row);g.best=prefer(g.best,row)}
 const dedup=groups.map(g=>g.best).sort((a,b)=>new Date(a[6])-new Date(b[6]));
