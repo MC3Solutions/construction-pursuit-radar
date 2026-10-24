@@ -138,11 +138,6 @@
       "rom": "",
       "checkedAt": "2026-10-06T15:57:39.416Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=bf404068-9cc1-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=bf404068-9cc1-f111-aaae-001dd80bcb64|2026-10-23T21:00:00.000Z|NC State University",
-      "rom": "",
-      "checkedAt": "2026-10-06T15:57:39.416Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=12610f12-97c1-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=12610f12-97c1-f111-aaae-001dd80bcb64|2026-10-27T17:00:00.000Z|UNC-Chapel Hill",
       "rom": "",
@@ -201,11 +196,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=afe872b6-14c3-f111-aaae-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=afe872b6-14c3-f111-aaae-001dd803db57|2026-10-28T18:00:00.000Z|Real Property & Right-of-Way Acquisition Services",
-      "rom": "",
-      "checkedAt": "2026-10-08T16:29:19.209Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=2f70864d-25c3-f111-aaad-001dd8021338": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=2f70864d-25c3-f111-aaad-001dd8021338|2026-10-23T20:00:00.000Z|Vehicle Upfit",
       "rom": "",
       "checkedAt": "2026-10-08T16:29:19.209Z"
     },
@@ -586,73 +576,13 @@
       "rom": "",
       "checkedAt": "2026-10-23T14:24:49.505Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=043fc46f-4eb7-f111-aaac-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=043fc46f-4eb7-f111-aaac-001dd80bcb64|2026-10-23T18:00:00.000Z|Audio/Visual Services for Main Library Opening Events",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=b1dc9094-1cc4-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=b1dc9094-1cc4-f111-aaae-001dd803db57|2026-10-23T18:00:00.000Z|Invitation for Bid #: 54-DM-40126",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=ed650923-47bc-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=ed650923-47bc-f111-aaae-001dd80bcb64|2026-10-23T18:00:00.000Z|30-270064-DMH_Opioid Antagonist",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=3fe6fbd8-a1b3-f111-aaac-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=3fe6fbd8-a1b3-f111-aaac-001dd80d92a5|2026-10-23T18:00:00.000Z|Communications Management System",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=817021a4-d3b5-f111-aaac-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=817021a4-d3b5-f111-aaac-001dd80d92a5|2026-10-23T18:00:00.000Z|Lawn Maintenance at Multiple Guilford County Locations",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=9a2e1300-88b3-f111-aaac-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9a2e1300-88b3-f111-aaac-001dd80d92a5|2026-10-23T18:00:00.000Z|Janitorial Services",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=7356d944-15c4-f111-aaad-001dd80323ae": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=7356d944-15c4-f111-aaad-001dd80323ae|2026-10-23T18:00:00.000Z|Stone Supplies",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=6e7b3c06-d1a6-f111-b8de-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=6e7b3c06-d1a6-f111-b8de-001dd803db57|2026-10-23T18:00:00.000Z|50-2526048 Fitness Equipment and Related Accessories IT Sourcing Event",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=1d064b43-f0a2-f111-b8dc-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=1d064b43-f0a2-f111-b8dc-001dd803db57|2026-10-23T18:00:00.000Z|North Carolina Forest Service - Forest Protection (NCFS-FP) Type 1 Helicopter Services",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=092cf3f5-10bc-f111-aaae-001dd80a6183": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=092cf3f5-10bc-f111-aaae-001dd80a6183|2026-10-26T14:00:00.000Z|Traffic Data Collection and Processing Services",
       "rom": "",
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=6aaadb71-c0c1-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=6aaadb71-c0c1-f111-aaae-001dd80bcb64|2026-10-23T21:00:00.000Z|NC State University",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=af1f4505-10c7-f111-aaae-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=af1f4505-10c7-f111-aaae-001dd80db495|2026-10-26T16:00:00.000Z|RFQ FACILITY CONDITION ASSESSMENT AND DEFERRED MAINTENANCE PLANNING",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=fa0dd76a-4bc7-f111-aaae-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=fa0dd76a-4bc7-f111-aaae-001dd80d92a5|2026-10-23T19:00:00.000Z|REBID - Laboratory Supplies",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=c631257c-07b6-f111-aaac-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c631257c-07b6-f111-aaac-001dd80d92a5|2026-10-23T19:00:00.000Z|CATS Ultrasonic Testing Services",
       "rom": "",
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
@@ -692,9 +622,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=1a521758-07bc-f111-aaae-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=1a521758-07bc-f111-aaae-001dd80d92a5|2026-10-26T18:00:00.000Z|30-270103-EIPD Janitorial Services - Flat Rock",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=1a521758-07bc-f111-aaae-001dd80d92a5|2026-11-04T18:00:00.000Z|30-270103-EIPD Janitorial Services - Flat Rock",
       "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
+      "checkedAt": "2026-10-24T13:22:51.761Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=5d898ce9-f2c7-f111-aaad-001dd803271d": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=5d898ce9-f2c7-f111-aaad-001dd803271d|2026-10-26T19:00:00.000Z|IFB 43-1391-26 DES Data Back Up and Recovery Services",
@@ -1137,9 +1067,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=16a56e70-a5be-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=16a56e70-a5be-f111-aaae-001dd803db57|2026-11-06T14:00:00.000Z|24-RQ220144-NM E-RATE CATEGORY TWO RFP LITE PROJECT",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=16a56e70-a5be-f111-aaae-001dd803db57|2026-11-23T14:00:00.000Z|24-RQ220144-NM E-RATE CATEGORY TWO RFP LITE PROJECT",
       "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
+      "checkedAt": "2026-10-24T13:22:51.761Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=68dcc601-73c2-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=68dcc601-73c2-f111-aaae-001dd80bcb64|2026-11-06T18:00:00.000Z|Female Short-Term Residential Intervention Program",
@@ -1447,9 +1377,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2027-07-14T20:30:00.000Z|Real Property For Sale - Richmond",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2026-10-30T04:00:00.000Z|RFI - Solid Waste innovative ideas",
       "rom": "",
-      "checkedAt": "2026-10-23T17:45:51.327Z"
+      "checkedAt": "2026-10-24T13:22:51.761Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -1487,16 +1417,26 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-19T14:00:00.000Z|TSB Lobby Security Upgrades",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T16:00:00.000Z|Montgomery Bell State Park Bathhouse and Restroom Replacements",
       "rom": "",
-      "checkedAt": "2026-10-23T17:45:51.327Z",
+      "checkedAt": "2026-10-24T13:22:51.761Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=e1f7643a-03cf-f111-a05c-001dd80d92a5": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e1f7643a-03cf-f111-a05c-001dd80d92a5|2026-11-20T19:00:00.000Z|Facility Use and Needs Assessment RFP",
       "rom": "",
       "checkedAt": "2026-10-23T17:45:51.327Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=a58e2e2a-0acf-f111-a05c-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a58e2e2a-0acf-f111-a05c-001dd80d92a5|2026-11-19T19:00:00.000Z|Sign Blanks",
+      "rom": "",
+      "checkedAt": "2026-10-24T13:22:51.761Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=a7186e8b-1acf-f111-a05c-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a7186e8b-1acf-f111-a05c-001dd80d92a5|2026-11-12T18:00:00.000Z|HEAVY DUTY ALUMINUM FOIL",
+      "rom": "",
+      "checkedAt": "2026-10-24T13:22:51.761Z"
     }
   },
-  "generatedAt": "2026-10-23T17:45:51.327Z"
+  "generatedAt": "2026-10-24T13:22:51.761Z"
 }
