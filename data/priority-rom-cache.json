@@ -1377,9 +1377,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2026-10-30T04:00:00.000Z|RFI - Solid Waste innovative ideas",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2027-08-11T20:30:00.000Z|Real Property For Sale - Ivor",
       "rom": "",
-      "checkedAt": "2026-10-24T13:22:51.761Z"
+      "checkedAt": "2026-10-25T13:45:21.829Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -1417,9 +1417,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-05T16:00:00.000Z|Montgomery Bell State Park Bathhouse and Restroom Replacements",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-11-19T14:00:00.000Z|TSB Lobby Security Upgrades",
       "rom": "",
-      "checkedAt": "2026-10-24T13:22:51.761Z",
+      "checkedAt": "2026-10-25T13:45:21.829Z",
       "error": "fetch failed"
     },
     "https://evp.nc.gov/solicitations/details/?id=e1f7643a-03cf-f111-a05c-001dd80d92a5": {
@@ -1436,7 +1436,23 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=a7186e8b-1acf-f111-a05c-001dd80d92a5|2026-11-12T18:00:00.000Z|HEAVY DUTY ALUMINUM FOIL",
       "rom": "",
       "checkedAt": "2026-10-24T13:22:51.761Z"
+    },
+    "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/november-6--2026-letting.html": {
+      "stamp": "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/november-6--2026-letting.html|2026-11-06T15:00:00.000Z|November 6, 2026 Letting",
+      "rom": "",
+      "checkedAt": "2026-10-25T13:45:21.829Z",
+      "error": "fetch failed"
+    },
+    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Revisions": {
+      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Revisions|2026-11-06T15:00:00.000Z|November 6, 2026 Letting Revisions",
+      "rom": "",
+      "checkedAt": "2026-10-25T13:45:21.829Z"
+    },
+    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Plans": {
+      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Plans|2026-11-06T15:00:00.000Z|November 6, 2026 Letting Plans",
+      "rom": "",
+      "checkedAt": "2026-10-25T13:45:21.829Z"
     }
   },
-  "generatedAt": "2026-10-24T13:22:51.761Z"
+  "generatedAt": "2026-10-25T13:45:21.829Z"
 }
