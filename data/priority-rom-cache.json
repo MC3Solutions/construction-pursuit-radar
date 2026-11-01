@@ -972,9 +972,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2027-02-28T13:00:00.000Z|Diesel Engines, Fuel and Induction System Controls...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2028-01-31T04:00:00.000Z|RFQ 648812: Concession Food Services (Supplementa...",
       "rom": "",
-      "checkedAt": "2026-10-31T15:21:42.708Z"
+      "checkedAt": "2026-11-01T16:03:15.718Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -1476,11 +1476,27 @@
       "checkedAt": "2026-10-31T15:21:42.708Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-03T15:00:00.000Z|SCCF Domestic Water Piping, Phase 2",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-03T14:00:00.000Z|Cardwell Mountain SAP Visitor Center, Maintenance Facility, and Amenities",
       "rom": "",
-      "checkedAt": "2026-10-31T15:21:42.708Z",
+      "checkedAt": "2026-11-01T16:03:15.718Z",
       "error": "fetch failed"
+    },
+    "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/november-6--2026-letting.html": {
+      "stamp": "https://www.tn.gov/tdot/tdot-construction-division/bid-lettings/2026-bid-lettings/november-6--2026-letting.html|2026-11-06T15:00:00.000Z|November 6, 2026 Letting",
+      "rom": "",
+      "checkedAt": "2026-11-01T16:03:15.718Z",
+      "error": "HTTP 403"
+    },
+    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Revisions": {
+      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Revisions|2026-11-06T15:00:00.000Z|November 6, 2026 Letting Revisions",
+      "rom": "",
+      "checkedAt": "2026-11-01T16:03:15.718Z"
+    },
+    "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Plans": {
+      "stamp": "https://www.tdot.tn.gov/Applications/Documents?pathName=%5CConstruction%5CE_Plans_Room%5CNovember_6_2026_Letting_Plans|2026-11-06T15:00:00.000Z|November 6, 2026 Letting Plans",
+      "rom": "",
+      "checkedAt": "2026-11-01T16:03:15.718Z"
     }
   },
-  "generatedAt": "2026-10-31T15:21:42.708Z"
+  "generatedAt": "2026-11-01T16:03:15.718Z"
 }
