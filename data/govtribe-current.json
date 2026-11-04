@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 6,
+    "curatedSledRecords": 5,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,24 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "MA",
-      "s": "BD2710300H1000H002132739",
-      "n": "Andover Bridge Preservation I-93 over Merrimack River",
-      "d": "2026-11-03T19:00:00Z",
-      "p": "2026-08-24T14:12:46Z",
-      "l": "Andover, MA",
-      "scope": "Bridge Construction",
-      "c": "Bridge Construction",
-      "r": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-27-1030-0H100-0H002-132739&external=true&parentUrl=close",
-      "type": "State / Local",
-      "set": "State / Local",
-      "x": 42.3,
-      "y": -71.8,
-      "approx": true,
-      "rom": "",
-      "u": "2026-08-29T12:32:22Z"
-    },
     {
       "state": "MD",
       "s": "BPM056780",
