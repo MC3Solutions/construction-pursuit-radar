@@ -2,9 +2,9 @@
   "version": 1,
   "records": {
     "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57|2026-11-06T18:00:00.000Z|Enterprise Meat Processing Plant Boiler Preventative Maintenance",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57|2026-11-16T18:00:00.000Z|Enterprise Meat Processing Plant Boiler Preventative Maintenance",
       "rom": "",
-      "checkedAt": "2026-10-30T15:58:25.849Z"
+      "checkedAt": "2026-11-05T17:25:06.717Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=ba121f95-fbb1-f111-aaab-001dd80b4a30": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=ba121f95-fbb1-f111-aaab-001dd80b4a30|2027-09-20T18:00:00.000Z|CHRY Building Management System",
@@ -31,20 +31,10 @@
       "rom": "",
       "checkedAt": "2026-09-23T09:27:51.978Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=5f534c33-8cb6-f111-aaac-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=5f534c33-8cb6-f111-aaac-001dd803db57|2026-11-05T14:00:00.000Z|North Carolina Department of Adult Correction",
-      "rom": "",
-      "checkedAt": "2026-09-23T09:27:51.978Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=977a890e-64b7-f111-aaac-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=977a890e-64b7-f111-aaac-001dd80db495|2026-11-05T18:00:00.000Z|ELEVATOR PREVENTATIVE MAINTENANCE - COPY",
       "rom": "",
       "checkedAt": "2026-10-22T14:43:53.941Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=fbcbc204-47b7-f111-aaac-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=fbcbc204-47b7-f111-aaac-001dd803db57|2026-11-04T19:30:00.000Z|Fleet Maintenance Operations Vehicle Maintenance and Repair Services",
-      "rom": "",
-      "checkedAt": "2026-10-15T14:11:54.971Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=c515b48d-dfb8-f111-aaac-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c515b48d-dfb8-f111-aaac-001dd80db495|2026-11-16T17:00:00.000Z|Wake BRT New Bern Avenue Construction Package 3",
@@ -55,16 +45,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=4d4d1d01-cfbc-f111-aaae-001dd80bcb64|2026-12-10T14:00:00.000Z|RFB FOR PARKING LOT PATCHING, SEALCOATING, AND RESTRIPING AT MULTIPLE EDGECOMBE COUNTY PARKING LOTS",
       "rom": "",
       "checkedAt": "2026-09-30T15:56:38.896Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=e9d3bcba-07bd-f111-aaae-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=e9d3bcba-07bd-f111-aaae-001dd8084fd9|2026-11-04T18:00:00.000Z|RFQ 27-0928 Carolina Springs Park Master Plan",
-      "rom": "",
-      "checkedAt": "2026-10-01T16:26:41.945Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=c5917f03-77be-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c5917f03-77be-f111-aaae-001dd803db57|2026-11-04T18:00:00.000Z|McLeansville HVAC Systems Preventative Maintenance Services",
-      "rom": "",
-      "checkedAt": "2026-10-30T15:58:25.849Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=449e884f-d0bd-f111-aaae-001dd80d92a5": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=449e884f-d0bd-f111-aaae-001dd80d92a5|2026-11-05T19:00:00.000Z|Water Line Repair for Wood Ave and Misc. Insulation Replacement",
@@ -81,11 +61,6 @@
       "rom": "",
       "checkedAt": "2026-10-06T15:57:39.416Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=701b49af-a2c1-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=701b49af-a2c1-f111-aaae-001dd80bcb64|2026-11-04T21:00:00.000Z|NC State University",
-      "rom": "",
-      "checkedAt": "2026-10-07T16:27:53.763Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=0c8cb26a-01c1-f111-aaae-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=0c8cb26a-01c1-f111-aaae-001dd80db495|2026-11-05T18:00:00.000Z|CMGC 2nd Floor Conference Center |",
       "rom": "",
@@ -101,18 +76,8 @@
       "rom": "",
       "checkedAt": "2026-10-22T14:43:53.941Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=0a427a74-87c2-f111-aaad-001dd8061ba2": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=0a427a74-87c2-f111-aaad-001dd8061ba2|2026-11-04T18:00:00.000Z|Cliffdale Library Boiler Replacement",
-      "rom": "",
-      "checkedAt": "2026-10-08T16:29:19.209Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=8180c750-15c4-f111-aaad-001dd803271d": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=8180c750-15c4-f111-aaad-001dd803271d|2026-11-19T14:00:00.000Z|RFB FOR EDGECOMBE COUNTY DETENTION CENTER POD CLEANING AND PAINTING",
-      "rom": "",
-      "checkedAt": "2026-10-10T15:23:16.253Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=2526f738-18c4-f111-aaad-001dd80323ae": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=2526f738-18c4-f111-aaad-001dd80323ae|2026-11-05T15:00:00.000Z|Kings Branch at Arrowood Road Phase 2B Stream Restoration",
       "rom": "",
       "checkedAt": "2026-10-10T15:23:16.253Z"
     },
@@ -296,11 +261,6 @@
       "rom": "",
       "checkedAt": "2026-10-22T14:43:53.941Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=32de232a-bbcc-f111-a05c-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=32de232a-bbcc-f111-a05c-001dd80db495|2026-11-04T18:00:00.000Z|IFB 2026-068 Rebid IFB Detention Center Boilers Replacement",
-      "rom": "",
-      "checkedAt": "2026-10-21T14:35:43.311Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=355567ed-0cce-f111-a05a-001dd80072e8": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=355567ed-0cce-f111-a05a-001dd80072e8|2026-11-06T18:00:00.000Z|Vehicle Lifts & Garage Associated Equipment",
       "rom": "",
@@ -336,35 +296,15 @@
       "rom": "",
       "checkedAt": "2026-10-23T14:24:49.505Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=d68990f7-2fce-f111-a05c-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=d68990f7-2fce-f111-a05c-001dd80bcb64|2026-11-04T21:00:00.000Z|Small Concrete Repairs",
-      "rom": "",
-      "checkedAt": "2026-10-23T14:24:49.505Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=12eed358-26ce-f111-a05c-001dd80d92a5": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=12eed358-26ce-f111-a05c-001dd80d92a5|2026-11-20T18:00:00.000Z|Natural Gas Transport Services",
       "rom": "",
       "checkedAt": "2026-10-23T14:24:49.505Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=1a521758-07bc-f111-aaae-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=1a521758-07bc-f111-aaae-001dd80d92a5|2026-11-04T18:00:00.000Z|30-270103-EIPD Janitorial Services - Flat Rock",
-      "rom": "",
-      "checkedAt": "2026-10-24T13:22:51.761Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=9881052d-fec7-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9881052d-fec7-f111-aaae-001dd80bcb64|2026-11-04T21:00:00.000Z|Baccalaureate Alumni Survey, printing and mailing",
-      "rom": "",
-      "checkedAt": "2026-10-28T16:02:49.853Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=152e09c8-2cc3-f111-aaad-001dd8021338": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=152e09c8-2cc3-f111-aaad-001dd8021338|2026-11-10T16:00:00.000Z|Community Center and Park Landscape Projects",
       "rom": "",
       "checkedAt": "2026-10-29T16:09:25.908Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=9283987f-95b7-f111-aaab-001dd803dd10": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9283987f-95b7-f111-aaab-001dd803dd10|2026-11-06T18:00:00.000Z|Promotional Items (Higher Education Institutions)",
-      "rom": "",
-      "checkedAt": "2026-11-03T17:04:55.450Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=3d59f3ba-12c8-f111-aaae-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=3d59f3ba-12c8-f111-aaae-001dd803db57|2026-11-10T18:00:00.000Z|Security Guard Services for Residence Halls",
@@ -391,41 +331,6 @@
       "rom": "",
       "checkedAt": "2026-10-28T16:02:49.853Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=a2ce77f5-19c3-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a2ce77f5-19c3-f111-aaae-001dd80bcb64|2026-11-04T18:00:00.000Z|Purple Heart Poplin and Capri Breeze Poplin-Tabor City Sewing Plant",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=394f9761-b8cc-f111-a05a-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=394f9761-b8cc-f111-a05a-001dd80072e8|2026-11-04T18:00:00.000Z|Banking Services",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=6a148036-54ce-f111-a05a-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=6a148036-54ce-f111-a05a-001dd80072e8|2026-11-04T19:00:00.000Z|COMPOSITE LID FOR RECTANGULAR STEEL METER BOX",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=8b64b54d-eac7-f111-aaad-001dd803271d": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=8b64b54d-eac7-f111-aaad-001dd803271d|2026-11-04T18:00:00.000Z|All Hazards Preparedness, Planning, and Recovery Related Professional Services",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=24447a52-1dc3-f111-aaae-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=24447a52-1dc3-f111-aaae-001dd8084fd9|2026-11-04T20:00:00.000Z|North Carolina Department of Military and Veterans Affairs",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=7e4ff983-a1c1-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=7e4ff983-a1c1-f111-aaae-001dd80bcb64|2026-11-04T21:00:00.000Z|NC State University",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=8ad13bd7-7bbb-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=8ad13bd7-7bbb-f111-aaae-001dd803db57|2026-11-04T20:00:00.000Z|Sewer Easement Mowing Maintenance",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=021325e7-74c9-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=021325e7-74c9-f111-aaae-001dd80bcb64|2026-11-05T18:00:00.000Z|Ascend704 Catering Services",
       "rom": "",
@@ -433,11 +338,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=8fc30088-2ec3-f111-aaae-001dd80d92a5": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=8fc30088-2ec3-f111-aaae-001dd80d92a5|2026-11-05T18:00:00.000Z|Charcoal Gray Ripstop Fabric-Tabor City Sewing Plant",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=73f5af31-92cc-f111-a05c-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=73f5af31-92cc-f111-a05c-001dd80bcb64|2026-11-05T00:00:00.000Z|NASPO ValuePoint Fleet Card Services",
       "rom": "",
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
@@ -502,9 +402,9 @@
       "checkedAt": "2026-11-02T19:30:47.393Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=68dcc601-73c2-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=68dcc601-73c2-f111-aaae-001dd80bcb64|2026-11-06T18:00:00.000Z|Female Short-Term Residential Intervention Program",
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=68dcc601-73c2-f111-aaae-001dd80bcb64|2026-11-20T18:00:00.000Z|Female Short-Term Residential Intervention Program",
       "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
+      "checkedAt": "2026-11-05T17:25:06.717Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=19309bc4-65c9-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=19309bc4-65c9-f111-aaae-001dd80bcb64|2026-12-01T20:00:00.000Z|Enterprise AI Chatbot Solution for University Websites",
@@ -802,9 +702,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2027-02-28T13:00:00.000Z|Diesel Engines, Fuel and Induction System Controls...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2028-01-31T04:00:00.000Z|RFQ 648812: Concession Food Services (Supplementa...",
       "rom": "",
-      "checkedAt": "2026-11-04T17:15:07.750Z"
+      "checkedAt": "2026-11-05T17:25:06.717Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -1469,7 +1369,27 @@
       "stamp": "https://connect.ncdot.gov/letting/Pages/Roadside-Environmental-Letting-Details.aspx?let_id=54-TJK-02-PR40715|2026-12-02T18:00:00.000Z|54-TJK-02-PR40715 12/2/2026 2:00 PM Advertised Rest Areas CUSTODIAL OPERATIONS AND MAINTENANCE OF REST AREA 2 Craven Yes",
       "rom": "",
       "checkedAt": "2026-11-04T17:15:07.750Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=0cce266e-89d8-f111-a05c-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=0cce266e-89d8-f111-a05c-001dd80bcb64|2026-11-18T18:00:00.000Z|Promotional Items (Higher Education Institutions) - Rebid",
+      "rom": "",
+      "checkedAt": "2026-11-05T17:25:06.717Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=4ef71945-90d8-f111-a05c-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=4ef71945-90d8-f111-a05c-001dd80bcb64|2026-11-16T18:00:00.000Z|4827-0051 Town of Belhaven, 4827-0118 Jones, 4827-0172 Dare, 4827-0200 Dare and Jones County Acquisition and Demolition",
+      "rom": "",
+      "checkedAt": "2026-11-05T17:25:06.717Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=9dd6a8f4-87d8-f111-a05a-001dd80fedb8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=9dd6a8f4-87d8-f111-a05a-001dd80fedb8|2026-12-02T18:00:00.000Z|REBID RFP 2027-04 DUKANE CAREHAWK INTERCOM SYSTEMS (3 locations)",
+      "rom": "",
+      "checkedAt": "2026-11-05T17:25:06.717Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=e48c778d-8fd8-f111-a05c-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=e48c778d-8fd8-f111-a05c-001dd80db495|2026-11-18T18:00:00.000Z|Building Automation System (BAS) Contractors",
+      "rom": "",
+      "checkedAt": "2026-11-05T17:25:06.717Z"
     }
   },
-  "generatedAt": "2026-11-04T17:15:07.750Z"
+  "generatedAt": "2026-11-05T17:25:06.717Z"
 }
