@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 5,
+    "curatedSledRecords": 4,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,22 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "MD",
-      "s": "BPM056780",
-      "n": "Ballenger Mckinney WWTP Electrical Service Improvements",
-      "d": "2026-11-06T05:00:00Z",
-      "p": "2026-01-05T14:29:42Z",
-      "l": "Maryland",
-      "scope": "Wastewater Treatment Plant Electrical Improvements",
-      "c": "Wastewater / Electrical",
-      "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/91044",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-11T12:18:00Z"
-    },
     {
       "state": "MD",
       "s": "BPM058627",
