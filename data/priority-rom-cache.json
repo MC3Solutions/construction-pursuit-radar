@@ -547,9 +547,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2027-02-28T13:00:00.000Z|Diesel Engines, Fuel and Induction System Controls...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2028-01-31T04:00:00.000Z|RFQ 648812: Concession Food Services (Supplementa...",
       "rom": "",
-      "checkedAt": "2026-11-07T15:43:29.352Z"
+      "checkedAt": "2026-11-08T16:01:13.661Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -1308,7 +1308,63 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c9aaf7a7-08da-f111-a05a-001dd80072e8|2026-11-16T18:00:00.000Z|Hobart/Aeroworks Waste System Pulper/Accumulator",
       "rom": "",
       "checkedAt": "2026-11-07T15:43:29.352Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=9f10bb1e-1bda-f111-a05a-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=9f10bb1e-1bda-f111-a05a-001dd80072e8|2026-11-24T18:00:00.000Z|Grant Administration and Construction Oversight Services",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=bbc34857-1eda-f111-a05c-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=bbc34857-1eda-f111-a05c-001dd80d92a5|2026-11-23T18:00:00.000Z|Omnissa Workspace ONE Reseller Bid",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=d6abbefb-08da-f111-a05c-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=d6abbefb-08da-f111-a05c-001dd80db495|2026-11-18T18:00:00.000Z|STUDENT TRANSPORTATION SERVICES - EC DEPARTMENT",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=44941cca-20da-f111-a05c-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=44941cca-20da-f111-a05c-001dd80db495|2026-12-03T19:00:00.000Z|Lexington Avenue Sidewalk Restoration Project",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=43150264-11da-f111-a05c-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=43150264-11da-f111-a05c-001dd80d92a5|2026-12-01T21:00:00.000Z|NC Central University",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=5d1cc9d5-0cda-f111-a05c-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=5d1cc9d5-0cda-f111-a05c-001dd80d92a5|2026-11-23T19:00:00.000Z|Surveying Services for Demolitions",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=01c4c0be-26da-f111-a05a-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=01c4c0be-26da-f111-a05a-001dd80072e8|2026-12-10T17:00:00.000Z|Non-IT IFB or RFQ Agency Goods Sourcing Event Template",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=262fcdab-21da-f111-a05a-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=262fcdab-21da-f111-a05a-001dd80072e8|2026-12-08T18:00:00.000Z|LIDAR Quality Control Services",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=55d42fb3-0bda-f111-a05a-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=55d42fb3-0bda-f111-a05a-001dd80072e8|2026-12-15T18:00:00.000Z|DAC CE Modular Homes Certification Inspections",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=49515eef-1cda-f111-a05a-001dd80072e8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=49515eef-1cda-f111-a05a-001dd80072e8|2026-12-17T14:00:00.000Z|IFB 2027-013A Ag and Event Center Lighting Project",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z"
+    },
+    "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-03T14:00:00.000Z|Cardwell Mountain SAP Visitor Center, Maintenance Facility, and Amenities",
+      "rom": "",
+      "checkedAt": "2026-11-08T16:01:13.661Z",
+      "error": "fetch failed"
     }
   },
-  "generatedAt": "2026-11-07T15:43:29.352Z"
+  "generatedAt": "2026-11-08T16:01:13.661Z"
 }
