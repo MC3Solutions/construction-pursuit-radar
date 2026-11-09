@@ -5,7 +5,7 @@
   "meta": {
     "rawFederalMatches": 88,
     "rawSledMatches": 265,
-    "curatedSledRecords": 4,
+    "curatedSledRecords": 2,
     "rules": "Only active construction pursuits with usable source links are retained. Consulting-only, staffing, goods-only, maintenance-only/on-call noise and duplicates are excluded. ROMs are explicit published estimates/magnitudes only; IDIQ/MACC ceilings and contract capacities are excluded.",
     "rawSearchCounts": {
       "federalTargetStatesNaics": 88,
@@ -236,38 +236,6 @@
     }
   ],
   "records": [
-    {
-      "state": "MD",
-      "s": "BPM058627",
-      "n": "University of Maryland, College Park Hagerstown Hall Renovation - Trade Contractor Bid Solicitation",
-      "d": "2026-11-09T05:00:00Z",
-      "p": "2026-08-27T17:42:59Z",
-      "l": "College Park, MD",
-      "scope": "Building Renovation / Trade Construction",
-      "c": "Building Renovation / Trade Construction",
-      "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/94488",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-08T12:12:52Z"
-    },
-    {
-      "state": "MD",
-      "s": "BPM058404",
-      "n": "Kane Street Sanitation Yard Renovation Construction Services",
-      "d": "2026-11-09T05:00:00Z",
-      "p": "2026-08-12T20:02:55Z",
-      "l": "Maryland",
-      "scope": "Sanitation Yard Renovation",
-      "c": "Building / Site Renovation",
-      "r": "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/94068",
-      "type": "State / Local",
-      "set": "State / Local",
-      "approx": true,
-      "rom": "",
-      "u": "2026-09-11T12:18:00Z"
-    },
     {
       "state": "GA",
       "s": "PE48401RFP2027000000626",

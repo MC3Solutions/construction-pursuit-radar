@@ -36,11 +36,6 @@
       "rom": "",
       "checkedAt": "2026-09-30T15:56:38.896Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=d8733eb4-f5c0-f111-aaae-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=d8733eb4-f5c0-f111-aaae-001dd80db495|2026-11-09T14:00:00.000Z|IFB 2026-075 Union County Judicial Center Temporary Generator Connections",
-      "rom": "",
-      "checkedAt": "2026-10-06T15:57:39.416Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=8aa52c37-c1c1-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=8aa52c37-c1c1-f111-aaae-001dd80bcb64|2026-11-19T19:00:00.000Z|NC Central University",
       "rom": "",
@@ -105,11 +100,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=4c32d875-1fc7-f111-aaae-001dd8084fd9|2026-11-12T18:00:00.000Z|REVOLUTION PARK SPORTS ACADEMY - HVAC REPLACEMENT",
       "rom": "",
       "checkedAt": "2026-10-16T13:59:46.299Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=2dcf2c45-a8c8-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=2dcf2c45-a8c8-f111-aaae-001dd803db57|2026-11-09T14:00:00.000Z|Swift Creek Pump Station PLC Improvements",
-      "rom": "",
-      "checkedAt": "2026-10-31T15:21:42.708Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=ca5b96e3-b0c8-f111-aaad-001dd80072e8": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=ca5b96e3-b0c8-f111-aaad-001dd80072e8|2026-11-12T18:00:00.000Z|4610-0005 Carteret County Elevations",
@@ -246,11 +236,6 @@
       "rom": "",
       "checkedAt": "2026-10-31T15:21:42.708Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=53429487-4db8-f111-aaac-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=53429487-4db8-f111-aaac-001dd803db57|2026-11-09T18:00:00.000Z|30-270070-EIPD Janitorial Services - Greenville",
-      "rom": "",
-      "checkedAt": "2026-10-30T15:58:25.849Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=d181d9f4-a7b6-f111-aaab-001dd80c04dc": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=d181d9f4-a7b6-f111-aaab-001dd80c04dc|2026-11-12T18:00:00.000Z|ServiceNow",
       "rom": "",
@@ -260,11 +245,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=3ebc909d-39c6-f111-aaae-001dd8084fd9|2026-11-12T18:00:00.000Z|Calsoft T-60 (Spectradet T-60)",
       "rom": "",
       "checkedAt": "2026-11-04T17:15:07.750Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=531901d7-55c3-f111-aaae-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=531901d7-55c3-f111-aaae-001dd80d92a5|2026-11-09T18:00:00.000Z|Aquatics Center Video Display/Scoreboard",
-      "rom": "",
-      "checkedAt": "2026-10-28T16:02:49.853Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=bf76a5f3-e0ce-f111-a05c-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=bf76a5f3-e0ce-f111-a05c-001dd803db57|2026-11-10T17:30:00.000Z|ABC, Class B RIP RAP, and 57 Stone for Crowther Boating Access Area",
@@ -288,11 +268,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=acb75d82-47c7-f111-aaad-001dd80072e8": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=acb75d82-47c7-f111-aaad-001dd80072e8|2026-11-09T20:00:00.000Z|Request for Qualification for Capital Improvement Project; Food Service for the Raleigh Convention Center Expansion",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=579cf922-22b9-f111-aaac-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=579cf922-22b9-f111-aaac-001dd80d92a5|2026-11-09T18:00:00.000Z|UNCW Records Management System & Computer Aided Dispatch",
       "rom": "",
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
@@ -547,9 +522,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2028-01-31T04:00:00.000Z|RFQ 648812: Concession Food Services (Supplementa...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2027-02-28T13:00:00.000Z|Diesel Engines, Fuel and Induction System Controls...",
       "rom": "",
-      "checkedAt": "2026-11-08T16:01:13.661Z"
+      "checkedAt": "2026-11-09T19:49:32.078Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -593,16 +568,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=112e9c18-f4ce-f111-a05c-001dd8084fd9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=112e9c18-f4ce-f111-a05c-001dd8084fd9|2026-11-09T20:00:00.000Z|RFP #27-21-ADM TEMPORARY EMERGENCY SHELTER SERVICE PROVIDER AND FACILITY",
-      "rom": "",
-      "checkedAt": "2026-10-27T15:23:15.636Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=f9248b5c-09d2-f111-a05c-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=f9248b5c-09d2-f111-a05c-001dd80db495|2026-11-09T13:00:00.000Z|Request for Proposal - Produce",
-      "rom": "",
-      "checkedAt": "2026-10-27T15:23:15.636Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=70a4309f-7cd1-f111-a05c-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=70a4309f-7cd1-f111-a05c-001dd803db57|2026-11-09T15:00:00.000Z|Powder Activated Carbon",
       "rom": "",
       "checkedAt": "2026-10-27T15:23:15.636Z"
     },
@@ -750,11 +715,6 @@
       "stamp": "https://cabb.virginiadot.org/upload/20261027081950OCT-B38.pdf|2026-12-16T17:00:00.000Z|SMART SCALE - ROADWAY AND PEDESTRIAN IMPROVEMENTS · Route 57 · MARTINSVILLE",
       "rom": "",
       "checkedAt": "2026-10-28T16:02:49.853Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=98accc47-e5d2-f111-a05a-001dd80229c4": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=98accc47-e5d2-f111-a05a-001dd80229c4|2026-11-09T18:00:00.000Z|RESTORATIVE PRACTICES & JUSTICE TRAINING",
-      "rom": "",
-      "checkedAt": "2026-10-29T16:09:25.908Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=6bd3f890-01d3-f111-a05c-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=6bd3f890-01d3-f111-a05c-001dd80bcb64|2026-11-16T19:00:00.000Z|Ford F-250 SRW 4x4 Supercrew XLT Truck",
@@ -1360,11 +1320,96 @@
       "checkedAt": "2026-11-08T16:01:13.661Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-03T14:00:00.000Z|Cardwell Mountain SAP Visitor Center, Maintenance Facility, and Amenities",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-10T14:00:00.000Z|Green McAdoo Gym Floor Replacement",
       "rom": "",
-      "checkedAt": "2026-11-08T16:01:13.661Z",
+      "checkedAt": "2026-11-09T19:49:32.078Z",
       "error": "fetch failed"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=01280273-68dc-f111-84ea-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=01280273-68dc-f111-84ea-001dd80d92a5|2026-11-30T18:00:00.000Z|Federal Lobbying Services",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=5669e3a9-75dc-f111-84ea-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=5669e3a9-75dc-f111-84ea-001dd80bcb64|2026-12-03T20:00:00.000Z|Police Vehicle Graphic Replacement",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=3eeb151c-6cdc-f111-84e8-001dd80fedb8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=3eeb151c-6cdc-f111-84e8-001dd80fedb8|2026-12-01T18:00:00.000Z|Request for Bids For Septic System Installation Related to the 2021 Community Development Block Grant- Neighborhood Revitalization (CDBG-NR) Project",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=07b81fa0-69dc-f111-84ea-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=07b81fa0-69dc-f111-84ea-001dd80d92a5|2026-11-30T18:00:00.000Z|State Lobbying Services",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=af5a9236-6cdc-f111-84ea-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=af5a9236-6cdc-f111-84ea-001dd80bcb64|2026-12-04T19:00:00.000Z|REFRIGERATED BEER TAP TRAILER",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=818e8092-59dc-f111-84ea-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=818e8092-59dc-f111-84ea-001dd803db57|2026-11-30T20:00:00.000Z|North Carolina Department of Transportation RE-ADVERTISEMENT",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=d2c16e27-59dc-f111-84ea-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=d2c16e27-59dc-f111-84ea-001dd80d92a5|2026-11-30T20:00:00.000Z|Transportation - Division of Highways",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=c6867410-60dc-f111-84ea-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=c6867410-60dc-f111-84ea-001dd803db57|2026-12-01T18:00:00.000Z|32 oz Carafe Bottle and Cap Sets",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=ec6060bc-5cdc-f111-84ea-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=ec6060bc-5cdc-f111-84ea-001dd803db57|2026-12-03T17:30:00.000Z|North Carolina Department of Transportation",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=e7037d0b-56dc-f111-84ea-001dd8084fd9": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=e7037d0b-56dc-f111-84ea-001dd8084fd9|2026-12-09T20:00:00.000Z|North Carolina School for the Deaf",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=7ed29b54-6cdc-f111-84ea-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=7ed29b54-6cdc-f111-84ea-001dd80bcb64|2026-12-04T20:00:00.000Z|Request for Qualifications for On-Call Professional Engineering Services",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=770486cc-41dc-f111-84e8-001dd80fedb8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=770486cc-41dc-f111-84e8-001dd80fedb8|2026-12-10T18:00:00.000Z|Rugby MIddle School Bridge Replacement",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=3d619158-71dc-f111-84ea-001dd80d92a5": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=3d619158-71dc-f111-84ea-001dd80d92a5|2026-12-10T18:00:00.000Z|Bus & Fleet Vehicles Cleaning and Washing Services",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=be6396e8-5fdc-f111-84ea-001dd80bcb64": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=be6396e8-5fdc-f111-84ea-001dd80bcb64|2026-12-15T18:00:00.000Z|REBID for Mecklenburg County Courthouse 8th Floor Interior Finishes Updates Project",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=15a8450c-4fdc-f111-84ea-001dd80db495": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=15a8450c-4fdc-f111-84ea-001dd80db495|2027-01-05T18:00:00.000Z|IT Sourcing Event DEQ AI Permitting Pilot",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=a2ad7127-45dc-f111-84e8-001dd80fedb8": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=a2ad7127-45dc-f111-84e8-001dd80fedb8|2026-12-14T19:00:00.000Z|Academic Scheduling and Curriculum Management Platform",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
+    },
+    "https://evp.nc.gov/solicitations/details/?id=9cb53646-4ed9-f111-a05c-001dd803db57": {
+      "stamp": "https://evp.nc.gov/solicitations/details/?id=9cb53646-4ed9-f111-a05c-001dd803db57|2027-01-07T15:00:00.000Z|7214 Maitland Lane Project",
+      "rom": "",
+      "checkedAt": "2026-11-09T19:49:32.078Z"
     }
   },
-  "generatedAt": "2026-11-08T16:01:13.661Z"
+  "generatedAt": "2026-11-09T19:49:32.078Z"
 }
