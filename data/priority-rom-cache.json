@@ -1,11 +1,6 @@
 {
   "version": 1,
   "records": {
-    "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=2d772b4b-e2b1-f111-aaac-001dd803db57|2026-11-16T18:00:00.000Z|Enterprise Meat Processing Plant Boiler Preventative Maintenance",
-      "rom": "",
-      "checkedAt": "2026-11-05T17:25:06.717Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=ba121f95-fbb1-f111-aaab-001dd80b4a30": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=ba121f95-fbb1-f111-aaab-001dd80b4a30|2027-09-20T18:00:00.000Z|CHRY Building Management System",
       "rom": "",
@@ -186,11 +181,6 @@
       "rom": "",
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=7c94b743-bdc0-f111-aaae-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=7c94b743-bdc0-f111-aaae-001dd8084fd9|2026-11-16T19:00:00.000Z|Eastern Wake Microtransit Operations",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=828ce3ff-11c8-f111-aaad-001dd80072e8": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=828ce3ff-11c8-f111-aaad-001dd80072e8|2026-11-17T18:00:00.000Z|19-IFB-2284429696-BJL State Emergency Operation Center Augmentation and Evaluation Support Personnel",
       "rom": "",
@@ -327,9 +317,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2030-08-06T18:00:00.000Z|RFP No 100313-FY26-22 Snow and Ice Removal Service...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2027-12-30T21:00:00.000Z|VCCS 2026-2027 Small Purchase Procurement for AE S...",
       "rom": "",
-      "checkedAt": "2026-11-15T16:19:20.541Z"
+      "checkedAt": "2026-11-16T19:32:12.541Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -513,11 +503,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=3f0af718-d0d2-f111-a05c-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=3f0af718-d0d2-f111-a05c-001dd803db57|2026-11-18T18:00:00.000Z|54-TJK-02-PR40858, STATE ROUTE SHOULDER AND MEDIAN MOWING",
-      "rom": "",
-      "checkedAt": "2026-10-29T16:09:25.908Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=4567ecfa-e5d2-f111-a05c-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=4567ecfa-e5d2-f111-a05c-001dd803db57|2026-11-16T06:00:00.000Z|30-270056-ITD Dynatrace software subscription renewals",
       "rom": "",
       "checkedAt": "2026-10-29T16:09:25.908Z"
     },
@@ -744,16 +729,6 @@
       "rom": "",
       "checkedAt": "2026-11-02T19:30:47.393Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=ab80cb06-e3d6-f111-a05c-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=ab80cb06-e3d6-f111-a05c-001dd803db57|2026-11-16T18:00:00.000Z|Roofing Repair Services 2026- State Government Complex",
-      "rom": "",
-      "checkedAt": "2026-11-02T19:30:47.393Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=4e0b3d9b-a5d7-f111-a05a-001dd80fedb8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=4e0b3d9b-a5d7-f111-a05a-001dd80fedb8|2026-11-16T18:00:00.000Z|Corrugated Aluminum Pipe & Bands",
-      "rom": "",
-      "checkedAt": "2026-11-03T17:04:55.450Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=c1890a51-97d7-f111-a05a-001dd80fedb8": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c1890a51-97d7-f111-a05a-001dd80fedb8|2026-11-24T14:30:00.000Z|City of Raleigh, Raleigh Police Evidence Storage Facility",
       "rom": "",
@@ -761,11 +736,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=bfdec0ef-ecd6-f111-a05c-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=bfdec0ef-ecd6-f111-a05c-001dd80bcb64|2026-12-02T19:00:00.000Z|Jordan Lake Rules Compliance (Existing Managed Lands)",
-      "rom": "",
-      "checkedAt": "2026-11-03T17:04:55.450Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=e2fd3993-f7d6-f111-a05c-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=e2fd3993-f7d6-f111-a05c-001dd80bcb64|2026-11-16T19:00:00.000Z|Skate Rink Tiles",
       "rom": "",
       "checkedAt": "2026-11-03T17:04:55.450Z"
     },
@@ -874,11 +844,6 @@
       "rom": "",
       "checkedAt": "2026-11-05T17:25:06.717Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=4ef71945-90d8-f111-a05c-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=4ef71945-90d8-f111-a05c-001dd80bcb64|2026-11-16T18:00:00.000Z|4827-0051 Town of Belhaven, 4827-0118 Jones, 4827-0172 Dare, 4827-0200 Dare and Jones County Acquisition and Demolition",
-      "rom": "",
-      "checkedAt": "2026-11-05T17:25:06.717Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=9dd6a8f4-87d8-f111-a05a-001dd80fedb8": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=9dd6a8f4-87d8-f111-a05a-001dd80fedb8|2026-12-02T18:00:00.000Z|REBID RFP 2027-04 DUKANE CAREHAWK INTERCOM SYSTEMS (3 locations)",
       "rom": "",
@@ -983,11 +948,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=2f73ddb8-51d9-f111-a05c-001dd803db57|2026-12-14T20:00:00.000Z|RFP #27-22-DSS SECURITY OFFICER SERVICES",
       "rom": "",
       "checkedAt": "2026-11-06T16:48:35.218Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=c9aaf7a7-08da-f111-a05a-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c9aaf7a7-08da-f111-a05a-001dd80072e8|2026-11-16T18:00:00.000Z|Hobart/Aeroworks Waste System Pulper/Accumulator",
-      "rom": "",
-      "checkedAt": "2026-11-07T15:43:29.352Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=9f10bb1e-1bda-f111-a05a-001dd80072e8": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=9f10bb1e-1bda-f111-a05a-001dd80072e8|2026-11-24T18:00:00.000Z|Grant Administration and Construction Oversight Services",
@@ -1354,9 +1314,9 @@
       "checkedAt": "2026-11-13T17:16:06.216Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-17T14:00:00.000Z|New Welcome Center",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-10T14:00:00.000Z|Green McAdoo Gym Floor Replacement",
       "rom": "",
-      "checkedAt": "2026-11-15T16:19:20.541Z",
+      "checkedAt": "2026-11-16T19:32:12.541Z",
       "error": "fetch failed"
     },
     "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-48401-RFP-2027-000000626&sourceSystemType=gpr20": {
@@ -1370,5 +1330,5 @@
       "checkedAt": "2026-11-14T15:46:59.609Z"
     }
   },
-  "generatedAt": "2026-11-15T16:19:20.541Z"
+  "generatedAt": "2026-11-16T19:32:12.541Z"
 }
