@@ -31,20 +31,10 @@
       "rom": "",
       "checkedAt": "2026-10-10T15:23:16.253Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=cb30c482-36c6-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=cb30c482-36c6-f111-aaae-001dd803db57|2026-11-17T18:00:00.000Z|NC Department of Natural and Cultural Resources",
-      "rom": "",
-      "checkedAt": "2026-10-12T19:01:48.979Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=2ccf3f33-8dc8-f111-aaad-001dd803e502": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=2ccf3f33-8dc8-f111-aaad-001dd803e502|2026-11-18T15:00:00.000Z|RFQ 2027-016 Construction Manager at Risk Services, Union County Historic Post Office/West Franklin Street Renovations",
       "rom": "",
       "checkedAt": "2026-10-15T14:11:54.971Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=8ddece7b-c7c8-f111-aaad-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=8ddece7b-c7c8-f111-aaad-001dd80072e8|2026-11-17T15:00:00.000Z|Asphalt Replacement",
-      "rom": "",
-      "checkedAt": "2026-10-16T13:59:46.299Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=f8f850b5-bfc8-f111-aaae-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f8f850b5-bfc8-f111-aaae-001dd80db495|2026-11-19T18:00:00.000Z|North Carolina National Guard",
@@ -55,11 +45,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=45a0a8da-6ac9-f111-aaad-001dd80072e8|2026-11-18T19:00:00.000Z|East Carolina University",
       "rom": "",
       "checkedAt": "2026-10-17T12:59:24.463Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=34e58d3f-8ac9-f111-aaad-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=34e58d3f-8ac9-f111-aaad-001dd80072e8|2026-11-17T18:00:00.000Z|NC State University",
-      "rom": "",
-      "checkedAt": "2026-10-20T14:19:48.688Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=f45d2ab3-cbcb-f111-a05a-001dd80072e8": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f45d2ab3-cbcb-f111-a05a-001dd80072e8|2026-11-19T18:00:00.000Z|North Carolina Department of Adult Correction",
@@ -176,30 +161,10 @@
       "rom": "",
       "checkedAt": "2026-11-06T16:48:35.218Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=7fb86bc2-37ce-f111-a05c-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=7fb86bc2-37ce-f111-a05c-001dd8084fd9|2026-11-17T18:00:00.000Z|North Carolina Department of Natural and Cultural Resources",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=828ce3ff-11c8-f111-aaad-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=828ce3ff-11c8-f111-aaad-001dd80072e8|2026-11-17T18:00:00.000Z|19-IFB-2284429696-BJL State Emergency Operation Center Augmentation and Evaluation Support Personnel",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=9e2c3e00-a3c8-f111-aaae-001dd8084fd9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=9e2c3e00-a3c8-f111-aaae-001dd8084fd9|2026-11-23T18:00:00.000Z|Roberson Community College RFP Janitorial Services",
       "rom": "",
       "checkedAt": "2026-11-11T17:08:16.309Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=baf2f8c9-57c9-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=baf2f8c9-57c9-f111-aaae-001dd803db57|2026-11-17T17:00:00.000Z|Medical and Drug Screenings / Psychological Evaluation Services",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=b43743d4-8dcc-f111-a05c-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=b43743d4-8dcc-f111-a05c-001dd80bcb64|2026-11-17T15:00:00.000Z|North Carolina Department of Public Safety",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=36b7aa6d-38ce-f111-a05c-001dd80d92a5": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=36b7aa6d-38ce-f111-a05c-001dd80d92a5|2026-11-24T18:00:00.000Z|NCEM Cots",
@@ -317,9 +282,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2027-12-30T21:00:00.000Z|VCCS 2026-2027 Small Purchase Procurement for AE S...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2030-08-06T18:00:00.000Z|RFP No 100313-FY26-22 Snow and Ice Removal Service...",
       "rom": "",
-      "checkedAt": "2026-11-16T19:32:12.541Z"
+      "checkedAt": "2026-11-17T18:30:39.734Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -360,11 +325,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c5a895c9-86d1-f111-a05a-001dd80072e8|2026-11-17T19:00:00.000Z|North Carolina Department of Military and Veterans Affairs",
       "rom": "",
       "checkedAt": "2026-10-27T15:23:15.636Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=dcd3c790-78d1-f111-a05c-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=dcd3c790-78d1-f111-a05c-001dd803db57|2026-11-17T18:00:00.000Z|RFP #27-13-DSS PRESSURE WASHING & WINDOW CLEANING SERVICES",
-      "rom": "",
-      "checkedAt": "2026-11-11T17:08:16.309Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=d662fc73-67d1-f111-a05c-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=d662fc73-67d1-f111-a05c-001dd803db57|2026-11-17T19:00:00.000Z|NC School of Science and Math",
@@ -556,11 +516,6 @@
       "rom": "",
       "checkedAt": "2026-10-29T16:09:25.908Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=9f83ce39-75d4-f111-a05c-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9f83ce39-75d4-f111-a05c-001dd80bcb64|2026-11-17T18:00:00.000Z|Upgrade and Installation of a Synthetic Turf Athletic Field-West Mecklenburg HS",
-      "rom": "",
-      "checkedAt": "2026-10-30T15:58:25.849Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=8e12cb13-74d4-f111-a05c-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=8e12cb13-74d4-f111-a05c-001dd80bcb64|2026-11-18T12:00:00.000Z|Rooftop Unit Upgrade at Randolph Middle School",
       "rom": "",
@@ -583,12 +538,6 @@
     },
     "https://www.westernvawater.org/Home/Components/RFP/RFP/963/233": {
       "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/963/233|2026-12-02T14:00:00.000Z|WYCLIFFE AVE WATERLINE REPLACEMENT",
-      "rom": "",
-      "checkedAt": "2026-10-30T15:58:25.849Z",
-      "error": "HTTP 403"
-    },
-    "https://www.westernvawater.org/Home/Components/RFP/RFP/961/233": {
-      "stamp": "https://www.westernvawater.org/Home/Components/RFP/RFP/961/233|2026-11-17T14:00:00.000Z|SPRING HOLLOW WTF CLEARWELL",
       "rom": "",
       "checkedAt": "2026-10-30T15:58:25.849Z",
       "error": "HTTP 403"
@@ -774,11 +723,6 @@
       "rom": "",
       "checkedAt": "2026-11-04T17:15:07.750Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=b57556bc-aad7-f111-a05a-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=b57556bc-aad7-f111-a05a-001dd80072e8|2026-11-17T18:00:00.000Z|10-RFP-2463339845-YB-Min-Bulk Pesticides Container- Collection and Disposal",
-      "rom": "",
-      "checkedAt": "2026-11-04T17:15:07.750Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=ff081480-63d8-f111-a05c-001dd8084fd9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=ff081480-63d8-f111-a05c-001dd8084fd9|2026-11-18T21:00:00.000Z|Premium Pine Flake Shavings",
       "rom": "",
@@ -853,26 +797,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e48c778d-8fd8-f111-a05c-001dd80db495|2026-11-18T18:00:00.000Z|Building Automation System (BAS) Contractors",
       "rom": "",
       "checkedAt": "2026-11-05T17:25:06.717Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=0d146cd0-26d9-f111-a05a-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=0d146cd0-26d9-f111-a05a-001dd80072e8|2026-11-17T18:00:00.000Z|Central North Carolina Acquisition and Demolition",
-      "rom": "",
-      "checkedAt": "2026-11-06T16:48:35.218Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=902b7db4-9dd8-f111-a05c-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=902b7db4-9dd8-f111-a05c-001dd803db57|2026-11-17T18:00:00.000Z|Invitation for Bid #: 54-DM-41198",
-      "rom": "",
-      "checkedAt": "2026-11-06T16:48:35.218Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=1c6ef15f-30d9-f111-a05a-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=1c6ef15f-30d9-f111-a05a-001dd80072e8|2026-11-17T18:00:00.000Z|Finance lawnmower equipment",
-      "rom": "",
-      "checkedAt": "2026-11-06T16:48:35.218Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=b7eac93c-9dd8-f111-a05c-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=b7eac93c-9dd8-f111-a05c-001dd803db57|2026-11-17T18:00:00.000Z|Invitation for Bid #: 54-DM-40845",
-      "rom": "",
-      "checkedAt": "2026-11-06T16:48:35.218Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=f6b71030-27d9-f111-a05a-001dd80072e8": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=f6b71030-27d9-f111-a05a-001dd80072e8|2026-11-18T17:00:00.000Z|Master Agreement for On-Call Architectural Services",
@@ -1314,9 +1238,9 @@
       "checkedAt": "2026-11-13T17:16:06.216Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-10T14:00:00.000Z|Green McAdoo Gym Floor Replacement",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-17T14:00:00.000Z|New Welcome Center",
       "rom": "",
-      "checkedAt": "2026-11-16T19:32:12.541Z",
+      "checkedAt": "2026-11-17T18:30:39.734Z",
       "error": "fetch failed"
     },
     "https://ssl.doas.state.ga.us/gpr/eventDetails?eSourceNumber=PE-48401-RFP-2027-000000626&sourceSystemType=gpr20": {
@@ -1330,5 +1254,5 @@
       "checkedAt": "2026-11-14T15:46:59.609Z"
     }
   },
-  "generatedAt": "2026-11-16T19:32:12.541Z"
+  "generatedAt": "2026-11-17T18:30:39.734Z"
 }
