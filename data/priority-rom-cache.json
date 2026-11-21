@@ -21,11 +21,6 @@
       "rom": "",
       "checkedAt": "2026-10-21T14:35:43.311Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=12eed358-26ce-f111-a05c-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=12eed358-26ce-f111-a05c-001dd80d92a5|2026-11-20T18:00:00.000Z|Natural Gas Transport Services",
-      "rom": "",
-      "checkedAt": "2026-10-23T14:24:49.505Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=d181d9f4-a7b6-f111-aaab-001dd80c04dc": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=d181d9f4-a7b6-f111-aaab-001dd80c04dc|2026-12-03T18:00:00.000Z|ServiceNow",
       "rom": "",
@@ -36,20 +31,10 @@
       "rom": "",
       "checkedAt": "2026-11-02T19:30:47.393Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=68dcc601-73c2-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=68dcc601-73c2-f111-aaae-001dd80bcb64|2026-11-20T18:00:00.000Z|Female Short-Term Residential Intervention Program",
-      "rom": "",
-      "checkedAt": "2026-11-05T17:25:06.717Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=19309bc4-65c9-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=19309bc4-65c9-f111-aaae-001dd80bcb64|2026-12-01T20:00:00.000Z|Enterprise AI Chatbot Solution for University Websites",
       "rom": "",
       "checkedAt": "2026-11-03T17:04:55.450Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=26784013-d4b1-f111-aaac-001dd80db495": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=26784013-d4b1-f111-aaac-001dd80db495|2026-11-20T18:00:00.000Z|WCU Dining Services",
-      "rom": "",
-      "checkedAt": "2026-10-29T16:09:25.908Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=9e2c3e00-a3c8-f111-aaae-001dd8084fd9": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=9e2c3e00-a3c8-f111-aaae-001dd8084fd9|2026-11-23T18:00:00.000Z|Roberson Community College RFP Janitorial Services",
@@ -65,16 +50,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c49faf2b-3fc7-f111-aaae-001dd80d92a5|2026-12-18T18:00:00.000Z|Design, Fabrication, Delivery, and Installation of Wall Graphics and Smaller Signs",
       "rom": "",
       "checkedAt": "2026-11-10T17:03:44.614Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=6098f8ef-bdc1-f111-aaae-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=6098f8ef-bdc1-f111-aaae-001dd80bcb64|2026-11-20T21:00:00.000Z|Records Management System",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=00bd178f-54c6-f111-aaae-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=00bd178f-54c6-f111-aaae-001dd803db57|2026-11-20T18:00:00.000Z|Town of Apex Request for Qualifications - Downtown Residential Stormwater Master Plan",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=825bfc4b-21c7-f111-aaae-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=825bfc4b-21c7-f111-aaae-001dd80bcb64|2026-11-23T14:00:00.000Z|Media Asset Management System",
@@ -112,9 +87,10 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2027-12-30T21:00:00.000Z|VCCS 2026-2027 Small Purchase Procurement for AE S...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2030-08-06T18:00:00.000Z|RFP No 100313-FY26-22 Snow and Ice Removal Service...",
       "rom": "",
-      "checkedAt": "2026-11-20T17:46:19.159Z"
+      "checkedAt": "2026-11-21T16:46:00.154Z",
+      "error": "HTTP 502"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -151,11 +127,6 @@
       "rom": "",
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=631a00fb-69d1-f111-a05c-001dd803db57": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=631a00fb-69d1-f111-a05c-001dd803db57|2026-11-20T18:00:00.000Z|Coke Building Warehouse Fence Project",
-      "rom": "",
-      "checkedAt": "2026-10-27T15:23:15.636Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=c6933444-71d1-f111-a05a-001dd80c6d1a": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c6933444-71d1-f111-a05a-001dd80c6d1a|2026-11-24T18:00:00.000Z|LUESA Building Deep Energy Retrofit Project",
       "rom": "",
@@ -163,16 +134,6 @@
     },
     "https://evp.nc.gov/solicitations/details/?id=c837d958-7dd1-f111-a05c-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c837d958-7dd1-f111-a05c-001dd803db57|2026-11-23T18:00:00.000Z|RFP #27-4-ITS TRANSPORTATION SOFTWARE SOLUTION FOR DSS RE-BID",
-      "rom": "",
-      "checkedAt": "2026-10-27T15:23:15.636Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=e1f7643a-03cf-f111-a05c-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=e1f7643a-03cf-f111-a05c-001dd80d92a5|2026-11-20T19:00:00.000Z|Facility Use and Needs Assessment RFP",
-      "rom": "",
-      "checkedAt": "2026-10-27T15:23:15.636Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=c906c636-5bce-f111-a05a-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c906c636-5bce-f111-a05a-001dd80072e8|2026-11-20T18:00:00.000Z|Pine Grove Circle Renovation Project",
       "rom": "",
       "checkedAt": "2026-10-27T15:23:15.636Z"
     },
@@ -461,11 +422,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=9dd6a8f4-87d8-f111-a05a-001dd80fedb8|2026-12-02T18:00:00.000Z|REBID RFP 2027-04 DUKANE CAREHAWK INTERCOM SYSTEMS (3 locations)",
       "rom": "",
       "checkedAt": "2026-11-05T17:25:06.717Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=b32752c9-99d8-f111-a05c-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=b32752c9-99d8-f111-a05c-001dd80bcb64|2026-11-20T19:00:00.000Z|ERP Temporary Staffing Service",
-      "rom": "",
-      "checkedAt": "2026-11-13T17:16:06.216Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=4a64b15a-fbd9-f111-a05c-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=4a64b15a-fbd9-f111-a05c-001dd80db495|2026-12-04T18:00:00.000Z|Mecklenburg County Transportation Barrier Study",
@@ -862,9 +818,9 @@
       "checkedAt": "2026-11-13T17:16:06.216Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-10T14:00:00.000Z|Green McAdoo Gym Floor Replacement",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-17T14:00:00.000Z|New Welcome Center",
       "rom": "",
-      "checkedAt": "2026-11-20T17:46:19.159Z",
+      "checkedAt": "2026-11-21T16:46:00.154Z",
       "error": "fetch failed"
     },
     "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/93969": {
@@ -873,5 +829,5 @@
       "checkedAt": "2026-11-14T15:46:59.609Z"
     }
   },
-  "generatedAt": "2026-11-20T17:46:19.159Z"
+  "generatedAt": "2026-11-21T16:46:00.154Z"
 }
