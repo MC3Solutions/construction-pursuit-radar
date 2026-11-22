@@ -87,10 +87,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2030-08-06T18:00:00.000Z|RFP No 100313-FY26-22 Snow and Ice Removal Service...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2031-07-31T20:00:00.000Z|ARCHITECTURE/ENGINEERING PROFESSIONAL SERVICES FOR...",
       "rom": "",
-      "checkedAt": "2026-11-21T16:46:00.154Z",
-      "error": "HTTP 502"
+      "checkedAt": "2026-11-22T17:06:10.958Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -818,9 +817,9 @@
       "checkedAt": "2026-11-13T17:16:06.216Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-17T14:00:00.000Z|New Welcome Center",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-10T14:00:00.000Z|Green McAdoo Gym Floor Replacement",
       "rom": "",
-      "checkedAt": "2026-11-21T16:46:00.154Z",
+      "checkedAt": "2026-11-22T17:06:10.958Z",
       "error": "fetch failed"
     },
     "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/93969": {
@@ -829,5 +828,5 @@
       "checkedAt": "2026-11-14T15:46:59.609Z"
     }
   },
-  "generatedAt": "2026-11-21T16:46:00.154Z"
+  "generatedAt": "2026-11-22T17:06:10.958Z"
 }

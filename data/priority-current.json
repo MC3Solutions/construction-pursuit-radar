@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:46:00.537Z",
+  "generatedAt": "2026-11-22T17:06:12.891Z",
   "records": [
     {
       "source": "EVA",
@@ -3610,7 +3610,7 @@
       "c": "Water / Sewer Infrastructure",
       "p": "2026-10-23T07:00:00.000Z",
       "d": "2026-12-02T14:00:00.000Z",
-      "u": "2026-11-21T16:44:54.869Z",
+      "u": "2026-11-22T17:06:04.450Z",
       "l": "Roanoke, VA",
       "x": 37.27097,
       "y": -79.94143,
@@ -3618,7 +3618,7 @@
       "r": "https://www.westernvawater.org/Home/Components/RFP/RFP/963/233",
       "rom": "",
       "firstSeen": "2026-11-13T17:10:27.516Z",
-      "lastSeen": "2026-11-21T16:44:54.869Z",
+      "lastSeen": "2026-11-22T17:06:04.450Z",
       "change": "ACTIVE"
     },
     {
@@ -4312,7 +4312,7 @@
       "c": "Water Authority Construction",
       "p": "2026-11-12T07:00:00.000Z",
       "d": "2026-12-03T15:00:00.000Z",
-      "u": "2026-11-21T16:44:54.869Z",
+      "u": "2026-11-22T17:06:04.450Z",
       "l": "Roanoke, VA",
       "x": 37.27097,
       "y": -79.94143,
@@ -4320,7 +4320,7 @@
       "r": "https://www.westernvawater.org/Home/Components/RFP/RFP/967/233",
       "rom": "",
       "firstSeen": "2026-11-13T17:10:27.516Z",
-      "lastSeen": "2026-11-21T16:44:54.869Z",
+      "lastSeen": "2026-11-22T17:06:04.450Z",
       "change": "ACTIVE"
     },
     {
@@ -6565,7 +6565,7 @@
       "c": "Water Authority Construction",
       "p": "2026-11-10T07:00:00.000Z",
       "d": "2026-12-08T15:00:00.000Z",
-      "u": "2026-11-21T16:44:54.869Z",
+      "u": "2026-11-22T17:06:04.450Z",
       "l": "Roanoke, VA",
       "x": 37.27097,
       "y": -79.94143,
@@ -6573,7 +6573,7 @@
       "r": "https://www.westernvawater.org/Home/Components/RFP/RFP/965/233",
       "rom": "",
       "firstSeen": "2026-11-13T17:10:27.516Z",
-      "lastSeen": "2026-11-21T16:44:54.869Z",
+      "lastSeen": "2026-11-22T17:06:04.450Z",
       "change": "ACTIVE"
     },
     {
@@ -8462,7 +8462,7 @@
       "c": "Water Authority Construction",
       "p": "2026-11-13T08:11:00.000Z",
       "d": "2026-12-15T13:59:00.000Z",
-      "u": "2026-11-21T16:44:54.869Z",
+      "u": "2026-11-22T17:06:04.450Z",
       "l": "Roanoke, VA",
       "x": 37.27097,
       "y": -79.94143,
@@ -8470,7 +8470,7 @@
       "r": "https://www.westernvawater.org/Home/Components/RFP/RFP/969/233",
       "rom": "",
       "firstSeen": "2026-11-13T17:10:27.516Z",
-      "lastSeen": "2026-11-21T16:44:54.869Z",
+      "lastSeen": "2026-11-22T17:06:04.450Z",
       "change": "ACTIVE"
     },
     {
