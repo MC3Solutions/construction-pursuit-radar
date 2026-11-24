@@ -36,20 +36,10 @@
       "rom": "",
       "checkedAt": "2026-11-03T17:04:55.450Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=36b7aa6d-38ce-f111-a05c-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=36b7aa6d-38ce-f111-a05c-001dd80d92a5|2026-11-24T18:00:00.000Z|NCEM Cots",
-      "rom": "",
-      "checkedAt": "2026-11-10T17:03:44.614Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=c49faf2b-3fc7-f111-aaae-001dd80d92a5": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c49faf2b-3fc7-f111-aaae-001dd80d92a5|2026-12-18T18:00:00.000Z|Design, Fabrication, Delivery, and Installation of Wall Graphics and Smaller Signs",
       "rom": "",
       "checkedAt": "2026-11-10T17:03:44.614Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=5d9802e7-e99b-f111-8077-001dd80bcb64": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=5d9802e7-e99b-f111-8077-001dd80bcb64|2026-11-24T18:00:00.000Z|Sourcing Event - RFP 30-2025-037-DHB Contract Lifecycle Management System",
-      "rom": "",
-      "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=e356e803-60ce-f111-a05c-001dd80d92a5": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=e356e803-60ce-f111-a05c-001dd80d92a5|2026-12-01T18:00:00.000Z|Non-IT RFP Agency Services Sourcing Event Template",
@@ -72,9 +62,9 @@
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
     "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open": {
-      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2030-08-06T18:00:00.000Z|RFP No 100313-FY26-22 Snow and Ice Removal Service...",
+      "stamp": "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp?status=Open|2031-07-31T20:00:00.000Z|ARCHITECTURE/ENGINEERING PROFESSIONAL SERVICES FOR...",
       "rom": "",
-      "checkedAt": "2026-11-23T21:17:06.020Z"
+      "checkedAt": "2026-11-24T20:08:29.860Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=7691309f-78a5-f111-b8de-001dd803db57|2026-12-08T18:00:00.000Z|Health Care Education Building- New Construction",
@@ -111,11 +101,6 @@
       "rom": "",
       "checkedAt": "2026-10-23T16:21:01.834Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=c6933444-71d1-f111-a05a-001dd80c6d1a": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c6933444-71d1-f111-a05a-001dd80c6d1a|2026-11-24T18:00:00.000Z|LUESA Building Deep Energy Retrofit Project",
-      "rom": "",
-      "checkedAt": "2026-10-27T15:23:15.636Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=c6e05b31-8bd1-f111-a05c-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=c6e05b31-8bd1-f111-a05c-001dd80db495|2026-11-30T18:00:00.000Z|IT Sourcing Event Template",
       "rom": "",
@@ -145,21 +130,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=9507a308-28d2-f111-a05a-001dd80072e8|2026-12-17T18:00:00.000Z|IFB- WBJ Transportation Services- BID DUE 12.17.26",
       "rom": "",
       "checkedAt": "2026-10-28T16:02:49.853Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=532a65cd-f8d2-f111-a05c-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=532a65cd-f8d2-f111-a05c-001dd80d92a5|2026-11-24T18:00:00.000Z|RFP 130-WTCC2304982309-26AL Janitorial and Custodial Services",
-      "rom": "",
-      "checkedAt": "2026-10-30T15:58:25.849Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=3497469d-13d3-f111-a05c-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=3497469d-13d3-f111-a05c-001dd8084fd9|2026-11-24T19:00:00.000Z|North Carolina Department of Military & Veterans Affairs",
-      "rom": "",
-      "checkedAt": "2026-10-29T16:09:25.908Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=a67fc269-91d3-f111-a05c-001dd80d92a5": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=a67fc269-91d3-f111-a05c-001dd80d92a5|2026-11-24T18:30:00.000Z|Bette Rae Thomas Recreation Center PV Panel Installation",
-      "rom": "",
-      "checkedAt": "2026-10-29T16:09:25.908Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=b7c277db-e8d2-f111-a05c-001dd803db57": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=b7c277db-e8d2-f111-a05c-001dd803db57|2026-12-01T18:00:00.000Z|Coke Building Fire Sprinkler System",
@@ -287,18 +257,8 @@
       "rom": "",
       "checkedAt": "2026-11-02T19:30:47.393Z"
     },
-    "https://evp.nc.gov/solicitations/details/?id=c1890a51-97d7-f111-a05a-001dd80fedb8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=c1890a51-97d7-f111-a05a-001dd80fedb8|2026-11-24T14:30:00.000Z|City of Raleigh, Raleigh Police Evidence Storage Facility",
-      "rom": "",
-      "checkedAt": "2026-11-03T17:04:55.450Z"
-    },
     "https://evp.nc.gov/solicitations/details/?id=bfdec0ef-ecd6-f111-a05c-001dd80bcb64": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=bfdec0ef-ecd6-f111-a05c-001dd80bcb64|2026-12-02T19:00:00.000Z|Jordan Lake Rules Compliance (Existing Managed Lands)",
-      "rom": "",
-      "checkedAt": "2026-11-03T17:04:55.450Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=99411aac-a0d7-f111-a05c-001dd8084fd9": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=99411aac-a0d7-f111-a05c-001dd8084fd9|2026-11-24T18:00:00.000Z|RFP #27-2-CTY UNIFORM AND JANITORIAL RENTAL SERVICES",
       "rom": "",
       "checkedAt": "2026-11-03T17:04:55.450Z"
     },
@@ -421,11 +381,6 @@
       "stamp": "https://evp.nc.gov/solicitations/details/?id=2f73ddb8-51d9-f111-a05c-001dd803db57|2026-12-14T20:00:00.000Z|RFP #27-22-DSS SECURITY OFFICER SERVICES",
       "rom": "",
       "checkedAt": "2026-11-06T16:48:35.218Z"
-    },
-    "https://evp.nc.gov/solicitations/details/?id=9f10bb1e-1bda-f111-a05a-001dd80072e8": {
-      "stamp": "https://evp.nc.gov/solicitations/details/?id=9f10bb1e-1bda-f111-a05a-001dd80072e8|2026-11-24T18:00:00.000Z|Grant Administration and Construction Oversight Services",
-      "rom": "",
-      "checkedAt": "2026-11-08T16:01:13.661Z"
     },
     "https://evp.nc.gov/solicitations/details/?id=44941cca-20da-f111-a05c-001dd80db495": {
       "stamp": "https://evp.nc.gov/solicitations/details/?id=44941cca-20da-f111-a05c-001dd80db495|2026-12-03T19:00:00.000Z|Lexington Avenue Sidewalk Restoration Project",
@@ -742,9 +697,9 @@
       "checkedAt": "2026-11-13T17:16:06.216Z"
     },
     "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html": {
-      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-17T14:00:00.000Z|New Welcome Center",
+      "stamp": "https://comptroller.aem.tn.extglb.tn.gov/generalservices/stream/stream/contractors/construction-bid-list.html|2026-12-10T14:00:00.000Z|Green McAdoo Gym Floor Replacement",
       "rom": "",
-      "checkedAt": "2026-11-23T21:17:06.020Z",
+      "checkedAt": "2026-11-24T20:08:29.860Z",
       "error": "fetch failed"
     },
     "https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/93969": {
@@ -753,5 +708,5 @@
       "checkedAt": "2026-11-14T15:46:59.609Z"
     }
   },
-  "generatedAt": "2026-11-23T21:17:06.020Z"
+  "generatedAt": "2026-11-24T20:08:29.860Z"
 }
