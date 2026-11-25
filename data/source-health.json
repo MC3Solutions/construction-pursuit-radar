@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T20:08:30.398Z",
-  "total": 7039,
+  "generatedAt": "2026-11-25T19:13:15.778Z",
+  "total": 7191,
   "sources": {
     "EVA": {
       "label": "Virginia eVA",
@@ -46,7 +46,7 @@
       "label": "Western Virginia Water Authority",
       "status": "OK",
       "count": 4,
-      "checkedAt": "2026-11-24T20:07:18.929Z",
+      "checkedAt": "2026-11-25T19:12:02.466Z",
       "message": "4 active construction invitations parsed from the WVWA public bid portal.",
       "stale": false
     },
@@ -150,22 +150,22 @@
     "FED": {
       "label": "Federal / SAM.gov",
       "status": "OK",
-      "count": 6206,
-      "checkedAt": "2026-11-24T20:08:30.398Z",
-      "message": "Live SAM.gov Opportunities API snapshot: 6206 active deduplicated construction pursuits. 1642/6206 federal pins have ZIP/city or source coordinates. Published ROMs: 66.",
+      "count": 6358,
+      "checkedAt": "2026-11-25T19:13:15.778Z",
+      "message": "Live SAM.gov Opportunities API snapshot: 6358 active deduplicated construction pursuits. 1711/6358 federal pins have ZIP/city or source coordinates. Published ROMs: 67.",
       "stale": false
     },
     "GOVTRIBE": {
       "label": "GovTribe Supplemental",
       "status": "OK",
       "count": 1,
-      "checkedAt": "2026-11-24T20:08:30.398Z",
+      "checkedAt": "2026-11-25T19:13:15.778Z",
       "stale": false,
       "message": "GovTribe snapshot contributed 1 net-new construction pursuit(s), skipped 0 duplicate(s), and filled 0 missing federal ROM(s). SAM.gov remains authoritative for matched federal notices."
     }
   },
   "priorityRom": {
-    "checkedAt": "2026-11-24T20:08:30.398Z",
+    "checkedAt": "2026-11-25T19:13:15.778Z",
     "populated": 0,
     "message": "0 active state/local or GovTribe supplemental pursuit(s) currently contain a published ROM/estimate."
   },
@@ -177,6 +177,6 @@
     "duplicatesSkipped": 0,
     "expiredSkipped": 0,
     "federalRomAdded": 0,
-    "totalRom": 66
+    "totalRom": 67
   }
 }
